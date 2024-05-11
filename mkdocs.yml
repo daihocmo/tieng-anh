@@ -1,0 +1,56 @@
+site_name: Tiếng Anh dễ hiểu - Comprehensible English
+site_description: Tự học Tiếng Anh thông qua việc tiêu thụ nội dung Tiếng Anh dễ hiểu (Comprehensible English) và đắm chìm mình vào nội dung Tiếng Anh làm bởi người bản xứ cho người bản xứ (Immersion)
+site_author: onlyduyy  
+theme:
+  name: material
+  features:
+    - navigation.sections
+  palette:
+    primary: indigo
+
+nav:
+  - Home: 'index.md'
+  - 'Hướng dẫn':
+    - 'Lộ trình cơ bản': 'guide.md'
+    - 'Ngữ pháp đầy đủ': 'grammar-guide.md'
+  - 'Đầu vào':
+    - 'Đầu vào dễ hiểu': 'dau-vao.md'
+    - 'Cách học': 'input-guide.md'
+  - 'Tổng hợp':
+    - 'Tài nguyên': 'resources.md'
+    - 'Cộng đồng': 'cong-dong.md'
+  - 'Media':
+    - 'Sách': 'sach.md'
+    - 'Phim': 'phim-anh.md'
+    - 'Youtube': 'youtube.md'
+    - 'Podcasts': 'podcasts.md'
+      
+theme:
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: grey
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: grey
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.sections
+    - search.suggest
+    - search.highlighting
+    - search.share
+  name: material
+
+extra:
+  generator: false
