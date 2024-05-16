@@ -234,3 +234,18 @@ _PS: Hiện tại tớ đang rà soát lại kênh để các kênh có nội du
 | [Great Art Explained](https://www.youtube.com/c/GreatArtExplained/videos) | Other | |
 | [NationSquid](https://www.youtube.com/@nationsquid/videos) | Other | |
 | [DUST](https://www.youtube.com/@watchdust/videos)| | sci-fi short films |
+| [ShayTards]() | 
+| [Toby Turner]() |
+| [CTFxC]() |
+Gradlife
+jsprty
+Kicking Geese
+Katers' Daily Capers
+Dude Like HELLA
+BFvsGF
+0TyMoss0
+Casey Neistat 
+Nicole Guerriero**, 
+Tess Christine, 
+Dulce Candy 
+Aspyn and Parker

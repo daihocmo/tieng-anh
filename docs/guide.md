@@ -20,13 +20,13 @@ Chúng ta cũng nên chuẩn bị danh sách những gì mình sẽ muốn xem b
 
 ### 2: Cài đặt công cụ:  
 
-Hai công cụ cần thiết nhất mà bạn nên cài là Anki (SRS - Hệ thống lặp lại ngắt quãng - Giúp ôn tập và học mọi thứ, từ vựng, Kanji, cấu trúc ngữ pháp) và một từ điển Popup cho trình duyệt dành cho Tiếng Anh để tra từ nhanh khi đọc báo hoặc nội dung Tiếng Anh (Nên có để có thể tra từ nhanh khi đọc báo, xem phim).  
+Hai công cụ cần thiết nhất mà bạn nên cài là Anki (SRS - Hệ thống lặp lại ngắt quãng - Giúp ôn tập và học mọi thứ, từ vựng, cấu trúc ngữ pháp) và một từ điển Popup cho trình duyệt dành cho Tiếng Anh để tra từ nhanh khi đọc báo hoặc nội dung Tiếng Anh (Nên có để có thể tra từ nhanh khi đọc báo, xem phim).  
 
 Giới thiệu đôi chút về 2 công cụ quan trọng này:
 
 - Từ điển Popup: bạn có thể tải nó [ở đây](https://chrome.google.com/webstore/detail/definer/noagjioaihamoljcbelhdlldnmlgnkon). Đây là từ điển Anh - Anh, còn nếu là Anh - Việt thì [ở đây](https://chromewebstore.google.com/detail/laban-dictionary-by-laban/kdoofkpcjhkbhedgkdbagobockcmeoeb).
 
-- Anki: Một ứng dụng giúp ghi nhớ mọi thứ, trong Anki có Anki Decks hay các bộ thẻ Anki, bao gồm các thẻ giúp bạn nhớ mọi thứ.
+- [Anki](https://apps.ankiweb.net): Một ứng dụng giúp ghi nhớ mọi thứ, trong Anki có Anki Decks hay các bộ thẻ Anki, bao gồm các thẻ giúp bạn nhớ mọi thứ.
 
 
 ### 3. Học ngữ pháp cơ bản và từ vựng:
@@ -56,8 +56,8 @@ Nếu bạn không biết mình "nên" xem gì, thử tìm [trên đây xem](you
 Trong giai đoạn này, bạn có thể sẽ bắt gặp một số cấu trúc ngữ pháp lạ hoặc khó. Bạn có thể thử tra mẫu câu đó trên Google, từ điển hoặc bất kì chỗ nào. Sau đây là cách gợi ý bạn có thể thực hiện: 
 
 1. Bắt gặp một cấu trúc lạ trong lúc đọc Tiếng Anh
-2. Tìm về cấu trúc đó trên Internet.
-3. Ghi chú lại nó vào một danh sách hoặc thêm vào bộ thẻ Anki
+2. Tìm về cấu trúc đó trên Google.
+3. Ghi chú lại nó vào một danh sách hoặc thêm vào bộ thẻ Anki (Nên thêm vào Anki để tăng khả năng ghi nhớ).
 4. Ôn tập lại nhiều lần để nhớ, Anki!
 
 ### 5. Đắm chìm hơn nữa, và học viết, nếu cần  
