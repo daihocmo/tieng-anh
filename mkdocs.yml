@@ -11,7 +11,8 @@ theme:
 nav:
   - Home: 'index.md'
   - 'Hướng dẫn':
-    - 'Lộ trình cơ bản': 'guide.md'
+    - 'Học lấy gốc': 'hoc-tu-dau.md'
+    - 'Tiếp bước': 'guide.md'
     - 'Ngữ pháp đầy đủ': 'grammar-guide.md'
   - 'Đầu vào':
     - 'Đầu vào dễ hiểu': 'dau-vao.md'
