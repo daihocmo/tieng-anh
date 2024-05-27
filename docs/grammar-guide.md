@@ -1,114 +1,129 @@
 ## BÀI 1: PRESENT CONTINUOUS (I am doing)
-Hãy xem xét tình huống mẫu sau:
-She is driving to work - Cô ấy đang lái xe đi làm.
 
-Điều này có nghĩa là vào lúc này, ngay tại thời điểm Chúng ta nổi, cô ấy đang lái xe.
-Sau đây là thì Hiện tại tiếp diễn (Present Continuous):
+**a - Ví dụ về Present Continuous- Thì hiện tại tiếp diễn**
 
-Chúng ta dùng thì Present Continuous (Hiện tại tiếp diễn) khi nói vé một việc nào đó đang diễn ra ngay lúc nói:
+Hãy xem ví dụ mẫu sau:
 
-Please don’t make so much noise: I'm studying.
-Xin đừng làm ồn quá như thế. Tôi đang học (Không dùng I study!)
+Ann đang lái xe. Cô ấy đang trên đường đi làm.
 
-“Where Is Margaret?" "She's having a bath"
-’Margaret đâu rổi?" ’Cô ấy đang tắm’. (Không dùng ‘She has!").
-Let’s go out now. It isn't raining any more.
-(Bây giở chúng ta hãy ra ngoài. Trời hết mưa rồi).
+She is driving to work. _(Cô ấy đang lái xe đi làm)_
 
-b.	Chúng ta cũng dùng Present Continuous khi nói vé một việc nào đó diễn ra trong khoảng thời gian của lúc nói. nhưng không nhất thiết chính xác ngay lúc nói. Hãy xem tình huống mẫu sau:
+Điều này có nghĩa là, ngay lúc này, ngay tại thời điểm chúng ta nói, cô ấy đang lái xe.
 
-Tom and Ann are talking and drinking in a café. 
-Tom say: l‘m reading an interesting book at the moment. I’ll lend it to you when I've finished it".
+Sau đây là thì Hiện Tại Tiếp Diễn- Present Countinuous:
 
-Tom và Ann đang nói chuyện và đang uống nước tại mật quản cà phê 
-Tom nói: "tôi đang đọc một cuốn sách hay lắm. Tôi sẽ cho bạn mượn cuốn sách đó khi nào tôi đọc xong".
+|   |   |
+|---|---|
+|I am = I’m|driving|
+|he/ she/ it is = (he’s, she’s,….)|
+|We/ they/ you are = we’re, they’re….|
 
-Tom không đọc cuốn sách đó vào lúc anh ta nói. Anh ấy có ý nói rằng anh ấy đã bắt đấu đọc trước đó vâ hiện thời thì chưa đọc xong. Anh ấy đang đọc nửa chừng.
+Chúng ta dùng thì **_Present Continuous_** (Hiện tại tiếp diễn) khi nói về một việc nào đó đang diễn ra ngay lúc nói:
 
-Sau đây là một số ví dụ khác:
+- Please don’t make so much noise. I’m studying. (Không dùng “I study”).
+- “Where is Margaret?” “She’s having a bath.” (Không dùng “She has”)
+- Let’s go out now. It isn’t raining any more.
+- (at a party) Hello, Ann. Are you enjoying the party?
 
-Silvia is learning English at the moment.
-(Hiện thời Silvia đang học tiếng Anh). (Không dùng "learns")
+**b - Chúng ta cũng dùng _Present Continuous_ khi nói về một việc nào đó diễn ra trong khoảng thời gian của lúc nói, nhưng không nhất thiết chính xác ngay lúc nói.**
 
-Chúng ta dùng Present Continuous khi nól vể những tình hoống đang thay đổi.
-The population of the world is rising very fast.
+Hãy xem tình huống mẫu sau:
 
-(Dắn số thế giới đang gia táng rất nhanh). (Không dủng "rises").
+- Tome and Ann are talking and drinking in a cafe. Tom says: “I’m reading an interesting book at the moment. I’ll lend it to you when I’ve finished it.”
 
-Is your English getting better?
-(Vốn tiếng Anh của bạn có khá hơn không?). ( Không dùng "does... get?")
+Tom không đọc cuốn sách đó vào lúc anh ta nói. Anh ấy có ý nói rằng anh ấy đã bắt đầu đọc trước đó và hiện thời thì chưa đọc xong. Anh ấy đang đọc nửa chừng. Sau đây là một số ví dụ khác:
+
+- Silvia is learning English at the moment.
+- Have you heard about Tom? He is building his own house.
+
+Nhưng có thể là ngay lúc nói Silvia và Tom đang không thực hiện những công việc này.
+
+**c - Chúng ta thường dùng _Present Continuous_ khi nói về khoảng thời gian bao gồm cả hiện tại.**
+
+Ví dụ: today, this season….
+
+- “You’re working hard today.” “Yes, I have a lot to do.”
+- Tom isn’t playing football this season. He wants to concentrate on his studies.
+
+Chúng ta dùng Present Continuous khi nói về những tình huống đang thay đổi.
+
+- The population of the world is rising very fast. (Không dùng “rises”)
+- Is your English getting better? (Không dùng “does….get?”)
 
 ## BÀI 2: SIMPLE PRESENT (I do)
 
-a. Hãy xem xét tỉnh huống mẫu sau:
-Alex là một tài xế xe buýt. Nhưng lủc này anh ta đang ngủ trên giường. 
+**a - Hãy xem xét ví dụ mẫu sau về Simple Present:**
 
-Vi thế: He is not driving a bus (he is asleep)
-(Anh ấy không đang lái xe buýt (anh ấy đang ngủ)).
-(Anh ấy lái xe buýt).
+Chúng ta dùng **Simple Present- Thì Hiện Tại Đơn** để diễn tả các sự việc một cách tổng quát. Chúng ta không nhất thiết chỉ nghĩ đến hiện tại. Chúng ta dùng thì này để nói đến một sự việc nào đó xảy ra liên tục hay lặp đi lặp lại nhiều lần, hay một việc nào đó thường là đúng. Sự việc đó có xảy ra ngay lúc nói hay không là điều không quan trọng.
 
-Chúng ta dùng thì Simple Present (Hiện tại đơn) để diễn tả các sự vlệc một cách tổng quát. Chúng ta không nhẩt thiết chỉ nghĩ đến Hiện tại. Chúng ta dùng thì này dể nói đến một sự việc nào đó xảy ra liên tục hay lặp đi lập lạl nhiéu lán, hay một việc nào đó thường là đúng. Sự việc đó có xảy ra ngay lúc nói hay không không quan trọng.
+- _The Earth goes round the Sun._
+- _Nurses look after patients in hospitals._
+- _In Britain, most of the shops close at 5:30 p.m._
+- _I work in a bank. Barry works in a shop._
 
-The earth goes round the sun.
-(Trãi đất xoay quanh mặt trời).
+Hãy nhớ rằng: khi chúng ta nói he/she/it hoặc danh từ số ít chúng ta đừng quên chia động từ.
 
-Nurses look after patients in hospital.
-(Y tá chăm sóc bệnh nhân ở bệnh viện).
+**b - Chúng ta dùng trợ động từ  do/ does để thành lập câu nghi vấn (question) hay câu phù định (negative) ở Thì Hiện Tại Đơn- Simple Present**
 
-Hãy nhớ rằng, chúng ta nói he / she /it - s/es. Đừng quên chữ s.
-I work in a bank. 
-Barry works in a shop.
+|   |   |
+|---|---|
+|Do I/ we/ you/ they work?<br><br>Does he/ she/ it work?|I/ We/ You/ They don’t work. (don’t = do not)<br><br>He/ She/ It doesn’t work. (doesn’t = does not)|
 
-Tôi làm việc ở một ngản hàng. 
-Barry làm việc ở một cửa tiệm.
+- Excuse me, do you speak English?
+- “Would you like a cigarette?” “No, thanks. I don’t smoke.”
+- What does this word mean?
+- Rice doesn’t grow in Britain.
 
-b. Chúng ta dùng do / does để thành lập câu nghi vấn (questions) và câu phù định .(negative).
-Do I / we / you / they - Does he / she / it	J	work?	I / we / you / they don't he / she / it doesn't	work
-Excuse me. do you speak English?
-(Xin lỗi. anh biết nói tiếng Anh Không?).
-•Would you like a cigarette?’ 'No, thanks, I don't smoke".
-("Anh hũt một Điều thuốc chứ?" 'Không, càm ơn. Tôi khỗng hút thuốc").
+Đối với câu nghi vấn, xem thêm bài số 49.
 
-c.	Chúng tã dùng thì Simple Present khi nói về mức độ thưởng xuyên của những sự việc mà chúng ta thực hlộn.
-I get up at 8 o'clock every morning. - .	*
-(Mỗi sáng tôi thức dậy lúc 8 giở) (không dùng 'am getting")
-• Ann doesn't often drink tea.	-s,.
-. (Ann không thường uổng trà).
+**c - Chúng ta dùng Simple Present- Thì Hiện Tại Đơn khi nói về mức độ thường xuyên của những sự việc mà chúng ta hay thực hiện**
 
-d)	LƯU ý rằng Chúng ta nói:
+- I _get up_ at 8 o’clock **_every morning_**.
+- How _**often**_ _do you go_ to the dentist?
+- An doesn’t _**often**_ _drink_ coffee.
+- In summer, Tom _**usually**_ _plays_ tennis twice a week.
 
-'Where do you come from?' (= Where are you from?)
-(Anh từ đâu tới?" (Không dùng: ".Where are you coming from?")
+**d) Lưu ý rằng chúng ta nói:**
 
-He comes from Japan.
-(Anh ấy từ Nhật đến) (Không dùng: ‘He is coming from Japan’}
+- Where do you come from? (Không nói Where are you coming from?)
+- He comes from Vietnam.
 
-e)	Khi muốn đề nghị một điều gì, bạn có thể nói: Why don't you ...? (Tại sao bạn không
-...?)
+**e) Khi muốn đề nghị một điều gì, bạn có thể sử dụng: Why don’t you ….. ? (Tại sao bạn không…..?)**
 
-Im tired'. 'Why don't you go to bed early?'
+- “I’m tired.” “Why don’t you go to bed early?”
 
-("Tôi mệt". "Thế sao ban không đi ngủ sớm?")
 
 ## BÀI 3: PRESENT CONTINUOUS (I am doing) hay SIMPLE PRESENT (I do)
+Sử dụng Present Continuous (Thì hiện tại tiếp diễn) hay Simple Present (Thì hiện tại đơn)
 
-Nguồn: [VnExpress](https://vnexpress.net/khi-nao-dung-hien-tai-don-va-hien-tai-tiep-dien-4458396.html)
-Hiện tại đơn diễn tả một thói quen hàng ngày, trong khi hiện tại tiếp diễn nói tới hành động đang xảy ra ngay tại thời điểm nói.
+Trước khi học bài này, các bạn phải học bài số 1 và bài số 2 để hiểu rõ cách dùng của thì hiện tại tiếp diễn và thì hiện tại đơn.
 
-|   |   |   |
-|---|---|---|
-|**Thì**|**Hiện tại đơn**|**Hiện tại tiếp diễn**|
-|_Cách sử dụng_|1. Diễn tả một thói quen hàng ngày.<br><br>2. Diễn tả những sự thật hiển nhiên.<br><br>3. Diễn tả những sự việc xảy ra theo quy luật, thời gian biểu hay lịch trình cố định.|1. Diễn tả một hành động đang xảy ra ngay tại thời điểm nói.<br><br>2. Diễn tả sự việc đang diễn ra xung quanh thời điểm nói.<br><br>3. Diễn tả một sự việc sẽ xảy ra trong tương lai theo một kế hoạch đã được lên lịch trước.|
-|_Cấu trúc_|**+ S + V(s/es)...**<br><br>**- S + do not/ does not + V....**<br><br>**? Do/Does + S + V...?**<br><br>**(Wh + do/does + S + V...?)**|**+ S + am/is/are + Ving...**<br><br>**- S + am/is/are + not + Ving...**<br><br>**? Am/Is/Are + S + Ving...?**<br><br>**(Wh + am/is/are + S + Ving...?)**|
-|_Dấu hiệu nhận biết_|- Khi có các trạng từ chỉ tần suất: Every..., always, often, normally, usually, sometimes, seldom, never, first, then.|- Khi có các trạng từ chỉ thời gian: at this moment, at the moment, at this time, at present, today, now, right now, for the time being (now), listen!, look!, watch!, be careful!|
-|_Ví dụ_|- Nam reads books everyday.<br><br>- He doesn’t play tennis.<br><br>- Do the children go to school 6 days a week?|The boys are playing football now.<br><br>The girl isn’t drawing at the moment. Are you learning English right now?|
+**a - Hãy xem phần giải thích dưới đây và so sánh các ví dụ sau:**
 
-**Chú ý:**
+| **Present Continuous (I am doing)**  | **Simple Present (I do)**  |
+|---|---|
+|Dùng thì Hiện Tại Tiếp Diễn để diễn tả một hành động xảy ra tại thời điểm nói hoặc xung quanh thời điểm nói.<br><br><br><br>- The kettle is boiling. Can you turn it off, please?<br>- Listen to those people. What language are they speaking?<br>- “Where’s Tom?” “He’s playing tennis.”<br>- What are you doing here?<br>- Silvia is in Britain for three months. She’s learning English.<br><br>Dùng Thì Hiện Tại Tiếp Diễn để chỉ một tình huống tạm thời:<br><br>- I’m living with some friends until I can find a flat.<br>- That machine isn’t working. It broke down this morning|<br><br>Dùng Thì Hiện Tại Đơn để diễn tả các sự việc một cách tổng quát hoặc sự việc xảy ra lặp đi lặp lại<br><br>- Water boils at 100 degrees Celsius.<br>- Excuse me, do you speak English?<br>- Tome plays tennis every Saturday.<br>- What do you usually do at weekends?<br>- What do you do? (= What’s your job?)<br>- Most people learn to swim when they are children.<br><br>Dùng thì Hiện tại đơn cho tình huống ổn định:<br><br>- My parents live in London. They have been there for 20 years.<br>- That machine doesn’t work. It hasn’t worked for years.|
 
-- Riêng động từ tobe thì hiện tại đơn và hiện tại tiếp diễn cùng chia là  
-am, is, are.
+**b - Một số động từ chỉ được dùng trong các thì hiện tại đơn.**
 
-- Ở thì hiện tại đơn: Khi chủ ngữ là các ngôi thứ ba số ít she, he, it và danh từ số ít, chúng ta phải chia động từ bằng cách thêm "s" hoặc "es" vào cuối động từ cho câu khẳng định và dùng trợ động từ "does" cho câu phủ định và câu hỏi.
+Ví dụ: Bạn không thể nói “I am knowing”. Bạn chỉ có thể nói “I know”. Sau đây là danh mục các động từ không thường dùng ở thì hiện tại tiếp diễn. (Nhưng cũng có những trường hợp ngoại lệ)
+
+|   |   |   |   |   |   |
+|---|---|---|---|---|---|
+|want|like|belong|know|suppose|remember|
+|need|love|see|release|mean|forget|
+|prefer|hate|hear|believe|understand|seem|
+|have (khi mang nghĩa là “có, sở hữu”) |   |   |   |   |   |
+|think (khi mang nghĩa là “tin, cho là”).|   |   |   |   |   |
+
+- Do you like London? (Không dùng “are you liking”
+- He doesn’t understand. (Không dùng “he isn’t understanding”)
+- These shoes belong to me. (Không dùng “are belonging”)
+- What do you think Tom will do? (= What do you believe he will do)
+
+Nhưng:
+
+- What are you thinking about? (= What is going on in your mind?)
 
 ## BÀI 4: PRESENT TENSES (I am doing/l do) với nghĩa tương lai
 
@@ -144,7 +159,7 @@ Nhưng thì Present Continuous thường tự nhiên hơn khi bạn đang nói v
 - What are you doing this evening?
 - Alex is getting married next month.
 
-## b. Thì Simple Present (Hiện tại đơn) mang nghĩa tương lại:
+b. Thì Simple Present (Hiện tại đơn) mang nghĩa tương lại:
 
 Chúng ta dùng thì Hiện tại đơn khi nói về thời khóa biểu, chương trình… (ví dụ như đối với việc vận chuyển công cộng, xem phim).
 
@@ -156,28 +171,29 @@ Chúng ta dùng thì Hiện tại đơn khi nói về thời khóa biểu, chư�
 Nhưng thường thì chúng ta không dùng Simple Present cho những việc đã được thu xếp mang tính chất cá nhân:
 
 - What time are you meeting Ann?
+
 ## BÀI 5: GOING TO (I am going to do) 
 
 a.	Chúng ta dùng going to (do) khi nói về một việc mà chúng ta đã quyết định sẽ làm hay một việc chúng ta dự định sẽ làm trong tương lai:
 
--	A : There's a film on television tonight. Are you going to watch It?
+-	A: There's a film on television tonight. Are you going to watch It?
 (Có một phim trên truyền hình tối nay. Ban sẽ xem chứ?)
--	B : No, I'm too tired. I'm going to have an early night.
+-	B: No, I'm too tired. I'm going to have an early night.
 (Không, tôi quá mệt. Tôi sẽ đi ngủ sớm).
 
-A : Have you made the coffee yet?
+A: Have you made the coffee yet?
 
 (Anh đã pha cà phê chưa?)
 
-B : No, but I'm just going to make it. (just = ngay lúc này).
+B: No, but I'm just going to make it. (just = ngay lúc này).
 
 (Chưa, nhưng tôi sắp sửa pha cà phê ngay đây).
 
 b.	Chúng ta thường dùng thì Present Continuous khi nói về một việc mà ai đó đã sắp xếp để thực hiện • ví dụ như sắp đặt để gặp một người nào đó; để đi đến nơi nào đố. Going to cũng có thể dược dùng ở đây:
 
-What time are you meeting Ann? (hay : "are you going to meet")
+What time are you meeting Ann? (hay: "are you going to meet")
 (Mấy giở bạn định gặp Ann?)
-I'm travelling to Scotland on Monday, (hay : ’I'm going to travel’)
+I'm travelling to Scotland on Monday, (hay: ’I'm going to travel’)
 (Tôi sẽ đi Scotland vào thứ Hai).
 
 
@@ -187,11 +203,11 @@ quá khứ (nhưng đã Không thực hiện).
 We were going to travel by train but then we decided to go by car.
 (Chúng tôi đã định đi bằng xe lửa nhưng rồi lại quyết định đi bằng xe hơi)
 
-A : Did Tom do the examination? 
+A: Did Tom do the examination? 
 
 _(Tom có làm bài kiểm tra không?)_
 
-B : No, he was going to do it but in the end he changed his mind. 
+B: No, he was going to do it but in the end he changed his mind. 
 
 _(Không, anh ấy đã định làm "nhưng cuối cùng đổi ý")._
 
@@ -210,7 +226,7 @@ _(Tôi vừa định băng qua đường thì người nào đó la lên "Dừng
 I’m too tired to walk home. I think I'll get a taxi. . . 
 (Tôi quá mệt không thế đi bộ về nhà. Tôi nghĩ là mình sẽ đón xe taxi).
 
-Bạn không thể dùng thì simple Present trong những câu này :
+Bạn không thể dùng thì simple Present trong những câu này:
 I'll go and shut it. ( Không dùng 'I go and shut it')
 
 That bag looks heavy. I'll help you with it. 
@@ -227,7 +243,7 @@ Câu hỏi với will/shall thường ngụ ý yêu cầu điều gì đó:
 - What shall I do? (Tôi sẽ làm gì đây?)
 - Where shall we go this evening? (Chiều nay chúng ta sẽ đi đâu?)
 
-## BÀI 7 : SIMPLE FUTURE (will) (2)
+## BÀI 7: SIMPLE FUTURE (will) (2)
 
 a. Khi chúng ta nói vé tương ial, chúng ta thường nói về việc mà người nào đó đã sắp xếp để thực hiện hay có ý định thực hiện. Trong tình huống này không dùng will:
 
@@ -240,11 +256,11 @@ Are you going to watch television this evening?
 (Không dùng "will you watch")
 
 
-Nhưng thường thường, khi chúng ta nổi vổ tương lai, chúng ta không nơi vổ sự sấp xếp hay ý định. Hãy xem vỉ du sau :
-Tom : I'm very worried about my examination next week.
-(Tom : Tôi rất lo lắng vẻ ký thi của minh vào tuân tới).
-Ann : Don't worry, Tom. You'll pass.
-(Ann : Dừng lo Tom. Bạn sẽ đậu mà).
+Nhưng thường thường, khi chúng ta nổi vổ tương lai, chúng ta không nơi vổ sự sấp xếp hay ý định. Hãy xem vỉ du sau:
+Tom: I'm very worried about my examination next week.
+(Tom: Tôi rất lo lắng vẻ ký thi của minh vào tuân tới).
+Ann: Don't worry, Tom. You'll pass.
+(Ann: Dừng lo Tom. Bạn sẽ đậu mà).
 
 "You'll pass" không phải là một sắp xếp hay ý định. Ann chì nói điéu gl sồ xảy ra hay điểu mà cô ta nghĩ sẽ xảy ra ; cố ta đang đoán trước tương lai. Khi Chúng ta đoán trước một Điều xảy ra ở tương lai hay một tình huống tựơng lai, chúng ta dùng
 will/wont. -	‘ 
@@ -259,12 +275,12 @@ probably	I'll probably be a bit late this evening.
 (I) think Do you think we’H win the match?
 (Anh nghĩ chúng ta sổ thắng trận đấu chứ?)
 b. Will và shall
-Bạn có thể dùng shall hay will với I và we :
+Bạn có thể dùng shall hay will với I và we:
 We shall (or we will) probably go to Scotland in June.
 (Chúng ta sỗ có thồ đi Xcốtlen vào toàng Sáu).
 í
 25
-Nhưng trong tiếng Anh chúng ta thưởng dùng dạng rút gọn I'll và we'tl :
+Nhưng trong tiếng Anh chúng ta thưởng dùng dạng rút gọn I'll và we'tl:
 -	We'll probably go to Scotland In June.
 Phủ dịnh cùa shah là shan't (hay shall not):
 -	I shan't (or I wont) be here tomorrow.
@@ -284,16 +300,15 @@ Với will xem thôm ## BÀI 6,0 và 9.
 ## BÀI 8: WILL hay GOING TO?
 Dùng 'will' trong trường hợp đưa ra quyết định ngay tại thời điểm nói, trong khi "be going to" là đưa ra quyết định trước thời điểm nói.
 
-|                                                                                                                                                                                                    |                                                                                                                                                                                                                                                   |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Will + infinitive**                                                                                                                                                                              | **Be going to + infinitive**                                                                                                                                                                                                                      |
+|**Will + infinitive**    | **Be going to + infinitive**  | 
+| -------------------------------------------------- | ------------------- |
 | _Đưa ra quyết định ngay tại thời điểm nói về một kế hoạch tương lai._<br><br>Julie: There's no milk. (Không có sữa.<br><br>John: Really? I'll go and get some. (Vậy sao, tôi sẽ đi và mua một ít). | _Đưa ra quyết định trước thời điểm nói._<br><br>Julie: There's no milk. (Không có sữa.<br><br>John: I know. I'm going to go and get some when this TV programme finishes. (Tôi biết. Tôi sẽ đi và mua một ít khi chương trình tivi này kết thúc.. |
 | _Dự đoán dựa trên quan điểm cá nhân_<br><br>I think the Conservatives will win the next election. (Tôi nghĩ Đảng bảo thủ sẽ giành chiến thắng trong cuộc bầu cử tới).                              | _Dự đoán dựa trên những gì nghe (nhìn) thấy tại thời điểm nói_<br><br>The Conservatives are going to win the election. They already have most of the votes. (Đảng Bảo thủ sẽ giành chiến thắng trong cuộc bầu cử. Họ đã có hầu hết phiếu bầu).    |
-| _Nói về thực tế trong tương lai_<br><br>The sun will rise tomorrow. (Mặt trời sẽ mọc vào ngày mai).                                                                                                |                                                                                                                                                                                                                                                   |
-| _Dùng cho lời hứa/ yêu cầu/ từ chối/ lời đề nghị._<br><br>I'll help you tomorrow, if you like. (Ngày mai tôi sẽ giúp bạn, nếu bạn thích).                                                          |                                                                                                                                                                                                                                                   |
+| _Nói về thực tế trong tương lai_<br><br>The sun will rise tomorrow. (Mặt trời sẽ mọc vào ngày mai). | |
+| _Dùng cho lời hứa/ yêu cầu/ từ chối/ lời đề nghị._<br><br>I'll help you tomorrow, if you like. (Ngày mai tôi sẽ giúp bạn, nếu bạn thích). | |
 
 
-## BÀI 9 : Các câu VỚI WHEN và IF
+## BÀI 9: Các câu VỚI WHEN và IF
 Các mệnh đề chỉ thời gian bắt đầu với (**When, While, After, Before, Until, Till, As soon as**) khi diễn tả một sự việc trong tương lai không cần dùng với "will", "be going to" hoặc "will have V3/ed" vì bản thân nó đã diễn đạt được ý nghĩa hành động xảy ra trong tương lai.
 
  Vì vậy chúng ta chỉ dùng thì hiện tại đơn hoặc thì hiện tại hoàn thành trong dạng mệnh đề trạng ngữ chỉ thời gian này.
@@ -459,13 +474,13 @@ Khi đứa con đầu lòng của họ ra đời, họ đã cưới nhau đượ
 
 Tom:  Look! It's raining again.
 
- (Nhìn kìa ,trời lại đang mưa..
+(Nhìn kìa ,trời lại đang mưa..
 
 Ann:   Oh no, not again.It rained all day yesterday too.
 
- (ồ không ,đâu phải tại trời đang mưa .Trời cũng đã mưa suốt  ngày hôm qua rồi ).
+(ồ không ,đâu phải tại trời đang mưa .Trời cũng đã mưa suốt  ngày hôm qua rồi ).
 
- "Rained" là thì Simple past(quá khứ đơn). Chúng ta dùng thì quá khứ  đơn để nói về các hành động hoặc các tình huống trong quá khứ.
+"Rained" là thì Simple past(quá khứ đơn). Chúng ta dùng thì quá khứ  đơn để nói về các hành động hoặc các tình huống trong quá khứ.
 
 - I very much enjoyed the party.
 
@@ -500,7 +515,7 @@ Nhưng nhiều động từ quan trọng lại là động từ bất qui tắc 
 
 (Tất cả chúng tôi rời khỏi bữa tiệc lúc 11 giờ)
 
-- go->went :Yesterday i went to london to see a friend of mine.
+- go->went:Yesterday i went to london to see a friend of mine.
 
 (Hôm qua tôi đã đi london để gặp một người bạn).
 
@@ -543,7 +558,7 @@ Chúng tôi đã không mời cô ấy dự tiệc, vì cô ấy đã không đ�
 
 (Sao hôm thứ ba bạn không gọi cho tôi ?).
 
-Chú ý : chúng ta thường dùng did/didn't với have:
+Chú ý: chúng ta thường dùng did/didn't với have:
 
 - Did you have time to write the letter?
 
@@ -566,10 +581,10 @@ Nhưng chúng ta không dùng did/didn't với động từ be(was/were):
 
 (Hôm qua Tôm có đi làm không?)
 
- 
 
 
-## ## BÀI 12: PAST CONTINUOUS (thì Quá khứ tiếp diễn) (I was doing)
+
+## BÀI 12: PAST CONTINUOUS (thì Quá khứ tiếp diễn) (I was doing)
 
 a. Hãy xem xét tình huống mẫu sau: Hôm qua Tom và Jim chơi quần vợt. Họ bắt đầu chơi lúc 10 giờ và kết thúc lúc 11 giờ. 
 
@@ -608,7 +623,7 @@ we had already started dinner before Tom arrived = chúng tôi đã bắt đầu
 When Tom arrived, we had dinner (quá khứ đơn) 
 Tom arrived and then we had dinner. Tom đến và sau đó chúng tôi đã ăn tối.
 
-## ## BÀI 13: PRESENT PERFECT (thì Hiện tại hoàn thành) (I have done) (1)
+## BÀI 13: PRESENT PERFECT (thì Hiện tại hoàn thành) (I have done) (1)
 
 
 Hãy xem xét tình huống mẫu sau: 
@@ -638,9 +653,9 @@ Dùng thì này để nói về điều đã xảy ra sớm hơn mong đợi:
 d) Hảy xem xét sự việc khác nhau giữa gone và been to:
 - Tom is back in England now. He has been to Italy.
 
-  
 
-## ## BÀI 14: PRESENT PERFECT (thì Hiện tại hoàn thành) (2)
+
+## BÀI 14: PRESENT PERFECT (thì Hiện tại hoàn thành) (2)
 
 Chúng ta không dùng thì present petfect (I have done) khi nói về một thời điểm đã kết thúc (chẳng hạn Yesterday,ten minutes ago, in 1985, When I was a child), mà khi đó chúng ta phải dùng thì quá khứ
 
@@ -693,12 +708,13 @@ Tuần này trời không mưa.
 It didn't rain last week.
 Tuần rồi trời không mưa.
 
-## BÀI 15: PRESENT PERFECT (thì Hiện tại hoàn thành
+## BÀI 15: PRESENT PERFECT
 
 Thì hiện tại hoàn thành (I have done/ I have been doing) với how long, for và since
 
 Hãy xem tình huống mẫu sau đây
- Bob and Alice are married. They got married exactly 20 years ago. So today is their 20th wedding anniversary
+
+Bob and Alice are married. They got married exactly 20 years ago. So today is their 20th wedding anniversary
 
 Bob và Alice là vợ chồng. Họ cưới nhau cách đây đúng 20 nam. Vì hôm nay là ngày kỷ niệm ngày cưới lần thứ 20 của họ
 
@@ -723,7 +739,7 @@ Họ cưới nhau được 20 năm nay rồi.
 Chúng ta sử dụng thì hiện tại hoàn thành tiếp diễn
 I have been doing để chỉ sự việc xảy ra được bao lâu.
 
- Hãy để ý rằng hành động hiện giờ vẫn đang xảy ra:
+Hãy để ý rằng hành động hiện giờ vẫn đang xảy ra:
 
 - I’ve been learning English for a long time.
 
@@ -745,7 +761,7 @@ Tom đã lái xe được 10 năm nay rồi.
 
 - How long have you been smoking?
 
- Bạn hút thuốc được bao lâu rồi?
+Bạn hút thuốc được bao lâu rồi?
 
 Thì tiếp diễn (I have been doing) hay thi đơn (I have done) có thể được sử dụng để chỉ các hành động lập đi lập lại trong một thời gian dài:
 
@@ -791,7 +807,11 @@ Tôi đã chờ ở đây một tiếng đồng hồ rồi.
 Bạn quen Tom được bao lâu rồi?
 
 (không phải “do you Know”)
-## BÀI 16: PRESENT PERFECT CONTINUOUS (thì Hiện tại hoàn thành tiếp diễn) (I have been doing)
+
+## BÀI 16: PRESENT PERFECT CONTINUOUS 
+
+(thì hiện tại hoàn thành tiếp diễn) (I have been doing)
+
 Hãy xem tình huống sau đây.
 Is it raining?
 
@@ -876,7 +896,9 @@ Cô ấy đã chơi quần vợt từ lúc cô ấy lên tám.
 Bạn hút thuốc được bao lâu rồi?
 
 ## BÀI 17: PRESENT PERFECT CONTINUOUS (I have been doing) hay PRESENT PERFECT (I have done)?
-[0](javascript:void(0))# Trước hết hãy xem xét tình huống mẫu sau:
+
+
+Trước hết hãy xem xét tình huống mẫu sau:
 
 Tom là một cổ động viên bóng đá và tối nay trên Tivi có một trận bóng đá. Trận đấu tối nay sẽ bắt đầu vào lúc 7 giờ 30 và kết thúc vào lúc 9 giờ 15. Ann muốn đến gặp Tom tối nay và muốn biết giờ nào cô ta có thể đến được
 
@@ -894,7 +916,7 @@ Ann: Oh, well. What about 9.30?
 
 Tom: Yes, that’ll be fine. The match will have finished by then
 
-# Chúng ta dùng will be doing (thì Future Continous- Tương lai tiếp diễn) để nói rằng chúng ta đang làm một việc gì nửa chừng vào một thời điểm nào đó trong tương lai. Trận bóng đá bắt đầu lúc 7 giờ 30 và kết thúc lúc 9 giờ 15, vì vậy trong khoảng thời gian này, ví dụ vào lúc 8 giờ 30, Tom sẽ đang xem trận bóng đá
+Chúng ta dùng will be doing (thì Future Continous- Tương lai tiếp diễn) để nói rằng chúng ta đang làm một việc gì nửa chừng vào một thời điểm nào đó trong tương lai. Trận bóng đá bắt đầu lúc 7 giờ 30 và kết thúc lúc 9 giờ 15, vì vậy trong khoảng thời gian này, ví dụ vào lúc 8 giờ 30, Tom sẽ đang xem trận bóng đá
 
 Dưới đây là một vài ví dụ khác:
 
@@ -928,7 +950,7 @@ Mỗi buổi sáng Tom làm việc từ 9 giờ cho đến trưa. Vì vậy:
 
 (Vào lúc 10 giờ ngày mai anh ta se đang làm việc.
 
-# Bạn cũng có thể dùng will be doing theo một cách khác để nói về những việc đã được dự định hoặc quyết định rồi
+Bạn cũng có thể dùng will be doing theo một cách khác để nói về những việc đã được dự định hoặc quyết định rồi
 
 \- I’ll be going to the city center later. Can I get you anything?
 
@@ -936,13 +958,13 @@ Mỗi buổi sáng Tom làm việc từ 9 giờ cho đến trưa. Vì vậy:
 
 Bạn có muốn tôi mua gì cho bạn không?)
 
-## Với ý nghĩa này will be going tương tự như am doing (Thì Present Continous)
+Với ý nghĩa này will be going tương tự như am doing (Thì Present Continous)
 
 \- I’m going to the city center later
 
 (Lát nữa tôu sẽ xuống trung tâm thành phố)
 
-## Chúng ta thường dùng Will (you) be + ing? để hỏi về những dự tính của người khác đặc biệt là khi chúng ta muốn cái gì đó hay muốn người khác làm một điều gì đó
+Chúng ta thường dùng Will (you) be + ing? để hỏi về những dự tính của người khác đặc biệt là khi chúng ta muốn cái gì đó hay muốn người khác làm một điều gì đó
 
 \- “Will you be using your bicycle this evening?” “No, you can take it”
 
@@ -952,7 +974,7 @@ Bạn có muốn tôi mua gì cho bạn không?)
 
 (Bạn có đi ngang bưu điện khi bạn ra phố không?- Có, thế thì sao?)
 
-# Chúng ta dùng Will have done (thì Future Perfect- Tương lai hoàn thành) để nói rằng một việc nào đó đã xảy ra trước một thời điểm trong tương lai.
+Chúng ta dùng Will have done (thì Future Perfect- Tương lai hoàn thành) để nói rằng một việc nào đó đã xảy ra trước một thời điểm trong tương lai.
 
 Trận bóng đá mà Tom xem kết thúc vào lúc 9h15. Vì thế sau thời điểm này, ví dụ vào lúc 9h30, trận đấu đã kết thúc rồi. (The match will have finished at 9.30) Dưới đây là một vài ví dụ khác:
 
@@ -964,9 +986,9 @@ Trận bóng đá mà Tom xem kết thúc vào lúc 9h15. Vì thế sau thời �
 
 (Chúng ta trễ giờ rồi. Tôi nghĩ rằng phim đã bắt đầu khi chúng ta đến rạp hát)
 
-&nbsp;
-## BÀI 18 : PRESENT PERFECT và PRESENT
-PERFECT CONTINUOUS với how long, for và since
+
+## BÀI 18: PRESENT PERFECT và PRESENT PERFECT CONTINUOUS với how long, for và since
+
 a.	Hãy xem xét tình huống mẫu sau:
 Bob và Alice là vợ chổng. Họ đã cưới nhau cách đây đúng 20 năm. Vì thế hôm nay là ký niệm 20 năm ngày cưới cùa họ.
 They have been married for 20 years.
@@ -1061,9 +1083,9 @@ B: It's two years since I had a holiday. (= I haven't had a holiday for two year
 
 ## BÀI 20: PRESENT PERFECT (I have done) hay SIMPLE PAST (I did) (1)
 
-## I. Kiến thức cơ bản
+I. Kiến thức cơ bản
 
-### **A. **Những trường hợp dùng thì Quá khứ đơn****
+**A. **Những trường hợp dùng thì Quá khứ đơn****
 
 _(Nguồn: Essential Grammar In Use)_
 
@@ -1115,7 +1137,7 @@ _Sử dụng thì quá khứ đơn để hỏi_ **_When_** _…? Hoặc_ **_W
 
 _Andy_ **_đã ra ngoài lúc nào_**_?_ 
 
-### **B. Compare (So sánh giữa thì hiện tại hoàn thành và thì quá khứ đơn)**
+**B. Compare (So sánh giữa thì hiện tại hoàn thành và thì quá khứ đơn)**
 
 | Present perfect (_Hiện tại hoàn thành)_                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Past (_Quá khứ)_                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1129,7 +1151,7 @@ Sarah went to party last week. Paul went to the party too but they didn’t see 
 
 When Sarah arrived at the party, Paul wasn’t there. He **had gone** home (before Sarah arrived)
 
-Tuần rồi, Sarah đã đi dự tiệc. Paul cũng đến buổi tiệc đó nhưng hộ đã không gặp nhau, Paul về nhà lúc 10 g 30 và Sarah đến lúc 11h. Vì vậy :
+Tuần rồi, Sarah đã đi dự tiệc. Paul cũng đến buổi tiệc đó nhưng hộ đã không gặp nhau, Paul về nhà lúc 10 g 30 và Sarah đến lúc 11h. Vì vậy:
 
 Khi Sarah đến dự tiệc thì Paul đã không còn ở đó. Anh ấy đã đi về nhà (trước khi Sarah tới).
 
@@ -1143,7 +1165,7 @@ Khi Sarah đến dự tiệc thì Paul đã không còn ở đó. Anh ấy đã 
 
 The past perfect simple is had + past participle (gone/seen/finished etc.. Sometimes we talk about some thing that happened in the past:
 
-Quá khứ hoàn thành  = had + quá khứ phân từ (gone/seen/finished etc.. Đôi khi chúng ta đề cập một việc gì đó xảy ra trong quá khứ :
+Quá khứ hoàn thành  = had + quá khứ phân từ (gone/seen/finished etc.. Đôi khi chúng ta đề cập một việc gì đó xảy ra trong quá khứ:
 
 –          Sarah arrived at the party (Sarah đã tới bữa tiệc.)
 
@@ -1307,11 +1329,11 @@ This is Dennis. He gave up smoking two years ago. He no longer smokes.
 
 Đây là Dennis. Cách đây 2 năm anh ấy đã bỏ hút thuốc. Bây giờ anh ấy không hút thuốc nữa.
 
- But he used to smoke. He used to smoke 40 cigarettes a day.
+But he used to smoke. He used to smoke 40 cigarettes a day.
 
 Nhưng anh ấy đã từng hút thuốc. Anh ta đã từng hút 40 điếu một ngày.
 
- He used to smoke cho chúng ta biết rằng anh ta đã từng hút thuốc thường xuyên trong một thời gian ở quá khứ, nhưng bây giờ thì anh ta không còn hút thuốc nữa
+He used to smoke cho chúng ta biết rằng anh ta đã từng hút thuốc thường xuyên trong một thời gian ở quá khứ, nhưng bây giờ thì anh ta không còn hút thuốc nữa
 
 Chúng ta dùng used to với động từ nguyên mẫu
 
@@ -1329,7 +1351,7 @@ trước đây tôi thường chơi tennis luôn, nhưng bây giờ thì tôi l�
 
 “Bạn có thương xuyên đi xem phim không?” “bây giờ thì không,
 
- nhưng trước đây thì có”
+nhưng trước đây thì có”
 
 -     Tom used to travel a lot. These days he doesn’t go away very often.
 
@@ -1384,7 +1406,7 @@ Jack đã không thường đi khỏi nhà cho đến khi anh ta gặp Jill.
 Đừng nhầm lẫn giữa I used to do và I am used to doing
 Hai cấu trúc này hoàn toàn có nghĩa khác nhau:
 
- -     I used to live alone.
+-     I used to live alone.
 
 Tôi đã từng sống một mình.
 
@@ -1398,7 +1420,7 @@ Tôi đã quen sống một mình.
 Chúng ta sử dụng can (do) để chỉ một việc gì đó là khả dĩ hay một người nào đó có khả năng làm một việc gì đó. Thể phủ định là can’t (can not)
 -     You can see the sea from our bedroom window.
 
- từ cửa sổ phòng ngủ của chúng ta em có thể nhìn thấy biển.
+từ cửa sổ phòng ngủ của chúng ta em có thể nhìn thấy biển.
 
 -     Can you speak any foreign language?
 
@@ -1408,17 +1430,17 @@ Bạn có nói được ngoại ngữ nào không?
 
 Tôi e rằng tôi không thể tới dự bữa tiệc của anh vào thứ sáu tới.
 
-         Be able to có thể được sử dụng thay thế cho can, nhưng can thì thường
+        Be able to có thể được sử dụng thay thế cho can, nhưng can thì thường
 
-         gặp hơn.
+        gặp hơn.
 
 -     Are you able to speak any foreign languages?
 
 Anh nói được ngoại ngữ nào không?
 
-          Nhưng can có hai thể: can (hiện tại) và could (quá khứ).
+        Nhưng can có hai thể: can (hiện tại) và could (quá khứ).
 
-          Vì vậy đôi khi bạn phải sử dụng be able to:
+        Vì vậy đôi khi bạn phải sử dụng be able to:
 
 -    I haven’t been able to sleep recently.
 
@@ -1489,7 +1511,7 @@ Ta có thể sử dụng thể phủ định couldn’t trong mọi trường h�
 
 Chúng tôi đã cố gắng hết sức nhưng chúng tôi không tài nào thuyết phục được họ đến với chúng tôi.
 
- 
+
 ## BÀI 27: COULD (could do và could have done)
 
 Could có nhiều cách dùng, đôi khi nó là hình thức quá khứ của can nhưng cũng có khi nó có nghĩa hiện tại hoặc tương lai.
@@ -1564,7 +1586,7 @@ quả là Ann đã cố gắng vượt bậc để đỗ kì thi đó. Kì thi q
 
 &nbsp;
 
-## BÀI28:	MUST và CAN'T
+## BÀI 28: MUST và CAN'T
 
 A Hãy xem xét ví dụ sau: 
 A: My house is very near the motorway. 
@@ -1681,81 +1703,81 @@ anh)
 ## BÀI 30: MAY và MIGHT (tương lai)
 Hãy xem các thí dụ sau:
 
-     -   I’m not sure where to go for my holidays but I may go to Italy.
+    -   I’m not sure where to go for my holidays but I may go to Italy.
 
-         (= perhaps I will go).
+        (= perhaps I will go).
 
-         (Tôi không chắc chắn là sẽ đi nghỉ ở đâu nhưng có thể tôi sẽ đi Ý.
+        (Tôi không chắc chắn là sẽ đi nghỉ ở đâu nhưng có thể tôi sẽ đi Ý.
 
-         (=có lẽ tôi sẽ đi).
+        (=có lẽ tôi sẽ đi).
 
-     -  The weather forecast is not very good. It might rain this afternoon.
+    -  The weather forecast is not very good. It might rain this afternoon.
 
-         (=perhaps it will rain).
+        (=perhaps it will rain).
 
 (Bản dự báo thời tiết không được khả quan lắm. Chiều nay trời có thể mưa.. (=có lẽ trời sẽ mưa.
 
-      -  I can’t help you. Why don’t you ask Tom? He might be able to help you.
+    -  I can’t help you. Why don’t you ask Tom? He might be able to help you.
 
-         (= perhaps he will be able to help).
+        (= perhaps he will be able to help).
 
-         (Tôi không thể giúp bạn được đâu. Tại sao bạn không nhờ Tom?
+        (Tôi không thể giúp bạn được đâu. Tại sao bạn không nhờ Tom?
 
-         Anh ta có thể sẽ giúp bạn). (= có lẽ anh ta sẽ có thể giúp bạn).
+        Anh ta có thể sẽ giúp bạn). (= có lẽ anh ta sẽ có thể giúp bạn).
 
-     Thể phủ định là may not hoặc might not (mightn’t).
+    Thể phủ định là may not hoặc might not (mightn’t).
 
-      -   Ann may not come to the party tonight. She isn’t feeling well.
+    -   Ann may not come to the party tonight. She isn’t feeling well.
 
-          (= perhaps she won’t come).
+        (= perhaps she won’t come).
 
-          (Tối nay có thể Ann không đến dự tiệc. Cô ấy cảm thấy không
+        (Tối nay có thể Ann không đến dự tiệc. Cô ấy cảm thấy không
 
-          được khoẻ). (= có lẽ cô ấy sẽ không đến).
+        được khoẻ). (= có lẽ cô ấy sẽ không đến).
 
-      -  There might not be a meeting on Friday because the director is ill.
+    -  There might not be a meeting on Friday because the director is ill.
 
-          (= perhaps there won’t be a meeting).
+        (= perhaps there won’t be a meeting).
 
-          (Có thể sẽ không có buổi họp vào thứ Sáu vì ông giám đốc bị bệnh).
+        (Có thể sẽ không có buổi họp vào thứ Sáu vì ông giám đốc bị bệnh).
 
-          (= có lẽ sẽ không có buổi họp).
+        (= có lẽ sẽ không có buổi họp).
 
-     Không có gì khác biệt khi bạn dùng may hoặc might. Bạn có thể nói:
+    Không có gì khác biệt khi bạn dùng may hoặc might. Bạn có thể nói:
 
-      -   I may go to Italy; hoặc I might go to Italy.
+    -   I may go to Italy; hoặc I might go to Italy.
 
-          (Có thể tôi sẽ đồng ý).
+        (Có thể tôi sẽ đồng ý).
 
 Ngoài ra cũng có thể tiếp diễn (continuous): may / might be doing
-       Hãy so sánh thể này với will be doing:
+    Hãy so sánh thể này với will be doing:
 
- -  Don’t phone at 8.30. I’ll be watching the football match on television.
+-  Don’t phone at 8.30. I’ll be watching the football match on television.
 
 (Đừng gọi điện thoại vào lúc 8 giờ30. Lúc đó có thể tôi đang xem trận bóng đá trên TV).
 
- -  Don’t phone at 8.30. I may (or might) be watching the football match '
+-  Don’t phone at 8.30. I may (or might) be watching the football match '
 
-     on television (=perhaps I’ll be in the middle of watching it).
+    on television (=perhaps I’ll be in the middle of watching it).
 
 (Đừng gọi điện thoại vào lúc 8 giờ30. Lúc đó có thể tôi sẽ đang xem trận bóng đá trên tivi). (= có lẽ tôi sẽ đang xem dở trận bóng đá).
 
 Bạn cũng có thể dùng thể tiếp diễn( may/might be doing) khi bạn đang nói về những dự định có thể được thực hiện.
 
- Hãy so sánh:
+Hãy so sánh:
 
- - I’m going to Italy in July. (For sure).
+- I’m going to Italy in July. (For sure).
 
-    (Tôi định đi Ý vào tháng Bảy). (chắc chắn).
+(Tôi định đi Ý vào tháng Bảy). (chắc chắn).
 
-       -   I may (or might) be going to Italy in July. (It’s possible).
+    -   I may (or might) be going to Italy in July. (It’s possible).
 
-    (Có thể tôi sẽ đi Ý vào tháng Bảy). (có thể xảy ra..
+(Có thể tôi sẽ đi Ý vào tháng Bảy). (có thể xảy ra..
 
 Nhưng bạn cũng có thể nói: I may / might go to Italy in July.
 
 May as well, might as well (thôi thì….; cũng được thôi):
-  Hãy xem thí dụ sau:
+Hãy xem thí dụ sau:
 
 A: What shall we do this evening?
 
@@ -1773,13 +1795,13 @@ B: We might as well watch it then. There’s nothing else to do.
 
 (Thôi thì chúng ta xem phim đó vậy. Chẳng còn gì khác để làm cả)
 
-  Chúng ta dùng may/might as well để nói rằng chúng ta nên làm một việc gì đó bởi vì không có lý do gì để không làm việc đó, và bởi vì không có việc gì tốt hơn để làm cả.’’We might as well watch it’’, có nghĩa là ‘’ Tại sao không xem phim đó nhỉ? Không còn gì khác hay hơn để làm cơ mà’’.
+Chúng ta dùng may/might as well để nói rằng chúng ta nên làm một việc gì đó bởi vì không có lý do gì để không làm việc đó, và bởi vì không có việc gì tốt hơn để làm cả.’’We might as well watch it’’, có nghĩa là ‘’ Tại sao không xem phim đó nhỉ? Không còn gì khác hay hơn để làm cơ mà’’.
 
 -        You’ll have to wait an hour for the next bus, so you might as well walk.
 
-  (Bạn phải đợi một tiếng mới có chuyến xe buýt kế tiếp, thôi thì bạn đi
+(Bạn phải đợi một tiếng mới có chuyến xe buýt kế tiếp, thôi thì bạn đi
 
-   bộ cho rồi).
+bộ cho rồi).
 
 -       We may as well go to the party. We’re nothing else to do.
 
@@ -1787,9 +1809,9 @@ B: We might as well watch it then. There’s nothing else to do.
 
 -       ‘’Shall we have dinner now?’’ ‘’We might as well’’.
 
-  (Chúng ta sẽ ăn tối bây giờ chứ? ‘’Cũng được thôi’’)
+(Chúng ta sẽ ăn tối bây giờ chứ? ‘’Cũng được thôi’’)
 
-## BÀI31: CAN, COULD, MAY và WOULD: yêu cầu, cho phép, đề nghi và mời.
+## BÀI 31: CAN, COULD, MAY và WOULD: yêu cầu, cho phép, đề nghi và mời.
 
 Ba động từ khuyết thiếu (modal verb. này đều được dịch là "có thể", nhưng sắc thái và cách dùng lại khác nhau.
 
@@ -1814,7 +1836,7 @@ Khi muốn yêu cầu, đề nghị ai làm gì, bạn có thể dùng "can" ho�
 
 Ngoài ra, mỗi từ còn có những nét nghĩa riêng, chẳng hạn như "can" được định nghĩa "be able to" - diễn tả khả năng của một người nhưng bài viết không liệt kê chi tiết, tránh gây nhầm lẫn giữa các từ.
 
-## BÀI 32:	MUST và HAVE TO
+## BÀI 32: MUST và HAVE TO
 
 Cùng có nghĩa "phải làm gì đó" nhưng "Must" mang tính khách quan, trong khi "Have to" mang tính chủ quan của người nói.
 
@@ -1870,8 +1892,8 @@ The boys didn’t have to attend the making up class (_Các bạn nam không c�
 
 I didn’t have to get up early last sunday (_Tôi không phải dậy sớm vào chủ nhật tuần trước_).
 ## BÀI 33: MUST, MUSTN'T, NEEDN'T và NEEDN'T HAVE
- Must, mustn’t  và needn’t:
- (You) must (do) có nghĩa là bạn cần thiết phải làm một việc gì đó:
+Must, mustn’t  và needn’t:
+(You) must (do) có nghĩa là bạn cần thiết phải làm một việc gì đó:
 
 -     You haven’t got much time. You must hurry.
 
@@ -1901,14 +1923,14 @@ I didn’t have to get up early last sunday (_Tôi không phải dậy sớm và
 
 (Tôi có thể nghe tiếng anh rẩt rõ. Anh không cần thiết phải hét lên)
 
- Needn’t, bạn có thể dùng don’t/ doesn’t need to
+Needn’t, bạn có thể dùng don’t/ doesn’t need to
 -      You’ve Thay vì dùng got plenty of time. You don’t need to hurry.
 
 (Bạn có rất nhiều thời gian. Bạn không cần vội vã)
 
 Hãy nhớ là chúng ta nói “don’t need to hurry”, nhưng “needn’t hurry” (không có to)
 
- Needn’t have (done)
+Needn’t have (done)
 Hãy xem xét tình huống mẫu sau:
 
 Tom đón xe lửa.Anh ta rời khỏi nhà trễ, do đó anh ta vội vã đi đến nhà ga. Nhưng xe lửa cũng khởi hành trễ, mãi hai mươi phút sau khi Tom đến nhà ga xe lửa mới khởi hành.
@@ -1930,7 +1952,7 @@ Thank you for doing the washing-up but you needn’t have done it really. I was 
 (cám ơn vì bạn đã rửa chén, nhưng thật ra bạn đã không cần phải làm điều đó. Tôi định lát sau sẽ rửa đấy chứ)
 
 Didn’t need to được dùng khác với needn’t have
- Chúng ta dùng didn’t need to (và didn’t have to) để nói rằng một hành động nào đó là không cần thiết. Điều này được nhận biết ngay vào lúc làm hành động đó.
+Chúng ta dùng didn’t need to (và didn’t have to) để nói rằng một hành động nào đó là không cần thiết. Điều này được nhận biết ngay vào lúc làm hành động đó.
 
 -     I didn’t need to go, so I didn’t go.
 
@@ -1946,201 +1968,201 @@ Khi chúng ta dùng needn’t have, sự không cần thiết của hành độn
 
 (lẽ ra tôi không cần phải đi) .( Tôi đã đi - điều này không cần thiết nhưng lúc đó tôi không biết là nó không cần thiết)
 
-## BÀI 34:	SHOULD (1)
+## BÀI 34: SHOULD (1)
 Tom vừa đi xem phim về:
 
 Ann: Hello. Tom. Did you enjoy the film?
 
-       (Chào Tom. Anh có thích bộ phim này không?)
+    (Chào Tom. Anh có thích bộ phim này không?)
 
 Tom: Yes, it was great. You should go and see it.
 
-        (có, phim hay tuyệt. Em nên đi xem nó)
+    (có, phim hay tuyệt. Em nên đi xem nó)
 
 Tom đang khuyên Ann nên đi xem phim. “You should go” có nghĩa đó là một điều tốt nên làm. Chúng ta thường dùng should (do) khi chúng ta nói đến điều mà chúng ta cho là tốt hoặc đúng đắn nên làm (= advice, lời khuyên).
 
- -    The government should do something about the economy.
+-    The government should do something about the economy.
 
-    (Chính phủ nên làm một điều gì đó đối với nền kinh tế)
+(Chính phủ nên làm một điều gì đó đối với nền kinh tế)
 
 -   “Should we invite Sue to the party?” “Yes, I think we should”.
 
-    (Chúng ta có nên  mời Sue đến dự tiệc không ? Có, Tôi nghĩ là chúng ta nên mời.)
+(Chúng ta có nên  mời Sue đến dự tiệc không ? Có, Tôi nghĩ là chúng ta nên mời.)
 
-    “You shouldn’t do something” (“Bạn không nên hút thuốc lá nhiều như vậy ).
+“You shouldn’t do something” (“Bạn không nên hút thuốc lá nhiều như vậy ).
 
 Có nghĩa: đó không phải là điều tốt nên làm:
 
 -     You been coughing a lot recently. You shouldn’t smoke so much.
 
-     (Gần đây bạn ho nhiều lắm đấy. Bạn không nên hút thuốc lá nhiều như vậy ).
+    (Gần đây bạn ho nhiều lắm đấy. Bạn không nên hút thuốc lá nhiều như vậy ).
 
 -    Tom shouldn’t drive really. He too tired.
 
-     (Thật ra Tom không nên lái xe. Anh ta quá mệt rồi).
+    (Thật ra Tom không nên lái xe. Anh ta quá mệt rồi).
 
 Should không nhấn mạnh bằng must.
 
 -     You should stop smoking. (=it would be a good idea..
 
-      (Bạn nên ngừng hút thuốc lá). (=Đó là một ý kiến hay).
+    (Bạn nên ngừng hút thuốc lá). (=Đó là một ý kiến hay).
 
 -     You must stop smoking (=It is necessary that you stop).
 
-     (Bạn phải ngừng hút thuốc lá). (=Bạn cần phải ngưng hút thuốc ).
+    (Bạn phải ngừng hút thuốc lá). (=Bạn cần phải ngưng hút thuốc ).
 
- Chúng ta thường dùng should khi chúng ta hỏi hoặc nêu ý kiến về một việc gì đó
+Chúng ta thường dùng should khi chúng ta hỏi hoặc nêu ý kiến về một việc gì đó
 Chúng ta thường dùng kèm với I think/ I don’t think/ do you think?:
 
 -   I think the government should do something about the economy.
 
-    (Tôi nghĩ chính phủ nên làm điều gì đó đối với nền kinh tế).
+(Tôi nghĩ chính phủ nên làm điều gì đó đối với nền kinh tế).
 
 -   I don’t think you should work so hard.
 
-    (Tôi không nghĩ bạn nên làm việc vất vả như thế ).
+(Tôi không nghĩ bạn nên làm việc vất vả như thế ).
 
 -   “Do you think I should apply for this jod?” “Yes, I think you should”.
 
-     (“Anhnghĩ tôi có nên xin làm việc này không?” “Có, tôi nghĩ anh nên đấy“).
+    (“Anhnghĩ tôi có nên xin làm việc này không?” “Có, tôi nghĩ anh nên đấy“).
 
- Chúng ta cũng dùng should để nói đến một điều gì đó không đúng hoặc không như chúng ta mong đợi ( = ”lẽ ra, đáng lẽ, nên là” )
+Chúng ta cũng dùng should để nói đến một điều gì đó không đúng hoặc không như chúng ta mong đợi ( = ”lẽ ra, đáng lẽ, nên là” )
 -   The price on this packet is wrong. It says 65 pence but it should be 50.
 
-     (Giá ghi trên gói hàng này sai rồi. Nó ghi 65 xu nhưng nó chỉ là 50 xu thôi).
+    (Giá ghi trên gói hàng này sai rồi. Nó ghi 65 xu nhưng nó chỉ là 50 xu thôi).
 
 -     Those children shouldn’t be playing. They should be at school.
 
-      (Những đứa trẻ đó không chơi đùa. Lẽ ra chúng phải đang ở trường).
+    (Những đứa trẻ đó không chơi đùa. Lẽ ra chúng phải đang ở trường).
 
 -    That motor-cyclist should be wearing a crash helmet
 
-      (Người lái xe gắn máy đó lẽ ra phải đội nón an toàn).
+    (Người lái xe gắn máy đó lẽ ra phải đội nón an toàn).
 
 Đối với quá khứ, chúng ta dùng should have (done) (lẽ ra phải, đáng lẽ ra nên …) để nói rằng ai đó đã làm điều gì sai
 -     Hello, Ann. The party last night was great. You should have come.
 
-      Why didn’t you?
+    Why didn’t you?
 
-     (Chào Ann. Bữa tiệc tối qua thật tuyệt vời. Lẽ ra bạn đã phải đến.
+    (Chào Ann. Bữa tiệc tối qua thật tuyệt vời. Lẽ ra bạn đã phải đến.
 
-      Tại sao bạn không đến?).
+    Tại sao bạn không đến?).
 
 -      I’m feeling sick. I shouldn’t have eaten so much chocolate.
 
-      (Tôi cảm thấy khó chịu. Đáng lẽ ra tôi không nên ăn nhiều sô-cô-la như thế ).
+    (Tôi cảm thấy khó chịu. Đáng lẽ ra tôi không nên ăn nhiều sô-cô-la như thế ).
 
 -     Why were you at home yesteterday? You should have been at work.
 
-      (Sao hôm qua bạn lại ở nhà ? Lẽ ra bạn phải đi làm chứ).
+    (Sao hôm qua bạn lại ở nhà ? Lẽ ra bạn phải đi làm chứ).
 
 -      She shouldn’t have been listening to our conversation. It was private.
 
-      (Lẽ ra cô ta không nên nghe cuộc nói chuyện của chúng tôi, đó là chuyện riêng).
+    (Lẽ ra cô ta không nên nghe cuộc nói chuyện của chúng tôi, đó là chuyện riêng).
 
 Bạn có thể dùng ought to thay cho should trong những câu thuộc bài này
 
-      It really a good film. You ought to go and see it.
+    It really a good film. You ought to go and see it.
 
-      (Đó quả là một phim hay. Bạn nên đi xem đi).
+    (Đó quả là một phim hay. Bạn nên đi xem đi).
 
 -      Tom ought not to drive is too tired.
 
-      (Tom không nên lái xe. Anh ta mệt quá rồi ).
+    (Tom không nên lái xe. Anh ta mệt quá rồi ).
 
 -      It was a great party. You ought to have come.
 
-      (Đó là một bữa tiệc tuyệt vời. Lẽ ra anh nên đến dự).
+    (Đó là một bữa tiệc tuyệt vời. Lẽ ra anh nên đến dự).
 
 Dùng should để nói rằng một điều gì đó có thể sẽ xảy ra (=>a probability)
 -  A: Do you think so. I should be home tonight?
 
-       (Anh có nghĩ rằng tối nay anh sẽ về nhà trễ không?
+    (Anh có nghĩ rằng tối nay anh sẽ về nhà trễ không?
 
 -  B: I don’t think so. I should be home at the usual time.
 
-       (Tôi không nghĩ thế, có thể tôi sẽ về nhà vào giờ thường lệ).
+    (Tôi không nghĩ thế, có thể tôi sẽ về nhà vào giờ thường lệ).
 
 Ở đây, “I should be home “có nghĩa là “ có thể tôi sẽ về nhà “ . Bạn có thể được dùng should để nói về điều có thể sẽ sảy ra. Ought to cũng có thể được dùng với nghĩa này.
 
 -   She’s been studying very hard, so she should pass her examination.
 
-    (Or” she ought to pass her examination”).
+(Or” she ought to pass her examination”).
 
-    (Cô ấy đã học hành rát chăm chỉ, vì vậy có thể cô ấy sẽ thi đậu thôi ).
+(Cô ấy đã học hành rát chăm chỉ, vì vậy có thể cô ấy sẽ thi đậu thôi ).
 
 If… should
-     -    If you should see Tom this evening, can you tell him to phone me?
+    -    If you should see Tom this evening, can you tell him to phone me?
 
-   (Nếu tối nay gặp bạn Tom, bạn có thể bảo anh ta gọi điện thoại cho tôi
+(Nếu tối nay gặp bạn Tom, bạn có thể bảo anh ta gọi điện thoại cho tôi
 
-    được không?).
+được không?).
 
 Câu này cũng tương tự như câu “If you see Tom “(Nếu bạn gặp Tom) (không có should). Với should người nói ít chắc chắn (less certain) hơn:
 
-     -    If it should rain, can you bring in the washing from the garden?
+    -    If it should rain, can you bring in the washing from the garden?
 
-   (Nếu trời mưa, đem đồ đang phơi ngoài vườn vào nhé?)
+(Nếu trời mưa, đem đồ đang phơi ngoài vườn vào nhé?)
 
-     -  Don’t worry, if I should be late home tonight.
+    -  Don’t worry, if I should be late home tonight.
 
-   (Đừng lo lắng nếu như tôi có về nhà trễ tối nay).
+(Đừng lo lắng nếu như tôi có về nhà trễ tối nay).
 
 Bạn cũng có thể bắt đầu câu với should (trước chủ từ ):
 
-     -  Should you see Tom this evening; can you tell him to phone me?
+    -  Should you see Tom this evening; can you tell him to phone me?
 
-   (Nếu tối nay bạn gặp Tom, bạn bảo anh ta gọi điẹn cho tôi được không?).
+(Nếu tối nay bạn gặp Tom, bạn bảo anh ta gọi điẹn cho tôi được không?).
 
 Bạn có thể dùng should sau các động từ dưới đây
-    (tất nhiên chúng ta cũng dùng được với cấu trúc khác.:
+(tất nhiên chúng ta cũng dùng được với cấu trúc khác.:
 
-    Suggest       propose    recommend     insist demand
+Suggest       propose    recommend     insist demand
 
-    (đề nghị )    (đề nghị )  (giới thiệu )     (nài nỉ ) (yêu cầu )
+(đề nghị )    (đề nghị )  (giới thiệu )     (nài nỉ ) (yêu cầu )
 
-    -  They insisted that we should have dinner with them.
+-  They insisted that we should have dinner with them.
 
-   (Họ nài nỉ chúng tôi ăn tối cùng họ).
+(Họ nài nỉ chúng tôi ăn tối cùng họ).
 
 Hãy cẩn thận với động từ suggest. Bạn không được dùng to-infinitive
 
 (động từ nguyên mẫu) (to do / to play vv…) sau suggest:
 
-    -    What do you suggest we should do?
+-    What do you suggest we should do?
 
-   (But not “what do you suggest us to do?”).
+(But not “what do you suggest us to do?”).
 
 hoặc: What do you suggest we do ?
 
-        (Theo anh chúng tôi nên làm gì?).
+    (Theo anh chúng tôi nên làm gì?).
 
-    -   Jim suggested (that) I bought a car.
+-   Jim suggested (that) I bought a car.
 
-    (But not “Jim suggested me to buy”).
+(But not “Jim suggested me to buy”).
 
-hoặc : Jim suggested ( that ) I bought a car.
+hoặc: Jim suggested ( that ) I bought a car.
 
-          (Jim đề nghị tôi nên mua một chiếc xe hơi).
+        (Jim đề nghị tôi nên mua một chiếc xe hơi).
 
 Bạn có thể dùng should sau các tính từ (adjectives) dưới đây 
-         Important (quan trọng)     strnge (kỳ lạ)           funny (buồn cười).
+        Important (quan trọng)     strnge (kỳ lạ)           funny (buồn cười).
 
-         Essential (thiêt yếu)         old (kỳ quặc.           typical (điển hình).
+        Essential (thiêt yếu)         old (kỳ quặc.           typical (điển hình).
 
-         Natural (tự nhiên)            surprised (ngạc nhiên)
+        Natural (tự nhiên)            surprised (ngạc nhiên)
 
-         Interesting (thú vị)          surprising (đáng kinh ngạc ).
+        Interesting (thú vị)          surprising (đáng kinh ngạc ).
 
-    -  It’s strange that he should be late. He’s usually on time.
+-  It’s strange that he should be late. He’s usually on time.
 
-   (Thật là lạ anh ta lại đến trễ. Anh ta thường đúng giờ ).
+(Thật là lạ anh ta lại đến trễ. Anh ta thường đúng giờ ).
 
-    -  I was surprised that he should say such a thing.
+-  I was surprised that he should say such a thing.
 
-  (Tôi ngạc nhiên là anh ta lại nói một điều như vậy ).
+(Tôi ngạc nhiên là anh ta lại nói một điều như vậy ).
 
-## BÀI 36:	CONDITIONAL SENTENCES (Câu điều kiện) (Hiện tại; tương lai)
+## BÀI 36: CONDITIONAL SENTENCES (Câu điều kiện) (Hiện tại; tương lai)
 
 Tom: I think I left my lighter in your house. Have you seen it?
 
@@ -2218,14 +2240,14 @@ Bạn có thể dùng could hoặc minght:
 
 (Bạn sẽ làm gì nếu như bạn bị rắn cắn?)
 
-## Chú ý
+Chú ý
 
 Nếu mệnh đề phụ trong câu điều kiện ở dạng phủ định, ta có thể thay "if not" bằng "unless" mà không làm thay đổi nghĩa. VD:
 
 - If I don’t run, I will miss the bus. (Nếu tôi không chạy thì tôi sẽ lỡ chuyến xe bus)  
-    => Unless I run, I won’t miss the bus. (Trừ khi tôi chạy thì tôi sẽ không lỡ chuyến xe bus)
+=> Unless I run, I won’t miss the bus. (Trừ khi tôi chạy thì tôi sẽ không lỡ chuyến xe bus)
 - If it doesn’t rain, I won’t bring an umbrella. (Nếu trời không mưa tôi sẽ không mang ô)  
-    => Unless it rains, I will bring an umbrella. (Trừ khi trời mưa thì tôi sẽ mang ô)
+=> Unless it rains, I will bring an umbrella. (Trừ khi trời mưa thì tôi sẽ mang ô)
 
 Những cách diễn tả câu điều kiện khác
 
@@ -2239,12 +2261,12 @@ Những cách diễn tả câu điều kiện khác
 Cách chuyển câu điều kiện loại 3 sang câu đảo ngữ: bỏ "if" đảo "had" lên trước chủ ngữ. VD:
 
 - If I had eaten too much fast food, I would have been fat. (Nếu tôi ăn quá nhiều đồ ăn nhanh thì tôi sẽ trở nên béo phì)  
-    => Had I eaten too much fast food, I would have been fat.
+=> Had I eaten too much fast food, I would have been fat.
 - If he had stayed at home last night, he would have met Sue. (Nếu anh ấy ở lại nhà tối qua anh ấy đã gặp Sue)  
-    => Had he stayed at home last night, he would have met Sue.
+=> Had he stayed at home last night, he would have met Sue.
 
 ## BÀI 37: Câu với IF và WISH (Hiện tại)
-# Hãy xem xét tình huống mẫu sau:
+Hãy xem xét tình huống mẫu sau:
 
 Tom muốn gọi điện cho Sue, nhưng anh ta không thể làm được điều này vì anh ta không biết số điện thoại của cô ta. Anh ta nói:
 
@@ -2323,7 +2345,7 @@ Could đôi khi có nghĩa là “rất có thể “và đôi khi lại có ngh
 -  She could (=would be able to) get a job more easily if she could (= was able to) type.
 
 (Cô ta rất có thể được việc làm dễ dàng hơn nếu cô ta biết đánh máy ).
-## BÀI 38:	Câu với IF và WISH (quá khứ)
+## BÀI 38: Câu với IF và WISH (quá khứ)
 
 Hãy xem xét tình huống mẫu sau
 Tháng trước Ann bị bệnh. Tom không biết này, vì thế anh ta không đến thăm cô ta. Họ gặp lại nhau khi anh ta đã khoẻ hơn. Tom nói:
@@ -2377,7 +2399,7 @@ Bạn cũng có thể dùng thì past perfect (Qúa khứ hoàn thành) (I had d
 
 (Thời tiết thật khủng khiết. Tôi ước gì trời đã ấm). (Trời đã không ấm )
 
-Bạn không thể dùng Would (have )sau wish :
+Bạn không thể dùng Would (have )sau wish:
 
 -  I wish. It had been warmer. (không dùng “ would have been“)
 
@@ -2386,9 +2408,9 @@ Bạn không thể dùng Would (have )sau wish :
 Would have (done) là quá khứ của would (do)
 -  If I had gone to the party last night, I would be tired now.
 
-   (Nếu như tối qua tôi đi dự tiệc thì  tôi sẽ mệt mỏi lắm).
+(Nếu như tối qua tôi đi dự tiệc thì  tôi sẽ mệt mỏi lắm).
 
-   (Bây giờ tôi không mệt mỏi - hiện tại)
+(Bây giờ tôi không mệt mỏi - hiện tại)
 
 -  If had gone to the party last night, I would have seen Ann.
 
@@ -2441,7 +2463,7 @@ Whenever Arthur was angry, he would just walk out of the room.
 Used to cũng cổ thể dược dùng trong những câu trèn:
 
 
-## BÀI 40:	IN CASE (phòng khi)
+## BÀI 40: IN CASE (phòng khi)
 
 _In case_ hay được dịch là “trong trường hợp” nhưng có nghĩa chính xác là “phòng khi”.
 
@@ -3183,7 +3205,7 @@ Said cũng có thể được dùng với động từ nguyên mẫu.
 
 (Bác sĩ nói hãy nằm nghỉ vài ngày)
 
-## BÀI 49:	QUESTIONS (Câu hỏi) (1)
+## BÀI 49: QUESTIONS (Câu hỏi) (1)
 **Chúng ta thường đặt questions (câu hỏi) bằng cách thay đổi trật tự từ trong câu. Chúng ta đặt auxiliary verb (trợ động từ) trước subject (chủ từ)**
 
 S + auxiliary              auxiliary + S
@@ -3268,7 +3290,7 @@ Haven’t we met somewhere before? “Yes. I think we have”
 
 (Chẳng phải chúng ta đã gặp nhau ở đâu rồi sao? phải, tôi nghĩ là chúng ta đã gặp nhau)
 
-## **Do you know where…? /He asked me where…?**
+**Do you know where…? /He asked me where…?**
 
 **Khi chúng ta hỏi người khác để biết tin tức, đôi khi chúng ta bắt đầu câu hỏi với Do you know…? hoặc Could you tell me…?**
 
@@ -3338,16 +3360,17 @@ Bây giờ bạn kể lại cho một người bạn những gì người phỏn
 
 (Cô ấy hỏi tôi có bằng lái xe chưa?)
 
-## BÀI 51: AUXILIARY VERBS (Trợ động từ) trong câu trả lời/hỏi ngắn: So am I / Neither am I /1 think so / / hope so
-## Trợ động từ là gì?
+## BÀI 51: AUXILIARY VERBS (Trợ động từ) trong câu trả lời/hỏi ngắn
+
+: So am I / Neither am I /1 think so / / hope so
+
+Trợ động từ là gì?
 
 Trợ động từ (Auxiliary Verbs) là **_những từ đứng trước động từ chính có tác dụng hỗ trợ để làm rõ nghĩa của câu_**. Trợ động từ thường giúp hình thành các câu phủ định, nghi vấn hoặc thể hiện thời gian và các tình huống khác trong câu.
 
 Các trợ động từ trong tiếng Anh có thể kể đến như: be (thì, là, ở), have (có), do (làm), will (sẽ), shall (sẽ), can (có thể), could (có thể ở quá khứ),…
 
 VD:
-
-[](https://vus.edu.vn/chuong-trinh-hoc/?utm_source=SEO&utm_medium=PerformanceBlog&utm_campaign=Banner&utm_content=Promot870coso)
 
 She is reading a book. (Trợ động từ “is” được dùng để hiển thị thì hiện tại tiếp diễn)
 
@@ -3359,7 +3382,7 @@ He can play the piano. (Trợ động từ “can” được sử dụng để 
 
 Trợ động từ (Auxiliary Verbs): Phân loại và quy tắc sử dụng
 
-### Có bao nhiêu loại trợ động từ?
+Có bao nhiêu loại trợ động từ?
 
 Tổng cộng có 13 loại trợ động từ trong tiếng Anh được chia thành 2 nhóm:
 
@@ -3376,7 +3399,7 @@ May I borrow your pen, please? (Tôi có thể mượn bút của bạn được
 
 > _Xây dựng nền tảng vững chắc, bứt phá kỹ năng cùng kho tàng:_ [_Bí quyết học tiếng Anh_](https://vus.edu.vn/blog/bi-quyet-hoc-tieng-anh/)
 
-### Điểm chung của các trợ động từ tiếng Anh
+**Điểm chung của các trợ động từ tiếng Anh**
 
 Nhìn chung, mọi trợ động từ đều có những đặc điểm sau:
 
@@ -3386,7 +3409,7 @@ Nhìn chung, mọi trợ động từ đều có những đặc điểm sau:
 - Trả lời các câu hỏi bằng câu trả lời ngắn hình thành bằng chính trợ động từ ấy. VD: Yes, I will. (Vâng, tôi sẽ.)
 - Cấu tạo nên các câu tỉnh lược. VD: Don’t you? (Bạn không làm đúng không?)
 
-## BÀI 52:	QUESTION TAGS (Câu hỏi đuôi)
+## BÀI 52: QUESTION TAGS (Câu hỏi đuôi)
 
 **Trong câu trả lời / hỏi ngắn: So am I/ Neither am I**
 
@@ -3590,8 +3613,10 @@ tin tức hoặc để yêu cầu ai làm điều gì đó.Ta lên giọng ở c
 
 - “You don’t know where Ann is, do you
 
-## Các bài về Verb nguyên thể, Verb-ing sẽ được bổ sung sau
-## BÀI 59: PREPOSITON + -ING (Giới từ + -ing)
+
+## BÀI 59: PREPOSITON + -ING 
+
+(Giới từ + -ing)
 a. Khi một động từ theo sau một giới từ (In, at, with, about, v.v...), động tử đổ phải tận cùng bằng -Ing. Hãy xem các ví dụ sau:
 1.	Are you interested	In	working	for US? (Anh có thích làm việc cho chúng tôi không?)
 2.	I'm not Vữty good	at	learning	languages. ’ (Tới học ngoại ngữ không giỏi lắm).
@@ -3639,8 +3664,9 @@ I'm looking forward to seeing Ann again, (not “to see") .
 (Tôi đang trổng dược gặp lại Ann)
 vổ be / get used to -Ing, xem bồi 62.
 
-BAI60
-VERB + PREPOSITION + -ING (Động từ + giới từ + -ing)
+## BÀI 60: VERB + PREPOSITION + -ING 
+
+(Động từ + giới từ + -ing)
 a. Nhiếu dộng tử có cấu trúc; động tứ (V) + giới từ (P) + tức từ (object), Thí dụ nhu talk about;
 We talked about the problem, {the problem là một túc từ) (Chúng tôi đã nói vé vấn đé đó).
 Nếu túc tù là một động từ khác, động tử đố pr.ải tận cùng bằng -Ing:
@@ -3674,7 +3700,7 @@ apologise for (xin lỗi vể)
 (Anh ta xin lỗl vì đã bắt tôi chở dợỉ).
 * I feel like doing s tôi thìch làm, tôl thấy hứng thú làm
 Chúng ta nói "apologise to someone for something" (xin lỗi al vé việc gì):
-191
+
 - He apologised to me tor keeping me waiting, (không nói “he apologised me*) (Anh ấy xin lỗi tôi vỉ-đã bắt tôi chò).
 Với vài động từ ở trôn, bạn cũng có thể dùng cáu trúc: V + p + someone + -íng.
 Thí dụ:
@@ -3718,7 +3744,9 @@ Was the man suspected of being a spy?
 (Người đàn ông đó có bị nghi ngở là một điệp viên không?) We were warned against buying it.
 (Chúng tôi được khuyến cảo không nên mua thứ đó).
 
-## BÀI 61: EXPRESSIONS -I- -ING (Thành ngữ + -ing) * *
+## BÀI 61: EXPRESSIONS -I- -ING 
+
+(Thành ngữ + -ing) * *
 Khi cácthành ngữ này được theo sau bởl rtiột động từ, động từ đó phải tận cùng bằng
 *	H's no use/irs no good... (thật vồ kh):
 It's no use worrying about it. There's nothing you can do.
@@ -3775,7 +3803,9 @@ I have to go shopping this morning. (Sáng nay Tôi phải đi mua sẩm). I've 
 (Tôi chưa bao giở đi bơi th uyển).
 VỔ ‘Tve been / I've gone”, xem ## BÀI 13d.
 
-## BÀI 62: BE / GET USED TO (Quen với...)
+## BÀI 62: BE / GET USED TO 
+
+(Quen với...)
 a.	Hăy xem xốt tỉnh huổng mẫu sau:
 Jane là người Mỹ nhưng cô ta đã sống ở Anh được ba năm. Khi cở ta lồn đáu tiôn lái xe ở Anh, cô thấy rất khó khăn vi cô phải lái xe bôn trái thay vì bồn phải. Việc lái xe bèn ưái thì lạ lẫm và khó khăn đối VỚI cô ví:
 . - She wasn't used to It.
@@ -3810,8 +3840,10 @@ I	used to do something chỉ có nghĩa là tối thường xuyên làm một vi
 - These days I usually stay in bed until late. But when I had a job. I used to get up early.
 (Những ngày gắn đây tôi thường thức dậy rất muộn. Nhưng ưưởc dây khi có việc làm, Tôi thưởng thức dậy sđm).
 
-## BÀI 63:	- INFINITIVE OF PURPOSE (Động từ
-nguyên mẫu chỉ mục đích)
+## BÀI 63: INFINITIVE OF PURPOSE 
+
+(Động từ nguyên mẫu chỉ mục đích)
+
 - SO THÀT (Mệnh để với so that)
 a.	Chứng ta dùng to - Infinitive (động từ nguy ôn mả 11 có to) đổ nối vé mục đlch của hành động (= vl sao một người nào đó làm một việc gì đó);
 -	I want out to post/A letter. (= because I wanted to post a letter).
@@ -3855,7 +3887,7 @@ c.	Đôi khi bạn phải dũng mệnh để vđl ao that (chứ không dùng to
 (Tôi 'khẩn trương đề khỏi bị trổ già). (= vì tôi  Không muốn bị trễ giờ).
 -	Leave early so that you won’t (hoặc don't) miss the bus.
 (Bạn hãy đi sơm để khỏi bi lở chuyến xa buỹt).
-ii)	VỚI can và could (so that... can/could...):	?
+ii)	VỚI can và could (so that... can/could...): ?
 He's learning English so that he can study in the United States.
 (Anh ta đang học tiếng Anh để có thể đl học ở Mỹ).
 -	We moved to London so thatwe could visit our friends more often.
@@ -3868,7 +3900,9 @@ He wore glasses and a false beard so that nobody would recognize him.
 •	J	*	r
 • *
 
-## BÀI 64: PREFER và WOULD RATHER (thích hờn)
+## BÀI 64: PREFER và WOULD RATHER 
+
+(thích hờn)
 a.	Prefer to do và prefer doing
 Bạn có thể dùng “prefer to do” hoặc “prefer doing" để nổi đến điéu mà nói chung bạn thích hơn. “Prefer to do” thưởng được dùng hơn:
 I don't like cities. I prefer to live (hoặc prefer living) in the country.
@@ -3895,7 +3929,7 @@ I'd prefer to stay at home tonight rather than go to the cinema.
 c.	Would rather do a would prefer to đo (thích hơn)
 Sau would rather, chúng ta dùng động từ nguyên mốu không có to (= bare infinitive).
 *	4
-Hăy so sánh:		•
+Hăy so sánh: 	•
 • • p • Shall we go by train? (Chùng ta sẽ đi bằng xe lửa chư?)	- Well. I'd rather to goby car. (Ố. tôi thích đi bắng xe hơi hơn). Well, Td prefer go by car. “(không dùng “to go*)
 - "Would you rathor have tea or coffee?” "Coffee, please", ("Bạn thích uống ưà hay cà phô?’ "Xin cho cổ phê’).
 205
@@ -3921,6 +3955,7 @@ I’d rather you cooked the dinner now. (Tôi muổn bạn nấu bữa tối bâ
 (’Nếu tôi hút thuổc anh có phiền gì không?" Tôi muốn anh đừng hút").
 
 ## BÀI 65: HAD BETTER DO SOMETHING
+
 IT'S TIME SOMEONE DID SOMETHING
 á) Had better do something (nén làm đié J gì đổ)
 ý nghía của had better (I'd better) câng tương tự như should (nên). “I’d better do something” = tôi nên làm điéu gl đó; nếu tôi không làm điổu này thì một chuyệh không hay có thể sở xảy ra.
@@ -3948,7 +3983,7 @@ Bạn cỏ thể nổi “It's time (for someone) to do something” (Dà đến
 Còn một cấu trúc khác nữa: It's time someone did something (Đổ đốn lúc (ai đó) phổi làm điêu gì).
 Its nearly midnight. It's time we went home	)
 (Gán nửa đêm rổi. Dà đến lúc chúng ta phải vé nhà).
-Chúng ta dùng thì quâ khứ (went) sau “It's time someone...” nhưng ý nghĩa là ở Hiện tại hoặc tương lai, không phải ở quá khứ:	/
+Chúng ta dùng thì quâ khứ (went) sau “It's time someone...” nhưng ý nghĩa là ở Hiện tại hoặc tương lai, không phải ở quá khứ: /
 Why are you still in bed? It's time you got up. '
 (Tại sao còn nàm lì trên giuởng thế? Đă đến giở con phải dậy rói đấy)
 209
@@ -3969,7 +4004,9 @@ Cáu trúc này làm cho lời phàn nàn hoặc lởi phô binh mạnh hơn:
 It's about time Jack did some work for his examination.
 (Dà đến túc Jack phải học hành đẩ chuẩn bị cho ký thi của anh ta..
 
-## BÀI 66: SEE SOMEONE DO và SEE SOMEONE DOING (Cấu trúc câu VỚ! động từ SEE)
+## BÀI 66: SEE SOMEONE DO và SEE SOMEONE DOING 
+
+(Cấu trúc câu VỚ! động từ SEE)
 a.	Hãy xem xét tình huống mảu sau:
 Tom lên xe và lái đi. Đạn thây việc này. Bạn có thổ nói:
 I	saw Tom get into his car and drive away.
@@ -4021,8 +4058,9 @@ Can you smell something burning?
 -	She found him reading her letters.
 (Cô ấy phát hiện hắn đang đọc thư cùa cô ấy).
 
-## BÀI 67: -ING CLAUSES (Mệnh đề bắt đểu bâng -
-ING) (Feeling tired, I went to bed early)
+## BÀI 67: -ING CLAUSES 
+(Mệnh đề bắt đểu bâng - ING) 
+(Feeling tired, I went to bed early)
 a.	Mệnh đề (clause) IÃ thành phán của câu. Một số câu có hai mệnh đ4:
 -	Feeling tired, I went to bed early.
 (Càm tháy mệt mil, tữltữ ứ ngủ sớm).
@@ -4066,7 +4104,10 @@ Having already seen the film twice, I didn't want to go to the cinema. (= becaus
 Càc cấu trúc này thưởng dược dùng ừong văn viết hơn là văn nói.
 *
 
-## BÀI 68: CHANCE VỀ OPPORTUNITY (dịp, co hội)
+## BÀI 68: CHANCE, OPPORTUNITY 
+
+(dịp, co hội)
+
 a.	Chance of -Ing (khỏ năng có thể xiy ra}:
 Chúng ỉa nói "someone has a (good) chance of doing something” (at đó cổ thể / khả nỗng (cao) để lồm điều gỉ):
 -	Do you think I have a chance of passing the examination?
@@ -4113,13 +4154,15 @@ We live near the mountains, so we have plenty of opportunity to go skiing.
 Đừng nói “possibility to do something”:
 -	I had the opportunity to study ki Canada, (không nói “possibility to study*) (Tõi đã có cơ hội được đi học ở Canada..
 
-## BÀI 69: UNCOUNTABLE NOUNS (Danh từ không đếm được. (gold, music, advice v.v...)
+## BÀI 69: UNCOUNTABLE NOUNS 
+
+(Danh từ không đếm được. (gold, music, advice v.v...)
 Oanh từ (noun) có thể thuộc loại đém được {countable) hoặc không đếm được (uncountable) Đối với danh từ đếm được, xin xem ## BÀI 70.
 a.	Sau đây là một số danh từ không đếm được (uncountable nouns): gold (vảng), music (âm nhạc., blood (mởu), excitement (sự hào hứng), v.v...
 Danh từ khồng đếm được là những thử mà ta không thể đếm được. Chúng không có hình thức SỐ nhiểu (no plural). Bạn không thể nói “musics", “bloods”, hoặc "excitements".
 b.	Trước cảc danh từ không đếm được bạn có thể dũng the I tome / any / much / this / Ms, v.v...: ffte music; some gold, much excitement; his blood.
 iflp
-Bạn cũng có thể dùng các danh từ không đếm được mà không cán có article (mạo từ) đi kèm (xem bàl 74):	'.	*
+Bạn cũng có thể dùng các danh từ không đếm được mà không cán có article (mạo từ) đi kèm (xem bàl 74): '.	*
 -	This ring is made of gold. (Chiếc nhăn này tàm bằng vàng).
 -	Blood is red. (Mảù có màu đỗ).
 c.	Nhlểu danh từ có thê’ vừa được dũng như danh từ đếm dược vừa được dùng như danh từ không đếm được. Tất nhièn vé ý nghĩa có khác nhau. Th( dự:
@@ -4160,7 +4203,10 @@ I'm looking for a job. (c. nhưng. I'm looking for work. (UNc.
 What a lovely view! (c. nhưng: What lovely scenery!(UNc.
 (Phong cảnh mới đáng yêu làm saoi).
 
-## BÀI 70: COUNTABLE NOUNS (Danh từ đếm được, đl với A/AN và SOME) t
+## BÀI 70: COUNTABLE NOUNS 
+
+(Danh từ đếm được, đi với A/AN và SOME)
+
 Danh từ có thể thuộc toại đếm được (countable) hoặc không đếm được (uncoun* table). Đối VỚI danh từ không đếm được, xln xem bàl 69.
 a.	Sau đây là một sô' ơanh từ đếm được (countable nouns):
 dog (chõ)	. umbrella (cái dù) Job (viặc làm)
@@ -4209,7 +4255,9 @@ Some children leam very quickly,
 Some policemen in Britain carry guns but most of them don't,
 (Một số cảnh sát ở Anh có mang súng nhưng phổn lớn thì không mang).
 
-## BÀI 71:	A / AN VÀ THE
+## BÀI 71: A / AN VÀ THE
+
+
 a.	Hãy xem thí dự sau:
 For lunch I had a sandwich and an apple. The sandwich wasn't very nice.
 Người nól đùng “a sandwich / an apple" (một bánh ml xồng-uých / một quả táo) V) đây là lán đầu tiên anh ta nồl đến chúng.
@@ -4255,6 +4303,7 @@ John Isn't very well. He has gone to the doctor. (= his doctor)
 Vổ mạo từ the, hày xem các ## BÀI 72-77.
 
 ## BÀI 72: Mạo từ THE (1)
+
 vé sự khác biệt giữa the và a/ an, xin xem ## BÀI 71.
 a.	Chúng ta dùng the... khi số lượng của thừ gl đó ch? lồ một:
 -	What is the longest river in the world? (there is only longest river)
@@ -4281,12 +4330,12 @@ b.	Chúng ta nói; the sea / the sky / the ground / the country / the countrysid
 Chúng ta nói go to eea / be at sea {không có the) khi ý nghĩa là "đi biển / làm một cuộc hành trình trôn biển".
 -	Ken is a seaman. He spends most of his life at sea.
 (Ken là một thõy thù. Anh ta sống phán lớn cuộc đời mình trên biển).
-Nhưng:	I would k>ve to live near the sea {không nói “near sea")
+Nhưng: I would k>ve to live near the sea {không nói “near sea")
 (Tôi thích sổng gần vùng biến).
 Chúng ta nói space (không nói "the space*) khi chúng ta muốn nói đến không gỉan trong vù trụ:
 *	There are millions of stars in space, (không núi “in the space*)
 (Cổ hàng triệu ngói sao trong không gian).
-Nhưng:	He tried to park his car but the space wasn't big enough.
+Nhưng: He tried to park his car but the space wasn't big enough.
 (Anh ta cữ gắng đậu xe nhưng chỗ trống không đủ đổ đậu).
 c.	Cinema ỉ theatre / radio / television:
 Chúng ta nới the cinema / the theatre:
@@ -4318,6 +4367,7 @@ Chúng ta cứng dùng a khi cá tính tù (adjective) đứng trước lunch /b
 Để biết thêm vé the. xem các ## BÀI 71.73’7.
 
 ## BÀI 73: Mạo từ THE (2)
+
 a.	Hãy xem các câu sau:
 The rose is my favourite flower.
 (Hoa hồng là loại hoa mà tôi yỗu thích).
@@ -4367,7 +4417,9 @@ Còn đối với các từ chỉ quổc tịch khác, bạn phải dùng một 
 (the) Scots	(the) Turks
 Xem các ## BÀI 71,72. 74-77 để biết thèm vé the.
 
-## BÀI 74: PLURAL AND UNCOUNTABLE NOUNS (Danh từ số nhỉểu và danh từ không đếm được - có hoặc không có the)
+## BÀI 74: PLURAL AND UNCOUNTABLE NOUNS 
+
+(Danh từ số nhỉểu và danh từ không đếm được - có hoặc không có the)
 a.	Chứng tã không dùng the trước một danh từ khi chúng ta muốn nói đến một cál gl đổ một cách chung chung (tổng quát);
 I	love flowers, (khởng nói “the Howers').
 (Tôi thích hoa., (flowers = hoa nói chung, không phải một loài hoa đặc biệt nào).
@@ -4425,7 +4477,8 @@ Do you like strong black coffee?
 nhưng: - Did you like the coffee we had with our meal last night?
 (Anh có thìch loại cà phê Chúng ta uống trong bữa àn tối hôm qua không?) (= một loại cà phể cụ thể).
 
-## BÀI 75:
+## BÀI 75
+
 hospital I the hospital, school I the school v.v...	< s
 a. Hây xem xét tình huống mẫu với hospital sau:
 -	Jack had an accident a few days ago.
@@ -4473,7 +4526,10 @@ Is Tom still in bed? (Tom vẳn còn đang nàm trên giường â ?)
 Will you be at home tomorrow? (Ngày mai bạn có ở nhà không?)
 không dùng giới tử đi kồm với: go/come / get / arrive home, (không nói "to home').
 
-## BÀI 76: GEOGFRAPHICAL NAMES with and without THE (Sử dụng mạo từ THE VỚI địa danh)
+## BÀI 76: GEOGRAPHICAL NAMES with and without THE 
+
+(Sử dụng mạo từ THE VỚI địa danh)
+
 a. Lục địa (continents): Chúng ta không dùng the với tôn cáo lục địa:
 Africa (không nới “the Africa')	Asia	Europe	South America
 (chỗu Phi)	(châu Ấ) (chôu Âu)	(Nam Mỹ)
@@ -4524,7 +4580,8 @@ the Thames (sông- Thames)
 the Rhine (sông Rhine)
 Ghl chú: Trên bản đổ. cóc địa danh thường không cớ the.
 
-## BÀI 77: OTHER PROPER NAMES with and without THE (Sử dụng mạo từ THE với các tên riêng khác.
+## BÀI 77: OTHER PROPER NAMES with and without THE 
+(Sử dụng mạo từ THE với các tên riêng khác)
 a.	Chúng ta thường không dùng the với lèn đường phố / quảng trường (streets, roads, squares ...):
 Regent Street (không nói “the Regent*) Fifth Avenue
 (đường Regent)	(Đại lộ số Năm)
@@ -4540,14 +4597,14 @@ Hyde Park (Công viển Hyde) London Zoo (Sỏ thú London)	Westminster Abbey	Bu
 Nhưng chúng ta lại nói “the White House" (Nhà trấng), “the Royal Palace” (Cung điện Hoàng gia.v'\ “white" và “royal" không phải là tên riêng.
 Đây chỉ là qui tắc tổng quát, vẫn có những ngoại lệ. Hây xem phần c vế khách sạn v.v... và phần e) vổ tên gọi dùng với of.
 c.	Chúng ta thường dùng the trước tôn của những nđi sau dây:
-Khách sạn:	the Hilton (Hotel), the Station Hotel
-Nhà hàng / quán rượu:	the Bombay Restaurant, the Red Lion (pub..
-Nhà hát:	the Palace Theatre, the National Theatre.
-Rạp chiếu bóng:	the ABC, the Odeon, the Classic.
+Khách sạn: the Hilton (Hotel), the Station Hotel
+Nhà hàng / quán rượu: the Bombay Restaurant, the Red Lion (pub..
+Nhà hát: the Palace Theatre, the National Theatre.
+Rạp chiếu bóng: the ABC, the Odeon, the Classic.
 Viện bảo tàng / phòng trưng bày: the British Museum, the Tate Gallery.
 Tuy nhiên, cũng vẫn cố những ngoại lệ. Xem thêm phẩn d cùa ## BÀI này.
 d)	Nhiêu cửa tiệm, nhà hàng, khách sạn, ngàn hàng V v... được mang tên người sáng lập ra chúng. Những tèn này tận cùng bằng s hoặc s'. Chứng ta không dũng the trưởc những tên này:
-Cửa tiệm:	Self ridges (không dùng "the Selfridges), Harrods.
+Cửa tiệm: Self ridges (không dùng "the Selfridges), Harrods.
 Nhà hàng: Maxim's, Macdonalds, Luigi's Italian Restaurant.
 250
 Claridge's.
@@ -4565,7 +4622,9 @@ the Times
 the Washington Post
 the Evening Standard
 
-## BÀI 78: SINGULAR OR PLURAL? (Số ít hay số nhiều?)
+## BÀI 78: SINGULAR OR PLURAL? 
+
+(Số ít hay số nhiều?)
 a.	Có những nouns (danh từ) chi dược dùng ở số nhiéu (plural). Thí dụ: trousers	jeans	shorts	pyjamas	tights
 (quẩn tây)	(quẩn gìn)	(quẩn soóc.	(đố ngủ)	(vớ lót	dài)
 scissors	glasses / spectacles
@@ -4634,7 +4693,8 @@ a four-week course.	a six-hour journey.
 (một khổ a học 4 tuần).	(một cuộc hành trình 6 giỗ).
 Bạn cGng cố thể nói "I've got three weeks holiday”, Xem ## BÀI 79d.
 
-## BÀI 79:	POSSESSIVE CASE OF NOUNS
+## BÀI 79: POSSESSIVE CASE OF NOUNS
+
 (Hình thức sở hữu của danh từ)
 a.	Chúng ta thường dùng 's (possessive case) khi cái làm chù (the possessor) là người (people) hay động vật (animals), the manager's office (không nổi “the office of the manager*) (phòng giám đốc..
 Mr. Avans's daughter	the horse's tail	a policeman's hat
@@ -4687,7 +4747,8 @@ My house is very near here ■ only about five minutes'walk.
 (Nhà tôi rất gần đây - chỉ đi bộ khoảng năm phút thôi).
 Hãy so sánh cấu trúc này với 'a three-week holiday’ (## BÀI 78f).
 
-## BÀI 80: POSSESSIVE PRONOUNSAND ADJECTIVES (Đại từ và tính từ sở hữu)
+## BÀI 80: POSSESSIVE PRONOUNS AND ADJECTIVES (Đại từ và tính từ sở hữu)
+
 a.	A friend of mine / a friend of Tom's (một người bạn của tôi / một người bạn của Tom): Chúng ta nói: ‘a friend of mine / yours / his / hers I ours / theirs' (không nói *a friend of me / you / him'v.v...)
 A friend of mine is coming to stay with me next week, (Không nói *a friend of me'). (Một người bạn của tôi sẽ đến ó với Tôi vào tuấn Tôi).
 \Ne went on holiday with some friends of ours, (Không nói 'some friends of US*). (Chúng tôi đă đi nghỉ với một vài người bạn của chủng tôi).
@@ -4733,11 +4794,11 @@ Jack was sitting on his own I by himself in a corner of the café.
 Learner drivers are not allowed to drive on their own /by themselves. (Người đang học lái khóng được phép lái xe một minh).
 Vế myself / yourselves, v.v... xem thêm ## BÀI 81.
 
-## BÀI 81:	REFLEXIVE PRONOUNS (Đại từ
-phản thân)
+## BÀI 81: REFLEXIVE PRONOUNS (Đại từ phản thân)
+
 a. Các reflexive pronouns (đại tù phàn thân) bao gỗm:
-Số ít:	myself	yourself (một người)	h i m s e I f/h e rse If/itsẹl f
-SỐ nhiều:	ourselves	yourselves (hai người trỗ lên)	themselves
+Số ít: myself	yourself (một người)	h i m s e I f/h e rse If/itsẹl f
+SỐ nhiều: ourselves	yourselves (hai người trỗ lên)	themselves
 Chúng ta dùng reflexive pronoun (đại tử phản thân) khi subject (chủ tử) và object (túc từ) củng chỉ một:
 while he was shaving, (không nói "Tom cut him*)
 (Tom bị sướt da trong khi đang cạo râu).
@@ -4757,7 +4818,7 @@ It's good to relax.
 Chúng ta thường khóng dùng reflexive pronoun sau wash/dress/shave:
 I	got up, shaved, washed and dressed. (Không nối 'shaved myself' v.v...
 Tôi thức dây. cao râu, rửa mặt và mặc quần ảo.)
-Nhưng chúng ta nỏi:	- I dried myself
+Nhưng chúng ta nỏi: - I dried myself
 (Tôi đã lau khô người.)
 Hãy lưu ý đên cách dùng meet:
 What time shall we meet? (Không nói 'meet ourselves/meet us') (Chúng ta sẽ gặp nhau lúc mấy giờ?)
@@ -4765,7 +4826,7 @@ What time shall we meet? (Không nói 'meet ourselves/meet us') (Chúng ta sẽ 
 c.	Hãy xem xét sự khác biệt giữa -selves và each other:
 Tom and Ann stood in front of the mirror and looked at themselves.
 (Tom và Ann đứng trưỡc gương và tự ngám minh).
-Nhưng:	Tom looked at Ann and Ann looked at Tom. They looked at each other.
+Nhưng: Tom looked at Ann and Ann looked at Tom. They looked at each other.
 (Tom nhìn Ann và Ann nhìn Tom. Họ nhìn nhau)
 Bạn cũng cớ thể dừng one another thaý cho each other:
 How long have you and Bill known each other (hoặc one another)?
@@ -4787,7 +4848,8 @@ I	don't think Tom will get the job. Tom himself doesn't think he'll get it.
 (Tỏi không nghỉ rằng Tom sẽ nhận được công việc đó) Chính Tom cùng không cho . là anh ta sẽ nhận được.)
 vể "by myself/by yourself* v.v.... xem ## BÀI 80c.
 
-## BÀI 82: All / all of, no / none of, most / most of v.v...
+## BÀI 82: All - all of, no - none of, most - most of 
+
 a.
 all	no/none	some/any	much/many	most	lỉttle/few
 (tất cả)	(không)	(vài)	(nhiều)	(háu hết)	(it)
@@ -4850,8 +4912,8 @@ half of them (không nói 'half them' , phẩn nửa bọn họ
 Vế no và none, xem thèm ## BÀI 85c
 Để biết thêm vế những chữ đã dược liệt kê trong ## BÀI này, xem các ## BÀI 83-7
 
-## BÀI 83:
-Both / both of, neither / neither of, either / either of
+## BÀI 83: Both - both of, neither - neither of, either - either of
+
 a.	Chúng ta dùng both, neither và either khi chúng ta đang nổi đến hai người hay hai vật nào dỏ. Bạn có thể dùng các từ này với một danh từ:
 Both restaurants are very good
 (Cà hai nhà hàng đéu rất tốt) {Không nói ’the both restaurants’)
@@ -4906,7 +4968,8 @@ I	couldn’t decide which one to choose. I like both
 (Tôi  Không thể quyết dịnh phải chọn cái nào Tôi thích cả hai).
 Về / don't either và neither do /, xem ## BÀI 51c.
 
-## BÀI 84:	SOME và ANY
+## BÀI 84: SOME và ANY
+
 Các kết hợp với SOME / ANY
 a.	Một cách tổng quát, chúng ta dùng some trong câu xác đình (affiermatrve) và any trong câu phủ định (negative) (nhưng hãy xem thêm phắn b vầ d):
 Ann has bought some new shoes
@@ -4976,7 +5039,8 @@ If anyone wants to leave early, they can.
 (Al ơò ơã đành đổ cà phé lên tấm thảm).
 Về some of Ị any of, xem ## BÀI 82. vế not...any, xem ## BÀI 85.
 
-## BÀI 85:	NO, NONE và ANY
+## BÀI 85: NO, NONE và ANY
+
 Các kết hợp với NO và ANY
 a.	No, none, no-one, nobody, nothing, nowhere:
 Chúng ta thường dùng những từ phủ đinh này ồ đầu câu hoặc dùng mật mình: No-one (Nobody) came to visit me when I was in hospital.
@@ -5039,13 +5103,14 @@ I expected your house to be very big but it's no bigger than mine. ( = not even 
 (Tôi củ nghi rằng nhà anh lờn lắm, nhưng thật ra nó chẳng hơn nhà tôi chút nào.)
 
 
-## BÀI 86:
-MUCH, MANY, LITTLE, FEW, A LOT và PLENTY
+## BÀI 86: MUCH, MANY, LITTLE, FEW, A LOT và PLENTY
+
+
 a.	Much, many, few, little
 Chúng ta thường dùng much và little với các uncountable nouns (danh từ không đếm được.:
 much time	much luck	little energy	little money
 (nhiéu thời gian)	(nhiều may mắn)	(ít sức lực.	(it tiên) .
-Chúng ta dùng many và few với các plural nouns (danh tử số nhiểu):			
+Chúng ta dùng many và few với các plural nouns (danh tử số nhiểu): 		
 many friends	many people	few cars	few countries
 (nhiều bạn bè)	(nhiéu người)	(ft xe hơi)	(ít quốc gia.
 b. A lot (of), lots (of), plenty (of)
@@ -5078,7 +5143,7 @@ Hurry up! We’ve got little time. (= not much, not enough time)
 (Nhanh lên! Chúng ta còn ft thòi gian lắm)
 He’s not popular. He has few friends. (= not many, not enough friends)
 (Anh ta không được ưa thích lắm Anh ta có ft bạn bè.)
-281
+
 Chúng ta cũng dùng very little và very few:
 - We’ve got very little time.
 (Chúng ta có rất ữ thời gian).
@@ -5101,7 +5166,8 @@ Hurry up! We’ve only got a little time.
 The village was very small. There were only a few houses.
 (Ngôi làng rất nhỏ. Chỉ có một vài căn nhã).
 
-## BÀI 87:	ALL, EVERY và WHOLE
+## BÀI 87: ALL, EVERY và WHOLE
+
 a.	All, everyone, everybody, everything:
 Chúng ta thường Wrong dùng all với nghĩa everyone/everybody (mọi người):
 Everybody enjoyed the party. (Không nói ’All enjoyed*)
@@ -5164,7 +5230,9 @@ I‘ve been trying to find you all morning/the whole morning
 Hãy lưu ý rằng chúng ta thưởng nói all day/all week v.v... (không nối *all the day/all the week’)
 Về all. xem thêm các ## BÀI 82 và 106.
 
-## BÀI88: RELATIVE CLAUSES (Mệnh đề quan hệ) (1): Mệnh đề bắt đầu bằng who/ that / which
+## BÀI 88: RELATIVE CLAUSES (Mệnh đề quan hệ) (1)
+
+: Mệnh đề bắt đầu bằng who/ that / which
 a.	Xem thí dụ sau;
 The man
 who lives next door
@@ -5211,8 +5279,9 @@ c.	Hãy nhớ rằng chững ta dùng who / that / which thay cho he / she / the
 Do you know the man who lives next door? (không nói "...who he lives...’).
 (Bạn có quen người sống ở nhả bỗn cạnh không?)
 
-BAI 89: RELATIVE CLAUSES (Mệnh đẽ quan hệ)
-(2): Mệnh đề có hoặc không có who / that
+## BÀI 89: RELATIVE CLAUSES (Mệnh đẽ quan hệ) (2)
+
+: Mệnh đề có hoặc không có who / that
 ã) Hây xem lại các thí dụ thuộc ## BÀI 88 sau đày.
 ■ The man who lives next door is very friendly (hoặc 'that lives...").
 (Ngưởi sống ở nhà bén cạnh rất thân thiện).
@@ -5239,7 +5308,7 @@ b.	Giới từ (prepositions) thường được dùng trong các mệnh đổ l
 do you know the girl? ■ Tom is talking Ito lher?
 Do you know the girl (who/that) Tom is talking [fo|?
 (Bạn có biết cõ gãi mà Tom đang nói chuyện cùng không?).
-290
+
 the bed -1 slept ripl last night -• wasn't very comfortable.
 == the bed (that) I slept Cinl last night wasn’t very comfortable.
 (Chiếc giương tôi nằm tối hõm qua không được thoải mái lẩm).
@@ -5253,13 +5322,14 @@ c.	Bạn không thể dủng what thay cho that:
 Everything (that) he said was true, (không nói "everything what he said") (Mọi điều anh ta nói đéu đúng cả).
 I	gave her all the money (that) I had. (không nói "all...what I had")
 (Tôi đã đưa cho cô ta tất cả số tién Tôi cổ). *	- -
-What = the things that:	~
+What = the things that: ~
 Did you hear what I said? (= the words that I said)
 (Bạn có nghe những gỉ tôi nói không?).
 I	won't tell anyone what happened. (= the thing that happened) (Tôi sẽ không nôi cho ai biết chuyện gì đã xảy ra..
 
-BAI 90: RELATIVE CLAUSE (Mệnh đễ quan hệ)
-(3): Mệnh đè với whose, whom và where
+## BÀI 90: RELATIVE CLAUSE (Mệnh đề quan hệ) (3)
+
+: Mệnh đè với whose, whom và where
 a.	Whose
 Chúng ta dùng whose trong mệnh để quan hệ thay cho his/her/theữ:
 We saw some people- [ their I car had broken down
@@ -5272,7 +5342,7 @@ What the name of the girl whose car you borrowed? (you borrowed her car)
 (Cô gái bạn mượn xe hơi tổn là gì?).
 The other day I met someone whose brother I went to school with. (I went to school with his brother).
 (Hóm kia Tôi gặp một người có em trai học chung với tôi)
-b.	Whom có thể dược dùng thay cho who (chỉ người) khi nó là túc từ (object) của động tử trong mệnh để quan hệ (như những câu ở ## BÀI 89):
+b.	Whom có thể dược dùng thay cho who (chỉ người) khi nó là túc từ (object) của động tử trong mệnh để quan hệ (như những câu ở BÀI 89):
 -	The man whom I wanted to see was away on holiday (I wanted to see him) (Ngươi đàn ông mả tôi muốn gặp đã đi nghĩ rổi)
 Bạn cũng có thể dửng whom VỚI một giỏi từ (preposition) (to/lrom/wlth whom.)
 -	The girl with whom he fell in love left him after a few weeks ( he fell in love with her) (Cỗ gái mà anh ta yêu đà bỏ rơi anh ta chỉ sau vài tuán).
@@ -5302,64 +5372,10 @@ The last time (that) I saw her, she*looked very well
 e)	Bạn có thể nói "the re son why something happens" hoặc “the reason that something happens" (lý do vl sao việc gl đó xảy ra.. Bạn cũng có thể bồ why hoặc that đi:
 The reason (why/that) Tm phoning you is to invite you to a party.
 (Lý do tôi gọi diện thoại cho bạn là để mời bạn đến dự tiệc..
-UNIT 90: Exerciese ,
-90.1	You were on holiday with a friend of your. You met some people who had some bad experiences during their holiday. You met:
-1	some people / their car broke down
-2	a man / his wife became ill and was staken to hospital
-3	a woman / her husband was arrested by the police
-4	a girl / her passpost was stolen	*
-5	a couple I their luggage disappeared
-You can't remember the names of these people, so you ask your friend. Make sentences with whose.
-1	What was the name of the people whose car broke down?
-2	What was the name of the man.. ____________________________________________?
-3	What••	••• ••• ••• •• ••• ••• •• ••• ••• ••• ••• — •••	«FP Mb m *pp <»» FM ppp MP PM PP4 MP VM Pwe M «M Pw» M PM ••• w •** we we we ?
-4	...	?
-5	„	?
-90.2	The sentences in the exercise are not complete. You hava to complete them with where.
-Use the sentences in the box to make your relative clauses
-I can buy postcards there	IWQ9 bom there
-she had bought it there	we spent our holidays there
-people are buried there we can have a really good meal there
-294
-1	I recently went back to the town where 1 was born.
-2	The dress didn't tit her, so she to took it back the shop
-3	Do you know a restaurant.............. ................  -----------------------?
-4	Is there a shop near here___________________-.................-.................?
-5	The place......—  _________________was really beautiful.
-6	A cemetery is a place------------------_. — ............ —.......................
-90.3	Again you have to complete the sentences with a relative clause. Use the sentences if the box to make your relative clauses.
-(her) dog bit me	they haven't got a car (for this reason)
-John is staying (there)	I didn't write to you (for this reason)
-We first -met (on that day)	the Second World Warended(inthat year)
-(his/her) parents are dead you telephoned (that evening).
-1	Do you remember the day (that) we first met?
-2	An orphan is a child .......................   ;--------------------------------........
-3	The reason___________________________was that I didn’t know your address.
-4	Unfortunately I wasn’t at the evening-------------------------------------------------
-5	I protested to the woman_______________________.......______—________—......-...——
-6	The reason..............................................is that they can’t afford one.
-7	Do you know the name of the hotel- ..................................—..............?
-8	1945 was the year................__.................................      ...........
-KEY
-90.1	2. What was the name of the man
-whose wife became ill and was taken to hospital?
-3	What was the name of the woman whose husband was arrested by the police?
-4	What was the name of the girl whose passport was stolen?
-5	What was the name of the couple whose luggage disappeared?
-90.2	2 .. where she had bought it.
-3 ..where we can have a really good meal?
-4	...where I can buy postcards?
-5	...where we spent our holidays..
-6	.. where people are buried
-90.3	2 ..whose parents are dead.
-3	,.(why/that)1 didn't write to you..
-4	...(that) you telephoned
-5	.. whose dog bit me
-6	_(why/that) they haven't got a car..
-7	..where John is staying?
-8	..(that) the Second World War ended.
-295
-BÀỈ 91: RELATIVE CLAUSES (mệnh đề quan hệ) (4): mệnh đề “cung cấp thêm thông tin” (1)
+
+## BÀI 91: RELATIVE CLAUSES (mệnh đề quan hệ) (4)
+
+: mệnh đề “cung cấp thêm thông tin” (1)
 a.	Xem tại các thí dụ sau:
 The man who lives next door is very friendly.
 (Người đàn ỗng sống d nhà bởn cạnh rất thẳn thiện)
@@ -5400,7 +5416,9 @@ My sister, whom (who) you once met. is visiting US next week.(Chị tôi , mâ c
 Để biết thêm vổ whose, whom và where, hãy xem ## BÀI 90. _
 Xem ## BÀI kế tiếp để hiểú rò hơn vổ mệnh đé quan hệ “cung cấp thêm thông tin”
 
-## BÀI 92: RELATIVE CLAUSES (mệnh đề quan hệ) (5): Mệnh đề “cung cấp thêm thông tin” (2)
+## BÀI 92: RELATIVE CLAUSES (mệnh đề quan hệ) (5)
+
+: Mệnh đề “cung cấp thêm thông tin” (2)
 Bạn xem ## BÀI trước khi xem ## BÀI này
 a.	Giới tử + whom/ which:
 Trong các mệnh đề cung cổp thêm thông tin, bạn có thể dùng một giới từ (preposition) trước whom (chỉ người) và which (chỉ vật). Vỉ vậy bạn cố thể nói “to whom/ with, whom / about which/for which"...
@@ -5437,6 +5455,7 @@ The weather was very good, which we hadn’t expected (không nói what we hadn'
 Về what, xem bàl 89c.
 
 ## BÀI 93: -ING and -ED CLAUSES
+
 (Mệnh đề bắt đẩu bằng -ing và -ed)
 a.	Mệnh đé là thành phán của câu. Một số mệnh để bắt dầu bằng -ing hoặc -ed:
 Do you know the qirlỊ talking to Tom?] (mệnh để -ing)
@@ -5476,7 +5495,8 @@ There were some children swimming in the river.
 - When I arrived, there was a big red car parked outside the house.
 (Khi tõi đến, đà có một chiếc xe hơi to màu đô đậu bên ngoài ngõi nhà) Để biết thêm mệnh đổ -ing, xem bải 67.
 
-## BÀI 94:	ADJECTIVES (Tính từ)
+## BÀI 94: ADJECTIVES (Tính từ)
+
 tận cùng bằng-ING và -ED
 a. Có rất nhiéu cặp tỉnh từ (adjectives) tận cùng băng -ingvà -ed. Thi dụ như boring và bored Hãy xem xét tinh huổng mẫu sau
 • Jane has been doing the same job for a very long time. Every day she does exactly the same thing again and again. She doesn't enjoy it any more and would like to do something different.
@@ -5519,7 +5539,9 @@ Nhửng cặp tinh từ khác tận cùng bằng -Ing và -ed:
 Fascinating (lói cuốn, hấp dẫn) Exciting (sõi đóng) Amusing (hay, vui) Amazing (làm kinh ngạc. Astonishing (làm kinh ngạc. Shocking (làm sửng sốt) Disgusting (làm kỉnh tờm) Embarrassing (làm bối rối) Confusing (lãm bối rối) Horrifying (lảm kinh hoàng) . Terrifying (kinh khiếp) Frightening (làm sợ hãi) Depressing (làm nản chỉ) Worrying (làm lo lâng) Annoying (làm phiền, quấy rấy) Exhausting (làm mệt nhoài) Satisfying (làm thỏa mãn)
 fascinated (bị lõi cuốn; bị thu hút) excited (bị kích động) amused (thấy vui thích) amazed (kinh ngạc; thấy lạ lùng) astonished (kinh ngọc. shocked (sửng sốt) disgusted (kinh tởm) embarrassed (cảm tháy bối rối) confused (cảm thấy bối rối) horrified (kinh hoàng) terrified (khiếp sợ) frightened (sợ hãi) depressed (nản chí) worried (lo lắng) annoyed (thấy khó chịu) exhausted (mệt nhoài) satisfied (thỏa mãn)
 
-## BÀI 95: Thứ tự của tính từ (“a nice new house”) Tính từ đứng sau động từ (“Do you fee! tired?”)
+## BÀI 95: Thứ tự của tính từ 
+
+(“a nice new house”) Tính từ đứng sau động từ (“Do you fee! tired?”)
 a.	Đôi khi chúng ta sử c'ung hai hay nhíổu tính từ cùng một lúc:
 Tom lives in a nice new house.
 (Tom sống trong một càn nhà mời xinh xẩn).
@@ -5575,15 +5597,18 @@ Nhưng sau look at, chúng ta phải dũng một trạng từ:
 Tom looked at me sadly, (không nói" looked at me sad”)
 (Tom nhìn tôi một cách buón rầu)
 
-## BÀI 96.TÍNH Từ và TRẠNG TỪ (1) (quick/quickly)
+## BÀI 96: TÍNH TỪ và TRẠNG TỪ (1) 
+
+(quick/quickly)
+
 a.	Hãy xem các thí dụ sau:
 Our holiday was too short -the time went quickly
 (Ký nghỉ hè chúng tôi quá ngắn -thời gian trôi nhanh ghẻ )
 The driver of the car was seriously injured in the accident.
 (Người tàI xổ bị thương nặng trong tai nạn đó.)
 Qưiclyvà seriously là các trạng từ (adverbs). Nhiều trạng tử dược thành lập từ một tính tử +ly.
-Tinh từ:	quick	serious	careful	quite	heavy	bad
-Trạng từ:	quickly	seriously	carefully	quitely	heavily	badly
+Tinh từ: quick	serious	careful	quite	heavy	bad
+Trạng từ: quickly	seriously	carefully	quitely	heavily	badly
 Vé luật chính tả, xem phần phụ lục 3 Đối với hard / fast Ị well xem ## BÀI 97.
 Không phải tất cả những chữ lận cùng bằng -ly điều là"trạng từ. Có một só tính từ cũng tận cùng bằng-ly.Thí dụ:
 Friendly	lively	elderly	lonely	silly	lovely
@@ -5638,7 +5663,8 @@ The driver of the car was seriously injured in the accident.
 The building was totally destroyed in the fire.
 (Tòa nhà bị thiêu hủy hoàn toàn trong vụ hỏa hoạn.)
 
-## BÀI 97:	TÍNH TỪ và TRẠNG TỪ (2)
+## BÀI 97: TÍNH TỪ và TRẠNG TỪ (2)
+
 (Good/well, fast/hard/late, hardly)
 a.	Good/well: Good là tình tử. Trạng ft? của good là well:
 - Your English is very good. (Tiếng Anh cùa bạn rất tốt).
@@ -5648,7 +5674,7 @@ Chúng ta thường dùng well với các phân tử quá khử (dressed, known.
 Nhưng well củng là tinh từ với nghĩa " mạnh giòi. khỏe".
 How are you today? "rm very well, thanks”
 ("Hõm nay bạn có khỏe không?) (“Tôi rất khỏe, cám ơn’)*-
-b.	Fast / hard / lale: Những từ này vừa là tình tửvừa là trạng từ :
+b.	Fast / hard / lale: Những từ này vừa là tình tửvừa là trạng từ:
 Tinh ĩử;
 Jack is a very fast runner.
 (Jack là một người chay rất nhanh)
@@ -5690,11 +5716,12 @@ She ate hardly anything	hoặc	She hardly ate anything
 (Có ta háu như không ăn gì cổ).
 We've got hardly any food	hoặc	We’ve hardly got any food.
 (Chúng lôi hâu như chẳng còn tí thức ăn nào)
-Hardly ever = almost never (hẩu như chưa bao giờ) :
+Hardly ever = almost never (hẩu như chưa bao giờ):
 I'm nearly always at home in the evenings. I hardly ever go out.
 (Tôi gán như luôn có ở nhà vào buổi tối. Tôi hầu như không đi đâu cả.) ■
 
-## BÀI 98:	SO và SUCH
+## BÀI 98: SO và SUCH
+
 a.	Hãy xem các thi dụ sau:
 I	didn't enjoy the book. The story was so stupid.
 (TÔI không thích quyển sách đó. câu chuyện quá nhâm nhí)
@@ -5705,7 +5732,7 @@ Chúng ta dùng such với một tính tử có kém theo danh tử: such a stup
 Bạn cũng có thể dùng so với một trạng từ:
 He's difficult to understand because he speaks so quickly
 (Khó má hiểu dược anh ta bởi vỉ anh ta nói quá nhanh) *
-b.	So và such làm cho ý nghĩa của tính từ mạnh hơn:	•
+b.	So và such làm cho ý nghĩa của tính từ mạnh hơn: •
 It's a lovely day. isn't it? It’s so warm. (=really warm)
 (Thật là một ngáy đẹp trời, phải không? Trời ăm thật)
 We enjoyed our holiday. We had such a good time. (=a really good time)
@@ -5746,7 +5773,9 @@ d)	Chúng ta nói: so long nhưng phải nổi “such a long time”, so far nh
 I	haven’t seen him for so Jong that I’ve forgotten what he looks like (Tôi không gặp anh ta lâu đến nổi Tôi dà quên anh ta hình dáng thế nào)
 I didn't know you lived so tar from the city centre (or... such a long way from...) (Tôi không biết lá ban sống xa trung tăm thành phổ đến như vậy) Why did you buy so much food? (or... such a lot of food?) (Sao bạn mua nhiêu thức ản quá vậy?)
 
-## BÀI 99:	ENOUGH và TOO
+## BÀI 99: ENOUGH và TOO
+
+
 a.	Vi trí của enough:
 Enough đứng sau tính từ và trạng tử: .	r
 -	He didn't get the job because he wasn't experienced enough, (không nói “enough experienced")
@@ -5754,7 +5783,7 @@ Enough đứng sau tính từ và trạng tử: .	r
 (Bạn sẽ không thi đậu nổu bạn không học hành chăm chỉ đúng mức.
 She can't get married yet. She's not old enough.
 (Cô ta chưa thể lập gia đình được. Cô ta chưa đủ tuồi)
-Enough dửng trước danh từ:	Ý 1
+Enough dửng trước danh từ: Ý 1
 -	He didn’t get the job because he didn't have enough experience, (không nói
 “experience enough").	• -
 (Anh ta Không nhận được cóng việc đó vì anh ta khóng có đủ kinh nghiệm)
@@ -5788,12 +5817,12 @@ The weather wasn't nice enough to go swimming.
 (Thời tiết không được tđt tâm đố đỉ bơi).
 He spoke too quickly for US to understand.
 (Anh ta nói nhanh quá khiến chúng Tôi không hiếu được..
-c.	Chúng ta nói:	‘7	.
+c.	Chúng ta nói: ‘7	.
 - The food was hot that we couldn't eat ft.
 (Thức ăn nóng đến nỗi tôi không thế ân được..
-và:	- The food was very hot. We couldn't eat / it.
+và: - The food was very hot. We couldn't eat / it.
 (Thữc ăn rất nóng. Chúng tôi không thể ẳn được..
-hoặc chúng ta nói:	7 The food was too hot to eat. (không có "if).
+hoặc chúng ta nói: 7 The food was too hot to eat. (không có "if).
 (Thữc àn nóng quá  Không thế ản dược..
 Sạu đây là một số thi dụ tương tự:
 That picture is too heavy to hang on the wall.
@@ -5804,8 +5833,9 @@ I	had to carry my wallet rn my hand. It was too big to.put in my pocket.
 (Nude khỗng đủ sạch dể cõ thể bơi được..
 • • ,••• * • • • •
 
-## BÀI 100: TO + ĐỘNG TỪ NGUYÊN MÂU sau TÍNH Từ
-a. Hãy so sánh ha. câu sau đây:				
+## BÀI 100: TO + ĐỘNG TỪ NGUYÊN MẪU sau TÍNH TỪ
+
+a. Hãy so sánh ha. câu sau đây: 			
 • - Jim doesn't speak very clearly. (Jim nói không rở rằng lắm.) Hai câu A và B có cùng ý nghĩa, difficult to ưndertand” (không nól “He is	—	A. It Is difficult to understand him. (Thật khó hiểu được anh ta.) —	B. He is difficult to understand. (Khó mà hiểu được anh ta.) Nhưng hãy lưu ý rống chúng ta nói “He is difficult to understand him.")		
 Bạn cố thể dùng cấu trúc câu B sau dlíllcult/easy / impossible I hard và sau một số
 tỉnh từ khác:
@@ -5836,7 +5866,7 @@ I	wa:. sorry to hear that your father was ill.
 (Tôi rất tide khi nghe nôi rằng ban bị bệnh)
 Was Tom surprised to see you when you visited him?
 (Khi bạn đến thảm, Tom có ngạc nhiên khi gặp bạn khóng?)
-325
+
 I was delighted to get your lettter last week.
 (Tỗi rất vui khi nhận được thư của bạn tuán rỗi)'
 Sau đây là một số tính từ khác bạn có thể dùng theo cách này:
@@ -5866,7 +5896,8 @@ it was generous of Ann to lend US the money.
 (Ann thật rộng lượng đã cho chúng tôi mượn tiền).
 
 ## BÀI 101: SO SÁNH của TÍNH TỪ và TRẠNG TỪ
-(1) : cheaper, more expensive, V.V..
+
+(1): cheaper, more expensive, V.V..
 a.	Hãy xem cốc thì đụ sau:
 Let’s go by car. It’s cheaper.
 (Chúng ta hãy đi xe hơi. Như thế rẻ tiổn hơn). «
@@ -5919,7 +5950,7 @@ Could you speak a bit (hoặc a little) more slowly?
 -	Her illness was far more serious than we at first thought.
 (Bệnh tình của có ta trám trọng hơn nhiều so với lúc ơáu chúng tôi nghỉ).
 
-## BÀI 102:	SO SÁNH (2)
+## BÀI 102: SO SÁNH (2)
 a.	Một số tính từ và trạng từ cổ hỉnh thức so sánh bộc hơn bất qui tắc (irregular comparative):
 Good / well better	Let me ask. him. I know him better than you do.
 (Hãy để tòi hỏi anh ta. Tôi biết anh ta rõ hơn là bận biết)	. ỉ
@@ -5979,8 +6010,9 @@ The more electricity you use. the higher your bill will be.
 The more you have, the more you want.
 (Đạn càng có nhiều bạn càng muổn nhiêu).
 
-## BÀI 103:
-so SÁNH (3): as... as; than
+## BÀI 103: SO SÁNH (3)
+
+: as... as; than
 a. Hãy xem xét tình huống mẫu sau:
 Joe, Henry và Arthur đéu là triệu phú. Họ rất giầu có. Joe cỏ 5 triệu. Henry cỏ 4 triệu và Arthur có 2 triệu. Nhu vậy:
 Henry is rich. (Henry giàu có).
@@ -6029,7 +6061,9 @@ d)	Sau than và 89- ta thường dùng me / him / her / them / us khi không có
 -	I can't run as fast as he can. nhưng: I can’t run as fast as him.
 (Tỗi khỗng thể chạy nhanh bảng anh ta..
 
-## BÀI 104: SO SẤNH cực CẤP : the longer, the most ejoyable; ~ '
+## BÀI 104: SO SÁNH CỰC CẤP 
+
+the longer, the most enjoyable; ~ '
 a.	Hãy xem các thí dụ sau:
 What is the longest river in the world?
 (Con sông dài nhất trán thế gW là con sông nào ?)
@@ -6080,7 +6114,10 @@ The book you lent me was most interesting. (=very interesting). (Quyển sách b
 -	Thank you for the money. It was most generous of you. (=very generous). (Cám ơn vé sổ tiổn đó. Bạn thật rộng rãi).
 ề	e
 
-## BÀI105:	TRẬT Tự TỪ (1) : động từ+túc từ; nơi
+## BÀI 105: TRẬT TỰ TỪ (1) 
+: 
+
+động từ+túc từ; nơi
 chốn và thời gĩán
 ề	•	‘	•	•
 •
@@ -6104,7 +6141,7 @@ At the end of the Street you'll see a supermarket on your left, (không nói-“
 (Ỗ cuối con đường, bạn sỗ th.ẵy mật siồu thị nồm bên tay trải). .	é
 vế vị trí của các từ như also và often trước động từ, xem ## BÀI 106.
 b.	NOI chôn và thài gian:
-Chúng ta thường dùng từ chỉ nơi chốn (where?) trước tử chỉ thời gian (when? / how often? / how long?):	.
+Chúng ta thường dùng từ chỉ nơi chốn (where?) trước tử chỉ thời gian (when? / how often? / how long?): .
 Nd chốn	thời gian
 Tom walks to work	every morning (không nối “Tom walks every
 morning to work). . .	.
@@ -6112,10 +6149,10 @@ morning to work). . .	.
 She hes been In Canada since April.
 (Cô ta đã ở Canada từ tháng tư).
 We arrived at the aiport early.
-(Chúng tôi dà dến săn bay sớm). :
+(Chúng tôi dà dến săn bay sớm).:
 341
 Sau đây tà một số thí dụ khác;
-I’hi going to Pans on Monday, (không nó I :l’m going on Monday to Paris”).
+I’hi going to Pans on Monday, (không nó I:l’m going on Monday to Paris”).
 (Tôi sô đí Parisvào thứhai).
 • Don’t be late. Make sui^you're here by 8 o'dock.
 (Đứng đến trề. Nhở là bạn phải có mặt ở đày vào lúc 8 giờ).
@@ -6130,7 +6167,9 @@ Every morning Tom walks to work.
 ■(Mỗi sáng Tom đi bộ đốn chỗ làm).
 Hãy lưu ý rằng bạn không thổ dùng early hoặc late ở đáu cẩu theo cách này được Hãyxem ## BÀI 106 để biổt.thém vổ trật tự tử. • • • • • ầ
 
-## BÀI 106: TRẬ T Tự TỪ (2)trạng từ đi VỚI động từ
+## BÀI 106: TRẬT TỰ TỪ (2)
+
+trạng từ đi VỚI động từ
 a.	Chúng ta dùng một số trạng từ (ví dụ như always, afeo, probably) cùng VỚI động tử ở« giũa câu:
 -	Tom always goes to work by car.
 (Tom luôn luôn đí làm bống xe hơi). '	I
@@ -6139,7 +6178,7 @@ a.	Chúng ta dùng một số trạng từ (ví dụ như always, afeo, probably
 Your car has probably been stolen.
 (Cổ lẻ xe hơi của ban đã bỊ đành cáp)
 b.	Hãy xem những qui tốt sau vổ vi trí của bạng từ khl đứng giữa câu (Đây chỉ lầ những qui tắc tổng quát, vl vậy vẫn cở những ngoại lộ).
-I) Nếu động tử chỉ là một chữ (gops, cooked. )7 chúng ta thường đặt trạng từ trước dộng từ:	»
+I) Nếu động tử chỉ là một chữ (gops, cooked. )7 chúng ta thường đặt trạng từ trước dộng từ: »
 ♦	trangJii	đẠnglừ
 Tom	always	goes to work by car.
 (Tom	luôn	đi lắm bằng xe hơi).
@@ -6237,7 +6276,7 @@ Câu Uốn có củng ý nghĩa với câu "he hasn’t come yef. Nhưng atilL. 
 ■ She*stf/ hasn’t written to me. (she should have written before now).
 ■ (Cô ta vẫn chưa viết thư cho Tôi.) (đáng lẻ cô ta phải viết rổi).	*
 b. Chúng ta đùng not- ahy more, not- any longer và no longer để nái rằng một tình huống nào đở đỗ thay đổi.	-	'	•	•-
-Any more và any longer đứng ở cuối câu:	* 1 2 3 4 5 6 7
+Any more và any longer đứng ở cuối câu: * 1 2 3 4 5 6 7
 “ Mr Davis doesn't work here any more (hoậc any longer). He left about six months ago.
 (Ong Davis không cỏn lồm viéc ỏ đây nữa. ồng la đỗ thôi việc cách đây 6 tháng).
 • ' We were good friends once but we aren't friends any more (hoặc any longer).
@@ -6252,7 +6291,8 @@ He is no longer a student, (không nói “ He is no more a student")
 (Anh ta không còn là sinh viển nữa.)
 • *
 
-## BÀI108:	QUITE và RATHER
+## BÀI 108: QUITE và RATHER
+
 a.	Quite? không bằng “very1 nhưng nhiổư hơn (hoặc lớn hơn) "a little”:
 I’m surprised you haven't heard of him. He's quite famous, (-less than very famous but more than a little famous).
 (Tôi ngạc nhiổn tà bạn chưa nghe gì vở õng ta. ông ta khá nổi tiếng).
@@ -6260,7 +6300,7 @@ Its quite cold. You’d better wear your coat.
 (Trời khá lạnh. Bạn nên mặt áo khoác..
 -	Tom Ilves quite near me, so we see each other quite often.
 (Tom sống khá gán chổ tõi, vl vậy chúng tôi gặp nhau khá thưởng xuyên)
--	Quite đứng trước a Ị an:	•	•
+-	Quite đứng trước a Ị an: •	•
 quite a nice day quite an old house . quite a long way
 Chúng ta cũng dùng quite với một só động từ. đặc biệt là like và enjoy:
 I	quite like tennis but it’s not my favounte"spbrt.
@@ -6277,7 +6317,7 @@ Quite cũng có thế được dùng trong các cãu trôn.
 Chúng ta thưởng dùng quite với ý nghĩa tích cực (positive) và rather với ý nghĩa phũ dịnh (tièu cực. (negative):
 •	She is quite intelligent but rather lazy. ••
 ịCÔ ta khá thông minh nhưng hơi lười).
-Khi chúng ta dùng rather với những từ tích cực {nice / interesting..), nó sỗ cố nghĩa là "“khác thường, bất ngở .ĩhỉ dụ:	• .	•
+Khi chúng ta dùng rather với những từ tích cực {nice / interesting..), nó sỗ cố nghĩa là "“khác thường, bất ngở .ĩhỉ dụ: • .	•
 Rather nice = tốt / tữ tế không ngờ.
 These oranges are rather nice. Where did you get them?
 - (Mấy quà cam này ngon quá. Bạn mua chúng ở đàu thế?)
@@ -6304,8 +6344,8 @@ They haven't quite finished their dinner yet.
 (Họ chưa ăn xong bữa tôị).
 I	don’t quite understand what you mean
 (Tõi hoàn toàn không hiếu anh ta muốn nái gì).
-BAI 109: THOUGH / THOUGH / EVEN
-THOUGH IN SPITE OF / DESPITE
+
+## BÀI 109: THOUGH / THOUGH / EVEN THOUGH / IN SPITE OF / DESPITE
 a. Hãy xem xét tình huống mảu sau:
 . b. Sau although chúng ta dùng chủ tử + động từ:
 Although she smokes 40 cigarettes a day, she is quite fit.
@@ -6350,7 +6390,7 @@ Even though là hlnh thức nhấn mạnh của although:
 Even though I was really tired, I couldn't sleep.
 (Cho dù tôi thực sự một mỏi, tõi vẩn không ngủ được..
 
-## BÀI110:	EVEN
+## BÀI 110: EVEN
 4 .	♦
 ■» a. Hăy xem thi dụ sau:
 Our football team lost yesterday. We all played badly. Bul ls our best player but yesterday even Bill played badly.
@@ -6398,7 +6438,10 @@ He has bought a car even though, he can't drive.	,
 (Anh ta đà mua xe hot mặc dù anh ta không biết lál xe).
 • • #
 
-## BÀI 444: Liên từ AS (chỉ lý do vồ chỉ thờỉ gian) As (chỉ lý do)
+## BÀI 111: Liên từ AS (chỉ lý do và chỉ thờỉ gian) 
+
+
+As (chỉ lý do)
 -	“As I was feeling tired^T went to bed early” As (chỉ thời gian)
 -	‘ì watched her as she opened the letter”
 a.	A® (chi lý do):
@@ -6414,7 +6457,7 @@ As we had nothing better to do, we watched, television thó whole evening.
 Nhưng Chúng ta cũng dùng as dể nói rằng hai sự việc nào đó xảy ra cùng một lúc.
 Hây xem phồn kế tiếp.
 b.	As (chl thời gian); —> Hal sự việc xảy ra cùng lúc.
-Bạn cổ thổ dùng as khi hal sự việc xảy ra cùng lúc hay cùng ừong một khoảng thời gian:	- ■
+Bạn cổ thổ dùng as khi hal sự việc xảy ra cùng lúc hay cùng ừong một khoảng thời gian: - ■
 I	watched her as she opened the letter.
 (Tôi quan sát cô ta khi cô ta mở tó thư).
 •	As they walked along the street, they looked In the shop windows.
@@ -6444,7 +6487,7 @@ Jill burnt herself as she was taking the cakes out of the oven.
 (Jill đã bị phỏng khi cỗ ta lấy bánh ra khỏi lò). ' ‘
 The thief was seen as he was climbing over the wall.
 (Tên trộm bị phát hiện khi hắn đang leo qua tường).
-Bạn Cũng có thể dùng Just as:	•
+Bạn Cũng có thể dùng Just as: •
 Just as we were going out, it started to rain.
 (Ngay khi chúng tỗi đang đi ra, trời bắt đầu mưa..
 I had to leave just as the conversation was getting interesting.
@@ -6453,8 +6496,9 @@ I had to leave just as the conversation was getting interesting.
 Hảy lưu ý rằng chúng ta chỉ dùng as khi hai hành động xảy ra cùng lúc. Đừng đùng as khi bành động này xảy ra sau hành động kia:
 - When I got home. I had a bath. (không nói "as I got homa*) (Khi vổ dốn nhổ. tòi đi tắm).
 
-## BÀI112:	LIKE và AS
-• * • •
+## BÀI 112: LIKE và AS
+
+
 a.	Like mang nghĩa “similar to, the same as, tor example” {tương tự như; chẳng hạn):
 What a beautiful house! It’s (ike a palace. (không nói "as a palace’). (Ngởi nhà mới đẹp làm saol Trồng như một dinh thự vậy). “What does George do?" "He's a teacher, like me".	'
 ("George làm nghể gì?" "Anh ấy lả giáo viên như tỗi"). Why do you always talk about boring things like your job?
@@ -6497,7 +6541,7 @@ Sue has just found a job as a shop assistant.
 We haven't got a car, so we use the garage as a workshop.
 (Chúng tôi chưa có xe hdl. vỉ thế Chúng tôi dùng ga-ra làm nhà xưởng).
 
-## BÀI113:	ASIF
+## BÀI 113: AS IF
 a	■	•
 ề 0
 a.	Bạn có thể dùng as it để nói rằng ai đó hay cỏi gi đó trông như thể.nào (look)/nghe có vẻ thế nào ,(sound)/cảm thấy thế nào (feel) V.V...:
@@ -6522,11 +6566,11 @@ It smells as though someone has been smoking in here.
 Sau It looks/sounds/smells, ta cũng có thể dùng like thay cho as If I as though: -• It looks like Tom isn't coming.
 (Có vẻ như Tom sẽ không đến).
 c.	Bạn cũng có thể đùng as If với những dộng từ khác để diễn tả ai đó làm một diéu gl
-đổ như thê’ nào:	>
+đổ như thê’ nào: >
 He ran as If he was running for his life.	.
 (Hắn chạy như thể gặp nguy hiểm chết người). ’
 After the interruption, she carried on talking as if nothing had happened. (Sau khi bị ngắt lởi, cô ta đã tiếp tục nói như thế chẳng có chuyện gì xảy ra cả).
-366
+
 When I told them my plan, they looked at me as if i was mad.
 (Khi tôi nói cho họ biết kẻ' hoạch của tôi. họ đã nhìn tôi như thẩ Tôi bi điển vậy).
 d)	Sau 99 If đôi khi chúng ta dùng thi quá khứ (past form) khi chúng ta nói vé Hiện tại. Thí dụ:
@@ -6539,8 +6583,7 @@ Harry's only 50. Why do you talk about him as if he were (hoặc was) an old man
 They treat me as if I were (hoặc was) their own son /[I’m not their son.)
 (Họ d$i xử với tôi như thể Tôi là con trai của họ vậy.) (Tôi khủng phải là con trai của họ)
 
-BẢ1114:
-AT / ON / IN (chỉ thời gian)
+## BÀI 114: AT / ON / IN (chỉ thời gian)
 a. At: Chúng ta dùng at để chỉ thời diểm (point of time):
 at 5 o'clock
 (Vào lúc 5 giở) (vào lủc 11 giở 45)
@@ -6598,7 +6641,7 @@ The train will be leaving tn a few minutest f- a few minutes from now) (Xe lửa
 They are getting married in six mớrrths (•= six months from now)
 (Sâu tháng nữa họ sẽ cưới nhau). ■ -tJ ... .	.
 
-## BÀI115: FOR, DURING và WHILE
+## BÀI 115: FOR, DURING và WHILE
 a.	For và during:
 Chúng ta dùng for ♦ một khoảng thài gian để nói rằng một sự nào đó diỗn ra trong bao lâu:
 for six years	for two hours	for a week
@@ -6658,7 +6701,8 @@ I'm going to London next week. I hope to see Tom while I'm there.
 -	What are you going to do while you are waiting?
 (Bạn sỏ làm gì trong khi chở đợi?)
 
-## BÀI116:	BY và UNTIL
+## BÀI 116: BY và UNTIL
+
 BY THE TIME...
 a. By (+ thời điểm) = không trễ hơn:
 I posted the letter today, so they should receive it by Monday
@@ -6710,7 +6754,8 @@ Bộn cũng có thể dủng by then hoặc by that time:
 -	Tom finally arrived at the party at midnight. But by then (hoặc by that time), most of the guests had left.
 (Cuối cùng Tom cũng đốn dư tiậc vào lúc nửa đổm. Nhưng lủc đó háu hốt khách đà ra vổ.)
 
-BA1117
+## Bài 117
+
 "Where did you meet Tom?” “In the street"
 ("Bạn đã gặp Tom ở dảu?" "Ngoài đường", (không nỏi “on the Street*) Who is the woman in that photograph?
 (Người đãn bà trong tấm ảnh đó là ai thế?) (không nói “on that photograph*) It was a lovely day. There wasn't a cloud in the sky.
@@ -6722,7 +6767,7 @@ at the bus stop (ở trạm xe buýt) at the door (ở cửa ra vào)
 at the window (ở cùa số)
 at the top (of the page)
 at the bottom (of the page) (ở cuôi trang)
-at the back : (ở phía sau : ở hàng cuỗi)
+at the back: (ở phía sau: ở hàng cuỗi)
 at the end /1 of the street
 (ở cuỗi con duòng)
 Who is that man standing at the bus stop/at the door/at the window?
@@ -6792,117 +6837,10 @@ Let's sit at the front (of the cinema. (nhưng "in the front row")
 Chúng ta nói" on the front / on the back of a letter 7 piece of paper" V.V..
 Write your name on the back of this piece of paper.
 (Hày viết lẻn của bạn vào mật sau của tở giấy này)
-Hãy xem thém ## BÀI 118.
-117.1	In this exercise you have to answer questions about the pictures Use In, or on with
-the words in brackets
-381
-■' c % li sd ant IB u
-1	Where's the label? (bottle).........................the bottle.
-2	Where's the man standing? (gate).........ÌÍ.....................—Ú-------------------
-3	Where's Tom sitting? (armchair)
-Where'S the picture? (wall)	• «••••••••»•■ 4« ••p«F*******a* ••• M.	M*
-4	Where's Ann Standing? (top/stairs)...................................................
-And where's the cat? (bottom/stairs)  ...........................———-________________
-5	What's George doing? (looking/mirror). He's........................... .-------------
-6	Tom lives in this building. Where's his flat exactly? (second floor) —................
-7	Where is the dog? (back/car)..................--------------J_u.ư—z.—----------------
-8	Tom is in the cinema. Where's he sitting? (back)............A..----------------------
-or: (back row)...........t7.......................
-9	Where's the post office? (left) ......... And the bank? (right)......................
-10	Where's the notice? (door).............:.........-------------------------------------
-11	Where is the girl standing? (corner) .........------------------------------_—________
-12	There is the man standing? (corner)...............................    —
-382
-117.2 c&ftptafie these sentences. Eachtime use ini ®t er on with one of the phrases from
-"ỉỹ l; 3 ĨH-'Ú ’>'i, Ì7 >r’ r r	•«< T	I £■■ :
-the front row the third floor	New York	X.:::	.. . the back of the class	the west coast the Swiss Alps
-my way to work the right	the back of the envelope the front page of the newspaper	the window Y3>l
-1	The headquarters of the United Nations Is in New York.	-I ?
-2	In most countries people drive.......... • »••»••••••••• ••• W4 ■“ 444 ••» ••• 444 444 44» 4M «»»	an >44«** +•» ft* 4*4 444 444 Mt —4
-3	I usually buy a newspaper.....................in the morning. ■ f ' ’•
-4	Last year we had a lovely sWrig holiday	;_
-5	San Francisco is.............M.......	ỒÌ the United States. <■’('■
-6	She spends all day sitting........... and watching what Is happening outside.
-7	I have to walk up a lot of stairs every day. My flat is Ỵ.L.... and there is no lift.
-8	l read about the accident. There was a report	,...._____________________________________________________________________________________________r.
-9	We went to the theatre last night. We had seats	-------------------------------------------------------------------------------------------——r-4---------------
-10	I couldn't hear the teacher very well. She had a quiet voice end I was sitting
-... .4 4 • 4 4 4 4 4 4 «» 4 4 « 4 4 4 4 4 4 4» Ma 4*4 *44 4M 4M 44« 44« 144 44-«44 44« 4*4 4*4 444 444 m <44 »44 444 44« 444 >4«	^*4 4a aa'uf <■	4*4>*M	Mi *a A* 4^ «*Ud«	•— 444 «44*4*4 • •
-11	When you send a letter, it is a good idea to write your name and address	;
-117.3 Complete these sentences with In, at or on.
-Examples. Turn left al the traffic lights.
-You'll find the cups on the top shelf.
-»•• • . I •	•	.	• » ’ ,
+Hãy xem thém
 
+## BÀI 118: IN / AT / ON (chỉ vị trí) (2)
 
-
-1	It can be đangerous when children píàý "football	me street.
-2	I'll meet you______________the corner (of the street) at 10 <ikC10Ck. '
-3	We got stuck in a traffic jam.............. the	way tothẹ ậĩrport
-4	There was an accident_________________the crossroads this morrilng.
-5	Look at those beautiful horses..........-_______that field!
-6	I can't find Tom.............this photograph. Is he............. it?
-7	.................the end of the street there is a path leading to the river.
-8	I wouldn't like an office job. I couldn't spend the whole day sitting..a desk.
-9	Do you take sugar___________________your coffee?
-10	Ann's brother lives__________a small village.......the south coast of England.
-11	You'll find the sports results......the back page of the newspaper.
-12	Sue and Dave got married.................._......Manchester tour years ago. ■
-13	Paris is-----------------------the river Seine.
-14	Mr. Boyle's office is-------------------------the first floor.-When you come out of the lift,
-it's the third door---------------------your left.	, r
-15	We normally use the front entrance to the building but there's another entrance
-. 4 4 4 . . 4 4 . «4444«	444H. 4M444 »**•**««•••• th© back.	. t
-16	If you want to get away from modem life, you should go and live ....-..’,..1.^................a
-small island in the middle of the ocean.
-ÔỒ3
-17	The man the police are looking for has a scar___________-—......his right cheek.
-18	I wasn't sure whether I had come to the right flat because there was no name
-........._..........the door.
-KEY
-117.1	1 on the bottle
-2	at the gate
-3	in an armchair... on the wail
-4	at the top of the stairs... at the bottom of the stairs
-5	He's looking (at himself) in the mirror.
-6	on the second floor
-7	in the back of the car
-8	at the back (or in the back row)
-9	on the left., on the right
-10	on the door
-11	at/on the comer (of the street)
-12	in the corner (of the room)
-117.2	2 on the right
-3	on my way to work
-4	in the Swiss Alps
-5	on the west coast
-6	at the window
-7	on the third floor
-8	on the front page of the newspaper
-9	in the front row
-10	at the back of the class
-11	on the back of the envelope
-1Ì7.3 1 in
-2	at/on
-3	on
-4	at
-5	in
-6	in... in
-7	At
-8	at
-9	in
-10	in... on
-11	on
-12	In
-13	on
-14	on... on
-15	at
-16	on
-17	on
-18	on
-384
-## BÀI118:
-IN / AT / ON (chỉ vị trí) (2)
 a.	Chúng ta nổi al đó: “at an event” {có mặt ở một dịp ỉ sự kiện...) Các thí dụ khác: ãt a party / at a corcert / at a conference / at a football match.
 (ở một buổi tiệc / ồ một buổi hòa nhạc / ở một buổi hội thào / ở một trận bóng đá)
 - Were there many people at the party / at the meeting ?
@@ -6964,7 +6902,7 @@ Chúng ta nól arrive home (không có giới tử);
 •	c	•	•
 • • •
 
-## BÀI119:	TO, BEEN TO, INTO
+## BÀI 119: TO, BEEN TO, INTO
 By car / in my car
 a. To: Chúng ta nói go/come/t ravel (v.v...) to một nơi nào hay sự kiện gì. Thí dụ:
 go to America'	come.to England “■	return tọ Italy
@@ -7030,8 +6968,8 @@ Chúng ta nói get on/off a bicycle, bus hoặc train:
 - Quick! Get on the train. Its ready to leave.
 (Nhanh lôrtt Lên xe lừa đi. Nó sắp khởi hành rổi đẩy.)
 
-## BÀI120:
-On time / in time At the end / in the end
+## BÀI 120: On time - In time - At the end - In the end
+
 a. On time và In time:
 On time = đúng giờ, không trễ. Nếumột sự việc nào đó xảy ra 'on time', tức là nố xảy ra đúng giở qui định hay vào đúng lúc dự tinh:
 -	The 11.45 train left on time. (= it left at 11.45)
@@ -7061,7 +6999,7 @@ Hày lưu ý đến thành ngữ just in time (vừa kịp lúc, vừa đúng l�
 b. At the end và In the end
 At the end (of something) = vào lúc cuối ỉ chót, vào phần cuối (của một sự kiộn, thời
 gian...). thì dụ: at the end of the month (vào CUỐI tháng) at the end of the film (vào cuối bộ phim)	at the end of January (vào cuối ỉháng Giông) at the end of the course (vào cuối khóa.
-392
+
 at the end of the match at the end of the concert
 (vào cuối trận đấu)	(vào ■CUỐI buổi hỏa nhạc..
 -	r I'm going away at the end of January / at the end of the month.
@@ -7084,7 +7022,7 @@ He got more and more angry. In the end he just walked out of the room.
 (Tom không thể quyết định sỗ đi nghỉ ở đỗu. Cuối cùng anh ta đà quyết định đi Ý).
 • •
 
-## BÀI121: DANH TỪ + GIỚI TỪ ("reason for1', "cause of' v.v...)
+## BÀI 121: DANH TỪ + GIỚI TỪ ("reason for1', "cause of' v.v...)
 Hây xem bảng liệt kê noun + preposition (danh từ đi vồi giới từ) sau đây. Đôi khi ta vẫn có thể dùng các giứi tù khác. Một cuốn, tự điển dược biên soạn tốt sẽ cung cấp thêm chi tiết cho bạn:
 a cheque FOR, (-một số tiềrr):
 - - They sent me a cheque for £50
@@ -7112,7 +7050,7 @@ a photograph /a picture OF someone / something:
 damage TO something:'
 .- The accident was my fault, sô Ỉ paid-for the damage to the other car.
 (Tai nạn là do lỗi ở Tôi, vì vậy tôi đă bồi thường thiệt hại của chiốc xe kia.)
-an Invitation TO a party/a wedding v.v...:	'	■
+an Invitation TO a party/a wedding v.v...: '	■
 -	Did you get an invitation to the party? ■
 (Anh có dược mời dấn dự tiệc không?)
 a reaction TO something;
@@ -7123,7 +7061,7 @@ r - I was surprised at his reaction Jo what I said.
 z	.. 395
 'ẹ	-	•	-	•
 1
-a solution TO a problem / an answer TO a question / a reply TO a letter / a key TO a door:	.■	.	.
+a solution TO a problem / an answer TO a question / a reply TO a letter / a key TO a door: .■	.	.
 òp you think we'll find a solution to this problem?
 (Arih có nghĩ rằng chúng ta sẽ tìm ra giỗi pháp, cho vấn 'đổ này không?)
 ’ The answer to your question is ‘No’!	.;
@@ -7142,13 +7080,14 @@ Nhưng: a relatlonship/a connectton/contacưa difference BETWEEN two things:
 There are some differences between British English and American English.
 (Cô một vài điểm khác biệt giữa tiếng Anh của người Anh và tiếng Anh củư người
 Mỹ.) 
-## BÀI122: GIỚI TỪ.+ DANH TỪ
+
+## BÀI 122: GIỚI TỪ.+ DANH TỪ
 ("by mistake", "ontelevision", v.v...)
 Học sinh thường dùng sai giới từ trước những danh tử trong ## BÀI này. Vì vậy hãy xem xét kỹ bảng liệt kê (gidltừ + danh từ) và các thí dụ sau đây:
 to pay BY cheque (nhưng 'to pay IN cash' hoặc ‘to pay cash*): trả bằng ngân phiếu (séc. i trả bằng tiổn mặt:
 -	Did you pay by cheque or in cash*	?
 (Bạn đã trà bằng ngăn phiếu hay bằng tiền mặt?)	' ' ~
-(to do something) BY accident / BY mistake / BY chãnce: (làm điều gì) một cách ~ ngầu hhiỗn / do nhầm lăn / một cách tình cở : .	. '
+(to do something) BY accident / BY mistake / BY chãnce: (làm điều gì) một cách ~ ngầu hhiỗn / do nhầm lăn / một cách tình cở: .	. '
 -	We hadn't arranged to meet. We met by chance. . -
 (Chủng tôi đà không tính gặp nhau. Chúng tỗi chỉ tình cở gặp gỹ thõiị.
 a play BY Shakespeare I a painting BY Rembrandt t a novel BY Tolstoy v.v...: một vở kịch của Shakespeare / một bức tranh củạ Rembrandt / một Ctidn tiểu thuyết của Sotstóy v.v...	.	.
@@ -7174,7 +7113,7 @@ ON television / ON the rađo:
 (Tôi không xem trận đấu trên ti-vi. Tôi nghe nó trển đài.)
 {to be/to go) ON a diet: đang ăn kiêng.	'	.	■ ,
 l‘ve put on a lot ol weight. 1*11 have to go on a diet.
-Ợôi đà lện cân nhiều. Tôi sẽ phải ăn kiêng thôi). :
+Ợôi đà lện cân nhiều. Tôi sẽ phải ăn kiêng thôi).:
 (to be/tp go) ON strike: đang đình công.	'''
 There are no trains today. The railway workers are on strike.
 (Hôm nay không có chuyến xe lửa nào, cả. Công nhàn dường sát đang đỉnh cống).
@@ -7200,7 +7139,7 @@ Nhưng bạn củng có-thể nới *go to a place FOR a holiday / FOR my holida
 -	What did you have for lunch?
 (Bạn đã Án gì trong, bữa ưưa?)
 
-## BÀI123: TÍNH TỪ + GIỚI TỪ (1)
+## BÀI 123: TÍNH TỪ + GIỚI TỪ (1)
 Hãy xem xét các nhóm tính từ ♦ glđl từ dưới đây. Đôi khlta vỗn có thể dùng các giới từ khác. Một cuốn tự điổn được biên soạn tốt 8Ỗ cung cấp th ôm chl tiết cho bạn.
 nice / kind / good / generous / mean / stupid I silly / Intelligent / clever / sensible I (Im) polite / rude / unreasonable OF someone (to do something):
 -	Thank you. It was very nice / kind of you to help me.
@@ -7252,10 +7191,11 @@ aware ỉ conscious OF something:
 good / bad / excellent / brilliant / hopeless AT (doing) something:
 I'm not very good at repairing things.
 (Tôi sửa chữa đổ vật không được giỗi lấm).
-married / engaged TO someone:	w
+married / engaged TO someone: w
 Linda is married to an American, (không nói ‘with an American*) (Linda đã kết hôn vởi một người Mỹ).
 
-BÃI Ì24: TÍNH TỪ + GIỚI TỪ (2)
+## BÀI 124: TÍNH TỪ + GIỚI TỪ (2)
+
 Hãy xem bảng liệt kê các lính từ + giới từ sau đây:
 sorry ABOUT something: lấy làm ứốc, hối tiếc vổ điều gì.
 I'm sorry about th©, noise last night. We were having a party.
@@ -7365,8 +7305,7 @@ die OF an illness: chét vì bệnh gỉ
 -	“What did he die ofr "A heart attack".	- ’ ■
 ("ồng ta chết vỉ bệnh gl thế?" ‘Bệnh đau tim").
 
-BAI 126
-ĐỘNG Từ + GIỚI TỪ (2)
+## BÀI 126: ĐỘNG Từ + GIỚI TỪ (2)
 Hồy xem bảng liệt kô các động từ + giới từ sau dây:
 dream ABOUT someone / something: mơ vổ, mơ thấy, mơ đến ai / cái gì:
 I	dream about you last night.
@@ -7421,11 +7360,12 @@ PỊỊY (someone) FOR something: trả tién (ai) về cái gì.
 I	didn't have enough money to pay for the meal.
 (Tôi không có đủ tiổn để trả cho bữa ăn.)
 Nhưng: pay a bill i a fine / £50 / a fare / taxes v.v... (không có giới từ), (thanh toán hóa đơn / đóng phạt / trả 50 bảng / trả tién cước phí / đóng thuế 'T.v...)
-rely ON someone / something : tin cậy, tin tưởng ai/điổu gì.
+rely ON someone / something: tin cậy, tin tưởng ai/điổu gì.
 You can rely on Jack. He always keep his promise.
 (Bạn có thể tín cậy Jack. Anh ta luôn luôn giữ lời hứa.)
 
-## BÀI127: ĐỘNG TỪ + GIỚI TỪ (3)
+## BÀI 127: ĐỘNG TỪ + GIỚI TỪ (3)
+
 Hãy xem bảng liệt kô các động từ + giới từ sau đây:
 search (a person / a place / a bag V.V..) FOR someone I something: khám xét (một ngươi / một nơi'/ một cái túi V.V...) để tìm ai / cái gì:
 I've searched the whole house for my keys but. 1 still can't find them.
@@ -7538,7 +7478,8 @@ point / aim something AT someone / something: chĩa, chỉ cái gl vào ai / cá
 Don’t point that knife at me! Its đangerous.	•
 (Dừng chỉa con dao đó vào tôirNhư thế nguy hiếm đấy.)
 
-## BÀI129: ĐỘNG TỪ + TÚC TỪ + GIỚI TỪ (2)
+## BÀI 129: ĐỘNG TỪ + TÚC TỪ + GIỚI TỪ (2)
+
 Hăy xem bảng liệt kê các động từ + túc từ + glđl từ sau đây:
 prefer someone / something TO someone / something: thích ai/cái gì hơn ai / cái gì (xem thêm ## BÀI 64):
 I	prefer tea to coffee.
@@ -7584,17 +7525,17 @@ Everybody has been warned about the đangers of smoking.
 \/ể “warn someone against doing something", xem ## BÀI SOb.
 VỔ “warn someone not to do something”, xem ## BÀI 55b. • 
 
-## BÀI130: ĐỘNG' TỪ KÉP
+## BÀI 130: ĐỘNG TỪ KÉP
 (get up, break down, fill in v.y..,)
 a.	Chúng ta thường dùng dộng từ với những chữ sau:
 on	off	In	out	up	down	away
 back	over	about	round	forward	through	along
 Chúng ta thường dùng những chữ trôn với các động từ chỉ sự đi chuyển.
 Thí dụ:
-get on (lởn xe):	The bus was full. We couldn’t get on.
+get on (lởn xe): The bus was full. We couldn’t get on.
 (Xe buýt đã chật cứng. Chúng tôi không thể nào leo lổn
 được.)
-drive off (lái di):	She got into the car and drive off.
+drive off (lái di): She got into the car and drive off.
 (Cô ta leo lén xe hơi rổi lái đi.)
 come back (trở vểỴ. Tom is leaving tomorrow and coming back on Saturday.
 (Tom sẽ đi vào ngày mai và trở về vào tuư Bảy Ị
