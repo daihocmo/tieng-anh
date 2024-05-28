@@ -18,6 +18,8 @@ Khi chúng ta bắt đầu học, chúng ta nên tiếp xúc với Tiếng Anh m
 
 Chúng ta cũng nên chuẩn bị danh sách những gì mình sẽ muốn xem bằng Tiếng Anh, như xem Gamers trên Twitch hay xem về các video hài trên Youtube. Bất kì điều gì, chỉ cần nó là nội dung Tiếng Anh là được.
 
+Bắt đầu chương trình học cơ bản trong 150 ngày [tại đây](./hoc-tu-dau.md)
+
 ### 2: Cài đặt công cụ:  
 
 Hai công cụ cần thiết nhất mà bạn nên cài là Anki (SRS - Hệ thống lặp lại ngắt quãng - Giúp ôn tập và học mọi thứ, từ vựng, cấu trúc ngữ pháp) và một từ điển Popup cho trình duyệt dành cho Tiếng Anh để tra từ nhanh khi đọc báo hoặc nội dung Tiếng Anh (Nên có để có thể tra từ nhanh khi đọc báo, xem phim).  

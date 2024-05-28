@@ -11,15 +11,15 @@ theme:
 nav:
   - Home: 'index.md'
   - 'Hướng dẫn':
-    - 'Học lấy gốc': 'hoc-tu-dau.md'
+    - '150 ngày Tiếng Anh': 'hoc-tu-dau.md'
     - 'Tiếp bước': 'guide.md'
-    - 'Ngữ pháp đầy đủ': 'grammar-guide.md'
   - 'Đầu vào':
     - 'Đầu vào dễ hiểu': 'dau-vao.md'
     - 'Cách học': 'input-guide.md'
   - 'Tổng hợp':
     - 'Tài nguyên': 'resources.md'
     - 'Cộng đồng': 'cong-dong.md'
+    - 'Ngữ pháp đầy đủ': 'grammar-guide.md'
   - 'Media':
     - 'Sách': 'sach.md'
     - 'Phim': 'phim-anh.md'

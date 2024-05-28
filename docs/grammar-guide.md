@@ -657,7 +657,7 @@ d) Hảy xem xét sự việc khác nhau giữa gone và been to:
 
 ## BÀI 14: PRESENT PERFECT (thì Hiện tại hoàn thành) (2)
 
-Chúng ta không dùng thì present petfect (I have done) khi nói về một thời điểm đã kết thúc (chẳng hạn Yesterday,ten minutes ago, in 1985, When I was a child), mà khi đó chúng ta phải dùng thì quá khứ
+Chúng ta không dùng thì present petfect (I have done) khi nói về một thời điểm đã kết thúc (chẳng hạn Yesterday, ten minutes ago, in 1985, When I was a child), mà khi đó chúng ta phải dùng thì quá khứ.
 
 The weather was nice yesterday. (không dùng “have been niee”)
 
@@ -920,11 +920,11 @@ Chúng ta dùng will be doing (thì Future Continous- Tương lai tiếp diễn)
 
 Dưới đây là một vài ví dụ khác:
 
-\- You’ll recognise her when you see her. She’ll be wearing a yellow hat.
+- You’ll recognise her when you see her. She’ll be wearing a yellow hat.
 
 (Bạn sẽ nhận ra khi bạn gặp cô ta. Cô ấy sẽ đội mũ vàng)
 
-\- This time next week I’ll be on holiday. I’ll probably be lying on a beautiful beach
+- This time next week I’ll be on holiday. I’ll probably be lying on a beautiful beach
 
 (Vào giờ này tuần tới tôi sẽ đang nghỉ mát.
 
@@ -934,25 +934,25 @@ Hãy so sánh will be doing với những thể tiếp diễn khác:
 
 Mỗi buổi sáng Tom làm việc từ 9 giờ cho đến trưa. Vì vậy:
 
-\- At 10 o’clock yesterday he was working.
+- At 10 o’clock yesterday he was working.
 
 (Vào lúc 10 giờ ngày hôm qua anh ta đang làm việc.
 
 (thì Past Continous. Hãy xem bài 12)
 
-\- It’s 10 o’clock now. He is working.
+- It’s 10 o’clock now. He is working.
 
 (Bây giờ là 10 giờ. Anh ta đang làm việc.
 
 (Thì Present Continous. Hãy xem bài 1)
 
-\- At 10 o’clock tomorrow he will be working.
+- At 10 o’clock tomorrow he will be working.
 
 (Vào lúc 10 giờ ngày mai anh ta se đang làm việc.
 
 Bạn cũng có thể dùng will be doing theo một cách khác để nói về những việc đã được dự định hoặc quyết định rồi
 
-\- I’ll be going to the city center later. Can I get you anything?
+- I’ll be going to the city center later. Can I get you anything?
 
 (Lát nữa tôi định xuống trung tâm thành phố.
 
@@ -960,17 +960,17 @@ Bạn có muốn tôi mua gì cho bạn không?)
 
 Với ý nghĩa này will be going tương tự như am doing (Thì Present Continous)
 
-\- I’m going to the city center later
+- I’m going to the city center later
 
-(Lát nữa tôu sẽ xuống trung tâm thành phố)
+(Lát nữa tôi sẽ xuống trung tâm thành phố)
 
 Chúng ta thường dùng Will (you) be + ing? để hỏi về những dự tính của người khác đặc biệt là khi chúng ta muốn cái gì đó hay muốn người khác làm một điều gì đó
 
-\- “Will you be using your bicycle this evening?” “No, you can take it”
+- “Will you be using your bicycle this evening?” “No, you can take it”
 
 (Tối nay bạn có sử dụng xe đạp cảu bạn không?- Không, bạn có thể dùng nó)
 
-\- “Will you be passing the post office when you go out?” “Yes, why?”
+- “Will you be passing the post office when you go out?” “Yes, why?”
 
 (Bạn có đi ngang bưu điện khi bạn ra phố không?- Có, thế thì sao?)
 
@@ -978,11 +978,11 @@ Chúng ta dùng Will have done (thì Future Perfect- Tương lai hoàn thành) �
 
 Trận bóng đá mà Tom xem kết thúc vào lúc 9h15. Vì thế sau thời điểm này, ví dụ vào lúc 9h30, trận đấu đã kết thúc rồi. (The match will have finished at 9.30) Dưới đây là một vài ví dụ khác:
 
-\- Next year is Ted and Amy’s 25th wedding anniversary. They will have married for 25 years. (now they have been married for 24 years)
+- Next year is Ted and Amy’s 25th wedding anniversary. They will have married for 25 years. (now they have been married for 24 years)
 
 (Năm tới sẽ là năm kỷ niệm 25 năm ngày cưới của Ted và Ann. Khi đó họ đã lấy nhau được 25 năm rồi. bây giờ họ đã lấy nhau được 24 năm rồi)
 
-\- We’re late. I expect the film will already have started by the time we got to the cinema
+- We’re late. I expect the film will already have started by the time we got to the cinema
 
 (Chúng ta trễ giờ rồi. Tôi nghĩ rằng phim đã bắt đầu khi chúng ta đến rạp hát)
 
@@ -1037,11 +1037,11 @@ How tong have you known Tom? (not ‘do you known')
 
 ## BÀI 19: PRESENT PERFECT với how long, và SIMPLE PAST với when, SINCE và FOR
 
-a.	Dũng thì Simple Past (I did} dể hồi hay nối khi nào một vỉệc gì đó xảy ra:
-A: When didì\ start raining?
-(Trời đã bắt ỡắu mưa ỉừ lúc nào?)
+a.	Dùng thì Simple Past (I did) dể hồi hay nối khi nào một vỉệc gì đó xảy ra:
+A: When did it start raining?
+(Trời đã bắt đầu mưa ỉừ lúc nào?)
 8: It started raining at one o'clock/an hour ago.
-(Trời đã bát đẩu mưa vào lũc một giờlcãch đây một giở).
+(Trời đã bát đẩu mưa vào lúc một giờ/cách đây một giở).
 A: When did Tom and Ann first meet?
 (Tom và Ann gặp nhau lần đẩu khi não?)
 B: They first met when they were a* school/a long time ago.
@@ -1797,17 +1797,17 @@ B: We might as well watch it then. There’s nothing else to do.
 
 Chúng ta dùng may/might as well để nói rằng chúng ta nên làm một việc gì đó bởi vì không có lý do gì để không làm việc đó, và bởi vì không có việc gì tốt hơn để làm cả.’’We might as well watch it’’, có nghĩa là ‘’ Tại sao không xem phim đó nhỉ? Không còn gì khác hay hơn để làm cơ mà’’.
 
--        You’ll have to wait an hour for the next bus, so you might as well walk.
+-   You’ll have to wait an hour for the next bus, so you might as well walk.
 
 (Bạn phải đợi một tiếng mới có chuyến xe buýt kế tiếp, thôi thì bạn đi
 
 bộ cho rồi).
 
--       We may as well go to the party. We’re nothing else to do.
+-  We may as well go to the party. We’re nothing else to do.
 
 (Thôi thì chúng ta đi dự tiệc vậy. Chúng ta không còn việc gì khác để làm cả )
 
--       ‘’Shall we have dinner now?’’ ‘’We might as well’’.
+-  ‘’Shall we have dinner now?’’ ‘’We might as well’’.
 
 (Chúng ta sẽ ăn tối bây giờ chứ? ‘’Cũng được thôi’’)
 
@@ -1924,7 +1924,7 @@ Must, mustn’t  và needn’t:
 (Tôi có thể nghe tiếng anh rẩt rõ. Anh không cần thiết phải hét lên)
 
 Needn’t, bạn có thể dùng don’t/ doesn’t need to
--      You’ve Thay vì dùng got plenty of time. You don’t need to hurry.
+- You’ve Thay vì dùng got plenty of time. You don’t need to hurry.
 
 (Bạn có rất nhiều thời gian. Bạn không cần vội vã)
 
@@ -2024,64 +2024,36 @@ Chúng ta thường dùng kèm với I think/ I don’t think/ do you think?:
 
 -   “Do you think I should apply for this jod?” “Yes, I think you should”.
 
-    (“Anhnghĩ tôi có nên xin làm việc này không?” “Có, tôi nghĩ anh nên đấy“).
+(“Anh nghĩ tôi có nên xin làm việc này không?” “Có, tôi nghĩ anh nên đấy“).
 
 Chúng ta cũng dùng should để nói đến một điều gì đó không đúng hoặc không như chúng ta mong đợi ( = ”lẽ ra, đáng lẽ, nên là” )
--   The price on this packet is wrong. It says 65 pence but it should be 50.
+- The price on this packet is wrong. It says 65 pence but it should be 50. (Giá ghi trên gói hàng này sai rồi. Nó ghi 65 xu nhưng nó chỉ là 50 xu thôi).
 
-    (Giá ghi trên gói hàng này sai rồi. Nó ghi 65 xu nhưng nó chỉ là 50 xu thôi).
+- Those children shouldn’t be playing. They should be at school. (Những đứa trẻ đó không chơi đùa. Lẽ ra chúng phải đang ở trường).
 
--     Those children shouldn’t be playing. They should be at school.
-
-    (Những đứa trẻ đó không chơi đùa. Lẽ ra chúng phải đang ở trường).
-
--    That motor-cyclist should be wearing a crash helmet
-
-    (Người lái xe gắn máy đó lẽ ra phải đội nón an toàn).
+- That motor-cyclist should be wearing a crash helmet (Người lái xe gắn máy đó lẽ ra phải đội nón an toàn).
 
 Đối với quá khứ, chúng ta dùng should have (done) (lẽ ra phải, đáng lẽ ra nên …) để nói rằng ai đó đã làm điều gì sai
--     Hello, Ann. The party last night was great. You should have come.
+- Hello, Ann. The party last night was great. You should have come. Why didn’t you? (Chào Ann. Bữa tiệc tối qua thật tuyệt vời. Lẽ ra bạn đã phải đến. Tại sao bạn không đến?).
 
-    Why didn’t you?
+- I’m feeling sick. I shouldn’t have eaten so much chocolate. (Tôi cảm thấy khó chịu. Đáng lẽ ra tôi không nên ăn nhiều sô-cô-la như thế ).
 
-    (Chào Ann. Bữa tiệc tối qua thật tuyệt vời. Lẽ ra bạn đã phải đến.
+- Why were you at home yesteterday? You should have been at work. (Sao hôm qua bạn lại ở nhà ? Lẽ ra bạn phải đi làm chứ).
 
-    Tại sao bạn không đến?).
-
--      I’m feeling sick. I shouldn’t have eaten so much chocolate.
-
-    (Tôi cảm thấy khó chịu. Đáng lẽ ra tôi không nên ăn nhiều sô-cô-la như thế ).
-
--     Why were you at home yesteterday? You should have been at work.
-
-    (Sao hôm qua bạn lại ở nhà ? Lẽ ra bạn phải đi làm chứ).
-
--      She shouldn’t have been listening to our conversation. It was private.
-
-    (Lẽ ra cô ta không nên nghe cuộc nói chuyện của chúng tôi, đó là chuyện riêng).
+- She shouldn’t have been listening to our conversation. It was private. (Lẽ ra cô ta không nên nghe cuộc nói chuyện của chúng tôi, đó là chuyện riêng).
 
 Bạn có thể dùng ought to thay cho should trong những câu thuộc bài này
 
-    It really a good film. You ought to go and see it.
+- It really a good film. You ought to go and see it. (Đó quả là một phim hay. Bạn nên đi xem đi).
+- Tom ought not to drive is too tired. (Tom không nên lái xe. Anh ta mệt quá rồi ).
+- It was a great party. You ought to have come. (Đó là một bữa tiệc tuyệt vời. Lẽ ra anh nên đến dự).
 
-    (Đó quả là một phim hay. Bạn nên đi xem đi).
-
--      Tom ought not to drive is too tired.
-
-    (Tom không nên lái xe. Anh ta mệt quá rồi ).
-
--      It was a great party. You ought to have come.
-
-    (Đó là một bữa tiệc tuyệt vời. Lẽ ra anh nên đến dự).
-
-Dùng should để nói rằng một điều gì đó có thể sẽ xảy ra (=>a probability)
--  A: Do you think so. I should be home tonight?
-
-    (Anh có nghĩ rằng tối nay anh sẽ về nhà trễ không?
+Dùng should để nói rằng một điều gì đó có thể sẽ xảy ra (a probability)
+-  A: Do you think so. I should be home tonight?(Anh có nghĩ rằng tối nay anh sẽ về nhà trễ không?
 
 -  B: I don’t think so. I should be home at the usual time.
 
-    (Tôi không nghĩ thế, có thể tôi sẽ về nhà vào giờ thường lệ).
+(Tôi không nghĩ thế, có thể tôi sẽ về nhà vào giờ thường lệ).
 
 Ở đây, “I should be home “có nghĩa là “ có thể tôi sẽ về nhà “ . Bạn có thể được dùng should để nói về điều có thể sẽ sảy ra. Ought to cũng có thể được dùng với nghĩa này.
 
