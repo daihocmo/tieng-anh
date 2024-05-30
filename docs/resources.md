@@ -64,7 +64,7 @@ Bạn có thể sẽ muốn cài đặt từ điển ngoại tuyến vì sự ti
 
 - [Goldendict](http://goldendict.org/download.php) - Từ điển ngoại tuyến cực tốt, tải bộ từ điển theo hướng dẫn trên Voz [tại đây](https://voz.vn/t/reup-goldendict-va-cac-bo-dai-tu-dien-eng-eng-full-audio-picture.710141/)
 
-#### Trực tuyết
+#### Trực tuyến
 - [Từ điển Online của Cambridge](https://dictionary.cambridge.org/vi/dictionary/english-vietnamese/): Đây là từ điển bao gồm cả nghĩa Anh - Anh lẫn Anh - Việt của Cambridge (Có thể sẽ có Anh - Việt hoặc không tùy từng từ). 
 - [Thesaurus.com](https://www.thesaurus.com/) - The world's largest online thesaurus by Dictionary.com
 - [Oxford Dictionaries](http://www.oxfordlearnersdictionaries.com/) - Từ điển Oxford.

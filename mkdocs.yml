@@ -10,19 +10,18 @@ theme:
 
 nav:
   - Home: 'index.md'
-  - 'Hướng dẫn':
-    - '150 ngày Tiếng Anh': 'hoc-tu-dau.md'
-    - 'Tiếp bước': 'guide.md'
-  - 'Đầu vào':
-    - 'Đầu vào dễ hiểu': 'dau-vao.md'
-    - 'Cách học': 'input-guide.md'
+  - 'Khởi đầu':
+    - '160 ngày Tiếng Anh': 'hoc-tu-dau.md'
+    - 'Immersion': 'guide.md'
+  - 'Comprehensible Input':
+    - 'Tìm hiểu chung': 'dau-vao.md'
+    - 'Lộ trình học': 'input-guide.md'
   - 'Tổng hợp':
     - 'Tài nguyên': 'resources.md'
-    - 'Cộng đồng': 'cong-dong.md'
-    - 'Ngữ pháp đầy đủ': 'grammar-guide.md'
+    - 'Cộng đồng học': 'cong-dong.md'
   - 'Media':
-    - 'Sách': 'sach.md'
-    - 'Phim': 'phim-anh.md'
+    - 'Books': 'sach.md'
+    - 'Movies': 'phim-anh.md'
     - 'Youtube': 'youtube.md'
     - 'Podcasts': 'podcasts.md'
       

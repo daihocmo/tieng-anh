@@ -15,9 +15,9 @@ _P/s: Trong giai đoạn này sẽ bao gồm A1 và khoảng đến A2 (Tính th
 ### Nghe
 Chúng ta sẽ bắt đầu nghe trước vì nó dễ hơn và bớt áp lực hơn so với đọc. Đồng thời, việc nghe nhiều sẽ giúp chúng ta bắt được cách phát âm đúng của người ta.
 
-- [Mới bắt đầu và chưa biết gì](https://youtube.com/playlist?list=PL5bLw9Uguvv11fx6bS68yK5OeXAqLU3mW): Đây là danh sách phát của EnglishClass101 cho Absolute Beginner (Người hoàn toàn mới). Bạn không cần lo lắng nếu chưa hiểu gì cả và có thể bật phụ đề lên nếu cần.
+- [Absolute Beginner](https://youtube.com/playlist?list=PL5bLw9Uguvv11fx6bS68yK5OeXAqLU3mW): Đây là danh sách phát của EnglishClass101 cho Absolute Beginner (Người hoàn toàn mới). Bạn không cần lo lắng nếu chưa hiểu gì cả và có thể bật phụ đề lên nếu cần. Tuy nhiên nó vẫn chưa thực sự dành cho người mới nên có thể bạn phải cần ở mức A2 để có thể nghe được
 
-- [Tương đối rồi đấy](https://youtube.com/playlist?list=PL5bLw9Uguvv3Mjnzd0YGmu-lGRWRWv-cU): Sau khi bạn xong Playlist ở trên, yêu cầu hiểu khoảng trên 80% thì bạn có thể cân nhắc lên danh sách phát này. Các danh sách phát này đều không dài, rất dễ thở khi nghe và có thể nghe lại nếu không rõ hoặc chưa hiểu hết nữa!
+- [Beginner - EnglishClass101](https://youtube.com/playlist?list=PL5bLw9Uguvv3Mjnzd0YGmu-lGRWRWv-cU): Sau khi bạn xong Playlist ở trên, yêu cầu hiểu khoảng trên 80% thì bạn có thể cân nhắc lên danh sách phát này. Các danh sách phát này đều không dài, rất dễ thở khi nghe và có thể nghe lại nếu không rõ hoặc chưa hiểu hết nữa!
 
 - [**Thử thách**](https://youtu.be/dEcr9M0xKE4): Đây là một video của Vanessa cho "Beginner" nhưng nó không hề dễ một chút nào!! Bạn có thể thử thách bản thân nếu bạn đã hoàn thành được cả phần đọc bên dưới. Tốc độ nói của người nói trong video cũng không quá chậm so với các cuộc hội thoại thông thường nên nếu bạn hiểu được khoảng 80% thì chúc mừng bạn nha!!!
 
@@ -32,6 +32,7 @@ Các nội dung thêm: Đang được bổ sung....
 
 **Các nội dung đọc mà bạn có thể thử:**
 
+- [Các bài đọc về hội thoại cơ bản](): Bắt đầu đọc luôn các bài dưới đây khi bạn chưa thực sự biết chút gì về Tiếng Anh thực sự không hề dễ dàng.
 - [A1 Reading bởi British Council](https://learnenglish.britishcouncil.org/skills/reading/a1-reading): Đây là danh sách các bài học rất cơ bản cho người ở trình độ A1 (Mức thấp nhất)
 - [Rongchang NSE](https://www.rong-chang.com/nse/): Đây là một trang tổng hợp các bài đọc rất ngắn bằng Tiếng Anh, nhưng từ vựng cũng không quá dễ đối với trình độ A1. Bạn có thể thử sau khi xong phần đọc trên ^^.
 
@@ -39,8 +40,6 @@ Các nội dung thêm: Đang được bổ sung....
 Trong giai đoạn đầu tiên, mọi người không nhất thiết chỉ nghe hoặc đọc các nội dung mình đã cho sẵn ở đây mà có thể chủ động tìm kiếm các nguồn khác để cải thiện kĩ năng hiểu của mình với Tiếng Anh. Các nguồn học liệu bổ sung mình sẽ thêm ở trang "Tài nguyên" nếu bạn muốn tìm hiểu thêm.
 
 ## Giai đoạn 2
-Giai đoạn vũ đài "Intermediate" (Cấp độ cận trung cấp -> trung cấp 1, tức khoảng từ A2 -> B1). 
-
 Từ giai đoạn này, bạn bắt đầu sẽ thấy Tiếng Anh trở lên dễ hơn đôi chút, tuy vẫn chưa sẵn sàng cho các nội dung bản ngữ hay nâng cao, nhưng bạn đã có thể hiểu được 1 phần nhỏ của ngôn ngữ này rồi.
 
 ### Nghe

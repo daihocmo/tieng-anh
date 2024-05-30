@@ -1,6 +1,14 @@
 Một số các Podcasts được sưu tầm, các đường dẫn ở đa nền tảng (Gần như toàn bộ đều là Google Podcasts hoặc Spotify). 
 
-Nếu bạn sử dụng máy tính, thì mình gợi ý bạn nên sử dụng [Podcastindex](https://podcastindex.org), đây là một trang nghe Podcast hoàn toàn miễn phí, không quảng cáo và không phải đăng nhập. Có một số Podcast có thể sẽ chỉ có ở trên Google Podcast hoặc Spotify nên mọi người nhớ kiểm tra trước nha. Còn lại thì Podcastindex thẳng tiến!
+### Mục lục
+
+- [Podcast cho người mới học](#podcast-cho-người-mới-học)
+- [Các Podcast nâng cao được gợi ý cho người học](#các-podcast-nâng-cao-được-gợi-ý-cho-người-học)
+- [Các Podcast được gợi ý trên Reddit](#các-podcast-được-gợi-ý-trên-reddit)
+- [Danh sách các Podcast ngắn có độ dài khoảng từ 5 phút đến 20 phút](#danh-sách-các-podcast-ngắn-có-độ-dài-khoảng-từ-5-phút-đến-20-phút)
+
+### Podcast cho người mới học
+Đang được cập nhật
 
 ### Các Podcast nâng cao được gợi ý cho người học
 

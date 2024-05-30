@@ -56,14 +56,7 @@ _PS: Hiện tại tớ đang rà soát lại kênh để các kênh có nội du
 - [bill wurtz](https://www.youtube.com/user/billwurtz/videos) 
 
 ### Daily vlog
-- [Gradlife](https://www.youtube.com/channel/UC8CFuwBnqzJHgX7Sde0s98w)
-- [Kicking Geese](https://www.youtube.com/channel/UCRMj2jVw1CU1o4s7LiV3mGA)
-- [TyMoss](https://www.youtube.com/channel/UC2ImebE8ylVbAEHyG9r4Pqg)
-- [Casey Neistat](https://www.youtube.com/channel/UCtinbF-Q-fVthA0qrFQTgXQ)
-- [Nicole Guerriero](https://www.youtube.com/channel/UCz0Qnv6KczUe3NH1wnpmqhA)
-- [Tess Christine](https://www.youtube.com/channel/UCVsTboAhpnuL6j-tDePvNwQ) 
-- [ShayTards](https://www.youtube.com/channel/UCJZ7f6NQzGKZnFXzFW9y9UQ)  
-- [Toby Turner](https://www.youtube.com/channel/UCfRU6TVIzRaa_4gA8-_H7PA)
+Đang cập nhật
 
 ### Outdoors
 - [Primitive Technology](https://www.youtube.com/channel/UCAL3JXZSzSm8AlZyD3nQdBA/videos) 

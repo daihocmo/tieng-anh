@@ -14,11 +14,10 @@ Nếu bạn mới bắt đầu học Tiếng Anh thì có thể bạn sẽ muố
 Bạn cần bắt đầu như thế nào để có thể học Tiếng Anh theo phương pháp này, việc học sẽ được tối ưu hơn nếu bạn sử dụng máy tính / laptop:  
 
 ### 1: Học cơ bản
+
 Khi chúng ta bắt đầu học, chúng ta nên tiếp xúc với Tiếng Anh một chút, có thể thông qua sách tranh ảnh, video bất kì, cái gì cũng được. Mục đích chỉ để cho bạn "khởi động trước khi đắm chìm mình vào Tiếng Anh"
 
 Chúng ta cũng nên chuẩn bị danh sách những gì mình sẽ muốn xem bằng Tiếng Anh, như xem Gamers trên Twitch hay xem về các video hài trên Youtube. Bất kì điều gì, chỉ cần nó là nội dung Tiếng Anh là được.
-
-Bắt đầu chương trình học cơ bản trong 150 ngày [tại đây](./hoc-tu-dau.md)
 
 ### 2: Cài đặt công cụ:  
 
@@ -29,6 +28,8 @@ Giới thiệu đôi chút về 2 công cụ quan trọng này:
 - Từ điển Popup: bạn có thể tải nó [ở đây](https://chrome.google.com/webstore/detail/definer/noagjioaihamoljcbelhdlldnmlgnkon). Đây là từ điển Anh - Anh, còn nếu là Anh - Việt thì [ở đây](https://chromewebstore.google.com/detail/laban-dictionary-by-laban/kdoofkpcjhkbhedgkdbagobockcmeoeb).
 
 - [Anki](https://apps.ankiweb.net): Một ứng dụng giúp ghi nhớ mọi thứ, trong Anki có Anki Decks hay các bộ thẻ Anki, bao gồm các thẻ giúp bạn nhớ mọi thứ.
+
+Một công cụ nữa bạn có thể sẽ cần là [Goldendict](http://goldendict.org/download.php). Bạn có thể lên [trang này](https://voz.vn/t/reup-goldendict-va-cac-bo-dai-tu-dien-eng-eng-full-audio-picture.710141/) để tải từ điển về dùng ngoại tuyến nha.
 
 
 ### 3. Học ngữ pháp cơ bản và từ vựng:
@@ -58,9 +59,10 @@ Nếu bạn không biết mình "nên" xem gì, thử tìm [trên đây xem](you
 Trong giai đoạn này, bạn có thể sẽ bắt gặp một số cấu trúc ngữ pháp lạ hoặc khó. Bạn có thể thử tra mẫu câu đó trên Google, từ điển hoặc bất kì chỗ nào. Sau đây là cách gợi ý bạn có thể thực hiện: 
 
 1. Bắt gặp một cấu trúc lạ trong lúc đọc Tiếng Anh
-2. Tìm về cấu trúc đó trên Google.
-3. Ghi chú lại nó vào một danh sách hoặc thêm vào bộ thẻ Anki (Nên thêm vào Anki để tăng khả năng ghi nhớ).
-4. Ôn tập lại nhiều lần để nhớ, Anki!
+2. Tìm về cấu trúc đó trên Internet.
+3. Ghi chú lại nó vào một danh sách 
+4. Tìm câu ví dụ dễ hiểu dễ nhớ rồi thêm vào bộ thẻ Anki (Nên thêm vào Anki để tăng khả năng ghi nhớ). Hoặc bạn có thể viết nó vào sổ tay của mình (Không hiệu quả bằng Anki)
+5. Ôn tập lại nhiều lần để nhớ, Anki!
 
 ### 5. Đắm chìm hơn nữa, và học viết, nếu cần  
 

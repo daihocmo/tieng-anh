@@ -1,4 +1,4 @@
-_PS: Các sách miễn phí do hết hạn bản quyền hoặc hoàn toàn miễn phí dưới dạng sách điện tử thì mình sẽ để đường dẫn kèm ở đó luôn. Ví dụ như sách từ Project Gutenberg. Một lưu ý nữa là nếu sách được đánh giá độ khó là "Dễ" thì mức Tiếng Anh hiện tại của bạn cũng phải khoảng B1 trở lên. Nếu bạn muốn đọc những thứ dễ hơn thì có thể thử Graded Reading, mình có đề cập trong [đây](input-guide.md)._
+**PS: Mức Tiếng Anh hiện tại của bạn cũng phải khoảng B2 trở lên. Nếu bạn muốn đọc những thứ dễ hơn thì có thể thử Graded Reading, mình có đề cập trong [đây](input-guide.md).**
 
 Đây là câu trả lời của Jill Pickle trên Quora, bạn có thể đọc bài đăng gốc [tại đây](https://www.quora.com/What-are-the-best-books-in-public-domain-for-young-adults-or-children). 
 
