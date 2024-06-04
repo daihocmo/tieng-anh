@@ -84,12 +84,12 @@ Phia trên là các từ điển đơn ngữ, tức Anh - Anh, nếu bạn muố
 
 ### YouTube 
 
+Có rất nhiều những kênh học Tiếng Anh bằng Tiếng Anh, giải thích bằng Tiếng Anh sẽ hạn chế sự hiểu sai gây ra bởi học song ngữ. Đồng thời, bạn còn tiếp xúc và sử dụng chính những gì mình đã, đang và sẽ học
+
 #### Học Tiếng Anh
 
 - [BBC English Grammar](https://www.youtube.com/playlist?list=PLcetZ6gSk96_zHuVg6Ecy2F7j4Aq4valQ) - Các video ngắn bởi BBC về ngữ pháp
-
 - [Daily Dictation](https://www.youtube.com/user/dailydictation) - Cải thiện kĩ năng nghe độc thoại.
-
 - [RealLife English](https://www.youtube.com/@RealLifeEnglish1) - Những video về kĩ năng học Tiếng Anh hiệu quả
 
 #### Nội dung Tiếng Anh

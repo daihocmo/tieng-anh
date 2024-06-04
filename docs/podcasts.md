@@ -53,6 +53,8 @@ Một số các Podcasts được sưu tầm, các đường dẫn ở đa nền
 
 Mình không dám chắc rằng đây là những Podcast "dễ" vì làm cho English Native và sử dụng tương đối nhiều thuật ngữ chuyên ngành hoặc các từ chuyên môn nên sẽ khá khó hiểu khi mới nghe.
 
+Bạn tự sao chép tên rồi tìm trên bất kì ứng dụng Podcast nào bạn đang nghe nha.
+
 - [Cabinet of Curiosities]()
 - [Planet Money]()
 - [The Indicator]() - planet money spin off.

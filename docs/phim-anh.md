@@ -1,5 +1,6 @@
-Danh sách các bộ phim được tổng hợp từ nhiều nguồn!>
+Danh sách các bộ phim được tổng hợp từ nhiều nguồn!
 
+Bạn nên tự tìm bộ phim mình yêu thích để xem, khi xem bạn có thể xem không phụ đề hoặc có phụ đề Tiếng Anh, chứ xem phụ đề Tiếng Việt chỉ nên dùng để bổ trợ cho những phần mà bạn chưa hiểu thôi nha.
 
 | Tên phim | Độ khó | Thể loại | Mô tả |
 | --- | --- | --- | --- |

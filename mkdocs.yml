@@ -12,10 +12,8 @@ nav:
   - Home: 'index.md'
   - 'Khởi đầu':
     - '160 ngày Tiếng Anh': 'hoc-tu-dau.md'
+    - 'Đầu vào dễ hiểu': 'input-guide.md'
     - 'Immersion': 'guide.md'
-  - 'Comprehensible Input':
-    - 'Tìm hiểu chung': 'dau-vao.md'
-    - 'Lộ trình học': 'input-guide.md'
   - 'Tổng hợp':
     - 'Tài nguyên': 'resources.md'
     - 'Cộng đồng học': 'cong-dong.md'

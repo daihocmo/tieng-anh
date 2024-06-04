@@ -2,7 +2,7 @@
 
 _PS: Hiện tại tớ đang rà soát lại kênh để các kênh có nội dung và thời lượng tối ưu cho việc đắm chìm mình vào Tiếng Anh. Lưu ý là nguồn sẽ không phân Accent đâu nên ^^. Yêu cầu là có hội thoại nhiều, với âm thanh rõ ràng và vân vân các tiêu chí khác. Danh sách sẽ rất dài đấy!_
 
-### Personal Favorite
+### Những kênh cá nhân mình đề xuất (Favorite)
 - [Matt. D Avella](https://www.youtube.com/channel/UCJ24N4O0bP7LGLBDvye7oCA): Milimalism & Self Improvement
 - [Lemmino](https://www.youtube.com/user/Top10Memes/videos) 
 - [melodysheep](https://www.youtube.com/user/melodysheep/videos) 

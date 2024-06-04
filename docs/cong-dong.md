@@ -4,11 +4,14 @@ Các cộng đồng dưới dây có thể truy cập thông qua Discord, bạn 
 
 Không phải bao giờ bạn cũng sẽ gặp được người nói Tiếng Anh bản ngữ nói chuyện cùng trong Voice Chat, vậy nên khuyến khích bạn chỉ nên tham gia hội thoại khi có một mức độ Tiếng Anh ổn (Khoảng ít nhất B1, tốt nhất là từ B2 trở lên).
 
+### Các nhóm Anh - Việt
+- [frake english](https://discord.com/servers/frake-english-1092560085135400980) - Kênh chuyên ôn thi IELTS, TOEIC và liên quan đến thi cử nói chung.
+
+
 ### Các nhóm chuyên Tiếng Anh 
 
 - [English](https://discord.com/english) - Kênh Tiếng Anh "chính thức" trên Discord
 - [TheEnglishHub](https://discord.com/invite/enghub)
-- [Nhóm ôn thi IELTS]() - Đang tìm lại link nên chưa có
 - [English Speaking Server](https://discord.com/invite/english-speaking-practice-998792086197383168) - 
 - [English - Learn English in a friendly way](https://discord.gg/cJswuSbzZ6)
 - [The English Crew](https://discord.gg/MRcCNrK)
