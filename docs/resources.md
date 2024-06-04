@@ -15,7 +15,7 @@ Nội dung của bảng này sẽ được chia ra làm hai phần: "Học Tiế
 
 ### Grammar
 
-- [English Grammar In Use - Bản Tiếng Việt](grammar-guide.md) - Hướng dẫn tổng hợp về Tiếng Anh, bản phiên dịch từ cuốn English Grammar In Use nổi tiếng.
+- [English Grammar In Use - Bản Tiếng Việt](https://daihocmo.github.io/toi-luyen-tieng-anh/grammar-guide.html) - Hướng dẫn tổng hợp về Tiếng Anh, bản phiên dịch từ cuốn English Grammar In Use nổi tiếng.
 - [EnglishClub](http://englishclub.com/): Học Tiếng Anh bằng Tiếng Anh, không chỉ ngữ pháp mà còn có nhiều thứ khác. 
 
 
