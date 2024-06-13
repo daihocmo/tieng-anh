@@ -10,11 +10,11 @@ theme:
 
 nav:
   - Home: 'index.md'
-  - 'Khởi đầu':
+  - 'Lộ trình':
     - '160 ngày Tiếng Anh': 'hoc-tu-dau.md'
     - 'Đầu vào dễ hiểu': 'input-guide.md'
     - 'Immersion': 'guide.md'
-  - 'Tổng hợp':
+  - 'Tài nguyên':
     - 'Tài nguyên': 'resources.md'
     - 'Cộng đồng học': 'cong-dong.md'
   - 'Media':
@@ -44,7 +44,7 @@ theme:
         name: Switch to light mode
   features:
     - navigation.instant
-    - navigation.sections
+    - navigation.tabs
     - search.suggest
     - search.highlighting
     - search.share
