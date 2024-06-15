@@ -5,6 +5,9 @@ Các cộng đồng dưới dây có thể truy cập thông qua Discord, bạn 
 Không phải bao giờ bạn cũng sẽ gặp được người nói Tiếng Anh bản ngữ nói chuyện cùng trong Voice Chat, vậy nên khuyến khích bạn chỉ nên tham gia hội thoại khi có một mức độ Tiếng Anh ổn (Khoảng ít nhất B1, tốt nhất là từ B2 trở lên).
 
 ### Các nhóm Anh - Việt
+
+- [Tự luyện Tiếng Anh](https://discord.gg/fbHbQSwzpD) - Cộng đồng học Tiếng Anh thông qua Comprehensible Input và Immersion
+- [Học ngoại ngữ thông qua Phim và Game Discord](https://discord.com/invite/aNmfEY6eZQ) - Cộng đồng học ngoại ngữ (Có cả Tiếng Trung, Nhật, Hàn) thông qua Comprehensible Input và Immersion
 - [frake english](https://discord.com/servers/frake-english-1092560085135400980) - Kênh chuyên ôn thi IELTS, TOEIC và liên quan đến thi cử nói chung.
 
 

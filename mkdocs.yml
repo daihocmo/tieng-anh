@@ -11,17 +11,22 @@ theme:
 nav:
   - Home: 'index.md'
   - 'Lộ trình':
-    - '160 ngày Tiếng Anh': 'hoc-tu-dau.md'
+    - 'Học từ đầu': 'hoc-tu-dau.md'
     - 'Đầu vào dễ hiểu': 'input-guide.md'
-    - 'Immersion': 'guide.md'
-  - 'Tài nguyên':
+    - 'Đắm chìm vào ngoại ngữ': 'guide.md'
+  - 'FAQ':
+    - 'Câu hỏi thường gặp': 'faq.md'
+  - 'IELTS & TOEIC':
+    - 'IELTS': 'ielts.md'
+    - 'TOEIC': 'toeic.md'
+  - 'Tổng hợp':
     - 'Tài nguyên': 'resources.md'
     - 'Cộng đồng học': 'cong-dong.md'
-  - 'Media':
-    - 'Books': 'sach.md'
-    - 'Movies': 'phim-anh.md'
+  - 'Nội dung tiêu thụ':
+    - 'Sách - Tiểu thuyết': 'sach.md'
+    - 'Phim ảnh': 'phim-anh.md'
     - 'Youtube': 'youtube.md'
-    - 'Podcasts': 'podcasts.md'
+    - 'Podcasts & Audiobooks': 'podcasts.md'
       
 theme:
   palette:

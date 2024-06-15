@@ -19,7 +19,7 @@ Một công cụ nữa bạn có thể sẽ cần là [Goldendict](http://golden
 
 Về phần từ vựng, bạn nên học khoảng từ 1500 từ đến 3000 từ cơ bản để giúp việc đắm chìm vào Media Tiếng Anh bớt bị ngợp. Có một bộ thẻ của AnkiVN khá tốt mà bạn có thể tải xuống [tại đây](https://ankivn.com/bo-the/ngoai-ngu/tieng-anh/3000-tu-vung-tieng-anh-thong-dung/). 
 
-Nếu bạn đã có một khối lượng từ vựng rồi (Khoảng 2000 đến 3000 từ) thì bạn có thể bỏ qua bước này và bắt đầu Sentence Mining (đào câu)! Bạn có thể xem hướng dẫn cách thực hiện trên Anki thông qua [video này](https://www.youtube.com/watch?v=Om_1NECh8sQ). Ở video này thì mình sử dụng câu trong từ điển, bạn có thể chọn câu ở bất kì đâu!
+Nếu bạn đã có một khối lượng từ vựng rồi (Khoảng 2000 đến 3000 từ) thì bạn có thể bỏ qua bước này và bắt đầu Sentence Mining. Bạn có thể xem hướng dẫn cách thực hiện trên Anki thông qua [video này](https://www.youtube.com/watch?v=Om_1NECh8sQ). Ở video này thì mình sử dụng câu trong từ điển, bạn có thể chọn câu ở bất kì đâu!
 
 Trước khi bắt đầu sử dụng Anki, bạn nên dành thêm một chút thời gian để học cách sử dụng Anki cơ bản, mình gợi ý bạn xem [video này](https://youtu.be/Eo1HbXEiJxo) của Anking nếu bạn đã có một mức Tiếng Anh tương đối, nếu được, trước hết, bạn có thể xem [hướng dẫn này](https://youtu.be/M9-qwsHyBrc) của Đạt Nguyễn. Việc học cách sử dụng Anki cơ bản sẽ giúp bạn ôn tập dễ dàng và hiệu quả hơn rất nhiều.
 
