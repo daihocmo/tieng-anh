@@ -11,15 +11,17 @@ theme:
 nav:
   - Home: 'index.md'
   - 'Lộ trình':
-    - 'Học từ đầu': 'hoc-tu-dau.md'
+    - 'Lộ trình chính': 'guide.md'
     - 'Đầu vào dễ hiểu': 'input-guide.md'
-    - 'Đắm chìm vào ngoại ngữ': 'guide.md'
   - 'FAQ':
     - 'Câu hỏi thường gặp': 'faq.md'
+  - 'Immersion':
+    - 'Cày': 'tieu-thu-tieng-anh.md'
   - 'IELTS & TOEIC':
     - 'IELTS': 'ielts.md'
     - 'TOEIC': 'toeic.md'
-  - 'Tổng hợp':
+    - 'Tài liệu ôn': 'tai-lieu-on-thi.md'
+  - 'Tài nguyên':
     - 'Tài nguyên': 'resources.md'
     - 'Cộng đồng học': 'cong-dong.md'
   - 'Nội dung tiêu thụ':
