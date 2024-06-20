@@ -25,7 +25,7 @@ _PS: Hiện tại tớ đang rà soát lại kênh để các kênh có nội du
 - [Indigo Traveller](https://www.youtube.com/c/IndigoTraveller/videos): travel
 - [Kurzgesagt - In a Nutshell](https://www.youtube.com/c/inanutshell/videos)
 
-### General Explanation 
+### General Explanation
 - [Lemmino](https://www.youtube.com/user/Top10Memes/videos)
 - [melodysheep](https://www.youtube.com/user/melodysheep/videos)
 - [Mike Boyd](https://www.youtube.com/c/MikeBoydVideo/videos)
@@ -93,7 +93,7 @@ _PS: Hiện tại tớ đang rà soát lại kênh để các kênh có nội du
 - [Ilia Bondarev](https://www.youtube.com/c/%D0%98%D0%BB%D1%8C%D1%8F%D0%91%D0%BE%D0%BD%D0%B4%D0%B0%D1%80%D0%B5%D0%B2/videos) 
 
 
-### History 
+### History
 - [Sam O'Nella Academy](https://www.youtube.com/channel/UC1DTYW241WD64ah5BFWn4JA/videos)   
 - [History Matters](https://www.youtube.com/c/TenMinuteHistory/videos)  
 - [toldinstone](https://www.youtube.com/c/toldinstone/videos)  
@@ -135,7 +135,7 @@ _PS: Hiện tại tớ đang rà soát lại kênh để các kênh có nội du
 - [DW Documentary](https://www.youtube.com/c/DWDocumentary/videos)    
 - [VICE](https://www.youtube.com/c/VICE/videos)    
 
-### Workshop  
+### Workshop
 - [Matthias Wandel](https://www.youtube.com/c/Matthiaswandel/videos) - woodworking
 - [AvE](https://www.youtube.com/c/arduinoversusevil2025/videos)  
 - [Blondihacks](https://www.youtube.com/c/Blondihacks/videos) - machining
@@ -180,7 +180,7 @@ _PS: Hiện tại tớ đang rà soát lại kênh để các kênh có nội du
 - [Sisyphus 55](https://www.youtube.com/c/Sisyphus55/videos)  
 - [Pursuit of Wonder](https://www.youtube.com/c/PursuitofWonder/videos)  
 
-### Gaming  
+### Gaming
 - [Frost](https://www.youtube.com/c/FrostV45/videos)
 - [Ahoy](https://www.youtube.com/user/XboxAhoy/videos)
 - [Hollow](https://www.youtube.com/c/HollowPoiint/videos)
@@ -193,7 +193,7 @@ _PS: Hiện tại tớ đang rà soát lại kênh để các kênh có nội du
 - [Internet Historian](https://www.youtube.com/channel/UCR1D15p_vdP3HkrH8wgjQRw/videos) 
 - [Daily Dose Of Internet](https://www.youtube.com/c/DailyDoseOfInternet/videos) 
 
-### Cooking  
+### Cooking
 - [Cooking Con Claudia](https://www.youtube.com/@CookingConClaudia/videos)
 - [ArnieTex](https://www.youtube.com/@ArnieTex/videos)
 - [Cooking With The Blues](https://www.youtube.com/c/CookingWithTheBlues/videos)
@@ -217,7 +217,7 @@ _PS: Hiện tại tớ đang rà soát lại kênh để các kênh có nội du
 - [MD Fish Tanks](https://www.youtube.com/c/MDFishTanks/videos)  
 
 
-### Other 
+### Other
 - [JxmyHighroller](https://www.youtube.com/@JxmyHighroller/videos): basketball, NBA
 - [Steve Cutts](https://www.youtube.com/user/steviecutts/videos): short films
 - [Bionerd23](https://www.youtube.com/c/bionerd23/videos) 

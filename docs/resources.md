@@ -7,24 +7,34 @@ Nội dung của bảng này sẽ được chia ra làm hai phần: "Học Tiế
 
 ## Học Tiếng Anh
 
+### Lộ trình học
+- [Học thông qua Phim và Game]() - Đây là hướng dẫn tự học của anh Đạt - một trong những người hiếm hoi thành lập cộng đồng tự học ngoại ngữ thông qua Immersion (Tức tập trung nạp Input, tiêu thụ nội dung ngôn ngữ mà mình học). Bạn nên tham gia vào cộng đồng Discord của anh ấy để tìm hiểu thêm về lộ trình cũng như cùng học với những người khác.
+- [Học Tiếng Anh từ mất gốc đến B1 160 ngày]() - Nếu bạn ngại theo Immersion ngay từ đầu vì độ thử thách của nó đồng thời muốn chuẩn bị trước khi đắm mình vào ngôn ngữ. 
+- [Mình đã bắt đầu học lại Tiếng Anh như thế nào?]() - Bài đăng trên diễn đàn Voz của hatori_heji về cách tự học Tiếng Anh 
+
 ### Vocabulary
-- [Ogden's Basic English](http://ogden.basic-english.org/) - Tổng hợp 850 từ vựng cơ bản.
 - [Languageguide](https://www.languageguide.org/ti%C3%AA%CD%81ng-anh/t%3F-v%3Fng/): Học từ vựng theo chủ đề thông qua tranh ảnh
-- [Anki Collections](https://polyglotclub.com/wiki/Language/Multiple-languages/Culture/Helpful-Anki-Shared-Decks#English)
-- [IELTS® Vocabulary Practice on Quizlet](https://quizlet.com/exams/ielts/)
+- [Anki Collections](https://polyglotclub.com/wiki/Language/Multiple-languages/Culture/Helpful-Anki-Shared-Decks#English) - Kho thẻ từ vựng Tiếng Anh của PolyglotClub 
+- [Kho thẻ từ vựng Tiếng Anh của cộng đồng AnkiVN](https://ankivn.com/category/bo-the/ngoai-ngu/tieng-anh/) 
 
 ### Grammar
+- [EnglishClub - Grammar](https://www.englishclub.com/grammar/index.htm): Học Tiếng Anh bằng Tiếng Anh, không chỉ ngữ pháp mà còn có nhiều thứ khác. 
+- [English Baby](http://www.englishbaby.com/lessons/grammar)
+- [BBC English Grammar](https://www.youtube.com/playlist?list=PLcetZ6gSk96_zHuVg6Ecy2F7j4Aq4valQ) - Các video ngắn bởi BBC về ngữ pháp
+- [Ego4u](http://www.ego4u.com) - Kiểm tra ngữ pháp
 
-- [English Grammar In Use - Bản Tiếng Việt](https://daihocmo.github.io/toi-luyen-tieng-anh/grammar-guide.html) - Hướng dẫn tổng hợp về Tiếng Anh, bản phiên dịch từ cuốn English Grammar In Use nổi tiếng.
-- [EnglishClub](http://englishclub.com/): Học Tiếng Anh bằng Tiếng Anh, không chỉ ngữ pháp mà còn có nhiều thứ khác. 
+## Đầu vào dễ hiểu Tiếng Anh
 
+Khu tổng hợp những gợi ý cho những bạn đang theo Comprehensible Input!
 
 ### Listening
-
-- [Culips Podcast](http://esl.culips.com/) - Luyện nghe các cuộc hội thoại Tiếng Anh hàng ngày.
+- [Culips Podcast](http://esl.culips.com/) - Luyện nghe các cuộc hội thoại Tiếng Anh hàng ngày - ESL.
 - [Luke’s English Podcast](http://teacherluke.co.uk/) - Làm Podcast về Tiếng Anh.
 - [6 Minute English](http://www.bbc.co.uk/programmes/p02pc9tn/episodes/downloads) - Học thông qua các bài nói ngắn trong 6 phút của BBC, giọng Anh Anh.
 - [English Learning for Curious Minds](https://www.leonardoenglish.com/podcasts) - Podcast về đa chủ đề.
+- [RealLife English](https://www.youtube.com/@RealLifeEnglish1) - Những video về kĩ năng học Tiếng Anh hiệu quả
+
+Bạn muốn thêm những gợi ý khác? Ghé qua khu tổng hợp tài nguyên trong trang để tìm nha.
 
 ### Reading
 - [Breaking News English](http://www.breakingnewsenglish.com/) - Breaking news listen, read and write.
@@ -33,28 +43,35 @@ Nội dung của bảng này sẽ được chia ra làm hai phần: "Học Tiế
 - [Newsy](http://www.newsy.com/) - Bản tin ngắn.
 - [NewsInLevel](https://www.newsinlevels.com/) - Đọc tin tức Tiếng Anh từ dễ đến khó
 
-### Speaking
-- [Talk English](http://www.talkenglish.com/) - Learn english speaking.
-- [The Sound of English](http://thesoundofenglish.org/) - Learn how to speak clear English with a neutral British accent. Very helpful resource to improve your pronunciation.
+## Tiêu thụ Tiếng Anh
 
-### Writing
-- [Tự luyện Writing](https://ted-ielts.com/free-ielts-writing-course/)
-- [Write and Improve](https://writeandimprove.com/)
+Nếu bạn muốn tìm thêm các gợi ý nội dung Tiếng Anh để tiêu thụ, nhớ ghé mục "Tổng hợp" nha.
 
+### Phim Ảnh & Chương trình truyền hình
 
-### Thi cử
-- [IELTS Mock Tests](https://ieltsonlinetests.com/vi/collection/)
-- [Training YOUR IELTS Skills](https://ieltstrainingonline.com/)
-- [testbig](https://www.testbig.com/ielts): Thi thử IELTS và một số các bài thi tương tự trên testbig
-- [Ego4u](http://www.ego4u.com) - Kiểm tra ngữ pháp
-- [ETS](http://englishteststore.net/) - Các bài kiểm tra Tiếng Anh
-- [LingoRank](http://lingorank.com) - Kiểm tra và cải thiện Tiếng Anh thông qua các bài diễn thuyết từ TED
+- [asbplayer Chrome Extension](https://github.com/killergerbah/asbplayer/releases) - Học ngoại ngữ thật tối ưu trên trình duyệt. Trước khi bắt đầu, bạn có thể đọc hướng dẫn cách sử dụng tại đây
+- [Language Learning with Netflix](https://languagelearningwithnetflix.com/) - Nâng cao trải nghiệm học ngoại ngữ trên Netflix.
 
-### Một số giáo trình khác
-- [Streamline](https://tve-4u.org/threads/huong-dan-hoc-streamline-english-song-ngu-nguyen-thanh-yen-4-tap-pdf.18361/)
-- [Interchage 4th Edition](https://tve-4u.org/threads/interchange-fourth-edition-tri-gia-1-010-50.20830/)
-- [Trọn bộ sách tự học IELTS trọn bộ](https://www.tuhocielts.online/tron-bo-tai-lieu-ielts-tu-0-75?utm_source=facebook&utm_medium=cpc&utm_campaign=NUT03&utm_id=LP) 
-- [IELTS theo lộ trình](https://drive.google.com/file/d/1p10jrlRX48yi1Enbt2BrwqJ9AhLTsEMB/view)
+### Văn học & Tác phẩm
+
+- [Gutenberg](https://gutenberg.org/) - Trang tổng hợp các sách Public Domain, đã hết hạn bản quyền ở US, có nhiều tác phẩm hay của Charles Dickens, Shakespeare.
+- [Gutenberg AU](https://gutenberg.net.au/) - Trang tổng hợp các sách Public Domain, đã hết hạn bản quyền ở Australia, có George Orwell (Animal Farm hoặc 1984).
+- [StandardEbooks](https://standardebooks.org/) - Free and liberated ebooks, carefully produced for the true book lover. Trang tổng hợp Ebooks tương tự như 2 trang trên, nhưng nó được định dạng tốt hơn.
+
+### Tin tức
+
+1.  The New York Times: Known for its high-quality journalism and in-depth reporting, The New York Times covers a wide range of topics from news and politics to culture and opinion pieces.
+2.  The Guardian: A British newspaper that offers a mix of news, opinion, and features on various topics. The Guardian is known for its progressive stance on social issues.
+3.  The Washington Post: Another reputable newspaper with a focus on American politics and current events. It also covers a wide range of other topics, including international news and culture.
+4.  The Wall Street Journal: A business-focused newspaper that covers financial news, politics, and international affairs. The Wall Street Journal is known for its coverage of economic issues and business trends.
+5.  The Economist: A weekly publication that covers global news, politics, business, and finance. The Economist is known for its in-depth analysis and commentary on international affairs.
+6.  BBC News: While not a newspaper, the BBC News website offers a wealth of articles on current events, politics, culture, and more. It provides a good mix of UK and international news.
+7.  USA Today: A widely circulated American newspaper that covers a broad range of topics, including news, sports, entertainment, and lifestyle.
+8.  The Times (UK): A British newspaper known for its comprehensive coverage of news, politics, and culture. It offers a mix of in-depth analysis and opinion pieces.
+
+### Podcast
+- [PodcastRepublic](https://www.podcastrepublic.net/) - Tìm mọi Podcast!
+- [PodcastIndex](https://podcastindex.org/) - Nghe mọi Podcast hoàn toàn miễn phí, không quảng cáo.
 
 ### Từ điển
 
@@ -65,6 +82,7 @@ Bạn có thể sẽ muốn cài đặt từ điển ngoại tuyến vì sự ti
 - [Goldendict](http://goldendict.org/download.php) - Từ điển ngoại tuyến cực tốt, tải bộ từ điển theo hướng dẫn trên Voz [tại đây](https://voz.vn/t/reup-goldendict-va-cac-bo-dai-tu-dien-eng-eng-full-audio-picture.710141/)
 
 #### Trực tuyến
+- [Từ điển La Bàn](https://dict.laban.vn/) - Từ điển có lẫn cả Anh - Việt lẫn Anh - Anh luôn.
 - [Từ điển Online của Cambridge](https://dictionary.cambridge.org/vi/dictionary/english-vietnamese/): Đây là từ điển bao gồm cả nghĩa Anh - Anh lẫn Anh - Việt của Cambridge (Có thể sẽ có Anh - Việt hoặc không tùy từng từ). 
 - [Thesaurus.com](https://www.thesaurus.com/) - The world's largest online thesaurus by Dictionary.com
 - [Oxford Dictionaries](http://www.oxfordlearnersdictionaries.com/) - Từ điển Oxford.
@@ -80,38 +98,10 @@ Phia trên là các từ điển đơn ngữ, tức Anh - Anh, nếu bạn muố
 - [Anki](https://apps.ankiweb.net/) - Ứng dụng giúp hỗ trợ ghi nhớ dễ dàng hơn thông qua SRS (Hệ thống lặp lại ngắt quãng)
 - [GoldenDict](https://voz.vn/t/reup-goldendict-va-cac-bo-dai-tu-dien-eng-eng-full-audio-picture.710141/) - Ứng dụng cho mọi từ điển, hoạt động ngoại tuyến, không cần Internet (Ở đây tớ để đường dẫn tới luôn kho từ điển trên diễn đàn Voz, trên đó cũng có GoldenDict cho bạn tải luôn). 
 
-## Tiêu thụ nội dung Tiếng Anh
+Bạn nên tải Goldendict vì lý do bạn có thể sử dụng rất nhiều các từ điển cùng một lúc, cho phép bạn mở rộng phạm vi tìm kiếm và các thứ như "Phrasal Verbs" hoặc "Collocations" thường không được hỗ trợ trong các từ điển online vì lý do bạn chỉ tìm được một từ như "Water" nhưng không phải lúc nào cũng tìm được "Look up to".
 
-### YouTube 
 
-Có rất nhiều những kênh học Tiếng Anh bằng Tiếng Anh, giải thích bằng Tiếng Anh sẽ hạn chế sự hiểu sai gây ra bởi học song ngữ. Đồng thời, bạn còn tiếp xúc và sử dụng chính những gì mình đã, đang và sẽ học
 
-#### Học Tiếng Anh
 
-- [BBC English Grammar](https://www.youtube.com/playlist?list=PLcetZ6gSk96_zHuVg6Ecy2F7j4Aq4valQ) - Các video ngắn bởi BBC về ngữ pháp
-- [Daily Dictation](https://www.youtube.com/user/dailydictation) - Cải thiện kĩ năng nghe độc thoại.
-- [RealLife English](https://www.youtube.com/@RealLifeEnglish1) - Những video về kĩ năng học Tiếng Anh hiệu quả
 
-#### Nội dung Tiếng Anh
 
-_Những Podcast được làm cho người bản ngữ hoặc có Tiếng Anh tốt, sẽ khó nhằn đấy!_
-
-- [This American Life](http://www.thisamericanlife.org/radio-archives) - Một trong những Podcast rất phổ biến
-- [Joe Rogan Experience](https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk) - Podcast của Joe Rogan.
-- [The Knowledge Project](https://fs.blog/knowledge-project-podcast/) - Một Podcast về đa chủ đề.
-
-_Nghe Radio Tiếng Anh, cá nhân mình gợi ý nghe của BBC, hoặc một trong số các đài dưới đây._
-
-- [NPR](http://www.npr.org/) 
-- [Bloomberg Radio](https://www.bloomberg.com/audio) - Bản tin về thị trường tài chính.
-
-_Luyện nghe các Talkshows!_
-
-- [Jimmy Kimmel Live!](https://www.youtube.com/user/JimmyKimmelLive) - Very popular american late-night talk show with famous people.
-- [The Wendy Williams Show](https://www.youtube.com/user/WendyWilliamsShow) - American syndicated infotainment talk show hosted by Wendy Williams.
-- [The Tonight Show Starring Jimmy Fallon](https://www.youtube.com/user/latenight) - American late-night talk show hosted by Jimmy Fallon on NBC.
-
-### Đọc sách ngoại văn (Tiếng Anh)
-- [Gutenberg](https://gutenberg.org/) - Trang tổng hợp các sách Public Domain, đã hết hạn bản quyền ở US, có nhiều tác phẩm hay của Charles Dickens, Shakespeare.
-- [Gutenberg AU](https://gutenberg.net.au/) - Trang tổng hợp các sách Public Domain, đã hết hạn bản quyền ở Australia, có George Orwell (Animal Farm hoặc 1984).
-- [StandardEbooks](https://standardebooks.org/) - Free and liberated ebooks, carefully produced for the true book lover. Trang tổng hợp Ebooks tương tự như 2 trang trên, nhưng nó được định dạng tốt hơn.

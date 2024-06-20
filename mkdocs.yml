@@ -16,7 +16,7 @@ nav:
   - 'FAQ':
     - 'Câu hỏi thường gặp': 'faq.md'
   - 'Immersion':
-    - 'Cày': 'tieu-thu-tieng-anh.md'
+    - 'Đắm mình vào Tiếng Anh': 'tieu-thu-tieng-anh.md'
   - 'IELTS & TOEIC':
     - 'IELTS': 'ielts.md'
     - 'TOEIC': 'toeic.md'
@@ -25,7 +25,7 @@ nav:
     - 'Tài nguyên': 'resources.md'
     - 'Cộng đồng học': 'cong-dong.md'
   - 'Nội dung tiêu thụ':
-    - 'Sách - Tiểu thuyết': 'sach.md'
+    - 'Sách': 'sach.md'
     - 'Phim ảnh': 'phim-anh.md'
     - 'Youtube': 'youtube.md'
     - 'Podcasts & Audiobooks': 'podcasts.md'

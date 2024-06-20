@@ -1,17 +1,19 @@
 Một số các Podcasts được sưu tầm, các đường dẫn ở đa nền tảng (Gần như toàn bộ đều là Google Podcasts hoặc Spotify). 
 
-### Mục lục
-
-- [Podcast cho người mới học](#podcast-cho-người-mới-học)
-- [Các Podcast nâng cao được gợi ý cho người học](#các-podcast-nâng-cao-được-gợi-ý-cho-người-học)
-- [Các Podcast được gợi ý trên Reddit](#các-podcast-được-gợi-ý-trên-reddit)
-- [Danh sách các Podcast ngắn có độ dài khoảng từ 5 phút đến 20 phút](#danh-sách-các-podcast-ngắn-có-độ-dài-khoảng-từ-5-phút-đến-20-phút)
-
 ### Podcast cho người mới học
-Đang được cập nhật
 
-### Các Podcast nâng cao được gợi ý cho người học
+- [English as a Second Language (ESL) Podcast](https://podcastindex.org/podcast/2628288)
+- [Culips ESL Podcast](https://podcastindex.org/podcast/2478468)
+- [Voice of America Learning English](https://podcastindex.org/podcast/5485837)
+- [6-Minute English (BBC)]() - Huyền thoại của BBC Learning English
+- [Podcast in English](https://www.podcastsinenglish.com/) - học và luyện tiếng Anh từ cơ bản đến nâng cao
+- [Elementary Podcasts](https://learnenglish.britishcouncil.org/general-english/audio-series/podcasts) - do Hội đồng Anh ở Mỹ xây dựng nội dung, giúp cải thiện kỹ năng đọc viết của người nghe
+- [Splendid Speaking](https://www.podomatic.com/podcasts/splendidspeaking) dành cho những bạn đã có nền tảng tiếng Anh cơ bản
+- **[ESL Podcast](https://www.eslpod.com/index.html)** với những podcast cho Jeff McQuillan và Lucy Tse dẫn dắt. 
+- **[Luke's English Podcast](https://teacherluke.co.uk/)** do thầy Luke vừa là một giáo viên tiếng Anh, vừa là diễn viên hài độc thoại xây dựng nội dung.
+- [Effortless English](https://effortlessenglishclub.com/blog-and-video-podcast) - Podcast do tác giả của phương pháp cùng tên làm.
 
+### Các Podcast nâng cao được gợi ý cho người học nâng cao
 - [This American Life](https://www.thisamericanlife.org/)
 - [RadioLabs](https://radiolab.org/)
 - [Invisibilia](https://podcastindex.org/podcast/46299)
@@ -77,3 +79,13 @@ Bạn tự sao chép tên rồi tìm trên bất kì ứng dụng Podcast nào b
 - [Ungeniused]()
 - [“Explain like I’m Five”]()
 - [Ologies]()
+
+### Talkshows
+
+_Những Podcast được làm cho người bản ngữ hoặc có Tiếng Anh tốt, sẽ khó nhằn đấy!_
+
+- [Joe Rogan Experience](https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk) - Podcast của Joe Rogan.
+- [The Knowledge Project](https://fs.blog/knowledge-project-podcast/) - Một Podcast về đa chủ đề.
+- [Jimmy Kimmel Live!](https://www.youtube.com/user/JimmyKimmelLive) - Very popular american late-night talk show with famous people.
+- [The Wendy Williams Show](https://www.youtube.com/user/WendyWilliamsShow) - American syndicated infotainment talk show hosted by Wendy Williams.
+- [The Tonight Show Starring Jimmy Fallon](https://www.youtube.com/user/latenight) - American late-night talk show hosted by Jimmy Fallon on NBC.
