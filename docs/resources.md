@@ -1,8 +1,8 @@
 Nội dung của bảng này sẽ được chia ra làm hai phần: "Học Tiếng Anh" và "Tiêu thụ nội dung Tiếng Anh"
 
 ## Đặc biệt
-- [Hướng dẫn học ngoại ngữ thông qua YouTube & Netflix](https://docs.google.com/document/d/1YaHBu5obEmn83kh20NHkWW_eOYXc7_EAPXTJmDHy1y4/edit)
-- [Cheatsheet](https://ymaz.github.io/English_Cheatsheet/) - Tổng hợp về ngữ pháp Tiếng Anh bằng Tiếng Anh.
+- [Hướng dẫn học ngoại ngữ thông qua YouTube & Netflix](https://docs.google.com/document/d/1YaHBu5obEmn83kh20NHkWW_eOYXc7_EAPXTJmDHy1y4/edit) - Đây là hướng dẫn cách đào câu (sentence mining) thông qua asbplayer ngay trên trình duyệt (Máy tính)
+- [Bảng tổng hợp ngữ pháp Tiếng Anh - ymaz](https://ymaz.github.io/English_Cheatsheet/) - Tổng hợp về ngữ pháp Tiếng Anh bằng Tiếng Anh.
 - [Lớp ngoại ngữ](http://lopngoaingu.com/): Một kho các tài liệu không chỉ về ngữ pháp, từ vựng mà còn có giáo trình, hướng dẫn, luyện nghe đọc .v.v.
 
 ## Học Tiếng Anh
@@ -13,15 +13,14 @@ Nội dung của bảng này sẽ được chia ra làm hai phần: "Học Tiế
 - [Mình đã bắt đầu học lại Tiếng Anh như thế nào?]() - Bài đăng trên diễn đàn Voz của hatori_heji về cách tự học Tiếng Anh 
 
 ### Vocabulary
-- [Languageguide](https://www.languageguide.org/ti%C3%AA%CD%81ng-anh/t%3F-v%3Fng/): Học từ vựng theo chủ đề thông qua tranh ảnh
-- [Anki Collections](https://polyglotclub.com/wiki/Language/Multiple-languages/Culture/Helpful-Anki-Shared-Decks#English) - Kho thẻ từ vựng Tiếng Anh của PolyglotClub 
+- [languageguide.org](https://www.languageguide.org/ti%C3%AA%CD%81ng-anh/t%3F-v%3Fng/): Học từ vựng theo chủ đề thông qua tranh ảnh.
+- [Anki Collections](https://polyglotclub.com/wiki/Language/Multiple-languages/Culture/Helpful-Anki-Shared-Decks#English) - Kho thẻ từ vựng Anki của PolyglotClub 
 - [Kho thẻ từ vựng Tiếng Anh của cộng đồng AnkiVN](https://ankivn.com/category/bo-the/ngoai-ngu/tieng-anh/) 
 
 ### Grammar
+
 - [EnglishClub - Grammar](https://www.englishclub.com/grammar/index.htm): Học Tiếng Anh bằng Tiếng Anh, không chỉ ngữ pháp mà còn có nhiều thứ khác. 
-- [English Baby](http://www.englishbaby.com/lessons/grammar)
-- [BBC English Grammar](https://www.youtube.com/playlist?list=PLcetZ6gSk96_zHuVg6Ecy2F7j4Aq4valQ) - Các video ngắn bởi BBC về ngữ pháp
-- [Ego4u](http://www.ego4u.com) - Kiểm tra ngữ pháp
+- [BBC English Grammar](https://www.youtube.com/playlist?list=PLcetZ6gSk96_zHuVg6Ecy2F7j4Aq4valQ) - Các video ngắn bởi BBC về ngữ pháp.
 
 ## Đầu vào dễ hiểu Tiếng Anh
 
@@ -58,18 +57,9 @@ Nếu bạn muốn tìm thêm các gợi ý nội dung Tiếng Anh để tiêu t
 - [Gutenberg AU](https://gutenberg.net.au/) - Trang tổng hợp các sách Public Domain, đã hết hạn bản quyền ở Australia, có George Orwell (Animal Farm hoặc 1984).
 - [StandardEbooks](https://standardebooks.org/) - Free and liberated ebooks, carefully produced for the true book lover. Trang tổng hợp Ebooks tương tự như 2 trang trên, nhưng nó được định dạng tốt hơn.
 
-### Tin tức
-
-1.  The New York Times: Known for its high-quality journalism and in-depth reporting, The New York Times covers a wide range of topics from news and politics to culture and opinion pieces.
-2.  The Guardian: A British newspaper that offers a mix of news, opinion, and features on various topics. The Guardian is known for its progressive stance on social issues.
-3.  The Washington Post: Another reputable newspaper with a focus on American politics and current events. It also covers a wide range of other topics, including international news and culture.
-4.  The Wall Street Journal: A business-focused newspaper that covers financial news, politics, and international affairs. The Wall Street Journal is known for its coverage of economic issues and business trends.
-5.  The Economist: A weekly publication that covers global news, politics, business, and finance. The Economist is known for its in-depth analysis and commentary on international affairs.
-6.  BBC News: While not a newspaper, the BBC News website offers a wealth of articles on current events, politics, culture, and more. It provides a good mix of UK and international news.
-7.  USA Today: A widely circulated American newspaper that covers a broad range of topics, including news, sports, entertainment, and lifestyle.
-8.  The Times (UK): A British newspaper known for its comprehensive coverage of news, politics, and culture. It offers a mix of in-depth analysis and opinion pieces.
 
 ### Podcast
+- [Danh sách các Podcast hay mà bạn có thể sẽ muốn nghe](podcasts.md)
 - [PodcastRepublic](https://www.podcastrepublic.net/) - Tìm mọi Podcast!
 - [PodcastIndex](https://podcastindex.org/) - Nghe mọi Podcast hoàn toàn miễn phí, không quảng cáo.
 
@@ -82,20 +72,22 @@ Bạn có thể sẽ muốn cài đặt từ điển ngoại tuyến vì sự ti
 - [Goldendict](http://goldendict.org/download.php) - Từ điển ngoại tuyến cực tốt, tải bộ từ điển theo hướng dẫn trên Voz [tại đây](https://voz.vn/t/reup-goldendict-va-cac-bo-dai-tu-dien-eng-eng-full-audio-picture.710141/)
 
 #### Trực tuyến
-- [Từ điển La Bàn](https://dict.laban.vn/) - Từ điển có lẫn cả Anh - Việt lẫn Anh - Anh luôn.
+Các từ điển đơn ngữ (Anh - Anh) sẽ được để đầu tiên và mình thực sự gợi ý dùng từ điển đơn ngữ.
+
 - [Từ điển Online của Cambridge](https://dictionary.cambridge.org/vi/dictionary/english-vietnamese/): Đây là từ điển bao gồm cả nghĩa Anh - Anh lẫn Anh - Việt của Cambridge (Có thể sẽ có Anh - Việt hoặc không tùy từng từ). 
 - [Thesaurus.com](https://www.thesaurus.com/) - The world's largest online thesaurus by Dictionary.com
 - [Oxford Dictionaries](http://www.oxfordlearnersdictionaries.com/) - Từ điển Oxford.
+- [Từ điển La Bàn](https://dict.laban.vn/) - Từ điển có lẫn cả Anh - Việt lẫn Anh - Anh luôn.
 
 Phia trên là các từ điển đơn ngữ, tức Anh - Anh, nếu bạn muốn thử từ điển song ngữ thì bạn có thể thử [LabanDict](https://dict.laban.vn/) hay [VDict](https://vdict.com/)
 
 #### Từ điển trên điện thoại
-- [TFlat](https://play.google.com/store/apps/details?id=com.vn.dic.e.v.ui) - Về cơ bản ai dùng từ điển trên điện thoại cũng dùng từ điển này.
-- [Prodict](https://play.google.com/store/apps/details?id=com.dict.user.prodict) - Từ điển Anh - Việt hoặc Anh - Anh khá tốt, cá nhân mình khuyến khích dùng ứng dụng này hơn TFlat.
 
+- [Prodict](https://play.google.com/store/apps/details?id=com.dict.user.prodict) - Từ điển Anh - Việt hoặc Anh - Anh khá tốt, cá nhân mình khuyến khích dùng ứng dụng này hơn TFlat. Sẽ tốt hơn nữa nếu chọn một từ điển thuần Anh - Anh.
+- [TFlat](https://play.google.com/store/apps/details?id=com.vn.dic.e.v.ui) - Về cơ bản ai dùng từ điển trên điện thoại cũng dùng từ điển này.
 
 ### Công cụ
-- [Anki](https://apps.ankiweb.net/) - Ứng dụng giúp hỗ trợ ghi nhớ dễ dàng hơn thông qua SRS (Hệ thống lặp lại ngắt quãng)
+- [Anki](https://apps.ankiweb.net/) - Ứng dụng giúp hỗ trợ ghi nhớ dễ dàng hơn thông qua SRS (Hệ thống lặp lại ngắt quãng). Một ứng dụng bạn **bắt buộc** phải có nếu muốn tăng tốc độ học ngoại ngữ và ghi nhớ.
 - [GoldenDict](https://voz.vn/t/reup-goldendict-va-cac-bo-dai-tu-dien-eng-eng-full-audio-picture.710141/) - Ứng dụng cho mọi từ điển, hoạt động ngoại tuyến, không cần Internet (Ở đây tớ để đường dẫn tới luôn kho từ điển trên diễn đàn Voz, trên đó cũng có GoldenDict cho bạn tải luôn). 
 
 Bạn nên tải Goldendict vì lý do bạn có thể sử dụng rất nhiều các từ điển cùng một lúc, cho phép bạn mở rộng phạm vi tìm kiếm và các thứ như "Phrasal Verbs" hoặc "Collocations" thường không được hỗ trợ trong các từ điển online vì lý do bạn chỉ tìm được một từ như "Water" nhưng không phải lúc nào cũng tìm được "Look up to".

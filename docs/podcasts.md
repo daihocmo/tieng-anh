@@ -13,7 +13,19 @@ Một số các Podcasts được sưu tầm, các đường dẫn ở đa nền
 - **[Luke's English Podcast](https://teacherluke.co.uk/)** do thầy Luke vừa là một giáo viên tiếng Anh, vừa là diễn viên hài độc thoại xây dựng nội dung.
 - [Effortless English](https://effortlessenglishclub.com/blog-and-video-podcast) - Podcast do tác giả của phương pháp cùng tên làm.
 
-### Các Podcast nâng cao được gợi ý cho người học nâng cao
+### Các Podcast về tin tức
+
+1.  The New York Times: Known for its high-quality journalism and in-depth reporting, The New York Times covers a wide range of topics from news and politics to culture and opinion pieces.
+2.  The Guardian: A British newspaper that offers a mix of news, opinion, and features on various topics. The Guardian is known for its progressive stance on social issues.
+3.  The Washington Post: Another reputable newspaper with a focus on American politics and current events. It also covers a wide range of other topics, including international news and culture.
+4.  The Wall Street Journal: A business-focused newspaper that covers financial news, politics, and international affairs. The Wall Street Journal is known for its coverage of economic issues and business trends.
+5.  The Economist: A weekly publication that covers global news, politics, business, and finance. The Economist is known for its in-depth analysis and commentary on international affairs.
+6.  BBC News: While not a newspaper, the BBC News website offers a wealth of articles on current events, politics, culture, and more. It provides a good mix of UK and international news.
+7.  USA Today: A widely circulated American newspaper that covers a broad range of topics, including news, sports, entertainment, and lifestyle.
+8.  The Times (UK): A British newspaper known for its comprehensive coverage of news, politics, and culture. It offers a mix of in-depth analysis and opinion pieces.
+
+### Các Podcast được gợi ý cho người học nâng cao
+
 - [This American Life](https://www.thisamericanlife.org/)
 - [RadioLabs](https://radiolab.org/)
 - [Invisibilia](https://podcastindex.org/podcast/46299)

@@ -1,5 +1,3 @@
-**PS: Mức Tiếng Anh hiện tại của bạn cũng phải khoảng B2 trở lên. Nếu bạn muốn đọc những thứ dễ hơn thì có thể thử Graded Reading, mình có đề cập trong [đây](input-guide.md).**
-
 Đây là câu trả lời của Jill Pickle trên Quora, bạn có thể đọc bài đăng gốc [tại đây](https://www.quora.com/What-are-the-best-books-in-public-domain-for-young-adults-or-children). 
 
 Khá nhiều cuốn trong đây sẽ được dẫn tới Gutenberg, bạn có thể tải bản điện tử cho những cuốn sách này hoàn toàn miễn phí do sách đã hết hạn bản quyền.
@@ -13,7 +11,7 @@ Khá nhiều cuốn trong đây sẽ được dẫn tới Gutenberg, bạn có t
 - [The Blue Fairy Book](https://www.gutenberg.org/ebooks/503) - by Andrew Lang
 - [The Velveteen Rabbit](https://www.gutenberg.org/ebooks/11757) - by Margery Williams
 
-### Middle Grade (ages 8–12) 
+### Middle Grade (ages 8–12)
 
 —Age-appropriate but some language may be old-fashioned/didactic or contain words considered offensive today—
 
@@ -32,7 +30,7 @@ Khá nhiều cuốn trong đây sẽ được dẫn tới Gutenberg, bạn có t
 
 - by Johanna Spyri (realistic fiction) 
 
-### Young Adult (ages 12–16) 
+### Young Adult (ages 12–16)
 
 —No warnings. These kids are old enough to figure it out—
 

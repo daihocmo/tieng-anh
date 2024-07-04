@@ -1,5 +1,5 @@
-site_name: Tiếng Anh dễ hiểu - Comprehensible English
-site_description: Tự học Tiếng Anh thông qua việc tiêu thụ nội dung Tiếng Anh dễ hiểu (Comprehensible English) và đắm chìm mình vào nội dung Tiếng Anh làm bởi người bản xứ cho người bản xứ (Immersion)
+site_name: Tự học Tiếng Anh - Khu học mở. 
+site_description: Tự học Tiếng Anh thông qua tiêu thụ nội dung (media) như Phim, Sách, Báo, Game .v.v.
 site_author: onlyduyy  
 theme:
   name: material
@@ -9,26 +9,21 @@ theme:
     primary: indigo
 
 nav:
-  - Home: 'index.md'
+  - 'Trang chủ': 
+    - 'Mở đầu': 'index.md'
   - 'Lộ trình':
     - 'Lộ trình chính': 'guide.md'
-    - 'Đầu vào dễ hiểu': 'input-guide.md'
-  - 'FAQ':
-    - 'Câu hỏi thường gặp': 'faq.md'
   - 'Immersion':
     - 'Đắm mình vào Tiếng Anh': 'tieu-thu-tieng-anh.md'
-  - 'IELTS & TOEIC':
-    - 'IELTS': 'ielts.md'
-    - 'TOEIC': 'toeic.md'
-    - 'Tài liệu ôn': 'tai-lieu-on-thi.md'
   - 'Tài nguyên':
     - 'Tài nguyên': 'resources.md'
+  - 'Gợi ý':
     - 'Cộng đồng học': 'cong-dong.md'
   - 'Nội dung tiêu thụ':
-    - 'Sách': 'sach.md'
-    - 'Phim ảnh': 'phim-anh.md'
     - 'Youtube': 'youtube.md'
+    - 'Sách': 'sach.md'
     - 'Podcasts & Audiobooks': 'podcasts.md'
+    - 'Phim ảnh': 'phim-anh.md'
       
 theme:
   palette:

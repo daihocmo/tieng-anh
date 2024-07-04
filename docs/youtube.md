@@ -1,8 +1,4 @@
-Đây là khu tổng hợp các kênh nội dung Tiếng Anh mà bạn có thể xem. Một cảnh báo nho nhỏ rằng vì đây là nội dung người nói Tiếng Anh làm cho người nói Tiếng Anh xem nên sẽ không phù hợp với những bạn mới học. Nếu bạn muốn thì vẫn có thể xem thử. Khi mới học bạn nên có nền tảng vững chắc về Tiếng Anh trước đã. Bạn có thể quay lại về bài viết về [Đầu vào dễ hiểu](input-guide.md) để tìm hiểu thêm.
-
-_PS: Hiện tại tớ đang rà soát lại kênh để các kênh có nội dung và thời lượng tối ưu cho việc đắm chìm mình vào Tiếng Anh. Lưu ý là nguồn sẽ không phân Accent đâu nên ^^. Yêu cầu là có hội thoại nhiều, với âm thanh rõ ràng và vân vân các tiêu chí khác. Danh sách sẽ rất dài đấy!_
-
-### Những kênh cá nhân mình đề xuất (Favorite)
+### Personal Favorite
 - [Matt. D Avella](https://www.youtube.com/channel/UCJ24N4O0bP7LGLBDvye7oCA): Milimalism & Self Improvement
 - [Lemmino](https://www.youtube.com/user/Top10Memes/videos) 
 - [melodysheep](https://www.youtube.com/user/melodysheep/videos) 
