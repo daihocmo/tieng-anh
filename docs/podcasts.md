@@ -9,7 +9,7 @@ Một số các Podcasts được sưu tầm, các đường dẫn ở đa nền
 - [Podcast in English](https://www.podcastsinenglish.com/) - học và luyện tiếng Anh từ cơ bản đến nâng cao
 - [Elementary Podcasts](https://learnenglish.britishcouncil.org/general-english/audio-series/podcasts) - do Hội đồng Anh ở Mỹ xây dựng nội dung, giúp cải thiện kỹ năng đọc viết của người nghe
 - [Splendid Speaking](https://www.podomatic.com/podcasts/splendidspeaking) dành cho những bạn đã có nền tảng tiếng Anh cơ bản
-- **[ESL Podcast](https://www.eslpod.com/index.html)** với những podcast cho Jeff McQuillan và Lucy Tse dẫn dắt. 
+- **[ESL Podcast](https://www.eslpod.com/index.html)** - với những podcast cho Jeff McQuillan và Lucy Tse dẫn dắt. 
 - **[Luke's English Podcast](https://teacherluke.co.uk/)** do thầy Luke vừa là một giáo viên tiếng Anh, vừa là diễn viên hài độc thoại xây dựng nội dung.
 - [Effortless English](https://effortlessenglishclub.com/blog-and-video-podcast) - Podcast do tác giả của phương pháp cùng tên làm.
 
