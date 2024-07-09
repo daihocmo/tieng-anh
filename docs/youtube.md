@@ -1,61 +1,39 @@
 ### Personal Favorite
 - [Matt. D Avella](https://www.youtube.com/channel/UCJ24N4O0bP7LGLBDvye7oCA): Milimalism & Self Improvement
-- [Lemmino](https://www.youtube.com/user/Top10Memes/videos) 
-- [melodysheep](https://www.youtube.com/user/melodysheep/videos) 
-- [NileRed](https://www.youtube.com/user/TheRedNile/videos): chemistry
-- [Sebastian Lague](https://www.youtube.com/c/SebastianLague/videos):game dev/comp sci
-- [Veritasium](https://www.youtube.com/c/veritasium/videos): general science
-- [Primitive Technology](https://www.youtube.com/channel/UCAL3JXZSzSm8AlZyD3nQdBA/videos) 
-- [Vagrant Holiday](https://www.youtube.com/c/VagrantHoliday/videos) 
-- [Channel 5 with Andrew Callaghan](https://www.youtube.com/c/Channel5YouTube/videos) 
-- [Exurb1a](https://www.youtube.com/user/willunicycleforfood/videos): philosophy
-- [Marc Rebillet](https://www.youtube.com/c/MarcRebillet/videos): music
-- [Hsinchuen Lin](https://www.youtube.com/c/hsinchuen/videos): ceramics
-- [Cooking With The Blues](https://www.youtube.com/c/CookingWithTheBlues/videos): cooking
-- [StuffMadeHere](https://www.youtube.com/c/StuffMadeHere/videos): engineering
-- [Casually Explained](https://www.youtube.com/c/CasuallyExplained/videos): comedy, kinda
-- [styropyro](https://www.youtube.com/user/styropyro/videos)lasers
-- [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/videos): math
-- [Kurzgesagt - In a Nutshell](https://www.youtube.com/c/inanutshell/videos) 
-- [Dictionary of Obscure Sorrows](https://www.youtube.com/user/obscuresorrows/videos) 
-- [Indigo Traveller](https://www.youtube.com/c/IndigoTraveller/videos): travel
-- [Kurzgesagt - In a Nutshell](https://www.youtube.com/c/inanutshell/videos)
 
 ### General Explanation
-- [Lemmino](https://www.youtube.com/user/Top10Memes/videos)
-- [melodysheep](https://www.youtube.com/user/melodysheep/videos)
-- [Mike Boyd](https://www.youtube.com/c/MikeBoydVideo/videos)
-- [Wendover Productions](https://www.youtube.com/user/Wendoverproductions/videos)
+- [Lemmino](https://www.youtube.com/user/Top10Memes/videos) - Độ dài tương đối, giọng đọc bánh cuốn.
+- [Mike Boyd](https://www.youtube.com/c/MikeBoydVideo/videos) - Một người học rất nhiều những kĩ năng linh tinh ^^!
+- [Wendover Productions](https://www.youtube.com/user/Wendoverproductions/videos) - Những video giải thích với kiểu video dạng tương tự Documentation
 - [Joe Scott](https://www.youtube.com/c/joescott/videos)
-- [D!NG](https://www.youtube.com/channel/UClq42foiSgl7sSpLupnugGA/videos)
-- [Half as Interesting](https://www.youtube.com/c/halfasinteresting/videos)
-- [Tom Scott](https://www.youtube.com/c/TomScottGo/videos)
-- [Primer](https://www.youtube.com/c/PrimerLearning/videos)
+- [D!NG](https://www.youtube.com/channel/UClq42foiSgl7sSpLupnugGA/videos) - Ông này ngừng làm video được một thời gian rồi nhưng vẫn có thể xem lại đống cũ
+- [Half as Interesting](https://www.youtube.com/c/halfasinteresting/videos) - Những video ngắn giải thích các câu hỏi như "Why All Pro Basketball Players Shoot Free Throws Wrong" hay "How Storing Movies on Vinyl Lost Rca $650 Million"
+- [Tom Scott](https://www.youtube.com/c/TomScottGo/videos) - Một chú người Anh làm các video để giải thích rất nhiều câu hỏi
+- [Primer](https://www.youtube.com/c/PrimerLearning/videos) - Video giải thích được làm dưới dạng hoạt họa, liên quan nhiều đến toán học, khoa học .v.v.
 - [New Mind](https://www.youtube.com/channel/UC5_Y-BKzq1uW_2rexWkUzlA/videos)
-- [Vsauce](https://www.youtube.com/user/Vsauce/videos)
-- [Vsauce2](https://www.youtube.com/user/Vsauce2/videos)
-- [TED-Ed](https://www.youtube.com/user/TEDEducation/videos)
-- [Atomic Frontier](https://www.youtube.com/c/AtomicFrontier/videos)
-- [Facts in Motion](https://www.youtube.com/channel/UCoanlfeXEit_vI83VlE709A/videos)
-- [Jared Owen](https://www.youtube.com/user/captainranic/videos)
-- [Koranos](https://www.youtube.com/c/Koranos/videos)
-- [Art of the Problem](https://www.youtube.com/c/ArtOfTheProblem/videos)
+- [Vsauce](https://www.youtube.com/user/Vsauce/videos) - Một người đẹp trai
+- [Vsauce2](https://www.youtube.com/user/Vsauce2/videos) - Kênh thứ 2 của người đẹp trai ở trên
+- [TED-Ed](https://www.youtube.com/user/TEDEducation/videos) - Kênh về giáo dục của TED, giải thích những vấn đề với những video thường ngắn khoảng dưới 10 phút và với hoạt họa, 
+- [Atomic Frontier](https://www.youtube.com/c/AtomicFrontier/videos) - Giải thích các câu hỏi linh tinh liên quan đến khoa học, dài khoảng từ 10 - 15 phút tùy video
+- [Facts in Motion](https://www.youtube.com/channel/UCoanlfeXEit_vI83VlE709A/videos) - 
+- [Jared Owen](https://www.youtube.com/user/captainranic/videos) - Giải thích các thứ bằng đồ họa 3D
+- [Koranos](https://www.youtube.com/c/Koranos/videos) - Giải thích các thứ kiểu khoa học viễn tưởng, vũ trụ
+- [Art of the Problem](https://www.youtube.com/c/ArtOfTheProblem/videos) - Một kênh chất lượng nữa làm video giải thích dưới dạng kiểu Documentation.
 - [RealLifeLore](https://www.youtube.com/c/RealLifeLore/videos)
-- [Vox](https://www.youtube.com/c/Vox/videos)
-- [CGP Grey](https://www.youtube.com/greymatter/videos)
-- [Geographics](https://www.youtube.com/channel/UCHKRfxkMTqiiv4pF99qGKIw/videos)
-- [Biographics](https://www.youtube.com/c/Biographics/videos)
-
+- [Vox](https://www.youtube.com/c/Vox/videos) - Siêu thích Vox @@, giải thích nhiều thứ hay ho, ngắn mà dễ hiểu
+- [CGP Grey](https://www.youtube.com/greymatter/videos) - Những video hoạt họa ngắn 
+- [Geographics](https://www.youtube.com/channel/UCHKRfxkMTqiiv4pF99qGKIw/videos) - Địa lý các thứ
+- [Biographics](https://www.youtube.com/c/Biographics/videos) - Giải thích (hay đúng hơn là tiểu sử) về những người nổi tiếng (Kiểu Lincoln hay Jack London ấy)
+- [What I've Learned](https://www.youtube.com/channel/UCqYPhGiB9tkShZorfgcL2lA) - Chuyên làm các video giải thích các vấn đề liên quan đến sức khỏe, giấc ngủ, thói quen ăn uống và lối sống
+- [Answer In Progress](https://www.youtube.com/channel/UCqVEHtQoXHmUCfJ-9smpTSg) - Được làm bởi một chị dân STEM cùng hai người bạn của chị, tham gia giải thích các vấn đề một cách vô cùng kĩ càng và đầu tư trong từng video.
+- [Learn]
 ### Iconic
-- [SethEverman](https://www.youtube.com/user/SethEverman/videos) 
-- [Dillon The Hacker](https://www.youtube.com/c/DillonTheHackerisgod/videos) 
-- [bill wurtz](https://www.youtube.com/user/billwurtz/videos) 
+- [SethEverman](https://www.youtube.com/user/SethEverman/videos) - Tự xem rùi biết
+- [Dillon The Hacker](https://www.youtube.com/c/DillonTheHackerisgod/videos) - Không biết nói gì 
+- [bill wurtz](https://www.youtube.com/user/billwurtz/videos) - Một ông chú làm nhạc siêu chất
 
-### Daily vlog
-Đang cập nhật
 
 ### Outdoors
-- [Primitive Technology](https://www.youtube.com/channel/UCAL3JXZSzSm8AlZyD3nQdBA/videos) 
 - [Self Sufficient Me](https://www.youtube.com/c/Selfsufficientme/videos): gardening
 - [Kraig Adams](https://www.youtube.com/c/KraigAdams/videos): hiking
 - [Alaska to Argentina on Honda 90's](https://www.youtube.com/playlist?list=PLiUJqMrz7-QNMcyiGo5mBhdqXqSM1XJQH) 
