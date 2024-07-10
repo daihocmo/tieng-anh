@@ -1,5 +1,7 @@
 Nội dung của bảng này sẽ được chia ra làm hai phần: "Học Tiếng Anh" và "Tiêu thụ nội dung Tiếng Anh"
 
+Trang tài nguyên đang được cập nhật lại. Khối lượng tài nguyên trong đây không quá nhiều do khối lượng tài nguyên học Tiếng Anh phù hợp với các tiêu chí ở trang tổng hợp này còn khá hạn chế. Hoặc do mình chưa tìm đủ nhiều.
+
 ## Đặc biệt
 - [Hướng dẫn học ngoại ngữ thông qua YouTube & Netflix](https://docs.google.com/document/d/1YaHBu5obEmn83kh20NHkWW_eOYXc7_EAPXTJmDHy1y4/edit) - Đây là hướng dẫn cách đào câu (sentence mining) thông qua asbplayer ngay trên trình duyệt (Máy tính)
 - [Bảng tổng hợp ngữ pháp Tiếng Anh - ymaz](https://ymaz.github.io/English_Cheatsheet/) - Tổng hợp về ngữ pháp Tiếng Anh bằng Tiếng Anh.

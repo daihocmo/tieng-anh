@@ -1,8 +1,8 @@
 ### Personal Favorite
-| [Matt. D Avella](https://www.youtube.com/channel/UCJ24N4O0bP7LGLBDvye7oCA): Milimalism & Self Improvement
 
 | Kênh | Thể loại | Giới thiệu |
 | --- | ---- | --- |
+| [Matt. D Avella](https://www.youtube.com/channel/UCJ24N4O0bP7LGLBDvye7oCA): Milimalism & Self Improvement | Không rõ | Một anh chuyên làm video về lối sống tối giản và phát triển bản thân |
 | [Lemmino](https://www.youtube.com/user/Top10Memes/videos) | General Explanation | Độ dài tương đối, giọng đọc bánh cuốn. |
 | [Mike Boyd](https://www.youtube.com/c/MikeBoydVideo/videos) | General Explanation | Một người học rất nhiều những kĩ năng linh tinh ^^! |
 | [Wendover Productions](https://www.youtube.com/user/Wendoverproductions/videos) | General Explanation | Những video giải thích với kiểu video dạng tương tự Documentation |
@@ -37,10 +37,8 @@
 | [AlfieAesthetics](https://www.youtube.com/user/AlfieAesthetics/videos) | Outdoors | Cắm trại, dã ngoại |
 | [Learn Your Land](https://www.youtube.com/c/LearnYourLand/videos) | Outdoors | Tìm hiểu về ..... vùng đất của bạn |
 | [Yellow Elanor](https://www.youtube.com/c/YellowElanor/videos) | Outdoors | |
-| [Paul Stamets](https://www.youtube.com/c/paulstametsofficial/videos) | Outdoors | mycology |
+| [Paul Stamets](https://www.youtube.com/c/paulstametsofficial/videos) | Outdoors | mycology, vlog của một ông thích đi dã ngoại |
 | [MCQBushcraft](https://www.youtube.com/c/MCQBushcraft/videos) | | |
-| [Nagualero](https://www.youtube.com/c/NagualeroArt/videos) | | |
-| [Primitive Skills](https://www.youtube.com/c/PrimitiveSkillsnet/videos) | | |
 | [Bound For Nowhere](https://www.youtube.com/c/BoundForNowhere/videos) | | |
 | [Indigo Traveller](https://www.youtube.com/c/IndigoTraveller/videos)  | Travel | |  
 | [Vagrant Holiday](https://www.youtube.com/c/VagrantHoliday/videos)  | Travel | | 

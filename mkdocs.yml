@@ -13,17 +13,26 @@ nav:
     - 'Mở đầu': 'index.md'
   - 'Lộ trình':
     - 'Lộ trình chính': 'guide.md'
+    - 'Antimoon': 'antimoon.md'
+  - 'Hướng dẫn':
+    - 'Nghe': 'nghe.md'
+    - 'Đọc': 'doc.md'
+    - 'Nói': 'noi.md'
+    - 'Viết': 'viet.md'
+  - 'FAQ':
+    - 'Câu hỏi thường gặp': 'faq.md'
   - 'Immersion':
-    - 'Đắm mình vào Tiếng Anh': 'tieu-thu-tieng-anh.md'
+    - 'Đắm chìm': 'tieu-thu-tieng-anh.md'
+    - 'Học thụ động': 'thu-dong.md'
   - 'Tài nguyên':
     - 'Tài nguyên': 'resources.md'
   - 'Gợi ý':
     - 'Cộng đồng học': 'cong-dong.md'
+    - 'IELTS': 'ielts.md'
   - 'Nội dung tiêu thụ':
     - 'Youtube': 'youtube.md'
     - 'Sách': 'sach.md'
     - 'Podcasts & Audiobooks': 'podcasts.md'
-    - 'Phim ảnh': 'phim-anh.md'
       
 theme:
   palette:

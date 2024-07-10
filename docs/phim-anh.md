@@ -1,1 +1,0 @@
-Bạn nên tự chọn bộ phim mà bạn thích xem.
