@@ -1,1 +1,1 @@
-Hãy ghé trang [Giai đoạn](guide/) để đọc hướng dẫn.
+Hãy ghé trang [Giai đoạn](guide.md) để đọc hướng dẫn.
