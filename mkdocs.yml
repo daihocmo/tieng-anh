@@ -1,5 +1,5 @@
-site_name: Tự học Tiếng Anh - Khu học mở. 
-site_description: Tự học Tiếng Anh thông qua tiêu thụ nội dung (media) như Phim, Sách, Báo, Game .v.v.
+site_name: Tôi luyện Tiếng Anh - Khu học mở. 
+site_description: Tự học Tiếng Anh thông qua tiêu thụ nội dung (media) như Phim, Sách, Báo, Game, Youtube
 site_author: onlyduyy  
 theme:
   name: material
@@ -9,21 +9,8 @@ theme:
     primary: indigo
 
 nav:
-  - 'Trang chủ': 
-    - 'Mở đầu': 'index.md'
-  - 'Lộ trình':
-    - 'Lộ trình chính': 'guide.md'
-    - 'Antimoon': 'antimoon.md'
-  - 'Hướng dẫn':
-    - 'Nghe': 'nghe.md'
-    - 'Đọc': 'doc.md'
-    - 'Nói': 'noi.md'
-    - 'Viết': 'viet.md'
-  - 'FAQ':
-    - 'Câu hỏi thường gặp': 'faq.md'
-  - 'Immersion':
-    - 'Đắm chìm': 'tieu-thu-tieng-anh.md'
-    - 'Học thụ động': 'thu-dong.md'
+  - 'Giai đoạn':
+    - 'Các giai đoạn chính': 'guide.md'
   - 'Tài nguyên':
     - 'Tài nguyên': 'resources.md'
   - 'Gợi ý':

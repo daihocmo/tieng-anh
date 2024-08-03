@@ -5,7 +5,7 @@ Một số các Podcasts được sưu tầm, các đường dẫn ở đa nền
 - [English as a Second Language (ESL) Podcast](https://podcastindex.org/podcast/2628288)
 - [Culips ESL Podcast](https://podcastindex.org/podcast/2478468)
 - [Voice of America Learning English](https://podcastindex.org/podcast/5485837)
-- [6-Minute English (BBC)]() - Huyền thoại của BBC Learning English
+- [6-Minute English (BBC)]() - Huyền thoại của BBC Learning English. Đường dẫn không truy cập được
 - [Podcast in English](https://www.podcastsinenglish.com/) - học và luyện tiếng Anh từ cơ bản đến nâng cao
 - [Elementary Podcasts](https://learnenglish.britishcouncil.org/general-english/audio-series/podcasts) - do Hội đồng Anh ở Mỹ xây dựng nội dung, giúp cải thiện kỹ năng đọc viết của người nghe
 - [Splendid Speaking](https://www.podomatic.com/podcasts/splendidspeaking) dành cho những bạn đã có nền tảng tiếng Anh cơ bản
