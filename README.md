@@ -1,1 +1,1 @@
-Chuyển đến trang [này](https://daihocmo.github.io/tieng-anh/) để đọc hướng dẫn đầy đủ
+Đây là một trang học Tiếng Anh.
