@@ -1,0 +1,83 @@
+## Hướng dẫn cài đặt để chuẩn bị cho dân Immersion
+Đây là một hướng dẫn nhanh cách cài đặt một số phần mềm để hỗ trợ cho việc tiêu thụ nội dung Tiếng Anh và học từ đó.
+
+## Từ điển
+
+### Về việc sử dụng từ điển
+Từ điển là một phần rất quan trọng cần có trong quá trình học ngoại ngữ (Vì bạn đang học ngoại ngữ! Mình gợi ý nên tránh sử dụng Google Dịch, trừ khi bạn THỰC SỰ không còn lựa chọn nào khác).
+
+Về từ điển, những ứng dụng ở đây đều đạt chỉ tiêu:
+
+1. Hỗ trợ rất nhiều từ điển cùng một lúc. Rất quan trọng vì bạn có thể sử dụng nhiều từ điển như: Từ điển A - V, từ điển A - A, từ điển Idioms, Collocations, Thesaurus, Synonyms .v.v. cùng một lúc.
+2. Hoạt động ngoại tuyến: Bạn không cần kết nối mạng để sử dụng, và nó cũng rất gọn nữa
+
+### Những lựa chọn
+- Yomitan (Bản kế tiếp từ Yomichan, là một tiện ích trình duyệt Chrome & Firefox để dùng từ điển pop-up bằng cách giữ phím Shift và di chuột vào từ). Mình gợi ý Yomitan vì nó giúp tạo thẻ Anki và dùng trên trình duyệt.
+- Goldendict-ng (Bản cải thiện của Goldendict) - Một ứng dụng có tuổi đời khá cũ nhưng hỗ trợ rất nhiều định dạng từ điển nên kho từ điển cho Goldendict gần như là vô tận.
+
+### Hướng dẫn cài đặt
+Bạn vào đọc hướng dẫn tải từ chính trang chủ của hai thứ ở trên. Bạn có thể tải cả hai, hoặc một trong hai đều được
+
+- Goldendict-ng: <https://xiaoyifang.github.io/goldendict-ng/>
+- Yomitan: <https://yomitan.wiki/>
+
+### Chọn từ điển
+#### Yomitan
+Để tải từ điển cho Yomitan (hiện tại chỉ mới có người làm từ điển Anh - Anh), bạn hãy [truy cập vào trang này](https://github.com/MarvNC/yomitan-dictionaries#english-english) để tải.
+
+Những từ điển mình gợi ý:
+
+- [Oxford Advanced Learner's Dictionary](https://github.com/MarvNC/yomichan-dictionaries/files/14957647/oald-release-yomitan.zip) - Bạn bấm vào luôn để tải. Bạn cần giải nén tệp .zip ra rồi mới thêm các tệp .zip trong như mục giải nén. Bạn có thể thêm tất cả 4, hoặc có thể bỏ từ điển IPA - vì nó đã có âm thanh đính kèm, hoặc IPA sẵn hiện trên từ
+- New Oxford American Dictionary - Bạn vào đường dẫn ở đầu mục [Yomitan](#yomitan) này và chọn vào thư mục Google Drive để tìm.
+- `CambridgeYomitan.zip` - Bạn vào đường dẫn ở đầu mục [Yomitan](#yomitan) này và chọn vào thư mục Google Drive để tìm.
+
+#### Goldendict
+Để tải từ điển cho Goldendict, bạn hãy truy cập trang này trên diễn đàn Voz để đọc [bài tổng hợp này](https://voz.vn/t/reup-goldendict-va-cac-bo-dai-tu-dien-eng-eng-full-audio-picture.710141/). Có một kho rất lớn các từ điển bạn có thể tải
+
+
+Những từ điển mình gợi ý: Cá nhân mình sử dụng:
+
+- mtBab EV - Từ điển Anh - Việt bạn có thể tìm ở đường dẫn đầu mục Goldendict này. Nếu bạn mới học Tiếng Anh thì có thể dùng
+- New Oxford American Dictionary
+- American Slang
+
+
+## Các phần mềm và tiện ích hỗ trợ khác
+### Anki
+Cần có - Dù mình tin là bạn có thể học mà _không sử dụng Anki_ nhưng nó thực sự quá tốn thời gian.
+
+Anki là một công cụ quá tốt để hỗ trợ bạn ghi nhớ những gì bạn đã học. Trước khi sử dụng bạn nên xem video hướng dẫn cơ bản trước nha. 
+
+[Hướng dẫn sử dụng căn bản]()
+
+[Học cách tạo thẻ Anki và Sentence Mining đơn giản]()
+
+### Asbplayer
+
+Dùng để tạo thẻ câu (sentence mining) các thứ trên Youtube hay các trang có hỗ trợ phụ đề. Đây là tiện ích trình duyệt chỉ hỗ trợ Chrome và các trình duyệt tương ứng như Edge hay Brave. [Tải tại đây](https://chromewebstore.google.com/detail/asbplayer-language-learni/hkledmpjpaehamkiehglnbelcpdflcab)
+
+[Hướng dẫn học ngoại ngữ thông qua YouTube & Netflix](https://docs.google.com/document/d/1YaHBu5obEmn83kh20NHkWW_eOYXc7_EAPXTJmDHy1y4/edit) - Đây là hướng dẫn cách đào câu (sentence mining) thông qua asbplayer ngay trên trình duyệt (Máy tính).
+
+### RSS Readers - Feed Aggregators
+
+Bạn nên tải một ứng dụng hỗ trợ RSS để đọc báo, tin tức hay quản lý các cập nhật một cách gọn gàng. Bạn có thể tìm RSS của một trang tin tức, báo Tiếng Anh bất kì, cho vào Rss Reader và nó sẽ tự động cập nhật thông tin và bài viết mới cho bạn, mỗi ngày và rất nhanh chóng.
+
+Bạn cũng có thể truy cập [brutalist.report](https://brutalist.report/) để xem các cập nhật trong ngày một cách nhanh chóng và gọn.
+
+
+## Tiêu thụ nội dung 
+### Youtube
+Bạn có thể tìm trên Youtube hoặc tải phim có phụ đề.
+
+- [Gợi ý các kênh Youtube mà bạn có thể xem](https://daihocmo.github.io/tieng-anh/youtube/)
+- [Một phần mềm hỗ trợ tải video Youtube về máy](https://github.com/axcore/tartube/releases/tag/v2.5.0) 
+
+### Sách
+- [Tìm gợi ý sách để đọc](https://daihocmo.github.io/tieng-anh/sach) - Khá nhiều sách trong số này là miễn phí do hết hạn bản quyền, bạn có thể bấm vào tên sách và tải tệp, gợi ý nên chọn tệp `.epub` và tìm một phần mềm hỗ trợ đọc `.epub` như Calibre hoặc SumatraPDF. Nếu bạn đọc sách bằng máy đọc sách Kindle thì hãy chọn `.mobi`. 
+
+### Podcast
+- [Tìm Podcast để nghe](https://daihocmo.github.io/tieng-anh/podcasts/) - Một trang tổng hợp các gợi ý Podcast nên nghe từ rất nhiều nguồn 
+
+### Tin tức
+- [brutalist.report](https://brutalist.report/) - một trang rất hay tổng hợp tin tức từ nhiều nguồn một cách gọn gàng
+

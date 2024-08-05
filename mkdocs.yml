@@ -11,6 +11,9 @@ theme:
 nav:
   - 'Giai đoạn':
     - 'Các giai đoạn chính': 'guide.md'
+  - 'Hướng dẫn & Cài đặt':
+    - 'Immersion': 'immersion.md'
+    - 'Setup': 'setup.md'
   - 'Tài nguyên':
     - 'Tài nguyên': 'resources.md'
   - 'Gợi ý':

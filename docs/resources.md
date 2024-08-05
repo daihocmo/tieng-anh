@@ -10,8 +10,8 @@ Trang tài nguyên đang được cập nhật lại. Khối lượng tài nguy�
 ## Học Tiếng Anh
 
 ### Lộ trình học
-- [Học thông qua Phim và Game]() - Đây là hướng dẫn tự học của anh Đạt - một trong những người hiếm hoi thành lập cộng đồng tự học ngoại ngữ thông qua Immersion (Tức tập trung nạp Input, tiêu thụ nội dung ngôn ngữ mà mình học). Bạn nên tham gia vào cộng đồng Discord của anh ấy để tìm hiểu thêm về lộ trình cũng như cùng học với những người khác.
-- [Học Tiếng Anh từ mất gốc đến B1 160 ngày]() - Nếu bạn ngại theo Immersion ngay từ đầu vì độ thử thách của nó đồng thời muốn chuẩn bị trước khi đắm mình vào ngôn ngữ. 
+- [Ngoại ngữ Phim và Game](https://www.youtube.com/c/Ngo%E1%BA%A1ing%E1%BB%AFPhimv%C3%A0Game) - Đây là hướng dẫn tự học của anh Đạt - một trong những người hiếm hoi thành lập cộng đồng tự học ngoại ngữ thông qua Immersion (Tức tập trung nạp Input, tiêu thụ nội dung ngôn ngữ mà mình học). Bạn nên tham gia vào cộng đồng Discord của anh ấy để tìm hiểu thêm về lộ trình cũng như cùng học với những người khác.
+- [Học Tiếng Anh từ mất gốc đến B1 160 ngày](https://daihocmo.github.io/tu-luyen-tieng-anh/) - Nếu bạn ngại theo Immersion ngay từ đầu vì độ thử thách của nó đồng thời muốn chuẩn bị trước khi đắm mình vào ngôn ngữ. 
 - [Mình đã bắt đầu học lại Tiếng Anh như thế nào?]() - Bài đăng trên diễn đàn Voz của hatori_heji về cách tự học Tiếng Anh 
 
 ### Vocabulary
