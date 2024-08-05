@@ -9,11 +9,13 @@ theme:
     primary: indigo
 
 nav:
-  - 'Giai đoạn':
+  - 'Lộ trình':
     - 'Các giai đoạn chính': 'guide.md'
-  - 'Hướng dẫn & Cài đặt':
+  - 'Hướng dẫn':
+    - 'Comprehensible Input': 'input.md'
     - 'Immersion': 'immersion.md'
-    - 'Setup': 'setup.md'
+  - 'Cài đặt'  
+    - 'Cài đặt': 'setup.md'
   - 'Tài nguyên':
     - 'Tài nguyên': 'resources.md'
   - 'Gợi ý':
@@ -22,7 +24,7 @@ nav:
   - 'Nội dung tiêu thụ':
     - 'Youtube': 'youtube.md'
     - 'Sách': 'sach.md'
-    - 'Podcasts & Audiobooks': 'podcasts.md'
+    - 'Podcasts & Sách nói': 'podcasts.md'
       
 theme:
   palette:
