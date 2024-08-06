@@ -1,4 +1,3 @@
-### Personal Favorite
 
 | Kênh | Thể loại | Giới thiệu |
 | --- | ---- | --- |

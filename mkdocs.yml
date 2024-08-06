@@ -1,6 +1,7 @@
 site_name: Tôi luyện Tiếng Anh - Khu học mở. 
 site_description: Tự học Tiếng Anh thông qua tiêu thụ nội dung (media) như Phim, Sách, Báo, Game, Youtube
 site_author: onlyduyy  
+site_url: https://daihocmo.github.io/tieng-anh/
 theme:
   name: material
   features:
@@ -15,20 +16,18 @@ nav:
     - 'Comprehensible Input': 'input.md'
     - 'Immersion': 'immersion.md'
   - 'Cài đặt':  
-    - 'Cài đặt': 'setup.md'
+    - 'Setup học Tiếng Anh': 'setup.md'
   - 'Tài nguyên':
     - 'Tài nguyên': 'resources.md'
-  - 'Gợi ý':
-    - 'Cộng đồng học': 'cong-dong.md'
-    - 'IELTS': 'ielts.md'
-  - 'Nội dung tiêu thụ':
+  - 'Cộng đồng':
+    - 'Cộng đồng': 'cong-dong.md'
+  - 'Nội dung Tiếng Anh':
     - 'Youtube': 'youtube.md'
     - 'Sách': 'sach.md'
     - 'Podcasts & Sách nói': 'podcasts.md'
       
 theme:
   palette:
-    # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: indigo
@@ -37,7 +36,6 @@ theme:
         icon: material/brightness-7
         name: Switch to dark mode
 
-    # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: indigo
@@ -45,13 +43,18 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
+  icon:
+    logo: material/library
   features:
-    - navigation.instant
     - navigation.tabs
+    - navigation.sections
+    - toc.follow
     - search.suggest
-    - search.highlighting
-    - search.share
   name: material
 
 extra:
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/fbHbQSwzpD
+  homepage: https://daihocmo.github.io/
   generator: false
