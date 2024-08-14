@@ -52,6 +52,9 @@ theme:
     - search.suggest
   name: material
 
+plugins:
+  - open-in-new-tab
+  
 extra:
   social:
     - icon: fontawesome/brands/discord
