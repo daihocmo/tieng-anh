@@ -41,6 +41,7 @@ Những từ điển mình gợi ý: Cá nhân mình sử dụng:
 - New Oxford American Dictionary
 - American Slang
 
+- [Kho từ điển chuyên ngành Anh - Anh - Đường dẫn Google Drive](https://drive.google.com/drive/folders/0BzrQwK2v03aKWjlsQ3NsaWJKalU?resourcekey=0-DtgqOJiVFSDI231ugoQgiQ)
 
 ## Các phần mềm và tiện ích hỗ trợ khác
 ### Anki
