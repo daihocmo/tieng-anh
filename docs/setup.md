@@ -21,6 +21,8 @@ Bạn vào đọc hướng dẫn tải từ chính trang chủ của hai thứ �
 - Goldendict-ng: <https://xiaoyifang.github.io/goldendict-ng/>
 - Yomitan: <https://yomitan.wiki/> - Bạn chỉ cần cài đặt Yomitan trên trình duyệt thôi, còn lại như chọn từ điển Tiếng Anh, tạo mẫu thẻ và sử dụng Anki thì sẽ có hướng dẫn bên dưới.
 
+Với Yomitan, hãy nhớ chuyển ngôn ngữ của Yomitan về Tiếng Anh (Vì mặc định sẽ là Tiếng Nhật).
+
 ### Chọn từ điển
 #### Yomitan
 Để tải từ điển cho Yomitan (hiện tại chỉ mới có người làm từ điển Anh - Anh), bạn hãy [truy cập vào trang này](https://github.com/MarvNC/yomitan-dictionaries#english-english) để tải.
@@ -59,7 +61,17 @@ Sau khi học xong hai video trên thì mọi người sẽ cần học cách s�
 
 Để có thể sử dụng Yomitan với Anki thì bạn cần tải addon AnkiConnect cho Anki, bạn tải Addon trên [trang này](https://ankiweb.net/shared/info/2055492159)
 
-Sau đó, hãy [tải bộ thẻ mẫu bằng cách bấm vào đường dẫn này](assets/template-deck.apkg) và sao chép những cài đặt sau vào mẫu thẻ:
+Sau đó, hãy [tải bộ thẻ mẫu bằng cách bấm vào đường dẫn này](assets/template-deck.apkg) rồi **Import** và trong Anki.
+
+Giờ chuyển sang Yomitan, sau khi đã cài đặt AnkiConnect như ở trên thì hãy di chuyển đến mục **Anki** trong cài đặt của Yomitan. Cần mở ứng dụng Anki khi bạn sử dụng Yomitan để tạo thẻ. Nếu bạn thành công thì sẽ có dòng **Connection Status: Connected** ở dưới dòng **Enable Anki Integration**.
+
+![alt text](assets/enable-anki.png)
+
+Sau đó, hãy mở **Config Anki card format...**.
+
+Về phần **Deck** và **Model** thì bạn hãy chọn **Model** là **English** (Nếu bạn tải bộ thẻ mình để ở trên), còn **Deck** là bộ thẻ mà bạn sẽ lưu các thẻ học của mình lại, bộ thẻ này thì bạn cần tự tạo bằng cách bấm vào **Create Deck** ở màn hình chính của Anki.
+
+Tiếp theo, hãy sao chép những cài đặt sau vào mẫu thẻ (Nếu bạn sử dụng bộ thẻ mẫu mình đã để ở trên):
 
 | Field | Value |
 | --- | --- |
@@ -68,12 +80,17 @@ Sau đó, hãy [tải bộ thẻ mẫu bằng cách bấm vào đường dẫn n
 | `Meaning` | `{glossary-first-brief}` |
 | `Audio` | `{Audio}` |
 
-Còn phần **Deck** và **Model** thì bạn hãy chọn **Model** là **English** (Nếu bạn tải bộ thẻ mình để ở trên), còn **Deck** là bộ thẻ mà bạn sẽ lưu các thẻ học của mình lại, bộ thẻ này thì bạn cần tự tạo bằng cách bấm vào **Create Deck** ở màn hình chính của Anki.
-
 Nó sẽ trông như thế này trong phần cài đặt của Yomitan
 
 ![alt text](assets/anki-template.png)
 
+Khi bạn tra từ và bấm vào dấu `+` màu xanh lá cây thì nó sẽ tạo thẻ tự động trong Anki và bạn cần bật Anki khi sử dụng Yomitan để tạo thẻ (Nếu bạn chỉ tra từ mà không tạo thẻ thì không cần bật Anki nha).
+
+Đây là một ví dụ mẫu thẻ trên Anki.
+
+![alt text](assets/front-anki.png)
+
+![alt text](assets/back-anki.png)
 
 ### Asbplayer
 
