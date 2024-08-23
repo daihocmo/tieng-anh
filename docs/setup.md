@@ -68,6 +68,8 @@ Sau đó, hãy [tải bộ thẻ mẫu bằng cách bấm vào đường dẫn n
 | `Meaning` | `{glossary-first-brief}` |
 | `Audio` | `{Audio}` |
 
+Còn phần **Deck** và **Model** thì bạn hãy chọn **Model** là **English** (Nếu bạn tải bộ thẻ mình để ở trên), còn **Deck** là bộ thẻ mà bạn sẽ lưu các thẻ học của mình lại, bộ thẻ này thì bạn cần tự tạo bằng cách bấm vào **Create Deck** ở màn hình chính của Anki.
+
 Nó sẽ trông như thế này trong phần cài đặt của Yomitan
 
 ![alt text](assets/anki-template.png)
