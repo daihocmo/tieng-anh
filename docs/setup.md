@@ -32,6 +32,7 @@ Những từ điển mình gợi ý:
 - [Oxford Advanced Learner's Dictionary](https://github.com/MarvNC/yomichan-dictionaries/files/14957647/oald-release-yomitan.zip) - Bạn bấm vào luôn để tải. Bạn cần giải nén tệp .zip ra rồi mới thêm các tệp .zip trong như mục giải nén. Bạn có thể thêm tất cả 4, hoặc có thể bỏ từ điển IPA - vì nó đã có âm thanh đính kèm, hoặc IPA sẵn hiện trên từ
 - New Oxford American Dictionary - Bạn vào đường dẫn ở đầu mục [Yomitan](#yomitan) này và chọn vào thư mục Google Drive để tìm.
 - `CambridgeYomitan.zip` - Bạn vào đường dẫn ở đầu mục [Yomitan](#yomitan) này và chọn vào thư mục Google Drive để tìm.
+- [apple-en-vi](https://drive.proton.me/urls/XZRWCKDM54#Bnq28tvMixEm) - Với những bạn muốn có từ điển Anh - Việt cho Yomitan, mình chỉ tìm được có bộ này. Bạn bấm vào tên bộ từ điển để di chuyển đến trang tải xuống. Bạn bấm vào thư mục `English`, rồi kéo xuống và tìm `apple-en-vi.zip`.
 
 #### Goldendict
 Để tải từ điển cho Goldendict, bạn hãy truy cập trang này trên diễn đàn Voz để đọc [bài tổng hợp này](https://voz.vn/t/reup-goldendict-va-cac-bo-dai-tu-dien-eng-eng-full-audio-picture.710141/). Có một kho rất lớn các từ điển bạn có thể tải
