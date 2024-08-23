@@ -19,7 +19,7 @@ Về từ điển, những ứng dụng ở đây đều đạt chỉ tiêu:
 Bạn vào đọc hướng dẫn tải từ chính trang chủ của hai thứ ở trên. Bạn có thể tải cả hai, hoặc một trong hai đều được
 
 - Goldendict-ng: <https://xiaoyifang.github.io/goldendict-ng/>
-- Yomitan: <https://yomitan.wiki/>
+- Yomitan: <https://yomitan.wiki/> - Bạn chỉ cần cài đặt Yomitan trên trình duyệt thôi, còn lại như chọn từ điển Tiếng Anh, tạo mẫu thẻ và sử dụng Anki thì sẽ có hướng dẫn bên dưới.
 
 ### Chọn từ điển
 #### Yomitan
@@ -35,23 +35,43 @@ Những từ điển mình gợi ý:
 Để tải từ điển cho Goldendict, bạn hãy truy cập trang này trên diễn đàn Voz để đọc [bài tổng hợp này](https://voz.vn/t/reup-goldendict-va-cac-bo-dai-tu-dien-eng-eng-full-audio-picture.710141/). Có một kho rất lớn các từ điển bạn có thể tải
 
 
-Những từ điển mình gợi ý: Cá nhân mình sử dụng:
+Những từ điển mình gợi ý: Cá nhân mình sử dụng (Nhiều từ điển để tăng lượng word coverage):
 
-- mtBab EV - Từ điển Anh - Việt bạn có thể tìm ở đường dẫn đầu mục Goldendict này. Nếu bạn mới học Tiếng Anh thì có thể dùng
+- mtBab EV - Từ điển Anh - Việt (Babylon) bạn có thể tìm ở đường dẫn đầu mục Goldendict này. Nếu bạn mới học Tiếng Anh thì có thể dùng
 - New Oxford American Dictionary
-- American Slang
+- Oxford Thesaurus
+- Oxford Dictionary of Phrasal Verbs
 
 - [Kho từ điển chuyên ngành Anh - Anh - Đường dẫn Google Drive](https://drive.google.com/drive/folders/0BzrQwK2v03aKWjlsQ3NsaWJKalU?resourcekey=0-DtgqOJiVFSDI231ugoQgiQ)
 
 ## Các phần mềm và tiện ích hỗ trợ khác
+
 ### Anki
 Cần có - Dù mình tin là bạn có thể học mà _không sử dụng Anki_ nhưng nó thực sự quá tốn thời gian.
 
 Anki là một công cụ quá tốt để hỗ trợ bạn ghi nhớ những gì bạn đã học. Trước khi sử dụng bạn nên xem video hướng dẫn cơ bản trước nha. 
 
-[Hướng dẫn sử dụng căn bản]()
+[Hướng dẫn sử dụng căn bản](https://www.youtube.com/watch?v=M9-qwsHyBrc) - Video này đã khá cũ và giao diện của Anki cũng có phần khác nhiều nữa, nhưng tư duy về cách sử dụng và làm quen với tính năng cơ bản của Anki vẫn đáng để xem.
 
-[Học cách tạo thẻ Anki và Sentence Mining đơn giản]()
+[Học cách tạo thẻ Anki và Sentence Mining đơn giản](https://www.youtube.com/watch?v=PLnJ1l6f7mQ)
+
+Sau khi học xong hai video trên thì mọi người sẽ cần học cách sử dụng Yomitan với Anki nếu mọi người muốn tạo thẻ tự động.
+
+Để có thể sử dụng Yomitan với Anki thì bạn cần tải addon AnkiConnect cho Anki, bạn tải Addon trên [trang này](https://ankiweb.net/shared/info/2055492159)
+
+Sau đó, hãy [tải bộ thẻ mẫu bằng cách bấm vào đường dẫn này](assets/template-deck.apkg) và sao chép những cài đặt sau vào mẫu thẻ:
+
+| Field | Value |
+| --- | --- |
+| `Word` | `{expression}` |
+| `Sentence` | `{cloze-prefix}<b>{cloze-body}</b>{cloze-suffix}` |
+| `Meaning` | `{glossary-first-brief}` |
+| `Audio` | `{Audio}` |
+
+Nó sẽ trông như thế này trong phần cài đặt của Yomitan
+
+![alt text](assets/anki-template.png)
+
 
 ### Asbplayer
 
@@ -67,6 +87,7 @@ Bạn cũng có thể truy cập [brutalist.report](https://brutalist.report/) �
 
 
 ## Tiêu thụ nội dung 
+
 ### Youtube
 Bạn có thể tìm trên Youtube hoặc tải phim có phụ đề.
 

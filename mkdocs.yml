@@ -2,12 +2,6 @@ site_name: Tôi luyện Tiếng Anh - Khu học mở.
 site_description: Tự học Tiếng Anh thông qua tiêu thụ nội dung (media) như Phim, Sách, Báo, Game, Youtube
 site_author: duykhanh471  
 site_url: https://daihocmo.github.io/tieng-anh/
-theme:
-  name: material
-  features:
-    - navigation.sections
-  palette:
-    primary: indigo
 
 nav:
   - 'Lộ trình':
@@ -16,7 +10,7 @@ nav:
     - 'Comprehensible Input': 'input.md'
     - 'Immersion': 'immersion.md'
   - 'Cài đặt':  
-    - 'Setup học Tiếng Anh': 'setup.md'
+    - 'Cài đặt': 'setup.md'
   - 'Tài nguyên':
     - 'Tài nguyên': 'resources.md'
   - 'Cộng đồng':
