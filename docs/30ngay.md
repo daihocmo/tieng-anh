@@ -1,13 +1,6 @@
-## 30 ngày Tiếng Anh
-
-Bạn cần làm tất cả những điều này và tự chia cho mỗi ngày
-
-- Cày bộ thẻ Anki này để học từ vựng: 
-
-
 # 30 ngày Tiếng Anh (UsagiSpoon)
 
-!!! Lưu ý nhỏ nhắn
+!!! "Lưu ý nhỏ nhắn"
     Lộ trình UsagiSpoon là lộ trình khởi đầu Tiếng Nhật trong 30 ngày được viết bởi cộng đồng TheMoeWay. Bạn có thể đọc [lộ trình gốc tại đây](https://learnjapanese.moe/routine/)
 
 Giúp mọi người học Tiếng Anh từ đầu thông qua Immersion.
