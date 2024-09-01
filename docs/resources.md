@@ -19,17 +19,19 @@ Nếu bạn muốn tìm thêm các gợi ý nội dung Tiếng Anh để tiêu t
 - [**Hướng dẫn học ngoại ngữ thông qua YouTube & Netflix**](https://docs.google.com/document/d/1YaHBu5obEmn83kh20NHkWW_eOYXc7_EAPXTJmDHy1y4/edit) - Đây là hướng dẫn cách đào câu (sentence mining) thông qua asbplayer ngay trên trình duyệt (Máy tính)
 - [asbplayer Chrome Extension](https://github.com/killergerbah/asbplayer/releases) - Học ngoại ngữ thật tối ưu trên trình duyệt. Trước khi bắt đầu, bạn có thể đọc hướng dẫn cách sử dụng tại đây
 - [Language Learning with Netflix](https://languagelearningwithnetflix.com/) - Nâng cao trải nghiệm học ngoại ngữ trên Netflix.
+- [**English Media Recommendation**](https://onlyduyy.github.io/english-media-recommendation/)
 
 ### Sách & Tiểu thuyết
 
 - [Gutenberg](https://gutenberg.org/) - Trang tổng hợp các sách Public Domain, đã hết hạn bản quyền ở US, có nhiều tác phẩm hay của Charles Dickens, Shakespeare.
 - [Gutenberg AU](https://gutenberg.net.au/) - Trang tổng hợp các sách Public Domain, đã hết hạn bản quyền ở Australia, có George Orwell (Animal Farm hoặc 1984).
 - [StandardEbooks](https://standardebooks.org/) - Free and liberated ebooks, carefully produced for the true book lover. Trang tổng hợp Ebooks tương tự như 2 trang trên, nhưng nó được định dạng tốt hơn.
-
+- [**English Media Recommendation**](https://onlyduyy.github.io/english-media-recommendation/)
 
 ### Podcast & Sách nói
 - [PodcastRepublic](https://www.podcastrepublic.net/) - Tìm mọi Podcast!
 - [PodcastIndex](https://podcastindex.org/) - Nghe mọi Podcast hoàn toàn miễn phí, không quảng cáo.
+- [**English Media Recommendation**](https://onlyduyy.github.io/english-media-recommendation/)
 
 ### Từ điển
 Mình đã tổng hợp toàn bộ hướng dẫn cho Yomitan và GoldenDict (Hai lựa chọn đã từng được giới thiệu ở đây). Bạn hãy đọc ở bài [Hướng dẫn cài đặt](setup.md) để tìm hiểu thêm về cách cài đặt, lựa chọn từ điển.
