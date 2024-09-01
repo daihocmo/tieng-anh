@@ -22,7 +22,8 @@
 | [The Hound of Baskervilles](https://www.gutenberg.org/ebooks/2852) | Medium | mystery | Adventures of Sherlock Holmes by Sir Arthur Conan Doyle |
 | [Twenty-Thousand Leagues Under the Sea](https://www.gutenberg.org/ebooks/164) | Medium | sci-fi | |  
 | [War of the Worlds](https://www.gutenberg.org/ebooks/36) | Medium | sci-fi | |  
-| [Frankenstein](https://www.gutenberg.org/ebooks/84) | Medium | spooky | |  
+| [Frankenstein](https://www.gutenberg.org/ebooks/84) | Medium | spooky | | 
+| Deep Work | Medium | Cal Newport | nonfiction | Một cuốn sách về làm việc sâu. |   
 | [Dracula](https://www.gutenberg.org/ebooks/345) | Medium | spooky |  |
 | [The Magic Treehouse]() | Medium |  |  |
 | [Midnight Library]() | Medium |  | Thư viện nửa đêm của H. G. Wells | 

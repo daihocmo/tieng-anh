@@ -1,6 +1,5 @@
 Nội dung của bảng này sẽ được chia ra làm hai phần: "Học Tiếng Anh" và "Tiêu thụ nội dung Tiếng Anh"
 
-
 ## Học Tiếng Anh
 
 ### Từ vựng
@@ -29,7 +28,6 @@ Nếu bạn muốn tìm thêm các gợi ý nội dung Tiếng Anh để tiêu t
 
 
 ### Podcast & Sách nói
-- [Danh sách các Podcast hay mà bạn có thể sẽ muốn nghe](podcasts.md)
 - [PodcastRepublic](https://www.podcastrepublic.net/) - Tìm mọi Podcast!
 - [PodcastIndex](https://podcastindex.org/) - Nghe mọi Podcast hoàn toàn miễn phí, không quảng cáo.
 
