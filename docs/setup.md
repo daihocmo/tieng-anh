@@ -115,7 +115,7 @@ Bạn có thể tìm trên Youtube hoặc tải phim có phụ đề.
 - [Một phần mềm hỗ trợ tải video Youtube về máy](https://github.com/axcore/tartube/releases/tag/v2.5.0) 
 
 ### Sách
-- [Tìm gợi ý sách để đọc](https://daihocmo.github.io/tieng-anh/sach) - Khá nhiều sách trong số này là miễn phí do hết hạn bản quyền, bạn có thể bấm vào tên sách và tải tệp, gợi ý nên chọn tệp `.epub` và tìm một phần mềm hỗ trợ đọc `.epub` như Calibre hoặc SumatraPDF. Nếu bạn đọc sách bằng máy đọc sách Kindle thì hãy chọn `.mobi`. 
+- [Tìm gợi ý sách để đọc](https://onlyduyy.github.io/english-media-recommendation/danh-muc/sach.html) - Khá nhiều sách trong số này là miễn phí do hết hạn bản quyền, bạn có thể bấm vào tên sách và tải tệp, gợi ý nên chọn tệp `.epub` và tìm một phần mềm hỗ trợ đọc `.epub` như Calibre hoặc SumatraPDF. Nếu bạn đọc sách bằng máy đọc sách Kindle thì hãy chọn `.mobi`. 
 
 ### Podcast
 - [Tìm Podcast để nghe](https://daihocmo.github.io/tieng-anh/podcasts/) - Một trang tổng hợp các gợi ý Podcast nên nghe từ rất nhiều nguồn 

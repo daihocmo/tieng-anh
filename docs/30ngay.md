@@ -351,7 +351,7 @@ Xong ngữ pháp là bắt đầu luyện đọc.
 
 Nội dung đọc đầu tiên sẽ là phim có phụ đề Tiếng Anh.
 
-Đầu tiên, cần có Yomichan, bấm vào [liên kết này](yomichan.md) để đọc cách cài đặt.
+Đầu tiên, cần có Yomichan, bấm vào [liên kết này](setup.md) để đọc cách cài đặt.
 
 **Có thể “đọc” phim và đó là điều nên làm.**
 
