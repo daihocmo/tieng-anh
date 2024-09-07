@@ -21,8 +21,9 @@ nav:
     - 'Tài nguyên': 'resources.md'
     - 'Comprehensible Input': 'input.md'
   - 'Những thứ khác':
-    - 'Có gì hay?': 'misc.md'
-    - 'Input Hypothesis': 'input.md'
+    - 'Input': 'input.md'
+    - 'Còn gì khác?': 'misc.md'
+
 
       
 theme:
