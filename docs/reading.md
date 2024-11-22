@@ -12,10 +12,6 @@ Bài viết cho bạn những lời khuyên và nói về những lo lắng mà 
 
 ### Mình CHỈ mới bắt đầu, mình nên làm gì?
 
-Mới bắt đầu = không biết Tiếng Anh? Ghé qua [UsagiSpoon](30ngay.md).
-
-Luyện đọc cho người mới thông quan Anime có phụ đề Tiếng Anh, được viết trong [UsagiSpoon](30ngay.md)
-
 Hoặc có thể mới bắt đầu = Mình đã học Tiếng Anh được một thời gian bằng phương pháp [x] và giờ nếu mình muốn bắt đầu đọc thì mình nên làm gì?"
 
 Hãy đọc bài viết này cho đến hết.

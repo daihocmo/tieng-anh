@@ -5,8 +5,7 @@ site_url: https://daihocmo.github.io/tieng-anh/
 
 nav:
   - 'Trang chủ': 
-    - 'Trang chủ': 'index.md'
-    - 'Tham gia cộng đồng học': 'cong-dong.md'
+    - 'Điều hướng': 'index.md'
   - 'Hướng dẫn':
     - 'Tự học Tiếng Anh': 'guide.md'
     - '30 Ngày Tiếng Anh': '30ngay.md'
@@ -14,15 +13,16 @@ nav:
     - 'Đọc Tiếng Anh': 'reading.md'
     - 'Hướng dẫn đơn ngữ': 'monolingual.md'
     - 'FAQ về Tiếng Anh': 'faq.md'
-  - 'Cài đặt':  
+  - 'Setup':  
     - 'Mining': 'setup.md'
     - 'Goldendict': 'goldendict.md'
+    - 'Yomitan': 'yomitan.md'
   - 'Tài nguyên học':
     - 'Tài nguyên': 'resources.md'
-    - 'Comprehensible Input': 'input.md'
+    - 'Đầu vào dễ hiểu': 'input.md'
   - 'Những thứ khác':
-    - 'Input': 'input.md'
-    - 'Còn gì khác?': 'misc.md'
+    - 'Về Input': 'input.md'
+    - 'Các nội dung khác': 'misc.md'
 
 
       

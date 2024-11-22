@@ -2,14 +2,33 @@ Nội dung của bảng này sẽ được chia ra làm hai phần: "Học Tiế
 
 ## Học Tiếng Anh
 
+### Một số kênh học Tiếng Anh hay
+Những kênh này đều đã không còn hoạt động thường xuyên, hoặc không hoạt động. Bạn hãy xem lại các video của họ nha.
+
+- [Kenny N](https://www.youtube.com/@HocEnglishOnline)
+- [Dan Hauer](https://www.youtube.com/@DanHauer) 
+- [Canguro English](https://www.youtube.com/@Canguroenglish/)
+
 ### Từ vựng
 - [Kho thẻ từ vựng Tiếng Anh của cộng đồng AnkiVN](https://ankivn.com/category/bo-the/ngoai-ngu/tieng-anh/) 
 - [Anki Collections](https://polyglotclub.com/wiki/Language/Multiple-languages/Culture/Helpful-Anki-Shared-Decks#English) - Kho thẻ từ vựng Anki của PolyglotClub 
+- [shared/decks/english](https://ankiweb.net/shared/decks?search=english) - Kho thẻ Tiếng Anh trên Anki 
+
+### Phát âm
+- [42 ngày phát âm](https://www.youtube.com/playlist?list=PL7YqrWXed1abz3FwdKMZEwclWMZ2cMHio) - Mỗi ngày học một âm IPA.
+- [Pronunciation - Canguro English](https://www.youtube.com/playlist?list=PLmIoa_Hs27lM8QzzrDkkcA2gz_FS0ToKA)
+- [Luyện phát âm](https://www.youtube.com/playlist?list=PL7YqrWXed1abWxt9d4IH2f1FGKylciC7P)
 
 ### Ngữ pháp
-- [**Essential Grammar In Use**](https://archive.org/download/EssentialGrammarInUse4thEditionByR.Murphy/Essential%20Grammar%20in%20Use%204th%20Edition%20by%20R.%20Murphy.pdf) - Sách học ngữ pháp Tiếng Anh bằng Tiếng Anh đơn giản. Gợi ý hàng đầu cho những người mới bắt đầu.
-- [Bảng tổng hợp ngữ pháp Tiếng Anh - ymaz](https://ymaz.github.io/English_Cheatsheet/) - Tổng hợp về ngữ pháp Tiếng Anh bằng Tiếng Anh.
+- [**Study English Grammar - Văn Phạm**](https://www.youtube.com/playlist?list=PLLx8_1BoESGF1wy1P8vhAjw6gdupa2TyE) - Giải thích ngữ pháp rõ ràng, không quá khó hiểu và tập trung vào ngữ pháp Tiếng Anh thay vì cấu trúc ôn thi.
+- [Ngữ pháp tiếng Anh cơ bản - Anh Ngữ ZIM](https://www.youtube.com/playlist?list=PLopA3SCkaFezPpz7xzYqUMA2s4uZAblZY) - Một danh sách phát trên Youtube về ngữ pháp Tiếng Anh cơ bản, rõ ràng, dễ hiểu và chỉ bao gồm những phần rất cơ bản.
+- [English Grammar -  Canguro English](https://www.youtube.com/playlist?list=PLmIoa_Hs27lP6z-VMyQFm79Tj5_N_FIyL) - Ngữ pháp Tiếng Anh bằng Tiếng Anh
+- Grammar In Use:
+    - [Essential Grammar In Use](https://archive.org/download/EssentialGrammarInUse4thEditionByR.Murphy/Essential%20Grammar%20in%20Use%204th%20Edition%20by%20R.%20Murphy.pdf) - Sách học ngữ pháp Tiếng Anh bằng Tiếng Anh đơn giản.
+    - [English Grammar In Use](https://archive.org/details/english-grammar-in-use-5th-edition-by-raymond-murphy/page/n3/mode/2up)
+    - [Advanced Grammar In Use](https://archive.org/details/3AdvancedGrammarInUse3rdEdition)
 - [EnglishClub - Grammar](https://www.englishclub.com/grammar/index.htm): Học Tiếng Anh bằng Tiếng Anh, không chỉ ngữ pháp mà còn có nhiều thứ khác. 
+
 
 ## Tiêu thụ Tiếng Anh
 
@@ -19,19 +38,19 @@ Nếu bạn muốn tìm thêm các gợi ý nội dung Tiếng Anh để tiêu t
 - [**Hướng dẫn học ngoại ngữ thông qua YouTube & Netflix**](https://docs.google.com/document/d/1YaHBu5obEmn83kh20NHkWW_eOYXc7_EAPXTJmDHy1y4/edit) - Đây là hướng dẫn cách đào câu (sentence mining) thông qua asbplayer ngay trên trình duyệt (Máy tính)
 - [asbplayer Chrome Extension](https://github.com/killergerbah/asbplayer/releases) - Học ngoại ngữ thật tối ưu trên trình duyệt. Trước khi bắt đầu, bạn có thể đọc hướng dẫn cách sử dụng tại đây
 - [Language Learning with Netflix](https://languagelearningwithnetflix.com/) - Nâng cao trải nghiệm học ngoại ngữ trên Netflix.
-- [**English Media Recommendation**](https://onlyduyy.github.io/english-media-recommendation/)
+- [**English Media Recommendation**](https://daihocmo.github.io/awesome-ngon-ngu/media-recs/tieng-anh/)
 
 ### Sách & Tiểu thuyết
 
 - [Gutenberg](https://gutenberg.org/) - Trang tổng hợp các sách Public Domain, đã hết hạn bản quyền ở US, có nhiều tác phẩm hay của Charles Dickens, Shakespeare.
 - [Gutenberg AU](https://gutenberg.net.au/) - Trang tổng hợp các sách Public Domain, đã hết hạn bản quyền ở Australia, có George Orwell (Animal Farm hoặc 1984).
 - [StandardEbooks](https://standardebooks.org/) - Free and liberated ebooks, carefully produced for the true book lover. Trang tổng hợp Ebooks tương tự như 2 trang trên, nhưng nó được định dạng tốt hơn.
-- [**English Media Recommendation**](https://onlyduyy.github.io/english-media-recommendation/)
+- [**English Media Recommendation**](https://daihocmo.github.io/awesome-ngon-ngu/media-recs/tieng-anh/)
 
 ### Podcast & Sách nói
 - [PodcastRepublic](https://www.podcastrepublic.net/) - Tìm mọi Podcast!
 - [PodcastIndex](https://podcastindex.org/) - Nghe mọi Podcast hoàn toàn miễn phí, không quảng cáo.
-- [**English Media Recommendation**](https://onlyduyy.github.io/english-media-recommendation/)
+- [**English Media Recommendation**](https://daihocmo.github.io/awesome-ngon-ngu/media-recs/tieng-anh/)
 
 ### Từ điển
 Mình đã tổng hợp toàn bộ hướng dẫn cho Yomitan và GoldenDict (Hai lựa chọn đã từng được giới thiệu ở đây). Bạn hãy đọc ở bài [Hướng dẫn cài đặt](setup.md) để tìm hiểu thêm về cách cài đặt, lựa chọn từ điển.

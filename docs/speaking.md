@@ -3,8 +3,11 @@
 *Input là cốt lõi của việc nói ngoại ngữ tốt.* *Output chỉ là phụ.*
 
 Khi nói đến việc học ngoại ngữ, chúng ta thường nghĩ: “Nếu nói nhiều thì mình sẽ giỏi lên”. Trên thực tế, điều này không đúng. 
+
 Immersion (Input) là cách để bạn giỏi Tiếng Anh. Nói cách khác là nghe và đọc nội dung bản địa bằng Tiếng Anh. Cách diễn đạt tự nhiên sẽ đến một cách tự nhiên sau hàng nghìn giờ nạp Input *(đặc biệt là phần nghe!)* . Nhưng bạn vẫn còn một mức “ceiling” cần đạt tới, và bạn sẽ thực hiện điều đó thông qua luyện nói. 
+
 Bạn cần Input để biết nói đúng, vì bạn đã nghe được cái đúng ấy thông qua Input của mình nên bạn sẽ biết cách nào để nói ý đó một cách tự nhiên trước khi bắt đầu cuộc trò chuyện. 
+
 Với nhiều Input hơn, mức đầu ra của bạn sẽ tăng lên, nghĩa là bạn có khả năng "Output" tốt hơn. Vì vậy, việc nói khi bạn mới bắt đầu học là vô nghĩa, mức đầu ra của bạn cực kỳ thấp, vì vậy dù có luyện tập nói bao nhiêu đi nữa cũng chẳng giúp bạn cải thiện khả năng nói. Nhưng với thêm vài trăm giờ Input, mức đầu ra của bạn sẽ tăng lên. Sau đó, bạn có thể luyện nói để đạt đến giới hạn của mình. Bạn có thể biết mình đã đạt đến giới hạn khi cố nói điều gì đó nhưng không biết cách diễn đạt nó một cách tự nhiên, bạn sẽ phải dùng đến cách dịch từ tiếng mẹ đẻ sang Tiếng Anh trong đầu bằng cách sử dụng các cấu trúc ngữ pháp mà bạn đã ghi nhớ. Điều này có nghĩa là, rõ ràng là bạn cần thêm Input. Nói cách khác, nếu bạn không thể nghĩ ra cách diễn đạt suy nghĩ của mình thì bạn cần thêm Input. Sau khi cảm thấy tự tin trở lại, bạn có thể tiếp tục Output.
 
 Một lý do khác khiến việc Output sớm không tốt là bạn vẫn chưa biết điều gì đúng và điều gì sai và người bản ngữ sẽ không nhắc bạn. Vì vậy, bạn có thể mắc phải những sai lầm lớn nhưng không nhận ra. Có lẽ bạn không thích phạm sai lầm.
