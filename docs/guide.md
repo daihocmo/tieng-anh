@@ -131,9 +131,12 @@ Anki giúp bạn ghi nhớ mọi thứ bằng cách kiểm tra khả năng nhớ
 
 Hãy nhớ là dù *1700 Từ vựng cơ bản* có các câu ví dụ, nó chỉ được thiết kế để dạy những từ đơn lẻ.
 
+![](img/main_guide/front.png)
+
 Khi thấy một thẻ Anki bạn chưa học (thẻ mới), nên chọn *Show Answer* để có thể thấy những gì ở mặt sau của thẻ.
 
-![](img/ankikaishi.png)
+![](img/main_guide/back.png)
+
 
 Khi đã xem xong nội dung thẻ rồi, hãy nhấn *Again* (Bằng với việc "Ôn lại"). Với những thẻ tiếp theo, hãy làm tương tự vì đây cũng là thẻ mà bạn thấy lần đầu.
 

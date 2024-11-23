@@ -6,6 +6,7 @@ site_url: https://daihocmo.github.io/tieng-anh/
 nav:
   - 'Trang chủ': 
     - 'Điều hướng': 'index.md'
+    - 'Tham gia cộng đồng': 'join.md'
   - 'Hướng dẫn':
     - 'Tự học Tiếng Anh': 'guide.md'
     - '30 Ngày Tiếng Anh': '30ngay.md'
@@ -47,6 +48,7 @@ theme:
         name: Switch to light mode
   logo: assets/english.svg
   favicon: assets/favicon.png
+  custom_dir: overrides
   features:
     - navigation.tabs
     - navigation.sections
@@ -76,7 +78,7 @@ markdown_extensions:
       permalink: true
 plugins:
   - search
-  - open-in-new-tab
+  # - open-in-new-tab
 
 extra:
   generator: false

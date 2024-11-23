@@ -28,7 +28,7 @@ Và đó là chiến lược mà mình khuyên mọi người nên thực hiện
 
 Bộ ba thần thánh dành cho những người thích đọc tiểu thuyết, Light Novel, web novel bằng Tiếng Anh.
 
-- Cài đặt Yomichan [đọc ở đây](yomichan.md)  
+- Cài đặt Yomichan [đọc ở đây](yomitan.md)  
 - Kho tiểu thuyết in [Resources](resources.md)  
 - EPUBs... Có thể tải ở rất nhiều chỗ.
 - [ッツ Reader](https://reader.ttsu.app/manage)  

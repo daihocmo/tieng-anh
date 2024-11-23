@@ -20,27 +20,27 @@ Các định nghĩa trong các từ điển đơn ngữ thường rất mơ hồ
 
 Đây là một ví dụ: 
 
-> niche
+> miserable
 
-Nếu bạn đã học Tiếng Anh được vài tháng thì khả năng cao bạn sẽ biết từ này. Và rất có thể bạn đã học nó bằng từ điển song ngữ. Chúng ta hãy thử nhìn vào định nghĩa song ngữ của từ này.
+Chúng ta hãy thử nhìn vào định nghĩa song ngữ của từ này.
 
-> chỗ thích hợp
+> khổ sở
 
-(Lấy trực tiếp từ Soha Tra từ)
+(Lấy trực tiếp từ Labandict)
 
-Có thể bạn sẽ nghĩ: "Sai ở chỗ nào?" Mình sẽ nói cho bạn biết nó có vấn đề gì. Nó thậm chí còn sai về mặt nghĩa đen. Giờ hãy xem định nghĩa đơn ngữ của từ này.
+Giờ hãy xem định nghĩa đơn ngữ của từ này.
 
 *Lấy từ Oxford Learner's Dictionaries*
 
-> a comfortable or suitable role, job, way of life, etc.
+> very unhappy or uncomfortable
 
 Nghĩa của câu này (Dịch nôm na):
 
-> Một vai trò, công việc, cách sống (.v.v.) phù hợp hoặc thoải mái 
+> Cực kì bất hạnh hoặc cảm thấy bực bội/khó chịu
 
 *Và điều này trở nên kém chính xác hơn khi bạn dịch nó về Tiếng Việt.* (Dịch định nghĩa ra Tiếng Việt kiểu này hoặc thậm chí kể cả sau khi đọc xong vẫn sẽ cảm thấy rất mơ hồ. Đọc thêm bài [Example sentences in dictionaries: More important than definitions](https://www.antimoon.com/how/examplesent.htm) trên Antimoon).
 
-Bạn có hiểu được định nghĩa đó nếu chỉ thông qua định nghĩa "chỗ thích hợp" không? Không. Có lẽ là không.
+Bạn có hiểu được chính xác định nghĩa của từ đó nếu chỉ thông qua từ "khổ sở" không? Không. Có lẽ là không.
 
 <!-- 
 Chưa cảm thấy thuyết phục? Chúng ta hãy xem một ví dụ khác. 
@@ -53,23 +53,23 @@ Bạn không thể sử dụng 悪い để nói rằng kỹ năng của bạn k
 
 Một lý do khác khiến bạn nên sử dụng các định nghĩa đơn ngữ là vì chúng giúp bạn nghĩ bằng Tiếng Anh. Như đã nói ở phần trước, không có ngôn ngữ nào có thể mô tả Tiếng Anh tốt như chính Tiếng Anh. Định nghĩa từ điển là một cách suy nghĩ về từ. Mình chắc rằng các tác giả của những cuốn từ điển đó đã suy nghĩ kỹ về từng định nghĩa trước khi viết ra nó, vì vậy bằng cách đọc định nghĩa và ghi nhớ nó, bạn sẽ có được cảm giác gì đó *ít nhất gần* giống với những gì người bản xứ khi nghĩ về từ đó. 
 
-Nếu bạn học từ bằng từ điển song ngữ Anh-Việt thì bạn sẽ mang trong mình cách suy nghĩ như GAIJIN về mọi thứ, và thậm chí không tới được mức mà người bản xứ có thể nghĩ về từ đó. Điều này sẽ khiến bạn không hiểu được nghĩa thực sự của từ. Đừng hiểu sai ý mình, bạn vẫn có thể hiểu thực sự bằng cách thực hành Immersion, chỉ là nó sẽ mất nhiều thời gian hơn so với việc bạn học những từ đó thông qua chính định nghĩa Tiếng Anh.
+Nếu bạn học từ bằng từ điển song ngữ Anh-Việt thì bạn sẽ mang trong mình cách suy nghĩ như theo Tiếng Việt về mọi thứ, và thậm chí không tới được mức mà người bản xứ có thể nghĩ về từ đó. Điều này sẽ khiến bạn không hiểu được nghĩa thực sự của từ. 
+
+Đừng hiểu sai ý mình, bạn vẫn có thể hiểu thực sự thông qua Immersion, chỉ là nó sẽ mất nhiều thời gian hơn so với việc bạn học những từ đó thông qua chính định nghĩa bằng Tiếng Anh.
 
 Từ điển đơn ngữ thực sự rất tuyệt, và bạn sẽ chỉ nhận ra điều này khi bạn bắt đầu sử dụng chúng như một lẽ đương nhiên.
 
 ### Tại sao mọi người cảm thấy khó khăn khi bắt đầu chuyển quan đơn ngữ
-Hai lý do:
-
--   Không biết "đủ nhiều" từ vựng.
--   Chưa quen với Tiếng Anh.
+-   Chưa biết "đủ nhiều" từ vựng.
+-   Chưa quen với Tiếng Anh viết.
 
 ## Yomichan - Một cách tốt hơn để chuyển qua đơn ngữ.
 
 **Bạn nên thực hiện chuyển qua đơn ngữ với Yomichan.**
 
-![Image](img/monodemo1.png)
+![Image](img/mono_guide/1.png)
 
-Yomichan là một tiện ích mở rộng trên trình duyệt cho phép bạn tra cứu các từ Tiếng Anh trên trang web bằng cách giữ ++shift++ và di chuột vào từ đó. Nó được hỗ trợ bởi mọi trình duyệt thuộc dòng Chrome hoặc Firefox. Bạn có thể xem hướng dẫn cài đặt Yomichan [ở đây](yomichan.md)
+Yomichan là một tiện ích mở rộng trên trình duyệt cho phép bạn tra cứu các từ Tiếng Anh trên trang web bằng cách giữ ++shift++ và di chuột vào từ đó. Nó được hỗ trợ bởi mọi trình duyệt thuộc dòng Chrome hoặc Firefox. Bạn có thể xem hướng dẫn cài đặt Yomichan [ở đây](yomitan.md)
 
 ### Chọn và sử dụng từ điển đơn ngữ
 
@@ -78,13 +78,13 @@ Một lần nữa, mình khuyên bạn nên sử dụng từ điển đơn ngữ
 Hãy truy cập trang [MarvNC/yomitan-dictionaries](https://github.com/MarvNC/yomitan-dictionaries?tab=readme-ov-file#english-english) để tải từ điển đơn ngữ Tiếng Anh cho Yomitan
 
 ### Từ điển gợi ý
+Danh sách được trích dẫn trực tiếp từ Antimoon. Bạn có thể đọc bảng so sánh giữa các từ điển trên Antimoon thông qua bài viết [Comparative review of dictionaries for English learners](https://www.antimoon.com/how/learners-dictionaries-review.htm)
 
-
-### Giải thích về từng từ điển một.
-
-**広辞苑 第六版** - Ấn bản thứ 6 của Koujien, 2008. Đây là một cuốn từ điển khá có uy tín ở Nhật Bản tuy nó không phải là cuốn phổ biến nhất. Từ điển này sắp xếp các định nghĩa từ cũ nhất đến mới nhất, điều mà không thực sự hữu ích cho người học Tiếng Anh hiện đại. Tuy nhiên, cuốn từ điển này có điểm đặc biệt riêng mà mình thích.
-
-**大辞林 第三版** - Bản mở rộng của ấn bản thứ 3 Daijirin, 2015. Nó có rất nhiều từ, cách diễn đạt, danh từ riêng, ngữ pháp và từ nối (thực sự quan trọng hơn bạn nghĩ!). Đó là một cuốn từ điển tốt và toàn diện, được cá nhân mình sử dụng nhiều nhất.
+- Cambridge Advanced Learner’s Dictionary (3rd edition, 2008)
+- Collins COBUILD Advanced Learner’s English Dictionary (5th edition, 2006)
+- Collins COBUILD Advanced Dictionary (6th edition, 2009)
+- Longman Dictionary of Contemporary English (LDOCE) (5th edition, 2009)
+- Oxford Advanced Learner’s Dictionary (OALD) (7th edition, 2005)
 
 ### Tiếp tục: Chọn và sử dụng từ điển đơn ngữ
 
@@ -100,16 +100,7 @@ Bạn cần phải có nhiều từ điển vì sẽ luôn có một số từ c
 
 ## Lựa chọn thay thế
 
-### Từ điển trực tuyến
-[Sakura-Paris Kojien Free Search](https://sakura-paris.org/dict/)
-
-Trang web này có **tất cả** các từ điển lớn, miễn phí và trực tuyến tuy không thể xem tất cả các định nghĩa cùng một lúc.
-
-Weblio: <https://www.weblio.jp/> (Dùng デジタル大辞泉, 実用日本語表現辞典)
-
-Goo: <https://dictionary.goo.ne.jp/> (Dùng デジタル大辞泉)
-
-Kotobank: <https://kotobank.jp/> (Dùng デジタル大辞泉 and 精選版 日本国語大辞典) 
+### Từ điển trực tuyến 
 
 Google: Tìm “[từ cần tìm] meaning” e.g. "apocalypse meaning” 
 
@@ -120,26 +111,31 @@ Bạn sẽ học Tiếng Anh trong một thời gian dài nên có thể Interne
 
 Bạn vẫn có thể sử dụng Yomichan ngoại tuyến. Đây là cách thực hiện.
 
-![Image](img/mono9.jpg)
+![Image](img/mono_guide/9.jpg)
 
 Như thế đấy.
 
 ### Định dạng từ điển kỹ thuật số
 
-Bạn có thể sử dụng:
+Bạn cũng có thể sử dụng các định dạng từ điển kĩ thuật số khác. Đọc [hướng dẫn cài đặt Goldendict](goldendict.md) để tìm hiểu thêm
 
-[Từ điển MDict (MDX) cho Tiếng Anh](https://learnjapanese.moe/resources/#mdict-mdx) - mới hơn, mã nguồn mở và có kích thước nhỏ hơn. Được mã hóa bằng UTF-8, điểm cộng cho bất kỳ ai muốn chuyển sang các định dạng khác.
-
-[Từ điển EPWING Tiếng Anh](https://learnjapanese.moe/resources/#epwing) - cũ, cực kỳ cổ đại nhưng phổ biến trong 電子辞書  từ những năm 90. Một số có kích thước nặng quá thể đáng. Được mã hóa bằng EUC-JP, ác mộng cho bất kỳ ai muốn chuyển sang các định dạng khác.
 
 ### Điện thoại
 
+#### Android
+- [English Dictionary - Livio](https://play.google.com/store/apps/details?id=livio.pack.lang.en_US)
+- [OALD](https://play.google.com/store/apps/details?id=com.oup.elt.oald9) (Oxford Advanced Learner's Dict)  
+- [Merriam Webster](https://play.google.com/store/apps/details?id=com.merriamwebster).
+- [Aard2](https://github.com/itkach/aard2-android) - Hỗ trợ import một số các định dạng từ điển như của LDOCE. Cho những người muốn mày mò một chút 
+
+#### iOS
+Mình không rõ, bạn có thể tự tìm các ứng dụng như ở mục Android trên App Store xem
 
 ## Tiếp cận từ điển đơn ngữ
 
 Có một số cách để làm quen với từ điển đơn ngữ. Mình sẽ giới thiệu từng cách một.
 
-Trong cộng đồng AJATT, có lời khuyên như này:
+Trong cộng đồng AJATT (Một cộng đồng học Tiếng Nhật), có lời khuyên như này:
 
 ### Hướng tiếp cận “Vứt bỏ từ điển song ngữ mãi mãi và bắt đầu sử dụng từ điển đơn ngữ luôn” 
 
