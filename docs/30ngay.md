@@ -3,7 +3,7 @@
 ## Thông báo
 
 !!! info "Nhắc nhỏ"
-	Bài viết là bản dịch và hiệu đính lại từ bài [Routine](https://learnjapanese.moe/yomichan/) của TheMoeWay.
+	Bài viết là bản dịch và hiệu đính lại từ bài [Routine](https://learnjapanese.moe/routine/) của TheMoeWay.
 
 Được lấy ý tưởng từ UsagiSpoon. 
 
@@ -78,16 +78,24 @@ Bây giờ sẽ là lúc bắt đầu học ngữ pháp.
 
 Bạn không cần phải drill, chọn các mẫu ngữ pháp nhất định hay bất cứ cái gì khác. Những thứ sẽ được học dưới đây đều cực kỳ phổ biến và sẽ được cải thiện dần thông qua quá trình học tập hàng ngày.
 
-Đây là hướng dẫn ngữ pháp ****.
+Đây là những hướng dẫn ngữ pháp mà cá nhân mình gợi ý:
 
-- [**Study English Grammar - Văn Phạm**](https://www.youtube.com/playlist?list=PLLx8_1BoESGF1wy1P8vhAjw6gdupa2TyE) - Giải thích ngữ pháp rõ ràng, không quá khó hiểu và tập trung vào ngữ pháp Tiếng Anh thay vì cấu trúc ôn thi.
 - [Ngữ pháp tiếng Anh cơ bản - Anh Ngữ ZIM](https://www.youtube.com/playlist?list=PLopA3SCkaFezPpz7xzYqUMA2s4uZAblZY) - Một danh sách phát trên Youtube về ngữ pháp Tiếng Anh cơ bản, rõ ràng, dễ hiểu và chỉ bao gồm những phần rất cơ bản.
+- [**Study English Grammar - Văn Phạm**](https://www.youtube.com/playlist?list=PLLx8_1BoESGF1wy1P8vhAjw6gdupa2TyE) - Giải thích ngữ pháp rõ ràng, không quá khó hiểu và tập trung vào ngữ pháp Tiếng Anh thay vì cấu trúc ôn thi.
+
+!!! info "Cách học ngữ pháp"
+    1. Bạn hãy xem danh sách **Study English Grammar - Văn Phạm** từ video số 1 đến số 4 để hiểu về các dạng từ cơ bản trong Tiếng Anh
+    2. Chuyển qua **Ngữ pháp tiếng Anh cơ bản - Anh Ngữ ZIM** và xem tất cả các video hướng dẫn ngữ pháp của danh sách phát này.
+    3. Giờ hãy chuyển lại về danh sách phát đầu tiên là và bắt đầu xem tiếp từ video số 13, đó là [Văn Phạm 13: Cách Dùng Giới Từ IN - ON - AT](https://www.youtube.com/watch?v=2FANWksXtSU) cho đến hết danh sách phát 
+
+Nếu bạn là một người thích đọc hơn thay vì là ngồi nghe giảng thì bạn có thể:
+
+- Đọc bộ 3 quyển Grammar In Use, bạn hãy ghé [Danh mục ngữ pháp của trang](resources.md/#ngữ-pháp) để đọc thêm
+- [Tất tần tật về hướng dẫn ngữ pháp Tiếng Anh cơ bản]() - Chưa có đâu, phần này để đặt chỗ trước.
 
 Tất cả những gì bạn cần làm là **xem bài giảng** và **ghi chú lại**
 
-**Nên bật phụ đề cho các video ngữ pháp.**
-
-***Xem 3 video mỗi ngày***
+**Xem 3 video mỗi ngày** (Với danh sách phát của Anh Ngữ Zim thì cá nhân mình gợi ý có thể xem thêm video và đi đọc thêm ở ngoài để có thêm ví dụ)
 
 Dự kiến sẽ xong toàn bộ khóa học ngữ pháp trong khoảng hơn 30 ngày.
 
@@ -119,7 +127,7 @@ A: Nó **không bắt buộc** và chỉ đơn thuần là một cách để là
 
 **Q: Cần làm gì nếu liên tục nghe thấy một từ và muốn biết nghĩa từ đó?**
 
-A: Bạn có thể sử dụng [Merriam-Webster](https://www.merriam-webster.com/) để tìm kiếm từ này (Hoặc bất cứ từ điển nào bạn muốn). Có khả năng bạn đã nghe nhầm nên không tìm được từ.
+A: Bạn có thể sử dụng [Cambridge Anh-Việt](https://dictionary.cambridge.org/vi/dictionary/english-vietnamese/) hoặc [Laban Dictionary](https://dict.laban.vn/) để tìm kiếm từ này (Hoặc bất cứ từ điển nào bạn muốn). Có khả năng bạn đã nghe nhầm nên không tìm được từ.
 
 ## Ngày 4
 ### Giai đoạn: Học từ mới: sử dụng Anki lần đầu.
@@ -129,7 +137,6 @@ Việc hôm nay là:
 - Học ngữ pháp.
 - Sử dụng Anki lần đầu tiên.
 - Học từ mới trong Anki.
-- Cài đặt bộ gõ Tiếng Anh trên máy tính.
 - Thực hiện việc Immersion hàng ngày.
 
 Sau đó, hãy học các phần ngữ pháp như hàng ngày.
@@ -152,7 +159,7 @@ Trong Anki, có 3 button ở cuối cửa sổ. Chọn **Import File** để th�
 
 Số màu xanh da trời đó là số lượng thẻ mới bạn sẽ học trong một ngày. 20 thẻ mỗi ngày là mặc định và 20 thẻ có thể là quá nhiều hoặc quá ít. Bạn có thể muốn giảm số lượng thẻ nếu cảm thấy quá khó để hoàn thành 'Reviews' trong Anki.
 
-Nhấp vào biểu tượng bánh răng bên cạnh bộ thẻ *Kaishi 1,5k*.
+Nhấp vào biểu tượng bánh răng bên cạnh bộ thẻ *Core1700*.
 
 Bấm vào *Options*.
 
@@ -180,7 +187,7 @@ Paste mã này vào ô code: `1046608507 `và nhấn **OK**.
 
 Bạn cần khởi động lại Anki. Đóng cửa sổ ứng dụng Anki và mở lại.
 
-Nhấp vào biểu tượng bánh răng bên cạnh bộ thẻ *Kaishi 1,5k*.
+Nhấp vào biểu tượng bánh răng bên cạnh bộ thẻ *Core1700*.
 
 Giữ phím ++shift++ và chọn *Options*.
 
@@ -269,7 +276,7 @@ Trí nhớ hoạt động bằng cách thu thập các tín hiệu.
 
 Khi các từ không vào đầu, điều đó có nghĩa là có nhiều thứ trong phạm vi rộng hơn của từ đó khiến tâm trí bạn không thể bắt nổi bất kỳ tín hiệu nào. Nói một cách dễ hiểu hơn, bạn cần thêm những thông tin khác ngoài những thứ trong thẻ. 
 
-Về Leeches, nên dùng các câu ví dụ. Bạn có thể sử dụng []() để xem các câu ví dụ với phần dịch Tiếng Anh. 
+Về Leeches, nên dùng các câu ví dụ. Bạn có thể sử dụng [Laban Dictionary](https://dict.laban.vn/) để xem các câu ví dụ với phần dịch Tiếng Anh. 
 
 ## Ngày 5
 Chạy Anki cho ngày hôm nay. Việc sử dụng Anki mới đầu sẽ khá mệt nhưng càng dùng thì càng dễ thành thói quen. Hãy nhìn vào khu bộ thẻ, có số xanh da trời và cả số màu xanh lá bên cạnh bộ thẻ từ vựng.
@@ -300,28 +307,17 @@ Bước 1. Hoàn thành Anki trong ngày.
 Bước 2. 3 video ngữ pháp.  
 Bước 3. thực hiện Immersion ngôn ngữ (Chi tiết bên dưới)
 
-Tập trung vào một kĩ năng Tiếng Anh cụ thể của bạn (ví dụ: nghe hoặc đọc) là một điều tốt.
-
-Nhưng làm thế nào để có thể quyết định liệu hôm nay là ngày tập trung vào nghe ngay tập trung đọc?
-
-Đối với một người học nâng cao đã có thể đọc sách và hiểu được nhiều thứ thì điều này đã rõ ràng.
-
-Nhưng đối với người mới bắt đầu, sẽ khá khó để có thể chọn.
-
-Cách chọn?
-
-[Lật một đồng xu](https://www.google.com/search?q=flip+a+coin).
-
-Mặt ngửa = Ngày nghe  
-Mặt sấp = Ngày đọc
+Bạn không nhất thiết phải thực hiện theo thứ tự các bước ở trên.
 
 ## Ngày 6
 
-Thói quen hàng ngày:
+Thói quen hàng ngày
 
 1.  Anki
 2.  Ngữ pháp
 3.  Immersion
+
+Vẫn sẽ tiếp tục thực hiện như mọi khi.
 
 ## Ngày 7
 
@@ -331,9 +327,15 @@ Thói quen hàng ngày:
 2.  Ngữ pháp
 3.  Immersion
 
+Tập trung vào một kĩ năng Tiếng Anh cụ thể của bạn (ví dụ: nghe hoặc đọc) là một điều tốt. Nhưng làm thế nào để có thể quyết định liệu hôm nay là ngày tập trung vào nghe ngay tập trung đọc?Đối với một người học nâng cao đã có thể đọc sách và hiểu được nhiều thứ thì điều này đã rõ ràng. Nhưng đối với người mới bắt đầu, sẽ khá khó để có thể chọn.
+
+Cách chọn? Hãy [lật một đồng xu](https://www.google.com/search?q=flip+a+coin).
+
+Mặt ngửa thì ngày hôm nay sẽ tập trung vào kĩ năng nghe còn mặt sấp ngày hôm nay sẽ tập trung vào kĩ năng đọc.
+
 ## Ngày 8
 
-Thói quen hàng ngày:
+Tiếp tục thực hiện thói quen hàng ngày bên dưới đây
 
 1.  Anki
 2.  Ngữ pháp
@@ -388,6 +390,7 @@ Nếu bạn có tai nghe không dây, việc nghe mọi lúc sẽ trở nên d�
 ## Ngày 11
 
 Thói quen hàng ngày:
+
 1.  Anki
 2.  Ngữ pháp
 3.  Immersion
@@ -452,7 +455,7 @@ Khi khả năng nghe thuần (raw listening immersion) của bạn đã trở n�
 
 ### Giai đoạn: thử thách 
   
-Từ hôm nay cho đến ngày 30, 
+Từ hôm nay cho đến ngày 30, bạn cần thực hiện thử thách [untitled]()
 
 **Q: Cần phải làm gì từ hôm nay cho đến ngày thứ 30?**
 
@@ -460,7 +463,7 @@ Như mọi khi, bạn sẽ cần chạy Anki và hoàn thành các bài ngữ ph
 
 Việc Immersion sẽ trở nên... phức tạp hơn một chút.
 
-Bạn sẽ cần phải cân bằng giữa việc đọc bộ Manga trên và việc immerse như thường lệ.
+Bạn sẽ cần phải cân bằng giữa việc thực hiện thử thách trên và việc immerse như thường lệ.
 
 Dồn mọi thứ vào cùng một ngày có lẽ hơi quá khó với bạn
 
@@ -472,9 +475,11 @@ Bạn sẽ cần sử dụng trang tìm kiếm Yomichan để tra cứu các t�
 
 Bạn có thể truy cập trang tìm kiếm bằng cách chọn biểu tượng Yomichan trên thanh công cụ tiện ích mở rộng của trình duyệt, sau đó chọn biểu tượng kính lúp. Hoặc sử dụng tổ hợp phím tắt ++alt++++insert++
 
+<!-- 
 **Q: Sẽ mất khoảng bao lâu để đọc được 100 trang?**
 
-A: Với tốc độ khoảng 10 phút mỗi trang, sẽ mất khoảng 16 giờ 40 phút. Nếu bạn dành 1 giờ đọc mỗi ngày thì trong 15 ngày còn lại, bạn sẽ đọc xong. Đấy là khi tốc độ đọc vẫn ở mức 10 phút một trang. Tốc độ đọc có thể sẽ tăng lên khi đã quen với việc đọc Yotsubato.
+A: Với tốc độ khoảng 10 phút mỗi trang, sẽ mất khoảng 16 giờ 40 phút. Nếu bạn dành 1 giờ đọc mỗi ngày thì trong 15 ngày còn lại, bạn sẽ đọc xong. Đấy là khi tốc độ đọc vẫn ở mức 10 phút một trang. Tốc độ đọc có thể sẽ tăng lên khi đã quen với việc đọc Yotsubato. 
+-->
 
 **Q: Tra cứu từng từ hay dùng xúc xắc để quyết định số lượng?**
 
@@ -544,11 +549,10 @@ Giờ đây, bạn đã có đủ nền tảng để tự mình tiếp tục h�
 
 Có một số “nhiệm vụ học Tiếng Anh” cho bạn đây. Không có giới hạn thời gian cho những nhiệm vụ này. Với một số nhiệm vụ khác có thể sẽ cần đến đến vài tháng hoặc vài năm. Tuy vậy, vẫn nên hoàn thành chúng.
 
-- Đọc hết Volume 1 của Yotsubato
 - Hoàn thành bộ thẻ **1700 từ vựng cơ bản** 
 - Hoàn thành các hướng dẫn ngữ pháp 
 - Bắt đầu học IPA.
-- Bắt đầu đọc những nội dung dài hơn, như visual novel chẳng hạn. Tham gia vào Discord để giao lưu với những người có cùng sở thích.
+- Bắt đầu đọc những nội dung dài hơn, như sách hoặc tiểu thuyết chẳng hạn. Tham gia vào Discord để giao lưu với những người có cùng sở thích.
 - Rèn luyện khả năng nhận biết và đọc số Tiếng Anh của bạn với tài nguyên này: [Thực hành số Tiếng Anh](https://langpractice.com/english-us).
 - Tạo một bộ thẻ Anki mining và thực hành sentence mining sau khi hoàn thành bộ thẻ **1700 từ vựng cơ bản**.
 - Hoàn thành một visual novel/đọc xong một quyển sách trong khoảng 6 tháng sau khi bắt đầu chơi/đọc.
