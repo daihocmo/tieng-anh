@@ -96,7 +96,7 @@ Tiếp tục.
 
 Bạn cần phải có nhiều từ điển vì sẽ luôn có một số từ có trong một số từ điển này nhưng không có trong các từ điển khác. Chúng ta muốn sử dụng từ điển đơn ngữ nhiều nhất có thể ở đây. Một lý do khác là các từ điển khác nhau sẽ mô tả một từ theo một cách khác nhau và trong nhiều trường hợp, bạn có thể không hiểu định nghĩa của một từ điển nhưng lại hiểu ở một từ điển khác.
 
-!!! câu hỏi “Nhưng bạn sẽ phải cuộn rất nhiều để đến từ tiếp theo?” Bạn nên sử dụng phím tắt ++alt+down++
+!!! question “Nhưng bạn sẽ phải cuộn rất nhiều để đến từ tiếp theo?” Bạn nên sử dụng phím tắt ++alt+down++
 
 ## Lựa chọn thay thế
 

@@ -90,8 +90,7 @@ Bạn không cần phải drill, chọn các mẫu ngữ pháp nhất định ha
 
 Nếu bạn là một người thích đọc hơn thay vì là ngồi nghe giảng thì bạn có thể:
 
-- Đọc bộ 3 quyển Grammar In Use, bạn hãy ghé [Danh mục ngữ pháp của trang](resources.md/#ngữ-pháp) để đọc thêm
-- [Tất tần tật về hướng dẫn ngữ pháp Tiếng Anh cơ bản]() - Chưa có đâu, phần này để đặt chỗ trước.
+Đọc bộ 3 quyển Grammar In Use, bạn hãy ghé [Danh mục ngữ pháp của trang](resources.md/#ngữ-pháp) để đọc thêm
 
 Tất cả những gì bạn cần làm là **xem bài giảng** và **ghi chú lại**
 
@@ -145,7 +144,7 @@ Sau khi học xong thì cài đặt Anki.
 
 Đầu tiên hãy xem video này: [https://www.youtube.com/watch?v=UDUITtA1jJI](https://www.youtube.com/watch?v=UDUITtA1jJI)  
 
-Giờ thì tải Anki. Bạn có thể tải Anki bằng cách truy cập [trang chủ để tải xuống](https://apps.ankiweb.net/) và bấm vào Download. Nó sẽ tự di chuyển xuống phần "Download". Nhấp vào tùy chọn đầu tiên. [Tải xuống bộ thẻ cần dùng tại đây]() (tệp `.apkg`)
+Giờ thì tải Anki. Bạn có thể tải Anki bằng cách truy cập [trang chủ để tải xuống](https://apps.ankiweb.net/) và bấm vào Download. Nó sẽ tự di chuyển xuống phần "Download". Nhấp vào tùy chọn đầu tiên. [Tải xuống bộ thẻ cần dùng tại đây](https://drive.proton.me/urls/YMRA0WG5G4#OwdCA78y6sTr) (tệp `.apkg`)
 
 Khi bạn mở Anki lần đầu tiên, bạn sẽ thấy cửa sổ chọn ngôn ngữ, bạn chọn ngôn ngữ nào cũng được.
 
@@ -455,7 +454,31 @@ Khi khả năng nghe thuần (raw listening immersion) của bạn đã trở n�
 
 ### Giai đoạn: thử thách 
   
-Từ hôm nay cho đến ngày 30, bạn cần thực hiện thử thách [untitled]()
+Từ hôm nay cho đến ngày 30, ta sẽ thực hiện "thử thách", dưới đây là danh sách các thử thách, hãy chọn một trong những thử thách ở dưới đây để thực hiện cho tới hết ngày 30 (Ít nhất một và có thể nhiều hơn nếu bạn muốn):
+
+- Animation (Các bộ này được gợi ý trên Reddit, nhớ là không dùng phụ đề Tiếng Việt để xem đâu nha, nếu bạn muốn lấy ngữ cảnh thì hãy xem Tiếng Việt một lần rồi lại xem lại có hoặc không có phụ đề Tiếng Anh, xem ít nhất một bộ, nhiều hơn thì càng tốt):
+    + [Doraleous and Associates](https://www.youtube.com/playlist?list=PL68FD0D7F63715384)
+    + [HELLUVA BOSS](https://www.youtube.com/playlist?list=PL-uopgYBi65HwiiDR9Y23lomAkGr9mm-S)
+    + [Epithet Erased](https://www.youtube.com/playlist?list=PLHACfIDFF66rxMt46cSoVxUulvL3bKluM)
+    + [Gwain Saga](https://www.youtube.com/playlist?list=PLuHAScGjKStNSjljadMKXMzyp5HiJ0uxG)
+    + [Murder Drones](https://www.youtube.com/playlist?list=PLHovnlOusNLiJz3sm0d5i2Evwa2LDLdrg) - Nếu nghe thấy Tiếng Việt thì hãy đổi "Bản âm thanh" về "Tiếng Anh gốc" nha.
+    + Hoặc chọn một bộ mà bạn thích. VD: Arcane, Avatar the Last Airbender, Gravity Falls .etc. 
+- Đọc sách/tiểu thuyết (Chọn 1 trong các quyển dưới đây), đi lục trên cộng đồng ESL thì ta có (Đây là [một video bằng Tiếng Anh về chủ đề đọc Comprehensible Input](https://www.youtube.com/watch?v=--1j0JgVQxQ). Vì là Tiếng Anh nên có thể xem để học cả Tiếng Anh lẫn cách chọn sách luôn, nhưng so với người mới học thì khó hiểu):
+    + The Magic Tree House 
+    + Wonder (R.J. Palacio) 
+    + Holes (Louis Sachar)
+    + Little House on the Prarie
+    + The House on Mango Street (Sandra Cisneros)
+    + Harry Potter (Cái này hơi khó nhưng thử xem, có thể sẽ vui hơn đọc mấy quyển ở trên)
+- Đọc truyện tranh (Comic):
+    + Batman - Year One
+    + Daredevil - Born Again
+    + Superman - For All Seasons
+    + Superman - Up In The Sky
+
+Hiện tại đống thử thách ở trên này có thể sẽ rất khó đối với bạn vì về cơ bản đống nội dung này được làm cho người bản ngữ luôn chứ không phải cho người học. Hãy tận dụng mọi thứ bạn có thể để học từ thử thách mà bạn lựa chọn. 
+
+Việc để hiểu hết được nội dung trong thử thách này là một chặng đường dài. Đừng quá lo lắng nếu không hiểu nhiều hoặc không hiểu gì. Sự hiểu cần nhiều thời gian Immersion và học tập hàng ngày. 
 
 **Q: Cần phải làm gì từ hôm nay cho đến ngày thứ 30?**
 
@@ -474,12 +497,6 @@ Bạn có thể sử dụng Yomichan để tìm kiếm từ bằng cách gõ ho�
 Bạn sẽ cần sử dụng trang tìm kiếm Yomichan để tra cứu các từ từ Trình trợ giúp đọc Yotsubato của mình.
 
 Bạn có thể truy cập trang tìm kiếm bằng cách chọn biểu tượng Yomichan trên thanh công cụ tiện ích mở rộng của trình duyệt, sau đó chọn biểu tượng kính lúp. Hoặc sử dụng tổ hợp phím tắt ++alt++++insert++
-
-<!-- 
-**Q: Sẽ mất khoảng bao lâu để đọc được 100 trang?**
-
-A: Với tốc độ khoảng 10 phút mỗi trang, sẽ mất khoảng 16 giờ 40 phút. Nếu bạn dành 1 giờ đọc mỗi ngày thì trong 15 ngày còn lại, bạn sẽ đọc xong. Đấy là khi tốc độ đọc vẫn ở mức 10 phút một trang. Tốc độ đọc có thể sẽ tăng lên khi đã quen với việc đọc Yotsubato. 
--->
 
 **Q: Tra cứu từng từ hay dùng xúc xắc để quyết định số lượng?**
 
@@ -549,12 +566,12 @@ Giờ đây, bạn đã có đủ nền tảng để tự mình tiếp tục h�
 
 Có một số “nhiệm vụ học Tiếng Anh” cho bạn đây. Không có giới hạn thời gian cho những nhiệm vụ này. Với một số nhiệm vụ khác có thể sẽ cần đến đến vài tháng hoặc vài năm. Tuy vậy, vẫn nên hoàn thành chúng.
 
-- Hoàn thành bộ thẻ **1700 từ vựng cơ bản** 
+- Hoàn thành bộ thẻ **1400 từ vựng cơ bản** 
 - Hoàn thành các hướng dẫn ngữ pháp 
 - Bắt đầu học IPA.
 - Bắt đầu đọc những nội dung dài hơn, như sách hoặc tiểu thuyết chẳng hạn. Tham gia vào Discord để giao lưu với những người có cùng sở thích.
 - Rèn luyện khả năng nhận biết và đọc số Tiếng Anh của bạn với tài nguyên này: [Thực hành số Tiếng Anh](https://langpractice.com/english-us).
-- Tạo một bộ thẻ Anki mining và thực hành sentence mining sau khi hoàn thành bộ thẻ **1700 từ vựng cơ bản**.
+- Tạo một bộ thẻ Anki mining và thực hành sentence mining sau khi hoàn thành bộ thẻ **1400 từ vựng cơ bản**.
 - Hoàn thành một visual novel/đọc xong một quyển sách trong khoảng 6 tháng sau khi bắt đầu chơi/đọc.
 - Hãy thử sử dụng từ điển đơn ngữ sau khi chơi xong một visual novel/đọc xong một quyển sách
 - Tăng số giờ Immersion của bạn.

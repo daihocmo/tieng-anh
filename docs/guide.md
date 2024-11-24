@@ -1,6 +1,6 @@
 # Để học Tiếng Anh
 
-*Nếu bạn không cần đọc phần mở đầu, hãy đến luôn phần [2.1 Cách để học Tiếng Anh]()*  
+*Nếu bạn không cần đọc phần mở đầu, hãy đến luôn phần [2.1 Cách để học Tiếng Anh](#21-cách-học-tiếng-anh)*  
 
 ## 1.1 Nhiều người học Tiếng Anh "thất bại" là do đâu? 
 
