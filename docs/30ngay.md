@@ -27,7 +27,58 @@ Bạn cần:
 
 Đưa Tiếng Anh vào cuộc sống xung quanh là phần quan trọng nhất của phương pháp Immersion.
 
-Tìm nội dung mà mình thích và biến việc tiêu thụ nội dung đó thành thói quen. Có thể bắt đầu với phim hoạt hình bằng Tiếng Anh. Có rất nhiều phim hoạt hình có Tiếng Anh đơn giản. Dưới đây là một số gợi ý (bạn có thể xem bất cứ thứ gì bạn muốn): (Đang nghĩ nên chưa có đâu)
+Tìm nội dung mà mình thích và biến việc tiêu thụ nội dung đó thành thói quen. Có thể bắt đầu với phim hoạt hình bằng Tiếng Anh. Có rất nhiều phim hoạt hình có Tiếng Anh đơn giản. Dưới đây là một số gợi ý (bạn có thể xem bất cứ thứ gì bạn muốn): 
+
++ Arcane
++ Avatar the Last Airbender
++ Gravity Falls 
++ Phineas and Ferb
++ Rick & Morty
++ [Doraleous and Associates](https://www.youtube.com/playlist?list=PL68FD0D7F63715384)
++ [HELLUVA BOSS](https://www.youtube.com/playlist?list=PL-uopgYBi65HwiiDR9Y23lomAkGr9mm-S)
++ [Epithet Erased](https://www.youtube.com/playlist?list=PLHACfIDFF66rxMt46cSoVxUulvL3bKluM)
++ [Gwain Saga](https://www.youtube.com/playlist?list=PLuHAScGjKStNSjljadMKXMzyp5HiJ0uxG)
++ [Murder Drones](https://www.youtube.com/playlist?list=PLHovnlOusNLiJz3sm0d5i2Evwa2LDLdrg) - Nếu nghe thấy Tiếng Việt thì hãy đổi "Bản âm thanh" về "Tiếng Anh gốc" nha.
+
+Thích xem phim của Pixar? Đây là danh sách gợi ý khác:
+
+- Wall-E
+- Coco
+- Up
+- Inside Out
+- Toy Story 2
+- Ratatouille
+- Toy Story 4
+- Toy Story 3
+- The Incredibles
+- Finding Nemo
+- Toy Story
+- Turning Red
+- Luca
+- Incredibles 2
+- Soul
+- Onward
+- Finding Dory
+- Brave
+- Bugs Life
+- Monsters Inc
+- Cars 
+
+Hay bạn thích xem Phim? Đây là một danh sách khác (Cảm ơn một số người dùng trên Reddit vì mình lấy gợi ý của khá nhiều người trên đó):
+
+- [Moon](https://en.wikipedia.org/wiki/Moon_(2009_film))
+- [Interstellar](https://en.wikipedia.org/wiki/Interstellar_(film))
+- [2004: A Space Odyssey](https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey)
+- [The Godfather](https://en.wikipedia.org/wiki/The_Godfather)
+- [Lost In Translation](https://en.wikipedia.org/wiki/Lost_in_Translation_(film))
+- [Pulp Fiction](https://en.wikipedia.org/wiki/Pulp_Fiction)
+- [Forrest Gump](https://en.wikipedia.org/wiki/Forrest_Gump)
+- [1984](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four_(1984_film))
+- [Kung Fu Hustle](https://en.wikipedia.org/wiki/Kung_Fu_Hustle)
+- No Country for Old Men (2007)
+- Tree of Life (2011)
+- Drive My Car (2021)
+
 
 Xem [Kho nội dung tiêu thụ Tiếng Anh](https://daihocmo.github.io/awesome-ngon-ngu/media-recs/tieng-anh/) để tìm thêm gợi ý phim hoạt hình. Nên tải phim hoạt hình về máy để có thể dễ dàng xem.
 
@@ -88,9 +139,7 @@ Bạn không cần phải drill, chọn các mẫu ngữ pháp nhất định ha
     2. Chuyển qua **Ngữ pháp tiếng Anh cơ bản - Anh Ngữ ZIM** và xem tất cả các video hướng dẫn ngữ pháp của danh sách phát này.
     3. Giờ hãy chuyển lại về danh sách phát đầu tiên là và bắt đầu xem tiếp từ video số 13, đó là [Văn Phạm 13: Cách Dùng Giới Từ IN - ON - AT](https://www.youtube.com/watch?v=2FANWksXtSU) cho đến hết danh sách phát 
 
-Nếu bạn là một người thích đọc hơn thay vì là ngồi nghe giảng thì bạn có thể:
-
-Đọc bộ 3 quyển Grammar In Use, bạn hãy ghé [Danh mục ngữ pháp của trang](resources.md/#ngữ-pháp) để đọc thêm
+Nếu bạn là một người thích đọc hơn thay vì là ngồi nghe giảng thì bạn có thể: Đọc bộ 3 quyển Grammar In Use, bạn hãy ghé [Danh mục ngữ pháp của trang](resources.md/#ngữ-pháp) để đọc thêm.
 
 Tất cả những gì bạn cần làm là **xem bài giảng** và **ghi chú lại**
 
@@ -129,6 +178,7 @@ A: Nó **không bắt buộc** và chỉ đơn thuần là một cách để là
 A: Bạn có thể sử dụng [Cambridge Anh-Việt](https://dictionary.cambridge.org/vi/dictionary/english-vietnamese/) hoặc [Laban Dictionary](https://dict.laban.vn/) để tìm kiếm từ này (Hoặc bất cứ từ điển nào bạn muốn). Có khả năng bạn đã nghe nhầm nên không tìm được từ.
 
 ## Ngày 4
+
 ### Giai đoạn: Học từ mới: sử dụng Anki lần đầu.
 
 Việc hôm nay là:
@@ -146,6 +196,9 @@ Sau khi học xong thì cài đặt Anki.
 
 Giờ thì tải Anki. Bạn có thể tải Anki bằng cách truy cập [trang chủ để tải xuống](https://apps.ankiweb.net/) và bấm vào Download. Nó sẽ tự di chuyển xuống phần "Download". Nhấp vào tùy chọn đầu tiên. [Tải xuống bộ thẻ cần dùng tại đây](https://drive.proton.me/urls/YMRA0WG5G4#OwdCA78y6sTr) (tệp `.apkg`)
 
+!!! info "Bộ thẻ Anki sẽ không hiện phần dịch câu ví dụ"
+    Câu ví dụ được dịch bằng Google Dịch và mới được soát qua. Bạn có thể làm cho phần câu ví dụ xuất hiện trong thẻ bằng cách chỉnh HTML Template trong thẻ (Chi tiết thì bạn tự tìm nha).
+    
 Khi bạn mở Anki lần đầu tiên, bạn sẽ thấy cửa sổ chọn ngôn ngữ, bạn chọn ngôn ngữ nào cũng được.
 
 Vào **Tools** trên thanh trên cùng và chọn **Preferences (Ctrl+P)**.
@@ -454,29 +507,10 @@ Khi khả năng nghe thuần (raw listening immersion) của bạn đã trở n�
 
 ### Giai đoạn: thử thách 
   
-Từ hôm nay cho đến ngày 30, ta sẽ thực hiện "thử thách", dưới đây là danh sách các thử thách, hãy chọn một trong những thử thách ở dưới đây để thực hiện cho tới hết ngày 30 (Ít nhất một và có thể nhiều hơn nếu bạn muốn):
+Từ hôm nay cho đến ngày 30, ta sẽ thực hiện "thử thách đọc tiểu thuyết", từ bây giờ cho đến ngày 30, hãy chọn một trong hai cuốn sau và đọc nha:  
 
-- Animation (Các bộ này được gợi ý trên Reddit, nhớ là không dùng phụ đề Tiếng Việt để xem đâu nha, nếu bạn muốn lấy ngữ cảnh thì hãy xem Tiếng Việt một lần rồi lại xem lại có hoặc không có phụ đề Tiếng Anh, xem ít nhất một bộ, nhiều hơn thì càng tốt):
-    + [Doraleous and Associates](https://www.youtube.com/playlist?list=PL68FD0D7F63715384)
-    + [HELLUVA BOSS](https://www.youtube.com/playlist?list=PL-uopgYBi65HwiiDR9Y23lomAkGr9mm-S)
-    + [Epithet Erased](https://www.youtube.com/playlist?list=PLHACfIDFF66rxMt46cSoVxUulvL3bKluM)
-    + [Gwain Saga](https://www.youtube.com/playlist?list=PLuHAScGjKStNSjljadMKXMzyp5HiJ0uxG)
-    + [Murder Drones](https://www.youtube.com/playlist?list=PLHovnlOusNLiJz3sm0d5i2Evwa2LDLdrg) - Nếu nghe thấy Tiếng Việt thì hãy đổi "Bản âm thanh" về "Tiếng Anh gốc" nha.
-    + Hoặc chọn một bộ mà bạn thích. VD: Arcane, Avatar the Last Airbender, Gravity Falls .etc. 
-- Đọc sách/tiểu thuyết (Chọn 1 trong các quyển dưới đây), đi lục trên cộng đồng ESL thì ta có (Đây là [một video bằng Tiếng Anh về chủ đề đọc Comprehensible Input](https://www.youtube.com/watch?v=--1j0JgVQxQ). Vì là Tiếng Anh nên có thể xem để học cả Tiếng Anh lẫn cách chọn sách luôn, nhưng so với người mới học thì khó hiểu):
-    + The Magic Tree House 
-    + Wonder (R.J. Palacio) 
-    + Holes (Louis Sachar)
-    + Little House on the Prarie
-    + The House on Mango Street (Sandra Cisneros)
-    + Harry Potter (Cái này hơi khó nhưng thử xem, có thể sẽ vui hơn đọc mấy quyển ở trên)
-- Đọc truyện tranh (Comic):
-    + Batman - Year One
-    + Daredevil - Born Again
-    + Superman - For All Seasons
-    + Superman - Up In The Sky
-
-Hiện tại đống thử thách ở trên này có thể sẽ rất khó đối với bạn vì về cơ bản đống nội dung này được làm cho người bản ngữ luôn chứ không phải cho người học. Hãy tận dụng mọi thứ bạn có thể để học từ thử thách mà bạn lựa chọn. 
+- [Little House on the Prarie](https://www.gutenberg.ca/ebooks/wildersewell-woods/wildersewell-woods-01-h-dir/wildersewell-woods-01-h.html) - Đọc miễn phí trên Gutenberg CA.
+- [Wonder (R.J. Palacio)](https://en.wikipedia.org/wiki/Wonder_(Palacio_novel))
 
 Việc để hiểu hết được nội dung trong thử thách này là một chặng đường dài. Đừng quá lo lắng nếu không hiểu nhiều hoặc không hiểu gì. Sự hiểu cần nhiều thời gian Immersion và học tập hàng ngày. 
 
@@ -566,7 +600,7 @@ Giờ đây, bạn đã có đủ nền tảng để tự mình tiếp tục h�
 
 Có một số “nhiệm vụ học Tiếng Anh” cho bạn đây. Không có giới hạn thời gian cho những nhiệm vụ này. Với một số nhiệm vụ khác có thể sẽ cần đến đến vài tháng hoặc vài năm. Tuy vậy, vẫn nên hoàn thành chúng.
 
-- Hoàn thành bộ thẻ **1400 từ vựng cơ bản** 
+- Hoàn thành bộ thẻ **1700 từ vựng cơ bản** 
 - Hoàn thành các hướng dẫn ngữ pháp 
 - Bắt đầu học IPA.
 - Bắt đầu đọc những nội dung dài hơn, như sách hoặc tiểu thuyết chẳng hạn. Tham gia vào Discord để giao lưu với những người có cùng sở thích.

@@ -111,7 +111,7 @@ Bạn cũng có thể truy cập [brutalist.report](https://brutalist.report/) �
 ### Youtube
 Bạn có thể tìm trên Youtube hoặc tải phim có phụ đề.
 
-- [Gợi ý các kênh Youtube mà bạn có thể xem](https://onlyduyy.github.io/english-media-recommendation/danh-muc/youtube.html)
+- [Gợi ý các kênh Youtube mà bạn có thể xem](https://daihocmo.github.io/awesome-ngon-ngu/media-recs/tieng-anh/)
 - [Một phần mềm hỗ trợ tải video Youtube về máy](https://github.com/axcore/tartube/releases/tag/v2.5.0) 
 
 ### Sách

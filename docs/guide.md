@@ -179,7 +179,7 @@ Chọn những gì bạn thích. Media thực sự khá giải trí vì nhiều 
 
 ### Lựa chọn nội dung Immersion
 
-Chọn bất cứ nội dung gì bạn muốn. Nó có thể là phim, Drama, tiểu thuyết, manga, game hoặc YouTube. Nếu bạn không nghĩ được gì để xem thì bạn có thể xem [English Media Recommendation](https://onlyduyy.github.io/english-media-recommendation/). Chỉ cần bạn thích bất cứ thứ gì bạn chọn để Immersion.
+Chọn bất cứ nội dung gì bạn muốn. Nó có thể là phim, Drama, tiểu thuyết, manga, game hoặc YouTube. Nếu bạn không nghĩ được gì để xem thì bạn có thể xem [English Media Recommendation](https://daihocmo.github.io/awesome-ngon-ngu/media-recs/tieng-anh/). Chỉ cần bạn thích bất cứ thứ gì bạn chọn để Immersion.
 
 ### Cách để thực hiện Listening Immersion 
 
