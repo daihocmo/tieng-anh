@@ -8,48 +8,31 @@ Từ điển là một phần rất quan trọng cần có trong quá trình h�
 
 Về từ điển, những ứng dụng ở đây đều đạt chỉ tiêu:
 
-1. Hỗ trợ rất nhiều từ điển cùng một lúc. Rất quan trọng vì bạn có thể sử dụng nhiều từ điển như: Từ điển A - V, từ điển A - A, từ điển Idioms, Collocations, Thesaurus, Synonyms .v.v. cùng một lúc.
-2. Hoạt động ngoại tuyến: Bạn không cần kết nối mạng để sử dụng, và nó cũng rất gọn nữa
+1. Hỗ trợ rất nhiều từ điển cùng một lúc. Rất quan trọng vì bạn có thể sử dụng nhiều từ điển cùng một lúc. Có những từ mà từ điển này có nhưng từ điển kia không có hay định nghĩa ở một từ điển lại rõ ràng hơn một từ điển khác.
+2. Hoạt động ngoại tuyến: Bạn không cần kết nối mạng để sử dụng, và nó cũng rất gọn nữa.
 
-### Những lựa chọn
+Nếu bạn muốn bắt đầu chuyển qua học đơn ngữ, hãy đọc [Hướng dẫn chuyển qua đơn ngữ](monolingual.md) để đọc thêm về các lựa chọn từ điển.
+
+Với Anh-Việt thì mình gợi ý dùng từ điển Lạc Việt. Từ điển song ngữ chỉ để hỗ trợ bạn ở đầu quá trình học và dần dần khi càng học lên cao thì chúng ta sẽ dần chuyển qua từ điển đơn ngữ (Từ điển Anh-Anh á).
+
+Bạn có thể đọc thêm bài [Dân chuyên sống bằng tiếng Anh thì dùng từ điển nào?](https://voz.vn/t/dan-chuyen-song-bang-tieng-anh-thi-dung-tu-đien-nao.661702/) trên diễn đàn Voz.
+
+
+### Những phần mềm từ điển
 - Yomitan (Bản kế tiếp từ Yomichan, là một tiện ích trình duyệt Chrome & Firefox để dùng từ điển pop-up bằng cách giữ phím Shift và di chuột vào từ). Mình gợi ý Yomitan vì nó giúp tạo thẻ Anki và dùng trên trình duyệt.
 - Goldendict-ng (Bản cải thiện của Goldendict) - Một ứng dụng có tuổi đời khá cũ nhưng hỗ trợ rất nhiều định dạng từ điển nên kho từ điển cho Goldendict gần như là vô tận.
 
 ### Hướng dẫn cài đặt
-Bạn vào đọc hướng dẫn tải từ chính trang chủ của hai thứ ở trên. Bạn có thể tải cả hai, hoặc một trong hai đều được
+Trang đã làm riêng hướng dẫn cài đặt cho từng phần mềm từ điển ở trên:
 
-- Goldendict-ng: <https://xiaoyifang.github.io/goldendict-ng/>
-- Yomitan: <https://yomitan.wiki/> - Bạn chỉ cần cài đặt Yomitan trên trình duyệt thôi, còn lại như chọn từ điển Tiếng Anh, tạo mẫu thẻ và sử dụng Anki thì sẽ có hướng dẫn bên dưới.
+- [Hướng dẫn cài đặt Yomitan](yomitan.md)
+- [Hướng dẫn cài đặt Goldendict](goldendict.md)
 
-Với Yomitan, hãy nhớ chuyển ngôn ngữ của Yomitan về Tiếng Anh (Vì mặc định sẽ là Tiếng Nhật).
-
-### Chọn từ điển
-#### Yomitan
-Để tải từ điển cho Yomitan (hiện tại chỉ mới có người làm từ điển Anh - Anh), bạn hãy [truy cập vào trang này](https://github.com/MarvNC/yomitan-dictionaries#english-english) để tải.
-
-Những từ điển mình gợi ý:
-
-- [Oxford Advanced Learner's Dictionary](https://github.com/MarvNC/yomichan-dictionaries/files/14957647/oald-release-yomitan.zip) - Bạn bấm vào luôn để tải. Bạn cần giải nén tệp .zip ra rồi mới thêm các tệp .zip trong như mục giải nén. Bạn có thể thêm tất cả 4, hoặc có thể bỏ từ điển IPA - vì nó đã có âm thanh đính kèm, hoặc IPA sẵn hiện trên từ
-- New Oxford American Dictionary - Bạn vào đường dẫn ở đầu mục [Yomitan](#yomitan) này và chọn vào thư mục Google Drive để tìm.
-- `CambridgeYomitan.zip` - Bạn vào đường dẫn ở đầu mục [Yomitan](#yomitan) này và chọn vào thư mục Google Drive để tìm.
-- [apple-en-vi](https://drive.proton.me/urls/XZRWCKDM54#Bnq28tvMixEm) - Với những bạn muốn có từ điển Anh - Việt cho Yomitan, mình chỉ tìm được có bộ này. Bạn bấm vào tên bộ từ điển để di chuyển đến trang tải xuống. Bạn bấm vào thư mục `English`, rồi kéo xuống và tìm `apple-en-vi.zip`.
-
-#### Goldendict
-Để tải từ điển cho Goldendict, bạn hãy truy cập trang này trên diễn đàn Voz để đọc [bài tổng hợp này](https://voz.vn/t/reup-goldendict-va-cac-bo-dai-tu-dien-eng-eng-full-audio-picture.710141/). Có một kho rất lớn các từ điển bạn có thể tải
-
-
-Những từ điển mình gợi ý: Cá nhân mình sử dụng (Nhiều từ điển để tăng lượng word coverage):
-
-- mtBab EV - Từ điển Anh - Việt (Babylon) bạn có thể tìm ở đường dẫn đầu mục Goldendict này. Nếu bạn mới học Tiếng Anh thì có thể dùng
-- New Oxford American Dictionary
-- Oxford Thesaurus
-- Oxford Dictionary of Phrasal Verbs
-
-- [Kho từ điển chuyên ngành Anh - Anh - Đường dẫn Google Drive](https://drive.google.com/drive/folders/0BzrQwK2v03aKWjlsQ3NsaWJKalU?resourcekey=0-DtgqOJiVFSDI231ugoQgiQ)
-
-## Các phần mềm và tiện ích hỗ trợ khác
-
+## Hướng dẫn cài đặt các công cụ hỗ trợ việc học ngoại ngữ khác
 ### Anki
+!!! info "Mục tiêu"
+    Dưới đây sẽ là hướng dẫn cài đặt Anki và sử dụng chung với Yomitan để tạo thẻ từ vựng nhanh.
+
 Cần có - Dù mình tin là bạn có thể học mà _không sử dụng Anki_ nhưng nó thực sự quá tốn thời gian.
 
 Anki là một công cụ quá tốt để hỗ trợ bạn ghi nhớ những gì bạn đã học. Trước khi sử dụng bạn nên xem video hướng dẫn cơ bản trước nha. 

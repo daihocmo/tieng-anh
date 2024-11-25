@@ -27,16 +27,21 @@ Khi bạn mới cài Yomitan lần đầu, bạn sẽ cần cài từ điển đ
 
 Những tệp này sử dụng phần mở rộng `.zip` (file extension) và **bạn không được giải nén nó ra.**
 
-Bạn có thể di chuyển đến trang [MarvNC/yomitan-dictionaries](https://github.com/MarvNC/yomitan-dictionaries?tab=readme-ov-file#english-english) để cài đặt từ điển cho Yomitan.
-
+Bạn có thể di chuyển đến trang [MarvNC/yomitan-dictionaries](https://github.com/MarvNC/yomitan-dictionaries?tab=readme-ov-file#english-english) để cài đặt từ điển cho Yomitan. Bên dưới sẽ có gợi ý từ điển nên dùng và cách cài đặt từ điển vào Yomitan.
+ 
 Các từ điển gợi ý:
 
+- Từ điển Lạc-Việt (Cho những người mới học hoặc những người chưa quen với việc đọc định nghĩa đơn ngữ)
+- Longman Dictionary of Contemporary English (LDOCE) - Về mặt định nghĩa thì Longman có ưu thế hơn so với Oxford. Longman định nghĩa dễ hiểu, ngắn gọn, và nhiều ví dụ. (Gợi ý của bác [Black7](https://voz.vn/u/black7.1242890/))
 - Cambridge Advanced Learner’s Dictionary
 - Collins COBUILD
-- Longman Dictionary of Contemporary English (LDOCE)
 - Oxford Advanced Learner’s Dictionary (OALD)
 
-(Bạn có thể tải những từ điển ở trong đường dẫn Google Drive từ đường dẫn mình gửi ở trên)
+Các tệp từ điển cho Yomitan:
+
+- [Oxford Advanced Learner's Dictionary](https://github.com/MarvNC/yomichan-dictionaries/files/14957647/oald-release-yomitan.zip) - Bạn bấm vào luôn để tải. Bạn cần giải nén tệp .zip ra rồi mới thêm các tệp .zip trong như mục giải nén. Sẽ có 4 tệp `.zip` là: `oald.zip` (Từ điển Oxford chỉ có định nghĩa từ, `oald-extra.zip` (Như trên nhưng bao gồm câu ví dụ) và một từ điển IPA và `yzk-freq-en.zip` (Đo độ phổ biến của từ)). Bạn hãy tự chọn từ điển mà bạn muốn dùng. Đọc thêm bên dưới để biết cách thêm vào Yomitan.
+- [apple-en-vi](https://drive.proton.me/urls/XZRWCKDM54#Bnq28tvMixEm) - Với những bạn muốn có từ điển Anh - Việt cho Yomitan, mình chỉ tìm được có bộ này. Bạn bấm vào tên bộ từ điển để di chuyển đến trang tải xuống. Bạn bấm vào thư mục `English`, rồi kéo xuống và tìm `apple-en-vi.zip`.
+
 
 ### Cài đặt từ điển và sử dụng cơ bản
   
@@ -57,6 +62,10 @@ Trên thanh công cụ trình duyệt, nếu bạn chọn biểu tượng Yomita
  
 Có thể chỉnh kích cỡ Pop-up trong cài đặt và cả giao diện tối nữa.
 
+Nếu bạn thấy phần hướng dẫn khó hiểu thì bạn có thể xem hướng dẫn trên Youtube nha:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MjLw8jZ7aRE?si=KqnQkL6skboYElqq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### Từ điển đo độ phổ biến của từ 
 
 Yomitan hỗ trợ từ điển tần suất để cho bạn biết độ phổ biến của từ.
@@ -68,8 +77,6 @@ Một số các từ điển đo độ phổ biến từ:
 
 - **yzk-freq-en**: Từ điển đo độ phổ biến được làm bởi yzk
 - **Frequency-FLT**: Không biết nữa
-
-
 
 **Thế nào là từ phổ biến?**  
 
