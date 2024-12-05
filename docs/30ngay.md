@@ -29,43 +29,8 @@ Bạn cần:
 
 Tìm nội dung mà mình thích và biến việc tiêu thụ nội dung đó thành thói quen. Có thể bắt đầu với phim hoạt hình bằng Tiếng Anh. Có rất nhiều phim hoạt hình có Tiếng Anh đơn giản. Dưới đây là một số gợi ý (bạn có thể xem bất cứ thứ gì bạn muốn): 
 
-+ Arcane
-+ Avatar the Last Airbender
-+ Gravity Falls 
-+ Phineas and Ferb
-+ Rick & Morty
-+ [Doraleous and Associates](https://www.youtube.com/playlist?list=PL68FD0D7F63715384)
-+ [HELLUVA BOSS](https://www.youtube.com/playlist?list=PL-uopgYBi65HwiiDR9Y23lomAkGr9mm-S)
-+ [Epithet Erased](https://www.youtube.com/playlist?list=PLHACfIDFF66rxMt46cSoVxUulvL3bKluM)
-+ [Gwain Saga](https://www.youtube.com/playlist?list=PLuHAScGjKStNSjljadMKXMzyp5HiJ0uxG)
-+ [Murder Drones](https://www.youtube.com/playlist?list=PLHovnlOusNLiJz3sm0d5i2Evwa2LDLdrg) - Nếu nghe thấy Tiếng Việt thì hãy đổi "Bản âm thanh" về "Tiếng Anh gốc" nha.
-
-Thích xem phim của Pixar? Đây là danh sách gợi ý khác:
-
-- Wall-E
-- Coco
-- Up
-- Inside Out
-- Toy Story 2
-- Ratatouille
-- Toy Story 4
-- Toy Story 3
-- The Incredibles
-- Finding Nemo
-- Toy Story
-- Turning Red
-- Luca
-- Incredibles 2
-- Soul
-- Onward
-- Finding Dory
-- Brave
-- Bugs Life
-- Monsters Inc
-- Cars 
-
-Hay bạn thích xem Phim? Đây là một danh sách khác (Cảm ơn một số người dùng trên Reddit vì mình lấy gợi ý của khá nhiều người trên đó):
-
+- Arcane
+- Avatar the Last Airbender
 - [Moon](https://en.wikipedia.org/wiki/Moon_(2009_film))
 - [Interstellar](https://en.wikipedia.org/wiki/Interstellar_(film))
 - [2004: A Space Odyssey](https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey)
