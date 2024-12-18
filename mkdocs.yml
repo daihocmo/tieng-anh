@@ -2,6 +2,8 @@ site_name: Tự luyện Tiếng Anh - Khu học mở.
 site_description: Tự học Tiếng Anh các kiểu, chắc vậy.
 site_author: duykhanh471  
 site_url: https://daihocmo.github.io/tieng-anh/
+repo_url: https://github.com/daihocmo/tieng-anh
+repo_name: Đóng góp và chỉnh sửa trang
 
 nav:
   - 'Trang chủ': 
@@ -19,6 +21,8 @@ nav:
     - 'Mining': 'setup.md'
     - 'Goldendict': 'goldendict.md'
     - 'Yomitan': 'yomitan.md'
+  - 'Visual Novels':
+    - 'Visual Novels': 'vn.md'
   - 'Tài nguyên học':
     - 'Tài nguyên': 'resources.md'
     - 'Đầu vào dễ hiểu': 'input.md'
@@ -79,7 +83,7 @@ markdown_extensions:
       permalink: true
 plugins:
   - search
-  # - open-in-new-tab
+  - open-in-new-tab
 
 extra:
   generator: false

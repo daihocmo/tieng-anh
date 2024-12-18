@@ -7,9 +7,7 @@
 
 Được lấy ý tưởng từ UsagiSpoon. 
 
-Giúp mọi người học Tiếng Anh từ đầu thông qua Immersion.
-
-Trong bảng thói quen học 30 ngày này, mỗi ngày đều có những nhiệm vụ bạn cần phải làm.
+Hướng dẫn này sẽ giúp mọi người bắt đầu xây dựng thói quen học Tiếng Anh từ đầu thông qua Immersion. Trong bảng thói quen học 30 ngày này, mỗi ngày đều có những nhiệm vụ bạn cần phải làm.
 
 Bạn cần:
 
@@ -20,14 +18,14 @@ Bạn cần:
 
 ## Ngày 1:
 ### Giai đoạn: Ngày đầu tiên
-Điều đầu tiên bạn cần là đặt mục tiêu và định hướng rõ ràng cho mình. 
+Điều đầu tiên bạn cần là đặt mục tiêu và định hướng rõ ràng cho mình. Bạn có thể đọc bài viết [Trước khi bắt đầu](truoc-khi-bat-dau.md) để tìm hiểu thêm
 
 ## Ngày 2
 ### Giai đoạn: Xây dựng môi trường Tiếng Anh ngay tại nhà
 
 Đưa Tiếng Anh vào cuộc sống xung quanh là phần quan trọng nhất của phương pháp Immersion.
 
-Tìm nội dung mà mình thích và biến việc tiêu thụ nội dung đó thành thói quen. Có thể bắt đầu với phim hoạt hình bằng Tiếng Anh. Có rất nhiều phim hoạt hình có Tiếng Anh đơn giản. Dưới đây là một số gợi ý (bạn có thể xem bất cứ thứ gì bạn muốn): 
+Tìm nội dung mà mình thích và biến việc tiêu thụ nội dung đó thành thói quen. Dưới đây là một số gợi ý (bạn có thể xem bất cứ thứ gì bạn muốn): 
 
 - Arcane
 - Avatar the Last Airbender
@@ -43,7 +41,6 @@ Tìm nội dung mà mình thích và biến việc tiêu thụ nội dung đó t
 - No Country for Old Men (2007)
 - Tree of Life (2011)
 - Drive My Car (2021)
-
 
 Xem [Kho nội dung tiêu thụ Tiếng Anh](https://daihocmo.github.io/awesome-ngon-ngu/media-recs/tieng-anh/) để tìm thêm gợi ý phim hoạt hình. Nên tải phim hoạt hình về máy để có thể dễ dàng xem.
 
@@ -96,6 +93,7 @@ Bạn không cần phải drill, chọn các mẫu ngữ pháp nhất định ha
 
 Đây là những hướng dẫn ngữ pháp mà cá nhân mình gợi ý:
 
+- [Hướng dẫn tự học ngữ pháp Tiếng Anh](https://daihocmo.github.io/luyen-thi-ngon-ngu/tieng-anh/) - Hướng dẫn do mình tự tổng hợp và soạn lại. 
 - [Ngữ pháp tiếng Anh cơ bản - Anh Ngữ ZIM](https://www.youtube.com/playlist?list=PLopA3SCkaFezPpz7xzYqUMA2s4uZAblZY) - Một danh sách phát trên Youtube về ngữ pháp Tiếng Anh cơ bản, rõ ràng, dễ hiểu và chỉ bao gồm những phần rất cơ bản.
 - [**Study English Grammar - Văn Phạm**](https://www.youtube.com/playlist?list=PLLx8_1BoESGF1wy1P8vhAjw6gdupa2TyE) - Giải thích ngữ pháp rõ ràng, không quá khó hiểu và tập trung vào ngữ pháp Tiếng Anh thay vì cấu trúc ôn thi.
 
@@ -166,12 +164,6 @@ Giờ thì tải Anki. Bạn có thể tải Anki bằng cách truy cập [trang
     
 Khi bạn mở Anki lần đầu tiên, bạn sẽ thấy cửa sổ chọn ngôn ngữ, bạn chọn ngôn ngữ nào cũng được.
 
-Vào **Tools** trên thanh trên cùng và chọn **Preferences (Ctrl+P)**.
-
-Và đổi **Learn ahead limit** thành `900`.
-
-Bây giờ hãy chọn Close.
-
 Trong Anki, có 3 button ở cuối cửa sổ. Chọn **Import File** để thêm bộ thẻ mình đã tải. Sau khi chọn, nó sẽ mở cửa sổ chọn tập tin. Chọn bộ thẻ mà mình đã tải. Khi nào xong thì nó hiện cái hộp toàn chữ, bấm Ok là xong
 
 Số màu xanh da trời đó là số lượng thẻ mới bạn sẽ học trong một ngày. 20 thẻ mỗi ngày là mặc định và 20 thẻ có thể là quá nhiều hoặc quá ít. Bạn có thể muốn giảm số lượng thẻ nếu cảm thấy quá khó để hoàn thành 'Reviews' trong Anki.
@@ -184,47 +176,13 @@ Thay đổi **Maximum reviews/day** thành `9999`. Đồng nghĩa với không c
 
 Mặc định là 200 và số thẻ phải ôn tập sẽ không nhiều tới mức vậy nếu bạn ôn hàng ngày. Đó là một cách kể giải quyết giới hạn ôn tập của bạn.
 
-Bạn cũng cần thay đổi **Learning steps** thành `1m 5m 10m`.
-
-Thay đổi **Insertion order** , thành **Sequential (oldest cards first)**
-
-Trong phần **Lapses**, thay đổi *Relearning Steps* thành `10m`.
-
-Trong phần **Thứ tự hiển thị** , thay đổi *Display Order* thành **Show before reviews**.
-
-Bây giờ hãy bấm *Save*.
-
-Bạn nên tải thêm tiện ích bổ sung cho Anki tên là *Speed Focus Mode* (Anki addons). 
-
-Nhấp vào *Tools* ở đầu Anki và chọn *Add-ons*.
-
-Nhấp vào **Get Add-ons...**.
-
-Paste mã này vào ô code: `1046608507 `và nhấn **OK**.
-
-Bạn cần khởi động lại Anki. Đóng cửa sổ ứng dụng Anki và mở lại.
-
-Nhấp vào biểu tượng bánh răng bên cạnh bộ thẻ *Core1700*.
-
-Giữ phím ++shift++ và chọn *Options*.
-
-Một menu kiểu khác với một đoạn chữ màu đỏ sẽ hiện lên (Nếu không, hãy giữ ++shift++ khi nhấn vào *Options*).  
-
-Trong tab *General*, có một số cài đặt bạn cần thay đổi.
-
-Đổi *Automatically play alert* thành `15` seconds.  
-
-Đổi *Automatically show answer* thành `30` seconds.  
-
-Đổi *Automatically rate 'again'* thành `180` seconds. 
-
 Bây giờ chúng ta hãy bắt đầu học bộ thẻ.
 
-Khi chọn tên bộ thẻ, bạn sẽ có thể bắt đầu học bằng cách chọn *Học ngay*
+Khi chọn tên bộ thẻ, bạn sẽ có thể bắt đầu học bằng cách chọn *Study Now*
 
 Điều đầu tiên bạn sẽ thấy là một thẻ giải thích. Hãy xóa cái này.
 
-Nếu bạn chọn “Show answer”, nó sẽ hiển thị mặt *sau* của thẻ và bạn sẽ biết cách đọc từ đã hiện ở mặt trước thẻ.
+Nếu bạn chọn “Show answer”, nó sẽ hiển thị mặt *sau* của thẻ và bạn sẽ biết nghĩa của từ đã hiện ở mặt trước thẻ.
 
 Có nhiều thứ khác trong bộ thẻ như nghĩa của từ, âm thanh, câu và bản dịch.
 
@@ -242,7 +200,7 @@ Việc này sẽ đưa thẻ vào khu thẻ "Learning".
 
 Bạn có thấy con số màu đỏ ở thanh dưới cùng chuyển từ 0 thành 1 không?
 
-- Xanh lam: New pile (Khu thẻ từ mới)  
+- Xanh da trời: New pile (Khu thẻ từ mới)  
 - Đỏ: Learning pile (Khu thẻ từ cần học)
 - Xanh lá cây: Review pile  (Khu thẻ từ cần ôn tập)
 
@@ -256,7 +214,7 @@ Learning pile (số màu đỏ) giảm = thẻ đã "học xong".
 
 Khi bạn không biết từ đó ngay cả sau 15 giây nhìn vào nó, thì việc nhìn nó lâu hơn sẽ chẳng có ích gì. Vì vậy, mục đích của addon *Speed Focus Mode* là ngăn bạn dành quá nhiều thời gian cho một thẻ.
 
-**Phương pháp học thẻ của shoui**
+**Phương pháp học thẻ của shoui (Tác giả gốc của trang này)**
 
 Bước 1: Đọc thẻ.  
 Bước 2: Có phải thẻ mới hay không?  
@@ -275,11 +233,11 @@ Bước 14: Mình thường sử dụng nút "Good" nếu đúng và "Again" n�
 
 Sau khi học thành công 20 thẻ, bạn có thể coi mình đã hoàn thành xong "nhiệm vụ Anki" trong ngày. Ngày hôm sau, sẽ có một số màu xanh lá cây ở khối "Review". Bạn cũng sẽ có thêm 20 thẻ mới!
 
-Hãy chắc chắn rằng bạn làm Anki mỗi ngày!
+Bạn cần sử dụng Anki hàng ngày.
 
 **Q: Nếu quên nhiều thì sao?**
 
-Anki được tạo ra cho những thứ bạn có thể quên.
+Anki được sử dụng để hỗ trợ bạn phần này.
 
 Khi mới bắt đầu, việc quên từ vựng là chuyện bình thường, kể cả khi bạn quên hơn một nửa đống đó sau một ngày.
 
@@ -474,8 +432,8 @@ Khi khả năng nghe thuần (raw listening immersion) của bạn đã trở n�
   
 Từ hôm nay cho đến ngày 30, ta sẽ thực hiện "thử thách đọc tiểu thuyết", từ bây giờ cho đến ngày 30, hãy chọn một trong hai cuốn sau và đọc nha:  
 
-- [Little House on the Prarie](https://www.gutenberg.ca/ebooks/wildersewell-woods/wildersewell-woods-01-h-dir/wildersewell-woods-01-h.html) - Đọc miễn phí trên Gutenberg CA.
-- [Wonder (R.J. Palacio)](https://en.wikipedia.org/wiki/Wonder_(Palacio_novel))
+- [The Adventures of Tom Sawyer](https://gutenberg.org/ebooks/74) - Đọc miễn phí trên Gutenberg - Dài nên chỉ đọc đến phần bạn thích thôi.
+- [Wonder (R.J. Palacio)](https://en.wikipedia.org/wiki/Wonder_(Palacio_novel)) - Bản gốc của Điều kì diệu
 
 Việc để hiểu hết được nội dung trong thử thách này là một chặng đường dài. Đừng quá lo lắng nếu không hiểu nhiều hoặc không hiểu gì. Sự hiểu cần nhiều thời gian Immersion và học tập hàng ngày. 
 
@@ -566,11 +524,11 @@ Giờ đây, bạn đã có đủ nền tảng để tự mình tiếp tục h�
 Có một số “nhiệm vụ học Tiếng Anh” cho bạn đây. Không có giới hạn thời gian cho những nhiệm vụ này. Với một số nhiệm vụ khác có thể sẽ cần đến đến vài tháng hoặc vài năm. Tuy vậy, vẫn nên hoàn thành chúng.
 
 - Hoàn thành bộ thẻ **1700 từ vựng cơ bản** 
-- Hoàn thành các hướng dẫn ngữ pháp 
+- Hoàn thành hướng dẫn ngữ pháp mà bạn chọn 
 - Bắt đầu học IPA.
 - Bắt đầu đọc những nội dung dài hơn, như sách hoặc tiểu thuyết chẳng hạn. Tham gia vào Discord để giao lưu với những người có cùng sở thích.
-- Rèn luyện khả năng nhận biết và đọc số Tiếng Anh của bạn với tài nguyên này: [Thực hành số Tiếng Anh](https://langpractice.com/english-us).
-- Tạo một bộ thẻ Anki mining và thực hành sentence mining sau khi hoàn thành bộ thẻ **1400 từ vựng cơ bản**.
+- Rèn luyện khả năng nhận biết và đọc số Tiếng Anh: [Thực hành số Tiếng Anh](https://langpractice.com/english-us).
+- Tạo một bộ thẻ Anki mining và thực hành sentence mining sau khi hoàn thành bộ thẻ **1700 từ vựng cơ bản**.
 - Hoàn thành một visual novel/đọc xong một quyển sách trong khoảng 6 tháng sau khi bắt đầu chơi/đọc.
 - Hãy thử sử dụng từ điển đơn ngữ sau khi chơi xong một visual novel/đọc xong một quyển sách
 - Tăng số giờ Immersion của bạn.

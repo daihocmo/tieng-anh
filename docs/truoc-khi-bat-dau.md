@@ -6,12 +6,10 @@ Bạn có lẽ đã đọc những câu kiểu này ở cả đống chỗ trên
 
 Nếu bạn chưa thì hãy làm nó trước khi bắt đầu vào học. Việc dựa vào động lực nhất thời kiểu "Mình phải học ngoại ngữ thôi" thường không lâu bền vì động lực là một loại cảm xúc. Bạn có thể thử đọc [Learning How to Learn - Week 1](https://spiderum.com/bai-dang/Learning-How-to-Learn-Week-1-5ii) và kéo xuống đọc **2. Procrastination - Sự trì hoãn**. 
 
-> Tất cả những quyết định của bạn, có ẢNH HƯỞNG NGAY LẬP TỨC đến cuộc sống của bạn. Khi đó, bạn - con hươu bé nhỏ, đang sống trong môi trường mà các nhà khoa học gọi là Immediate Return Environment. Bởi vì mọi hành động, mọi quyết định của bạn có ảnh hưởng ngay lập tức đến cuộc sống của bạn.
 Bây giờ quay trở lại hiện thực, bạn là một thanh niên bình thường khoẻ mạnh ở thế kỉ 21. Ở xã hội hiện nay, những hành động và quyết định của bạn KHÔNG MANG LẠI LỢI ÍCH NGAY LẬP TỨC như con hươu ở khu rừng kia. 
 > - Nếu mỗi ngày bạn học thêm 5 từ tiếng anh mới, thì khoảng 1 tháng sau bạn mới cảm nhận được sự tiến bộ.
 > - Sáng mai bạn bắt đầu vô phòng gym và ăn uống điều độ thì 3 tháng sau bạn mới thấy sự thay đổi ở cơ thể mình.
 > - Bây giờ bạn để dành tiền tiết kiệm, thì 30 năm nữa lúc về hưu bạn sẽ có tiền dưỡng già.  
-> Đây chính là vấn đề.Chúng ta đang sống trong môi trường được gọi là Delayed Return Enviroment. Và não của chúng ta không được thiết kế để hoạt động trong môi trường này. Não của chúng ta hiện tại được tiến hoá từ môi trường Immediate Return. 
 
 Vì vậy, bạn cần có một mục tiêu đủ rõ ràng để giúp bạn học hàng ngày.
 
@@ -32,12 +30,25 @@ Bạn không cần một lộ trình học từ A - Z để đạt đến C1 đ�
 <iframe width="560" height="315" src="https://www.youtube.com/embed/j0OotbfBAA0?si=B1p9LnDi1BAPQK-W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Về Output (Nói & Viết)
-Output không phải là cách mà bạn cải thiện ngôn ngữ.
+Output không phải là cách mà bạn cải thiện ngôn ngữ. 
 
+Sẽ khá là đột ngột khi nói vậy nên mình sẽ làm rõ hơn. Để bạn có thể giỏi Tiếng Anh hơn thì bạn cần có nhiều Input hơn (Nghe, Đọc) và việc Output (Nói và Viết) chỉ đơn giản là sử dụng lại những gì bạn đã có trong đầu. 
+
+Mọi người hay bị hiểu nhầm là cần nói nhiều hơn và viết nhiều hơn để giỏi hơn. Trên thực tế thì không đúng như vậy.
+
+>  Immersion (Input) là cách để bạn giỏi ngoại ngữ. Nói cách khác là nghe và đọc nội dung ngôn ngữ bạn học. Cách diễn đạt tự nhiên sẽ đến một cách tự nhiên sau hàng nghìn giờ nạp Input (đặc biệt là phần nghe!) . Nhưng bạn vẫn còn một mức “ceiling” (mức trần) cần đạt tới, và bạn sẽ thực hiện điều đó thông qua luyện nói. Bạn cần Input để biết nói đúng, vì bạn đã nghe được cái đúng ấy thông qua Input của mình nên bạn sẽ biết cách nào để nói ý đó một cách tự nhiên trước khi bắt đầu cuộc trò chuyện. Với nhiều Input hơn, mức Output của bạn sẽ tăng lên, nghĩa là bạn có khả năng Output tốt hơn. Vì vậy, việc nói khi bạn mới bắt đầu học là vô nghĩa, mức Output của bạn cực kỳ thấp, vì vậy dù có luyện tập nói bao nhiêu đi nữa cũng chẳng giúp bạn cải thiện khả năng nói. 
+> 
+> Trích và dịch lại từ trang [Speaking Japanese của TMW](https://learnjapanese.moe/speaking/)
+ 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4Ir4206DfvQ?si=2sm6kF9xzljoJs_b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+_Nhớ bật phụ đề Tiếng Việt nha. Bạn cũng có thể xem [Video gốc của chính tác giả](https://www.youtube.com/watch?v=NiTsduRreug), chỉ có phụ đề Tiếng Anh_
+
 ### Đi học giáo viên, trung tâm, khóa học
+
 Do bạn chọn, nhưng không bắt buộc. 
+
+Nhưng việc đi học cũng chỉ là một phần và bạn vẫn sẽ phải tự học để có thể giỏi hơn.
 
 
 
