@@ -3,10 +3,10 @@
 ## Thông báo
 
 !!! info "Nhắc nhỏ"
-	Bài viết là bản dịch và hiệu đính lại từ bài [Yomichan Setup Tutorial](https://learnjapanese.moe/yomichan/) của TheMoeWay.
+	Bài viết là bản dịch và hiệu đính lại từ bài [Yomitan Setup Tutorial](https://learnjapanese.moe/yomichan/) của TheMoeWay.
 
 
-**Cập nhật chút: Yomichan không còn được hỗ trợ. Yomitan là bản phát triển kế tiếp của Yomichan.**
+**Cập nhật chút: Yomitan không còn được hỗ trợ. Yomitan là bản phát triển kế tiếp của Yomitan.**
 
 ### Yomitan là gì?
 Yomitan là một extension (tiện ích mở rộng) trên trình duyệt (Chrome, Chromium-based hoặc Firefox) cho phép bạn tra cứu các từ Tiếng Anh cả nghĩa lẫn cách đọc trên trang web một cách dễ dàng.
@@ -52,7 +52,7 @@ Các tệp từ điển cho Yomitan:
 5. Đây sẽ là lúc mình thêm từ điển, bạn có thể kéo thả hoặc bấm vào ô thêm để lựa chọn từ điển mà bạn muốn thêm.
 6. Đợi các từ điển được thêm vào. Sẽ mất một lúc.
 7. Sau khi hoàn tất, bạn có thể kiểm tra Yomitan bằng cách giữ phím ++shift++ và di chuột qua văn bản Tiếng Anh. Thử di chuột vào từ này xem: English. Nó sẽ hiện một pop-up box hiển thị các định nghĩa được chia theo từ điển.
-![Yomichan Demo](img/yomitan/demo1.png) 
+![Yomitan Demo](img/yomitan/demo1.png) 
 
 Bấm ra chỗ khác trên màn hình hoặc phím Esc để ẩn hộp thoại của Yomitan đi
 

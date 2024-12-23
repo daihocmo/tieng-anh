@@ -19,7 +19,7 @@ Bạn có thể đọc thêm bài [Dân chuyên sống bằng tiếng Anh thì d
 
 
 ### Những phần mềm từ điển
-- Yomitan (Bản kế tiếp từ Yomichan, là một tiện ích trình duyệt Chrome & Firefox để dùng từ điển pop-up bằng cách giữ phím Shift và di chuột vào từ). Mình gợi ý Yomitan vì nó giúp tạo thẻ Anki và dùng trên trình duyệt.
+- Yomitan (Bản kế tiếp từ Yomitan, là một tiện ích trình duyệt Chrome & Firefox để dùng từ điển pop-up bằng cách giữ phím Shift và di chuột vào từ). Mình gợi ý Yomitan vì nó giúp tạo thẻ Anki và dùng trên trình duyệt.
 - Goldendict-ng (Bản cải thiện của Goldendict) - Một ứng dụng có tuổi đời khá cũ nhưng hỗ trợ rất nhiều định dạng từ điển nên kho từ điển cho Goldendict gần như là vô tận.
 
 ### Hướng dẫn cài đặt

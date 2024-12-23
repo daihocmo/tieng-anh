@@ -1,65 +1,51 @@
-# Mẹo và chiến lược cho việc đọc
+# Bắt đầu việc đọc Tiếng Anh
 
-Hướng dẫn bắt đầu thực sự về việc đọc
+Để giỏi Tiếng Anh hơn, đọc gần như là cách hiệu quả nhất. 
 
-Để giỏi Tiếng Anh hơn, đọc sách gần như là cách hiệu quả nhất. 
+**Đọc nhiều hơn** thường là lời khuyên đầu tiên mà những người học Tiếng Anh ở trình độ cao gợi ý bất kỳ người mới bắt đầu nào.
 
-“đọc nhiều hơn” thường là lời khuyên đầu tiên trong việc học Tiếng Anh mà những người học Tiếng Anh ở trình độ cao gợi ý bất kỳ người mới bắt đầu nào, và điều gì cũng có lý do của nó.
-  
-Bài viết cho bạn những lời khuyên và nói về những lo lắng mà bạn có thể gặp phải khi đọc.
+Bài viết cho bạn những lời khuyên và xàm về những lo lắng mà bạn có thể gặp phải khi đọc.
 
 ## Mẹo đọc
 
-### Mình CHỈ mới bắt đầu, mình nên làm gì?
+### Chưa biết gì cả
 
-Hoặc có thể mới bắt đầu = Mình đã học Tiếng Anh được một thời gian bằng phương pháp [x] và giờ nếu mình muốn bắt đầu đọc thì mình nên làm gì?"
+Hãy đọc bài [lộ trình tự học và xây dựng thói quen học Tiếng Anh trong 30 ngày](30ngay.md)
+
+### Mình chỉ mới bắt đầu, mình nên làm gì?
+
+Có thể ý của bạn là: "Mình đã học Tiếng Anh được một thời gian bằng phương pháp [x] và giờ nếu mình muốn bắt đầu đọc thì mình nên làm gì?"
 
 Hãy đọc bài viết này cho đến hết.
 
-### Đọc một cuốn sách về một cái gì đó bạn đã thấy.
+### Đọc một quyển sách về một thứ gì đó bạn đã thấy.
 
-Bạn có biết nhiều người trở thành những người đọc (sách bằng ngôn ngữ của họ) vì họ đọc sách của một bộ phim họ yêu thích hay đại loại vậy không?
+Bạn có biết nhiều người trở thành những người đọc vì họ đọc sách của một bộ phim họ yêu thích hay đại loại vậy không? Bạn có thể áp dụng chiến lược tương tự cho Tiếng Anh. Đây cũng chính là chiến lược được gợi ý khi mới bắt đầu tập đọc.
 
-Bạn có thể áp dụng chiến lược chính xác tương tự cho Tiếng Anh.
+### Combo đọc sách trên trình duyệt
 
-Và đó là chiến lược mà mình khuyên mọi người nên thực hiện khi mới bắt đầu tập đọc.
+Bộ ba thần thánh dành cho những người thích đọc tiểu thuyết, LN, WN, sách bằng Tiếng Anh.
 
-### Yomichan, Tiểu thuyết, EPUBs+ッツ Reader  
-
-Bộ ba thần thánh dành cho những người thích đọc tiểu thuyết, Light Novel, web novel bằng Tiếng Anh.
-
-- Cài đặt Yomichan [đọc ở đây](yomitan.md)  
-- Kho tiểu thuyết in [Resources](resources.md)  
-- EPUBs... Có thể tải ở rất nhiều chỗ.
+- [Cài đặt Yomitan](yomitan.md)  
+- Kho tiểu thuyết trong [Resources](resources.md)  
+- EPUBs... Có thể tải ở _rất nhiều nơi_.
 - [ッツ Reader](https://reader.ttsu.app/manage)  
 
 ### Pomodoro / Timeboxing  
 
-Đây là một chiến lược "God tier" khác mà mình muốn giới thiệu.
+Phương pháp Pomodoro yêu cầu bạn tập trung vào một nhiệm vụ trong một khoảng thời gian nhất định (thường là 25 phút), sau đó đồng hồ sẽ đổ chuông và bạn nghỉ giải lao ngắn (5 phút). Vì vậy, bạn sẽ đọc trong 25 phút. 
 
-Phương pháp Pomodoro yêu cầu bạn tập trung vào một nhiệm vụ trong một khoảng thời gian nhất định (thường là 25 phút), sau đó đồng hồ sẽ đổ chuông và bạn nghỉ giải lao ngắn (5 phút).
-
-Vì vậy, bạn sẽ đọc trong 25 phút.
-
-Nghe thì có vẻ không nhiều nhưng thực ra đây là một phương pháp rất hữu ích.
-
-Mình thường uống nước, đứng dậy hoặc đi lại trong giờ giải lao; nó giúp bạn tỉnh táo khi tiếp tục đọc.
-
-Đây là đồng hồ bấm giờ Pomodoro mà mình sử dụng. [**Pomofocus.io**](https://pomofocus.io/)
+Nghe thì có vẻ không nhiều nhưng thực ra đây là một phương pháp rất hữu ích. Mình thường uống nước, đứng dậy hoặc đi lại trong giờ giải lao; nó giúp bạn tỉnh táo khi tiếp tục đọc.
 
 Cài đặt mặc định là 25 phút tập trung, nghỉ ngắn trong 5 phút và nghỉ dài trong 15 phút.
 
-Có lẽ 25 phút là quá nhiều nên có lẽ nên chọn **20 phút** .
-
-Bạn có thể chọn *Setting* ở trên cùng để thay đổi thời gian. Ngoài ra, bạn nên bật "Auto Start Breaks and Pomodoros".
+Nếu 25 phút là quá nhiều thì có thể chọn **20 phút** .
 
 ### Biến việc đọc thành thói quen - từng bước một
 
-Bạn sẽ không trở thành một siêu mọt sách đứng đầu bảng xếp hạng đọc trên Discord của TheMoeWay chỉ sau một đêm.
+Bạn không thể trở thành siêu mọt sách với tốc độ đọc siêu nhanh chỉ sau một ngày được. Bạn cần biến việc đọc thành thói quen; đọc với số lượng mà bạn có thể thực hiện được mỗi ngày.
 
-Bạn cần biến việc đọc thành thói quen; đọc với số lượng mà bạn có thể thực hiện được mỗi ngày.
-
-Và theo thời gian, khi bạn làm điều này hàng ngày, nó sẽ trở thành thói quen, và bạn có thể cảm thấy muốn đọc mà không cần nghĩ rằng “đã đến lúc cải thiện Tiếng Anh của mình”, bởi vì việc đọc hàng ngày sẽ trở thành một việc bình thường đối với bạn.
+Và theo thời gian, khi bạn làm điều này hàng ngày, nó sẽ trở thành thói quen, và bạn có thể cảm thấy muốn đọc mà không cần nghĩ rằng “đã đến lúc cải thiện Tiếng Anh của mình”, bởi vì việc đọc hàng ngày sẽ trở thành một thói quen của bạn
 
 ### Đặt mục tiêu cho bản thân mỗi ngày
 
@@ -71,11 +57,11 @@ Hãy đọc trong khoảng thời gian mà bạn sẵn sàng đọc trong ngày,
 
 Sau đó lấy số lượng ký tự hoặc trang đó và tăng nó lên một chút (làm tròn nó lên, chắc vậy) và lấy đó làm mục tiêu đọc hàng ngày.
 
-### Sự hữu ích của việc học ngữ pháp và một số từ điển Yomichan hỗ trợ điều này.
+### Sự hữu ích của việc học ngữ pháp.
 
-Thành thật mà nói, việc học ngữ pháp rất hữu ích cho việc đọc.
+Việc học ngữ pháp rất hữu ích cho việc đọc.
 
-Nếu bạn chưa học ngữ pháp nhiều và chưa biết hết các cấu trúc ngữ pháp A1, A2, B1, B2, C1 thì bạn nên học chúng. Nhưng không phải là “học ngữ pháp theo CEFR trước khi đọc” mà là, “học ngữ pháp CEFR để cải thiện khả năng đọc của bạn, điều mà bạn nên làm, có lẽ là ngay bây giờ”
+Nếu bạn chưa học ngữ pháp nhiều và chưa biết hết các cấu trúc ngữ pháp "cơ bản" (Giáo trình nào bạn thích: Grammar In Use, Destination) thì bạn nên học hết. Nhưng không phải là “học ngữ pháp xong rồi mới bắt đầu đọc” mà là, “học ngữ pháp để cải thiện khả năng đọc, điều mà bạn nên làm, có lẽ là ngay bây giờ”
 
 Bạn hãy xem 
 
@@ -86,30 +72,6 @@ Chúng rất hữu ích vì chúng là những cụm từ và cấu trúc mà kh
 Việc học ngữ pháp như trên hoàn toàn là một lựa chọn ĐÚNG.
 
 Nếu bạn chưa hiểu được từ điển đơn ngữ, hãy vẫn giữ chúng vì nếu bạn gặp khó khăn trong việc hiểu ý nghĩa thực sự của một từ thì từ điển đơn ngữ sẽ giúp bạn.
-
-### Mẹo cải thiện độ hiểu
-
-*Đây là mẹo dành cho những người học có kinh nghiệm hơn*
-
-Đây là mẹo đọc hiểu duy nhất mà mình thực sự thấy hiệu quả. 
-
-Bí quyết là tập trung vào danh từ (và số).
-
-Ý tưởng này xuất hiện khi mình nhận thấy khi mình đọc bằng tiếng Anh: các danh từ đều rất dễ nhận biết (nổi bật, stand out).
-
-Danh từ là tên, người, đồ vật, địa điểm, v.v.
-
-mình cảm thấy như có một kiểu phân cấp từ nào đó.
-
-Bất kỳ danh từ/số nào → động từ “hành động” ("action" verbs) → tính từ → động từ “trừu tượng” ("abstract" verbs.).
-
-Trong danh từ cũng có hệ thống phân cấp danh từ, với tên, đại từ nhân xưng (pronoun) và đối tượng (physical objects) ở trên cùng.
-
-Mình nhận thấy rằng khi đọc Tiếng Anh, mình có cảm giác rất mơ hồ vì não mình không thể phân biệt rõ được danh từ để chúng có thể trông nổi bật hơn so với động từ và tính từ.  
-
-Mình bắt đầu “tập trung” (mình ghét sử dụng thuật ngữ này vì đó không phải là điều mình thực sự đang làm, nó kiểu giống "để ý" (noticing) hơn) vào các danh từ trong câu và nhận thấy khả năng hiểu của mình tăng lên rất nhiều mà không hề bị chậm lại.
-
-Có thể hơi khó để chú ý đến các danh từ mỗi khi chúng xuất hiện, nhưng tin mình đi, đây là chiến lược "S tier" (Cấp S, ở đây ý là một chiến lược đọc đỉnh của đỉnh) và bạn chỉ cần thực hành thôi.
 
 ### Mẹo hiểu: Song ngữ và đơn ngữ: Sự khác nhau giữa "không biết cái gì đang diễn ra" và "thực sự hiểu"?
 
@@ -123,83 +85,55 @@ Các định nghĩa song ngữ đôi khi quá mơ hồ, vì vậy tốt nhất b
 
 Mình không biết vì mình đã tra mọi thứ ngay từ đầu và có lẽ nó ổn?
 
-Yomichan khiến mọi thứ trở nên thật dễ dàng.
+Yomitan khiến cho việc tra từ trong lúc đọc trở nên vô cùng dễ dàng.
 
-Nếu mình phải copy từ rồi chuyển qua các trang hay ứng dụng bên ngoài khác hay viết ra từ đó hoặc thậm chí tệ hơn, sử dụng từ điển giấy thì có lẽ sẽ không tra được nhiều từ.
+Nếu mình phải copy từ rồi chuyển qua các trang hay ứng dụng bên ngoài khác hay viết ra từ đó hoặc thậm chí tệ hơn, sử dụng từ điển giấy thì chắc chắn sẽ không tra được nhiều từ.
 
-Nhưng BẠN đang sống vào thời đại công nghệ. BẠN có Yomichan. Hãy tận dụng nó.
+Nhưng BẠN đang sống vào thời đại 4.0. BẠN có Yomitan. Hãy tận dụng nó.
 
-Cài đặt từ điển hiển thị độ phổ biến của từ (Nên chọn JPDB) để bạn có thể xem những từ nào thực sự phổ biến. Nếu nó dưới 10.000 là dấu hiệu cho thấy nó xuất hiện rất nhiều trong sách và Anime.
+Cài đặt từ điển hiển thị độ phổ biến của từ để bạn có thể xem những từ nào thực sự phổ biến (Các danh sách đo độ phổ biến của từ chỉ mang tính chất ước lượng). 
 
 ### Tốc độ đọc
-
-Thành thật thì
 
 Bạn chỉ đọc nhanh hơn bằng cách đọc nhiều hơn.
 
 Bạn chỉ có thể đọc với tốc độ bạn đang đọc hiện tại bởi vì đó là tốc độ mà một người nào đó, người đã đọc số lượng và tài liệu bạn có, sẽ đọc trong một tình huống hoàn toàn bình thường.
 
-### MẸO VÀ THỦ THUẬT TỐC ĐỘ ĐỌC
+### Mẹo đọc
 
 Cách tốt nhất để tăng tốc độ đọc của bạn là đọc nhiều hơn.
 
 Nhưng hãy để mình giải thích điều kỳ diệu về điều này cũng như chính tốc độ đọc.
 
-Tốc độ đọc là khả năng hiểu.
+Tốc độ đọc là khả năng hiểu. Khi bạn đọc nhiều hơn, bạn sẽ hiểu nhiều hơn. Đừng lo về tốc độ đọc nếu bạn chưa hiểu nhiều/biết tất cả các từ trong hầu hết các cuốn sách.
 
-Khi bạn đọc nhiều hơn, bạn sẽ hiểu nhiều hơn.
-
-Đừng lo về tốc độ đọc nếu bạn chưa hiểu nhiều/biết tất cả các từ trong hầu hết các cuốn sách.
-
-#### **Hỏi:** Có nên đọc nhiều manga để cải thiện tốc độ đọc Wikipedia không?
+#### **Hỏi:** Có nên đọc nhiều fantasy novel để cải thiện tốc độ đọc Wikipedia không?
 
 Trả lời: Không. Cần có chuyên môn để đọc nhanh hơn.
 
-### Lo âu về sự hiểu (Comprehension) Loại 1 
+## “Mình đã nhìn vào câu/đoạn văn/từ này rất lâu và không hiểu nổi nó có nghĩa gì.”
 
-Loại 1: “mình đã nhìn vào câu/đoạn văn/từ này rất lâu và không hiểu nổi nó có nghĩa gì.”
+Giải pháp? Điều cần làm đầu tiên là tra từ và ngữ pháp được sử dụng trong câu, đồng thời tham khảo ngữ cảnh (đọc các dòng trước).
 
-Giải pháp?
+Thực hiện điều trên rồi mà vẫn không hiểu được câu? Câu trả lời đơn giản là hãy đọc nhiều hơn. Bởi vì việc hiểu là một quá trình diễn ra từ từ. Yếu tố comprehending/understanding rộng hơn nhiều so với chỉ “biết từ” và “học ngữ pháp”. Khi đọc nhiều hơn, bạn sẽ thấy các từ được sử dụng trong rất nhiều ngữ cảnh khác nhau. Và thông qua việc tiếp xúc với những từ này trong nhiều ngữ cảnh khác nhau, bạn sẽ học được cách hiểu nhiều câu hơn.
 
-Điều hiển nhiên cần làm là tra từ và ngữ pháp được sử dụng trong câu, đồng thời tham khảo ngữ cảnh (đọc các dòng trước).
+Dù không muốn thừa nhận nhưng vẫn có một cách khác để rèn luyện khả năng hiểu là phân tích câu bằng cách tham khảo các cấu trúc ngữ pháp, định nghĩa từ điển, câu ví dụ, câu trả lời trên HiNative hoặc các diễn đàn Tiếng Anh. Nếu bạn có đủ động lực để làm tất cả những điều đó, thì được thôi, cũng không đến nỗi tệ, nhưng đồng thời, không thể nào bạn không tiến bộ bằng cách đọc nhiều hơn, vì vậy mình muốn nói rằng quyết định này hoàn toàn nằm ở bạn. Có lẽ học cách cân bằng việc phân tích với việc đọc nhiều hơn là một kỹ năng hữu ích cần có.
 
-Thực hiện điều trên rồi mà vẫn không hiểu được câu?
+Dù sao đi nữa, giải pháp cuối cùng là **đọc nhiều hơn**.
 
-Câu trả lời đơn giản là hãy đọc nhiều hơn.
+### "Mình muốn hiểu mọi thứ và cần phải phân tích cả câu. Có nên làm điều đó thường xuyên không?”
 
-Bởi vì hiểu biết là một quá trình diễn ra từ từ.
-
-Yếu tố comprehending/understanding rộng hơn nhiều so với chỉ “biết từ” và “học ngữ pháp”.
-
-Khi đọc nhiều hơn, bạn sẽ thấy các từ được sử dụng trong rất nhiều ngữ cảnh khác nhau.
-
-Và thông qua việc tiếp xúc với những từ này trong nhiều ngữ cảnh khác nhau, bạn sẽ học được cách hiểu nhiều câu hơn.
-
-Dù không muốn thừa nhận nhưng vẫn có một cách khác để rèn luyện khả năng hiểu là phân tích câu bằng cách tham khảo các cấu trúc ngữ pháp, định nghĩa từ điển, câu ví dụ, câu trả lời trên HiNative hoặc Yahoo!知恵袋, v.v. Nếu bạn có đủ động lực để thực hiện tất cả những điều đó, thì ổn thôi, nó cũng không đến nỗi tệ, nhưng đồng thời, không thể nào bạn không tiến bộ bằng cách đọc nhiều hơn, vì vậy mình muốn nói rằng quyết định này hoàn toàn thuộc về bạn. Có lẽ học cách cân bằng việc phân tích với việc đọc nhiều hơn là một kỹ năng hữu ích cần có.
-
-Dù sao đi nữa, giải pháp cuối cùng là cố gắng đọc nhiều hơn.
-
-### Lo âu về Comprehension Loại 1.5
-
-Loại 1.5: “Mình cũng có vấn đề như loại 1, thực sự rất khó chịu khi không hiểu được và mình muốn phải hiểu mọi thứ. Mình thực tin rằng cần phải phân tích cả câu. Nhưng có nên làm điều đó thường xuyên không?”
-
-Và với tư cách là người theo khuynh hướng "đọc nhiều hơn" và là người từng rất "sùng bái" việc phân tích câu, khi phân tích những câu không thật sự quen thuộc, bạn chỉ có thể hiểu được ở mức độ nhất định; người đọc nhiều sẽ có thể hiểu được nhiều hơn người chỉ tập trung vào phân tích mọi thứ.
+Và với tư cách là người theo khuynh hướng "đọc nhiều hơn" và là người từng rất "sùng bái" việc phân tích câu, khi phân tích những câu khó, bạn chỉ có thể hiểu được ở mức độ nhất định; người đọc nhiều sẽ có thể hiểu được nhiều hơn người chỉ tập trung vào phân tích mọi thứ.
 
 Việc phân tích câu đấy không hề xấu; bạn chỉ nên làm vậy ở mức bình thường vì đọc nhiều hơn sẽ tốt hơn là tập trung quá nhiều vào chỉ một câu.
 
-### Loại 1.5 ở trên nhưng là biến thể 2
+### “Nhưng chẳng phải việc phân tích mọi thứ sẽ giúp tiến bộ nhanh hơn đúng không?”
 
-Biến thể 2: “Nhưng chẳng phải việc phân tích mọi thứ sẽ giúp tiến bộ nhanh hơn đúng không?”
+Sự hối thúc phải phân tích câu khi mình không hiểu là một điều khó tránh khỏi. Xét cho cùng, nó có thể là một chiến lược đọc rất tốt, và ở một mức độ nhất định thì nó đúng như vậy.
 
-Sự hối thúc phải phân tích câu khi mình không hiểu là một điều khó tránh khỏi.
+Có những cuốn mình đọc 3 lần một quyển và một số khác vì mình làm thẻ câu và thực hiện mining với những từ mình chưa biết trong sách với câu đi kèm từ đó nên cuối cùng mình đã đọc đi đọc lại những câu tương tự (Mình đã phân tích nó đấy).
 
-Xét cho cùng, nó có thể là một chiến lược đọc rất tốt, và ở một mức độ nhất định thì nó đúng như vậy.
-
-Có những cuốn mình đọc 3 lần (Volume 1-3 của 龍ヶ嬢七々々の埋蔵金  mỗi cuốn 3 lần) và một số khác vì mình làm thẻ câu và thực hiện mining với những từ mình chưa biết trong sách với câu đi kèm từ đó nên cuối cùng mình đã đọc đi đọc lại những câu tương tự. Mình đã phân tích nó đấy.
-
-Một điều bất ngờ là, khi mình quay lại đọc cuốn ở trên sau khi đọc những cuốn sách khác, có rất nhiều phần hay đã bị **bỏ lỡ** trong đó.
-
-Đó chính là “người đọc nhiều sẽ hiểu nhiều hơn người chỉ phân tích cùng một nội dung”.
+Một điều bất ngờ là, khi mình quay lại đọc cuốn ở trên sau khi đọc những cuốn sách khác, có rất nhiều phần hay mà mình đã **bỏ lỡ**. Đó chính là “người đọc nhiều sẽ hiểu nhiều hơn người chỉ phân tích cùng một nội dung”.
 
 Bạn sẽ gặp rất nhiều câu trong nhiều ngữ cảnh khác nhau khi đọc nhiều hơn và bạn sẽ tiến bộ hơn rất nhiều khi làm như vậy.
 
@@ -207,11 +141,9 @@ Bây giờ hãy quay lại câu hỏi, liệu việc **chỉ đọc** nhiều h�
 
 Khá khó nói, nhưng khi đọc, mình luôn nghĩ về những gì mình đang đọc. mình luôn nghĩ về ý nghĩa của những gì mình đang đọc. Mình nghĩ mọi người cũng làm tương tự, nhưng đôi khi bạn chỉ đọc các từ mà không thực sự nghĩ về nghĩa của chúng. Đó là một vấn đề khác mà mình muốn nói về.  
 
-#### **Hỏi:** mình nên làm gì khi lỡ đọc các từ mà không nghĩ đến nghĩa của chúng?
+#### Mình nên làm gì khi lỡ đọc các từ mà không nghĩ về nghĩa của chúng?
 
-Theo mình thì, trong mỗi cuốn sách đều có những đoạn vô nghĩa/ít quan trọng hơn nên không cần phải nghĩ quá nhiều.
-
-Và đôi khi sẽ có những dòng khiến bạn muốn ngừng đọc phải không? Sẽ hoàn toàn ổn nếu không nghĩ quá nhiều về chúng.
+Theo mình thì, trong mỗi cuốn sách đều có những đoạn vô nghĩa/ít quan trọng hơn nên không cần phải nghĩ quá nhiều. Và đôi khi sẽ có những dòng khiến bạn muốn ngừng đọc phải không? Sẽ hoàn toàn ổn nếu không nghĩ quá nhiều về chúng.
 
 Tuy nhiên những vấn đề khác lại nằm ở một số những yếu tố khác nhau. Chẳng hạn như khả năng hiểu (Comprehension), sự tập trung hay sự mệt mỏi.
 
@@ -225,15 +157,11 @@ Nó có hay không? ← Đây là câu hỏi quan trọng nhất.
 
 Khó có thể đưa ra kết luận đủ khách quan về việc phân tích mọi thứ và việc chỉ đọc, nhưng điều quan trọng nhất ở đây là bạn thấy thích và muốn đọc.
 
-### Lo âu Loại 2
-
-Loại 2: “Khi mình đọc một lúc, mình cảm thấy loạn, mình đọc quá nhanh và mọi thứ cứ thế mà trôi tuột đi.”
+### “Sau khi mình đọc một lúc thì mình cảm thấy loạn và không hiểu nổi”
 
 Lời khuyên chân thành: Bạn nên đọc chậm lại. Ngoài ra, hãy nghỉ ngắn thường xuyên. Mình thường có những lúc, sau khi nghỉ giải lao, mình có thể hiểu những câu tương tự tốt hơn.
 
-### Lo âu Loại 3
-
-Loại 3: “Mình có thể đọc và hiểu nghĩa tất cả các từ, nhưng chẳng thể hình dung nổi bối cảnh và không hiểu chuyện gì đang xảy ra. Mình thậm chí phải phân tích nhưng sau đó mình vẫn không thể hiểu nổi. Mình nên làm gì?"
+### “Mình có thể đọc và hiểu nghĩa tất cả các từ, nhưng chẳng thể hình dung nổi bối cảnh và không hiểu chuyện gì đang xảy ra. Mình thậm chí phải phân tích nhưng sau đó mình vẫn không thể hiểu nổi. Mình nên làm gì?"
 
 Đây là những gì bạn cần làm:
 
@@ -243,13 +171,11 @@ Loại 3: “Mình có thể đọc và hiểu nghĩa tất cả các từ, như
 
 A: Thực ra thì mọi thứ đều nên tóm gọn trong chữ “Đọc nhiều hơn”. Câu trả lời “đọc nhiều hơn” là vì lý thuyết của nó là: Khả năng hiểu của bạn kém vì những câu mà bạn gặp khó khăn là những câu mà bạn chưa cảm thấy quen thuộc. Về việc tiếp thu ngôn ngữ, việc nhồi vào đầu những câu quá lạ lẫm sẽ không hiệu quả bằng việc hiểu được câu i+1. (Chỉ có một thứ trong câu vẫn còn mơ hồ; có khi chưa chắc đã có thể hiểu được) Khi đọc nhiều hơn, **bạn sẽ thấy cả đống câu**, và trong đống đấy sẽ có rất cả đống câu i+1. Đây là đỉnh của sự "tiếp thu ngôn ngữ". Nhờ đọc nhiều, bạn sẽ cải thiện được Tiếng Anh của mình và hiểu những câu khó đó một cách dễ dàng hơn.
 
-### Lo âu Loại 4
-
-Loại 4: “Mình học được một thời gian, với phương pháp [x], mình đã học được [x] lượng từ và ngữ pháp. Tuy nhiên, khi mình cố đọc thì mình không hiểu nổi từ nào cả. Việc đọc là một vấn đề quá lớn với mình. Mình nên làm gì?"
+### “Mình học được một thời gian, với phương pháp [x], mình đã học được [x] lượng từ và ngữ pháp. Tuy nhiên, khi mình cố đọc thì mình không hiểu nổi từ nào cả. Việc đọc là một vấn đề quá lớn với mình. Mình nên làm gì?"
 
 Bạn đã có thể hoàn toàn đoán trước được câu trả lời rồi đấy.
 
-Không thể đọc tốt hơn nếu không đọc. Không thể học hầu hết các từ bạn cần để có mức độ hiểu biết cao chỉ với Anki mà không cần đọc.
+Không thể đọc tốt hơn nếu không đọc. Không thể học hầu hết các từ bạn cần để có mức độ hiểu biết cao chỉ với việc sử dụng Anki mà không cần đọc.
 
 Bạn không thể làm gì khác ngoài việc đọc nhiều hơn.
 
@@ -269,9 +195,9 @@ Mình đã hình thành các khái niệm trong đầu một cách có ý thức
 
 #### **Q:** Không subvocalization = không hiểu?
 
-subvocalization = đọc trong đầu, đọc mà không phát ra thành tiếng
+> subvocalization = đọc trong đầu, đọc mà không phát ra thành tiếng
 
-Theo kinh nghiệm của mình, khi những từ/câu bạn chọn không phát âm thành tiếng không quen thuộc với bạn (tức là bạn không thể hiểu chúng chỉ bằng cách nhìn lướt qua.) (Một ví dụ mà những người đọc có kinh nghiệm nên hiểu mà không cần đọc từng từ là **I am going to**) thì cuối cùng bạn sẽ không hiểu nó thực sự đang nói gì.
+Theo kinh nghiệm của mình, khi những từ/câu bạn chọn không phát âm thành tiếng không quen thuộc với bạn (tức là bạn không thể hiểu chúng chỉ bằng cách nhìn lướt qua.) (Một ví dụ mà những người đọc có kinh nghiệm nên hiểu mà không cần đọc từng từ là **I'm gonna**) thì cuối cùng bạn sẽ không hiểu nó thực sự đang nói gì.
 
 Subvocalizing là một kỹ thuật đọc hữu ích và hầu hết mọi người đều làm điều đó; nếu bạn đọc nhiều, khả năng subvocalization của bạn sẽ nhanh hơn.
 
@@ -289,7 +215,7 @@ Và timeboxing (hộp thời gian).
 
 ### NHƯNG mình phải đọc BAO NHIÊU???
 
-Đó là một câu hỏi ngớ ngẩn vì bạn không bao giờ ngừng đọc vì bạn luôn có thể cải thiện.
+Đây là một câu hỏi ngớ ngẩn vì bạn không bao giờ ngừng đọc vì bạn luôn có thể cải thiện.
 
 Nhưng bạn có thể hỏi bạn cần đọc bao nhiêu để thực sự thành thạo?
 

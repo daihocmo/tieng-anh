@@ -1,4 +1,4 @@
-Nội dung của bảng này sẽ được chia ra làm hai phần: "Học Tiếng Anh" và "Tiêu thụ nội dung Tiếng Anh"
+Nội dung của bảng này sẽ được chia ra làm hai phần: "Học Tiếng Anh" và "Tiêu thụ nội dung Tiếng Anh".
 
 ## Học Tiếng Anh
 
@@ -10,16 +10,21 @@ Những kênh này đều đã không còn hoạt động thường xuyên, ho�
 - [Canguro English](https://www.youtube.com/@Canguroenglish/)
 
 ### Từ vựng
-- [Kho thẻ từ vựng Tiếng Anh của cộng đồng AnkiVN](https://ankivn.com/category/bo-the/ngoai-ngu/tieng-anh/) 
-- [Anki Collections](https://polyglotclub.com/wiki/Language/Multiple-languages/Culture/Helpful-Anki-Shared-Decks#English) - Kho thẻ từ vựng Anki của PolyglotClub 
-- [shared/decks/english](https://ankiweb.net/shared/decks?search=english) - Kho thẻ Tiếng Anh trên Anki 
+
+!!! info "Không gợi ý sử dụng quá nhiều bộ thẻ được làm sẵn"
+    Với những người mới sử dụng Anki để học ngoại ngữ, mọi người thường có xu hướng ý lại vào bộ thẻ và cố cày thêm nhiều từ vựng mỗi ngày. Cần nhớ rằng, "Learn before you memorize" (Quy tắc 2/20: Học trước khi ghi nhớ) và bạn cần phải học Anki hàng ngày thì mới có thể có hiệu quả. Dù vậy nhưng khi mới bắt đầu, mình vẫn gợi ý việc có một bộ thẻ từ vựng Anki cơ bản để bạn có thể bắt đầu. Dưới đây là một số gợi ý 
+
+- [Core1.7k](https://drive.proton.me/urls/YMRA0WG5G4#OwdCA78y6sTr) - Đây là bộ 1700 từ vựng cơ bản mà mình phát triển dựa trên [một bộ thẻ khác ở trên AnkiVN](https://ankiweb.net/shared/info/1125484373), sửa lại định dạng thẻ và tối giản hóa để giúp mọi người học từ vựng dễ dàng hơn (Hiện tại phần dịch câu trong bộ thẻ là do Google Dịch xử lý). Bộ thẻ hiện tại thì phần dịch câu sẽ được ẩn đi và bạn có thể chỉnh lại trong mẫu thẻ sau (Uncomment phần HTML của câu đi). 
+- Không tìm được bộ thẻ nào khác ưng ý cả.
 
 ### Phát âm
 - [42 ngày phát âm](https://www.youtube.com/playlist?list=PL7YqrWXed1abz3FwdKMZEwclWMZ2cMHio) - Mỗi ngày học một âm IPA.
 - [Pronunciation - Canguro English](https://www.youtube.com/playlist?list=PLmIoa_Hs27lM8QzzrDkkcA2gz_FS0ToKA)
 - [Luyện phát âm](https://www.youtube.com/playlist?list=PL7YqrWXed1abWxt9d4IH2f1FGKylciC7P)
+- [Learning English pronunciation - Antimoon](https://www.antimoon.com/how/pronunc.htm)
 
 ### Ngữ pháp
+- [**EnglishClub - Grammar**](https://www.englishclub.com/grammar/index.htm): Học Tiếng Anh bằng Tiếng Anh, không chỉ ngữ pháp mà còn có nhiều thứ khác. Cá nhân mình thấy có một số hướng dẫn đọc hơi khó hiểu, các bác nếu thấy không hiểu thì đừng ngại tra lại bằng Tiếng Anh trước (Vì có một số phần kiến thức hơi khác so với bên hướng dẫn Tiếng Anh bằng Tiếng Việt) rồi tra bằng Tiếng Việt. 
 - [**Study English Grammar - Văn Phạm**](https://www.youtube.com/playlist?list=PLLx8_1BoESGF1wy1P8vhAjw6gdupa2TyE) - Giải thích ngữ pháp rõ ràng, không quá khó hiểu và tập trung vào ngữ pháp Tiếng Anh thay vì cấu trúc ôn thi.
 - [Ngữ pháp tiếng Anh cơ bản - Anh Ngữ ZIM](https://www.youtube.com/playlist?list=PLopA3SCkaFezPpz7xzYqUMA2s4uZAblZY) - Một danh sách phát trên Youtube về ngữ pháp Tiếng Anh cơ bản, rõ ràng, dễ hiểu và chỉ bao gồm những phần rất cơ bản.
 - [English Grammar -  Canguro English](https://www.youtube.com/playlist?list=PLmIoa_Hs27lP6z-VMyQFm79Tj5_N_FIyL) - Ngữ pháp Tiếng Anh bằng Tiếng Anh
@@ -27,7 +32,6 @@ Những kênh này đều đã không còn hoạt động thường xuyên, ho�
     - [Essential Grammar In Use](https://archive.org/download/EssentialGrammarInUse4thEditionByR.Murphy/Essential%20Grammar%20in%20Use%204th%20Edition%20by%20R.%20Murphy.pdf) - Sách học ngữ pháp Tiếng Anh bằng Tiếng Anh đơn giản.
     - [English Grammar In Use](https://archive.org/details/english-grammar-in-use-5th-edition-by-raymond-murphy/page/n3/mode/2up)
     - [Advanced Grammar In Use](https://archive.org/details/3AdvancedGrammarInUse3rdEdition)
-- [EnglishClub - Grammar](https://www.englishclub.com/grammar/index.htm): Học Tiếng Anh bằng Tiếng Anh, không chỉ ngữ pháp mà còn có nhiều thứ khác. 
 
 
 ## Tiêu thụ Tiếng Anh
@@ -71,6 +75,7 @@ Phia trên là các từ điển đơn ngữ, tức Anh - Anh, nếu bạn muố
 
 ### Công cụ
 - [Anki](https://apps.ankiweb.net/) - Ứng dụng giúp hỗ trợ ghi nhớ dễ dàng hơn thông qua SRS (Hệ thống lặp lại ngắt quãng). Một ứng dụng bạn **bắt buộc** phải có nếu muốn tăng tốc độ học ngoại ngữ và ghi nhớ.
+- [Yomitan](yomitan.md) - Tiện ích trình duyệt giúp tra từ trực tiếp trên trình duyệt. Một phần mềm **bắt buộc** phải có.
 
 _(Anki gần như là ứng dụng duy nhất bạn thực sự cần trong quá trình học ngoại ngữ)_
 

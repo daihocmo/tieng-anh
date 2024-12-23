@@ -63,17 +63,17 @@ Từ điển đơn ngữ thực sự rất tuyệt, và bạn sẽ chỉ nhận 
 -   Chưa biết "đủ nhiều" từ vựng.
 -   Chưa quen với Tiếng Anh viết.
 
-## Yomichan - Một cách tốt hơn để chuyển qua đơn ngữ.
+## Yomitan - Một cách tốt hơn để chuyển qua đơn ngữ.
 
-**Bạn nên thực hiện chuyển qua đơn ngữ với Yomichan.**
+**Bạn nên thực hiện chuyển qua đơn ngữ với Yomitan.**
 
 ![Image](img/mono_guide/1.png)
 
-Yomichan là một tiện ích mở rộng trên trình duyệt cho phép bạn tra cứu các từ Tiếng Anh trên trang web bằng cách giữ ++shift++ và di chuột vào từ đó. Nó được hỗ trợ bởi mọi trình duyệt thuộc dòng Chrome hoặc Firefox. Bạn có thể xem hướng dẫn cài đặt Yomichan [ở đây](yomitan.md)
+Yomitan là một tiện ích mở rộng trên trình duyệt cho phép bạn tra cứu các từ Tiếng Anh trên trang web bằng cách giữ ++shift++ và di chuột vào từ đó. Nó được hỗ trợ bởi mọi trình duyệt thuộc dòng Chrome hoặc Firefox. Bạn có thể xem hướng dẫn cài đặt Yomitan [ở đây](yomitan.md)
 
 ### Chọn và sử dụng từ điển đơn ngữ
 
-Một lần nữa, mình khuyên bạn nên sử dụng từ điển đơn ngữ với Yomichan. Mình sẽ nói về các lựa chọn thay thế sau.
+Một lần nữa, mình khuyên bạn nên sử dụng từ điển đơn ngữ với Yomitan. Mình sẽ nói về các lựa chọn thay thế sau.
 
 Hãy truy cập trang [MarvNC/yomitan-dictionaries](https://github.com/MarvNC/yomitan-dictionaries?tab=readme-ov-file#english-english) để tải từ điển đơn ngữ Tiếng Anh cho Yomitan
 
@@ -96,7 +96,8 @@ Tiếp tục.
 
 Bạn cần phải có nhiều từ điển vì sẽ luôn có một số từ có trong một số từ điển này nhưng không có trong các từ điển khác. Chúng ta muốn sử dụng từ điển đơn ngữ nhiều nhất có thể ở đây. Một lý do khác là các từ điển khác nhau sẽ mô tả một từ theo một cách khác nhau và trong nhiều trường hợp, bạn có thể không hiểu định nghĩa của một từ điển nhưng lại hiểu ở một từ điển khác.
 
-!!! question “Nhưng bạn sẽ phải cuộn rất nhiều để đến từ tiếp theo?” Bạn nên sử dụng phím tắt ++alt+down++
+!!! question “Nhưng bạn sẽ phải cuộn rất nhiều để đọc các định nghĩa tiếp theo?” 
+    Sử dụng phím tắt ++alt+down++
 
 ## Lựa chọn thay thế
 
@@ -105,11 +106,11 @@ Bạn cần phải có nhiều từ điển vì sẽ luôn có một số từ c
 Google: Tìm “[từ cần tìm] meaning” e.g. "apocalypse meaning” 
 
 ### Các lựa chọn ngoại tuyến thay thế 
-Bạn sẽ học Tiếng Anh trong một thời gian dài nên có thể Internet của bạn sẽ mất vào thời điểm bạn đang thực hiện Immersion trong ing-lịch! 
+Bạn sẽ học Tiếng Anh trong một thời gian dài nên có thể Internet của bạn sẽ mất vào thời điểm bạn đang thực hiện Immersion trong ing-lịch. Nên tiếp theo sẽ là hướng dẫn. 
 
-### Sử dụng Yomichan ngoại tuyến
+### Sử dụng Yomitan ngoại tuyến
 
-Bạn vẫn có thể sử dụng Yomichan ngoại tuyến. Đây là cách thực hiện.
+Bạn vẫn có thể sử dụng Yomitan ngoại tuyến. Đây là cách thực hiện.
 
 ![Image](img/mono_guide/9.jpg)
 
@@ -137,15 +138,12 @@ Có một số cách để làm quen với từ điển đơn ngữ. Mình sẽ 
 
 Trong cộng đồng AJATT (Một cộng đồng học Tiếng Nhật), có lời khuyên như này:
 
-### Hướng tiếp cận “Vứt bỏ từ điển song ngữ mãi mãi và bắt đầu sử dụng từ điển đơn ngữ luôn” 
-
+### Bỏ hoàn toàn việc sử dụng từ điển song ngữ và chỉ sử dụng từ điển đơn ngữ.
 Đây là điều mà Khatzumoto từ AJATT gợi ý.
-
-Nếu bạn đọc tiểu thuyết, đây có thể là một cách tiếp cận khá hay, vì bạn đã quen với từ ngữ rồi, vì tiểu thuyết thường có nhiều từ hơn Anime và manga. Nếu bạn chỉ xem Anime và đọc manga, điều này có thể khá khó chịu. Yomichan vẫn chưa được ra mắt ở thời điểm đề xuất này được đưa ra. Vì vậy, người học vào thời điểm đó sẽ thấy lời khuyên này rất tệ và luôn cảm thấy mệt mỏi khi phải liên tục tra cứu mọi thứ từ chính định nghĩa đó (Định nghĩa bằng Tiếng Anh).
 
 Về cơ bản, đây không phải là một cách tiếp cận sai, sẽ hay hơn khi nói “chỉ cần đọc từ điển nhiều hơn!”, bởi vì đó chính xác là những gì bạn cần làm.
 
-Mình chỉ không đồng ý với việc vứt bỏ hoàn toàn từ điển song ngữ vì bạn vẫn cần nó khi bắt đầu quá trình đơn ngữ hóa.
+Mình chỉ không đồng ý với việc vứt bỏ hoàn toàn từ điển song ngữ vì bạn vẫn cần nó khi mới bắt đầu quá trình học đơn ngữ.
 
 ### Bạn NÊN làm gì
 
@@ -157,9 +155,9 @@ Nó thực sự chỉ đơn giản như vậy. Đọc nhiều hơn. Đọc tiể
 
 ### Bạn đã làm gì khi gặp một từ mà bạn không biết khi đọc định nghĩa?
 
-Mình đã tra từ đó bằng Yomichan. Mình đã đọc định nghĩa đơn ngữ và trong trường hợp có quá nhiều từ mình không biết trong định nghĩa, mình sẽ xem định nghĩa tiếng Anh (như một giải pháp cuối cùng) và tiếp tục. Bạn chỉ cần tiếp tục thực hiện điều này. LẶP ĐI LẶP LẠI.  
+Mình đã tra từ đó bằng Yomitan. Mình đã đọc định nghĩa đơn ngữ và trong trường hợp có quá nhiều từ mình không biết trong định nghĩa, mình sẽ xem định nghĩa tiếng Anh (như một giải pháp cuối cùng) và tiếp tục. Bạn chỉ cần tiếp tục thực hiện điều này. LẶP ĐI LẶP LẠI.  
 
-Đọc nhiều sách hơn. Bạn sẽ cảm thấy quen với từ điển đơn ngữ nếu bạn đọc nhiều. Thật. Đọc nhiều hơn. Đọc thật nhiều. Đó là tất cả. Yomichan chỉ làm cho quá trình này trở nên dễ dàng hơn, bạn  đỡ tốn công tự tìm kiếm trên mạng hay chỗ nào đấy, thay vào đó công sức của mình sẽ dành cho việc đọc. Đó là lý do tại sao bạn nên sử dụng Yomichan.
+Đọc nhiều sách hơn. Bạn sẽ cảm thấy quen với từ điển đơn ngữ nếu bạn đọc nhiều. Thật. Đọc nhiều hơn. Đọc thật nhiều. Đó là tất cả. Yomitan chỉ làm cho quá trình này trở nên dễ dàng hơn, bạn đỡ tốn công tự tìm kiếm trên mạng hay chỗ nào đấy, thay vào đó công sức của mình sẽ dành cho việc đọc. Đó là lý do tại sao bạn nên sử dụng Yomitan.
 
 ### Vậy thì... cách tốt nhất để bắt đầu thực hành đơn ngữ là gì?
 
@@ -167,7 +165,7 @@ Mình đã tra từ đó bằng Yomichan. Mình đã đọc định nghĩa đơn
 
 ### Nếu không thích đọc tiểu thuyết thì sao?
 
-Tìm thứ gì đó bạn thích. Nó có thể là một cuốn light novel hoặc visual novel. Mình “ghét” tiểu thuyết tiếng Anh, mình chưa bao giờ đọc quá 1 trang trong đó, tại sao vậy? Bởi vì mình chẳng biết được chúng thực sự hay đến mức nào và mình cũng không quan tâm. Nhưng đối với Tiếng Anh, mình không chỉ đọc tiểu thuyết bằng Tiếng Anh tốt hơn mà mình còn rất thích đọc tiểu thuyết bằng ngôn ngữ này, đối với tiếng Anh thì không thực sự. Vì vậy, mặc dù bạn có thể ghét việc đọc tiểu thuyết dù ngôn ngữ gốc của bạn là gì, nhưng nếu bạn thử (ban đầu sẽ khó khăn, mọi thứ đều như vậy), bạn có thể sẽ thực sự thích đọc tiểu thuyết. 
+Tìm thứ gì đó bạn thích. Quan trọng vẫn là đọc những gì mà bạn muốn đọc. 
 
 #### 10 mẹo và thủ thuật quan trọng
 
@@ -179,7 +177,7 @@ Tìm thứ gì đó bạn thích. Nó có thể là một cuốn light novel ho�
 
 (IV). Nếu bạn không hiểu định nghĩa ngay cả khi bạn tra cứu tất cả các từ, hãy sử dụng từ điển song ngữ (cách cuối). Bạn sẽ hiểu rõ hơn khi sử dụng từ điển đơn ngữ nhiều hơn.
 
-(V). Bạn có thể xem từ từ điển song ngữ để kiểm tra xem bạn có hiểu đúng nghĩa cơ bản của từ hay không.
+(V). Bạn có thể xem định nghĩa trong từ điển song ngữ để kiểm tra xem bạn có hiểu đúng nghĩa cơ bản của từ hay không.
 
 (VI). Đừng quá lo lắng về việc sẽ mất bao lâu để “chuyển qua” đơn ngữ.
 

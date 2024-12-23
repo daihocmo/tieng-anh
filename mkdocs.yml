@@ -81,6 +81,7 @@ markdown_extensions:
       alternate_style: true
   - toc:
       permalink: true
+      
 plugins:
   - search
   - open-in-new-tab

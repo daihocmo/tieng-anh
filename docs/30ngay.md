@@ -447,13 +447,13 @@ Bạn sẽ cần phải cân bằng giữa việc thực hiện thử thách tr�
 
 Dồn mọi thứ vào cùng một ngày có lẽ hơi quá khó với bạn
 
-**Mẹo tra từ: Trang tìm kiếm Yomichan**
+**Mẹo tra từ: Trang tìm kiếm Yomitan**
 
-Bạn có thể sử dụng Yomichan để tìm kiếm từ bằng cách gõ hoặc sao chép và dán từ vào ô tìm kiếm.
+Bạn có thể sử dụng Yomitan để tìm kiếm từ bằng cách gõ hoặc sao chép và dán từ vào ô tìm kiếm.
 
-Bạn sẽ cần sử dụng trang tìm kiếm Yomichan để tra cứu các từ từ Trình trợ giúp đọc Yotsubato của mình.
+Bạn sẽ cần sử dụng trang tìm kiếm Yomitan để tra cứu các từ từ Trình trợ giúp đọc Yotsubato của mình.
 
-Bạn có thể truy cập trang tìm kiếm bằng cách chọn biểu tượng Yomichan trên thanh công cụ tiện ích mở rộng của trình duyệt, sau đó chọn biểu tượng kính lúp. Hoặc sử dụng tổ hợp phím tắt ++alt++++insert++
+Bạn có thể truy cập trang tìm kiếm bằng cách chọn biểu tượng Yomitan trên thanh công cụ tiện ích mở rộng của trình duyệt, sau đó chọn biểu tượng kính lúp. Hoặc sử dụng tổ hợp phím tắt ++alt++++insert++
 
 **Q: Tra cứu từng từ hay dùng xúc xắc để quyết định số lượng?**
 
