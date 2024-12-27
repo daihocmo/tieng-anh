@@ -31,7 +31,7 @@ Bạn có thể di chuyển đến trang [MarvNC/yomitan-dictionaries](https://g
  
 Các từ điển gợi ý:
 
-- Từ điển Lạc-Việt (Cho những người mới học hoặc những người chưa quen với việc đọc định nghĩa đơn ngữ)
+- Từ điển Lạc-Việt (Cho những người mới học hoặc những người chưa quen với việc đọc định nghĩa đơn ngữ) (Tìm trong đường dẫn mình để ở trên là có đó)
 - Longman Dictionary of Contemporary English (LDOCE) - Về mặt định nghĩa thì Longman có ưu thế hơn so với Oxford. Longman định nghĩa dễ hiểu, ngắn gọn, và nhiều ví dụ. (Gợi ý của bác [Black7](https://voz.vn/u/black7.1242890/))
 - Cambridge Advanced Learner’s Dictionary
 - Collins COBUILD

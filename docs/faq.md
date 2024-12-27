@@ -16,6 +16,19 @@ Vậy nên ta cần một hệ thống lặp lại ngắt quãng, hay SRS, đọ
 
 Bạn nên dùng một phần mềm SRS để hỗ trợ công việc ghi nhớ từ, thì gần như chắc chắn 100% mọi người sẽ chọn dùng Anki: https://daihocmo.github.io/ngoai-ngu/anki/
 
+### Học từ vựng mấy bạn học ở đâu vậy ạ?
+
+Khi bạn đọc (báo, sách, bài đọc linh tinh .v.v.), nghe (Podcast, Audiobook), xem (Phim, Youtube, v.v.) mà bạn thấy từ gì bạn không biết thì đấy là từ bạn cần học. Nếu bạn mới bắt đầu mà thấy hơi ngợp thì học khoảng 1500 -> 3000 từ cơ bản trước. Bạn có thể sử dụng bộ thẻ Core1.7K của mình trong [Lộ trình 30 ngày](30ngay.md).
+
+### Tốc độ tiến bộ bị chậm lại?
+
+Khi mới bắt đầu thì bạn cảm giác bạn học lên trình rất nhanh. Nhưng khi dần lên đến trung cấp thì bắt đầu tốc độ đó chậm lại, kể cả sau khi học vài tháng vẫn khó có thể cảm thấy sự tiến bộ của bản thân. 
+
+Lý do cho điều này? Bạn chỉ cần khoảng 3000 từ vựng để hiểu khoảng 70-80% nội dung (Tùy thuộc vào nội dung, ở đây chỉ mang tính ước lượng), 10000 từ cho 90%, 20000 từ cho 95% và 30000 từ cho 97-98% và hơn thế nữa. 
+
+**Kết luận:** Điều này hoàn toàn bình thường và điều duy nhất ta cần làm là tiếp tục Input thật nhiều (và có thể Output một chút cũng được), nghe đọc nhiều hơn và tin vào quá trình (Trust the process). 
+
+
 ### Nhưng kiểu vẫn phải nói nhiều cho quen miệng, tăng độ lưu loát cũng như nói đúng ngữ pháp, sử dụng nhiều từ vựng chứ hả bác? 
 
 TL;DR: Còn Speaking fen nên coi nó là kiểu sử dụng hơn là học. vì cơ bản nó đúng là vậy á. Nhưng mà nói chuyện vui mà nên đừng bỏ qua. Đọc [bài viết này](https://daihocmo.github.io/tieng-nhat/speaking/) để tìm hiểu thêm.

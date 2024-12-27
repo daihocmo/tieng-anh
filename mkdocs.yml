@@ -16,13 +16,16 @@ nav:
     - 'Nói Tiếng Anh': 'speaking.md'
     - 'Đọc Tiếng Anh': 'reading.md'
     - 'Hướng dẫn đơn ngữ': 'monolingual.md'
+  - 'FAQ': 
     - 'FAQ về Tiếng Anh': 'faq.md'
   - 'Setup':  
     - 'Mining': 'setup.md'
     - 'Goldendict': 'goldendict.md'
     - 'Yomitan': 'yomitan.md'
-  - 'Visual Novels':
-    - 'Visual Novels': 'vn.md'
+  - 'Novel':
+    - 'Web Novel': 'webnovel.md'
+    - 'Visual Novel': 'vn.md'
+  - 'Media': 'media-tieng-anh.md' 
   - 'Tài nguyên học':
     - 'Tài nguyên': 'resources.md'
     - 'Đầu vào dễ hiểu': 'input.md'
@@ -84,7 +87,7 @@ markdown_extensions:
       
 plugins:
   - search
-  - open-in-new-tab
+  # - open-in-new-tab
 
 extra:
   generator: false

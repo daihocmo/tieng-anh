@@ -24,6 +24,7 @@ Những kênh này đều đã không còn hoạt động thường xuyên, ho�
 - [Learning English pronunciation - Antimoon](https://www.antimoon.com/how/pronunc.htm)
 
 ### Ngữ pháp
+- [**Hướng dẫn tự học ngữ pháp Tiếng Anh**](https://daihocmo.github.io/luyen-thi-ngon-ngu/tieng-anh/) - Tổng hợp hướng dẫn tự học ngữ pháp Tiếng Anh (Do mình tổng hợp).
 - [**EnglishClub - Grammar**](https://www.englishclub.com/grammar/index.htm): Học Tiếng Anh bằng Tiếng Anh, không chỉ ngữ pháp mà còn có nhiều thứ khác. Cá nhân mình thấy có một số hướng dẫn đọc hơi khó hiểu, các bác nếu thấy không hiểu thì đừng ngại tra lại bằng Tiếng Anh trước (Vì có một số phần kiến thức hơi khác so với bên hướng dẫn Tiếng Anh bằng Tiếng Việt) rồi tra bằng Tiếng Việt. 
 - [**Study English Grammar - Văn Phạm**](https://www.youtube.com/playlist?list=PLLx8_1BoESGF1wy1P8vhAjw6gdupa2TyE) - Giải thích ngữ pháp rõ ràng, không quá khó hiểu và tập trung vào ngữ pháp Tiếng Anh thay vì cấu trúc ôn thi.
 - [Ngữ pháp tiếng Anh cơ bản - Anh Ngữ ZIM](https://www.youtube.com/playlist?list=PLopA3SCkaFezPpz7xzYqUMA2s4uZAblZY) - Một danh sách phát trên Youtube về ngữ pháp Tiếng Anh cơ bản, rõ ràng, dễ hiểu và chỉ bao gồm những phần rất cơ bản.
