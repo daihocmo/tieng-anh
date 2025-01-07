@@ -1,3 +1,8 @@
+---
+hide:
+    - navigation
+---
+
 # Tổng hợp câu hỏi thường gặp
 Đống câu hỏi này mình lấy trong Discord của trang.
 
@@ -7,8 +12,6 @@ Mình giả sử bạn chưa học Tiếng Anh đủ lâu nha, thì bạn có ha
 
 - Ngữ cảnh (context) của câu thực sự ấn tượng và in vào đầu bạn, hoặc được lặp lại đủ nhiều lần (Xem nhiều video, đọc nhiều nghe nhiều)
 - Lặp lại ngắt quãng để lặp lại một từ đủ thường xuyên và đưa vào bộ nhớ của bạn dài hạn
-
-Tính ngồi chê các phương pháp học và có thể bạn đã biết nhưng về cơ bản các phương pháp mà có lẽ bạn đã thử có một vấn đề là nó không lặp lại đủ thường xuyên để đưa được từ vựng vào bộ nhớ dài hạn.
 
 Thực tế nó còn nhiều yếu tố hơn để quyết định khả năng ghi nhớ từ vựng, nhưng chung quy lại là do nó không được lặp lại đủ nhiều để khiến bộ não của bạn thấy được tầm quan trọng của nó và đưa nó vào bộ nhớ dài hạn.
 

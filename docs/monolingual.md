@@ -42,15 +42,6 @@ Nghĩa của câu này (Dịch nôm na):
 
 Bạn có hiểu được chính xác định nghĩa của từ đó nếu chỉ thông qua từ "khổ sở" không? Không. Có lẽ là không.
 
-<!-- 
-Chưa cảm thấy thuyết phục? Chúng ta hãy xem một ví dụ khác. 
-> bad
-
-Hãy để mình thử hỏi là, bạn nghĩ từ này nghĩa là gì? Nếu bạn trả lời là “bad” thì bạn chỉ sai một nửa thôi. Từ này không tương đương với từ “bad” trong tiếng Anh.
-
-Bạn không thể sử dụng 悪い để nói rằng kỹ năng của bạn kém cho một kĩ năng nhất định, không giống như bên tiếng Anh. Bạn cần sử dụng một từ hoàn toàn khác trong Tiếng Anh và đó là 下手 [へた]. Đúng không? Và đây chỉ là bề nổi của vấn đề này. 
--->
-
 Một lý do khác khiến bạn nên sử dụng các định nghĩa đơn ngữ là vì chúng giúp bạn nghĩ bằng Tiếng Anh. Như đã nói ở phần trước, không có ngôn ngữ nào có thể mô tả Tiếng Anh tốt như chính Tiếng Anh. Định nghĩa từ điển là một cách suy nghĩ về từ. Mình chắc rằng các tác giả của những cuốn từ điển đó đã suy nghĩ kỹ về từng định nghĩa trước khi viết ra nó, vì vậy bằng cách đọc định nghĩa và ghi nhớ nó, bạn sẽ có được cảm giác gì đó *ít nhất gần* giống với những gì người bản xứ khi nghĩ về từ đó. 
 
 Nếu bạn học từ bằng từ điển song ngữ Anh-Việt thì bạn sẽ mang trong mình cách suy nghĩ như theo Tiếng Việt về mọi thứ, và thậm chí không tới được mức mà người bản xứ có thể nghĩ về từ đó. Điều này sẽ khiến bạn không hiểu được nghĩa thực sự của từ. 
@@ -80,17 +71,12 @@ Hãy truy cập trang [MarvNC/yomitan-dictionaries](https://github.com/MarvNC/yo
 ### Từ điển gợi ý
 Danh sách được trích dẫn trực tiếp từ Antimoon. Bạn có thể đọc bảng so sánh giữa các từ điển trên Antimoon thông qua bài viết [Comparative review of dictionaries for English learners](https://www.antimoon.com/how/learners-dictionaries-review.htm)
 
-- Cambridge Advanced Learner’s Dictionary (3rd edition, 2008)
-- Collins COBUILD Advanced Learner’s English Dictionary (5th edition, 2006)
-- Collins COBUILD Advanced Dictionary (6th edition, 2009)
-- Longman Dictionary of Contemporary English (LDOCE) (5th edition, 2009)
-- Oxford Advanced Learner’s Dictionary (OALD) (7th edition, 2005)
+- Cambridge Advanced Learner’s Dictionary
+- Collins English Dictionary
+- Longman Dictionary of Contemporary English (LDOCE)
+- Oxford Advanced Learner’s Dictionary (OALD)
 
-### Tiếp tục: Chọn và sử dụng từ điển đơn ngữ
-
-Tiếp tục. 
-
-"Import" bộ từ điển phù hợp nhất với bạn vào [Từ điển được gợi ý](#từ-điển-được-gợi-ý).
+Sau đó bạn hãy tải từ điển về và nhập bộ từ điển (ở mục [Từ điển gợi ý](#từ-điển-gợi-ý)) phù hợp nhất với bạn vào trong Yomitan.  
 
 ### Tại sao cần sử dụng nhiều từ điển?
 
@@ -120,7 +106,6 @@ Như thế đấy.
 
 Bạn cũng có thể sử dụng các định dạng từ điển kĩ thuật số khác. Đọc [hướng dẫn cài đặt Goldendict](goldendict.md) để tìm hiểu thêm
 
-
 ### Điện thoại
 
 #### Android
@@ -141,17 +126,15 @@ Trong cộng đồng AJATT (Một cộng đồng học Tiếng Nhật), có lờ
 ### Bỏ hoàn toàn việc sử dụng từ điển song ngữ và chỉ sử dụng từ điển đơn ngữ.
 Đây là điều mà Khatzumoto từ AJATT gợi ý.
 
-Về cơ bản, đây không phải là một cách tiếp cận sai, sẽ hay hơn khi nói “chỉ cần đọc từ điển nhiều hơn!”, bởi vì đó chính xác là những gì bạn cần làm.
-
-Mình chỉ không đồng ý với việc vứt bỏ hoàn toàn từ điển song ngữ vì bạn vẫn cần nó khi mới bắt đầu quá trình học đơn ngữ.
+Về cơ bản, đây không phải là một cách tiếp cận sai, sẽ hay hơn khi nói “chỉ cần đọc từ điển nhiều hơn!”, bởi vì đó chính xác là những gì bạn cần làm. Mình không đồng ý với việc vứt bỏ hoàn toàn từ điển song ngữ vì bạn vẫn cần nó khi mới bắt đầu quá trình học đơn ngữ.
 
 ### Bạn NÊN làm gì
 
-Làm thế nào để mình có thể quen với việc sử dụng từ điển đơn ngữ? Mình đọc nhiều hơn (sách, tiểu thuyết). 
+Làm thế nào để có thể quen với việc sử dụng từ điển đơn ngữ? Mình đọc Tiếng Anh nhiều hơn. 
 
 Càng đọc nhiều mình càng cảm thấy quen với Tiếng Anh viết, khi tra từ thì toàn là đơn ngữ từ đó học được nhiều từ hơn, rồi từ đó khả năng sử dụng từ điển đơn ngữ cũng tốt hơn.
 
-Nó thực sự chỉ đơn giản như vậy. Đọc nhiều hơn. Đọc tiểu thuyết nhiều hơn = đọc từ điển nhiều hơn vì bạn cần từ điển để đọc tiểu thuyết
+Nó thực sự chỉ đơn giản như vậy. Đọc nhiều hơn = đọc từ điển nhiều hơn vì bạn cần từ điển để đọc Tiếng Anh (Bất cứ thứ gì, tiểu thuyết, sách, báo, blog)
 
 ### Bạn đã làm gì khi gặp một từ mà bạn không biết khi đọc định nghĩa?
 
@@ -169,24 +152,15 @@ Tìm thứ gì đó bạn thích. Quan trọng vẫn là đọc những gì mà 
 
 #### 10 mẹo và thủ thuật quan trọng
 
-(I). Đọc ít nhất 1 cuốn sách/tiểu thuyết trước khi chuyển qua đơn ngữ.
-
-(II). Hãy thử xem thứ tự sắp xếp từ điển nào là tốt nhất với bạn.
-
-(III). Không biết nữa
-
-(IV). Nếu bạn không hiểu định nghĩa ngay cả khi bạn tra cứu tất cả các từ, hãy sử dụng từ điển song ngữ (cách cuối). Bạn sẽ hiểu rõ hơn khi sử dụng từ điển đơn ngữ nhiều hơn.
-
-(V). Bạn có thể xem định nghĩa trong từ điển song ngữ để kiểm tra xem bạn có hiểu đúng nghĩa cơ bản của từ hay không.
-
-(VI). Đừng quá lo lắng về việc sẽ mất bao lâu để “chuyển qua” đơn ngữ.
-
-(VII). Đối với thẻ Anki mà sử dụng định nghĩa đơn ngữ, chỉ cần cố nhớ ý chính của định nghĩa.
-
-(VIII). Hãy thử tra cứu những từ bạn đã biết trong từ điển đơn ngữ để làm quen với từ điển đơn ngữ lúc đầu.
-
-(IX). Bỏ qua việc tra cứu những danh từ cụ thể như động vật trong từ điển đơn ngữ, thay vào đó sẽ tốt hơn nếu bạn sử dụng Google Hình ảnh.
-
-(X). Đừng cố quá sức! Nếu khó quá, hãy sử dụng từ điển song ngữ lại cho đến khi bạn cảm thấy tự tin trở lại.
+1. Đọc ít nhất 1 cuốn sách/tiểu thuyết trước khi chuyển qua đơn ngữ.
+2. Hãy thử xem thứ tự sắp xếp từ điển nào là tốt nhất với bạn.
+3. Nếu bạn không tìm thấy được phrasal verb hoặc một số từ không phải ở dạng nguyên thể, hãy thử tự chia từ vựng (Nếu không thì tìm trên mạng) về dạng nguyên thể rồi tra lại trên trang tìm kiếm của Yomitan xem, hoặc tra trên Goldendict.
+4. Nếu bạn không hiểu định nghĩa ngay cả khi bạn tra cứu tất cả các từ, hãy sử dụng từ điển song ngữ (giải pháp cuối cùng). Bạn sẽ hiểu rõ hơn khi sử dụng từ điển đơn ngữ nhiều hơn.
+5. Bạn có thể xem định nghĩa trong từ điển song ngữ để kiểm tra xem bạn có hiểu đúng nghĩa cơ bản của từ hay không.
+6. Đừng quá lo lắng về việc sẽ mất bao lâu để chuyển qua đơn ngữ.
+7. Đối với thẻ Anki mà sử dụng định nghĩa đơn ngữ, chỉ cần cố nhớ ý chính của định nghĩa.
+8. Hãy thử tra cứu những từ bạn đã biết trong từ điển đơn ngữ để làm quen với từ điển đơn ngữ lúc đầu.
+9. Bỏ qua việc tra cứu những danh từ cụ thể như động vật trong từ điển đơn ngữ, thay vào đó sẽ tốt hơn nếu bạn sử dụng Google Hình ảnh.
+10. Đừng cố quá. Nếu thấy khó hiểu quá, hãy sử dụng từ điển song ngữ lại cho đến khi bạn cảm thấy tự tin trở lại.
 
 Have fun immersing!

@@ -34,7 +34,8 @@ và LẠC VIỆT
 - [GuruDiciStardict dictionaries shared by "dangquybk"](https://www.mediafire.com/?wkai7p5hs9e2m=) - Dữ liệu được tổng hợp bởi **dangquybk** và bao gồm rất nhiều từ điển cho các ngôn ngữ. Bạn có thể đọc thêm bài [GuruDic + dữ liệu stardict phong phú](https://tinhte.vn/thread/gurudic-du-lieu-stardict-phong-phu-tu-dien-da-ngon-ngu-tot-nhat-tren-ios.338525/) trên **Tinh tế** để tải cả dữ liệu từ điển và âm thanh nha.
 - [Goldendict và các bộ Đại từ điển Eng-Eng full audio, picture](https://voz.vn/t/reup-goldendict-va-cac-bo-%C4%90ai-tu-%C4%91ien-eng-eng-full-audio-picture.710141/) - Một kho tổng hợp rất nhiều từ điển Tiếng Anh trên Voz Forum.
 - [Kho từ điển chuyên ngành Anh - Anh - Đường dẫn Google Drive](https://drive.google.com/drive/folders/0BzrQwK2v03aKWjlsQ3NsaWJKalU?resourcekey=0-DtgqOJiVFSDI231ugoQgiQ)
-
+- [FreeMdict downloads site](https://downloads.freemdict.com/)
+- [Dictionaries from Ru-Board (>50 Languages)](https://forum.freemdict.com/t/topic/12050)
 
 ### Cách thêm từ điển vào trong Goldendict
 

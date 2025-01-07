@@ -14,9 +14,7 @@ Hãy đọc bài [lộ trình tự học và xây dựng thói quen học Tiến
 
 ### Mình chỉ mới bắt đầu, mình nên làm gì?
 
-Có thể ý của bạn là: "Mình đã học Tiếng Anh được một thời gian bằng phương pháp [x] và giờ nếu mình muốn bắt đầu đọc thì mình nên làm gì?"
-
-Hãy đọc bài viết này cho đến hết.
+Có thể ý của bạn là: "Mình đã học Tiếng Anh được một thời gian bằng phương pháp [x] và giờ nếu mình muốn bắt đầu đọc thì mình nên làm gì?". Hãy đọc bài viết này cho đến hết.
 
 ### Đọc một quyển sách về một thứ gì đó bạn đã thấy.
 
@@ -73,11 +71,9 @@ Việc học ngữ pháp như trên hoàn toàn là một lựa chọn ĐÚNG.
 
 Nếu bạn chưa hiểu được từ điển đơn ngữ, hãy vẫn giữ chúng vì nếu bạn gặp khó khăn trong việc hiểu ý nghĩa thực sự của một từ thì từ điển đơn ngữ sẽ giúp bạn.
 
-### Mẹo hiểu: Song ngữ và đơn ngữ: Sự khác nhau giữa "không biết cái gì đang diễn ra" và "thực sự hiểu"?
+### Song ngữ và đơn ngữ: Sự khác nhau giữa "không biết cái gì đang diễn ra" và "thực sự hiểu"?
 
-Trong nhiều trường hợp, đúng là có sự khác nhau.
-
-Các định nghĩa song ngữ đôi khi quá mơ hồ, vì vậy tốt nhất bạn nên sử dụng thêm cả từ điển đơn ngữ nữa.
+Trong nhiều trường hợp, đúng là có sự khác nhau. Các định nghĩa song ngữ đôi khi quá mơ hồ, vì vậy tốt nhất bạn nên sử dụng thêm cả từ điển đơn ngữ nữa.
 
 ## Lo âu khi đọc
 
@@ -111,7 +107,7 @@ Tốc độ đọc là khả năng hiểu. Khi bạn đọc nhiều hơn, bạn 
 
 Trả lời: Không. Cần có chuyên môn để đọc nhanh hơn.
 
-## “Mình đã nhìn vào câu/đoạn văn/từ này rất lâu và không hiểu nổi nó có nghĩa gì.”
+### Mình đã nhìn vào câu/đoạn văn/từ này rất lâu và không hiểu nổi nó có nghĩa gì.
 
 Giải pháp? Điều cần làm đầu tiên là tra từ và ngữ pháp được sử dụng trong câu, đồng thời tham khảo ngữ cảnh (đọc các dòng trước).
 
@@ -123,13 +119,13 @@ Dù sao đi nữa, giải pháp cuối cùng là **đọc nhiều hơn**.
 
 ### "Mình muốn hiểu mọi thứ và cần phải phân tích cả câu. Có nên làm điều đó thường xuyên không?”
 
-Và với tư cách là người theo khuynh hướng "đọc nhiều hơn" và là người từng rất "sùng bái" việc phân tích câu, khi phân tích những câu khó, bạn chỉ có thể hiểu được ở mức độ nhất định; người đọc nhiều sẽ có thể hiểu được nhiều hơn người chỉ tập trung vào phân tích mọi thứ.
+Và với tư cách là người theo khuynh hướng "đọc nhiều hơn" và là người đã từng rất "sùng bái" việc phân tích câu, khi phân tích những câu khó, bạn chỉ có thể hiểu được ở mức độ nhất định; người đọc nhiều sẽ có thể hiểu được nhiều hơn người chỉ tập trung vào phân tích mọi thứ.
 
 Việc phân tích câu đấy không hề xấu; bạn chỉ nên làm vậy ở mức bình thường vì đọc nhiều hơn sẽ tốt hơn là tập trung quá nhiều vào chỉ một câu.
 
 ### “Nhưng chẳng phải việc phân tích mọi thứ sẽ giúp tiến bộ nhanh hơn đúng không?”
 
-Sự hối thúc phải phân tích câu khi mình không hiểu là một điều khó tránh khỏi. Xét cho cùng, nó có thể là một chiến lược đọc rất tốt, và ở một mức độ nhất định thì nó đúng như vậy.
+Cảm giác phải phân tích câu khi mình không hiểu là một điều khó tránh khỏi. Xét cho cùng, nó có thể là một chiến lược đọc rất tốt, và ở một mức độ nhất định thì nó đúng như vậy.
 
 Có những cuốn mình đọc 3 lần một quyển và một số khác vì mình làm thẻ câu và thực hiện mining với những từ mình chưa biết trong sách với câu đi kèm từ đó nên cuối cùng mình đã đọc đi đọc lại những câu tương tự (Mình đã phân tích nó đấy).
 

@@ -2,16 +2,24 @@
 
 Bạn có lẽ đã đọc những câu kiểu này ở cả đống chỗ trên Internet. Nhưng bạn đã thật sự đặt cho mình mục tiêu thật rõ ràng là mình học ngôn ngữ này để làm gì chưa?
 
-### Thiết lập mục tiêu học tập rõ ràng
+### Mục tiêu & Hệ thống
+Trong các hướng dẫn học ngoại ngữ khác (mà mình đã đọc), họ đề cập rất nhiều về vấn đề "Thiết lập mục tiêu học ngoại ngữ. Thứ bạn thật sự cần thiết lập là THÓI QUEN HỌC NGOẠI NGỮ. Trước khi tiếp tục, bạn hãy đọc hai bài viết này trên Spiderum để hiểu rõ hơn về vấn đề này:
 
-Nếu bạn chưa thì hãy làm nó trước khi bắt đầu vào học. Việc dựa vào động lực nhất thời kiểu "Mình phải học ngoại ngữ thôi" thường không lâu bền vì động lực là một loại cảm xúc. Bạn có thể thử đọc [Learning How to Learn - Week 1](https://spiderum.com/bai-dang/Learning-How-to-Learn-Week-1-5ii) và kéo xuống đọc **2. Procrastination - Sự trì hoãn**. 
+- [ATOMIC HABITS— Sức mạnh đáng ngạc nhiên của thói quen nguyên tử](https://spiderum.com/bai-dang/ATOMIC-HABITS-Suc-manh-dang-ngac-nhien-cua-thoi-quen-nguyen-tu-rn2)
+- [5 bài học từ cuốn “Atomic Habits” mà tất cả chúng ta nên suy ngẫm và áp dụng](https://spiderum.com/bai-dang/5-bai-hoc-tu-cuon-Atomic-Habits-ma-tat-ca-chung-ta-nen-suy-ngam-va-ap-dung-13uQRZQqBfWl)
 
-Bây giờ quay trở lại hiện thực, bạn là một thanh niên bình thường khoẻ mạnh ở thế kỉ 21. Ở xã hội hiện nay, những hành động và quyết định của bạn KHÔNG MANG LẠI LỢI ÍCH NGAY LẬP TỨC như con hươu ở khu rừng kia. 
-> - Nếu mỗi ngày bạn học thêm 5 từ tiếng anh mới, thì khoảng 1 tháng sau bạn mới cảm nhận được sự tiến bộ.
-> - Sáng mai bạn bắt đầu vô phòng gym và ăn uống điều độ thì 3 tháng sau bạn mới thấy sự thay đổi ở cơ thể mình.
-> - Bây giờ bạn để dành tiền tiết kiệm, thì 30 năm nữa lúc về hưu bạn sẽ có tiền dưỡng già.  
+Giờ hãy quay lại một chút về phương pháp học được đề cập trong hướng dẫn ở trang này, có thể tóm gọn là: **Để học 1 ngoại ngữ, phải thu thập thật nhiều đầu vào (INPUT), nói cách khác là phải nghe và đọc thật nhiều nội dung như tin tức, phim, video, sách, truyện tranh.. bằng ngôn ngữ đó**. (Trích từ [Học ngoại ngữ bằng cách xem phim? - Immersion learning](https://spiderum.com/bai-dang/Hoc-ngoai-ngu-bang-cach-xem-phim-Immersion-learning-zcsVw4rK9I3y)).
 
-Vì vậy, bạn cần có một mục tiêu đủ rõ ràng để giúp bạn học hàng ngày.
+Bạn không nên hiểu việc **học ngoại ngữ** là việc làm bài tập, học từ vựng, ngữ pháp, luyện Listening, Reading rồi Speaking, Writing rồi luyện đề và thi. Việc **học ngoại ngữ** nên được hiểu là: việc bạn **tương tác với ngoại ngữ**, và từ sự tương tác đấy có thể sẽ giúp ta học thêm được những điều mới. Sẽ không bao giờ bạn *thành thạo* được một ngoại ngữ, kể cả khi bạn giỏi hơn. Bạn chỉ có thể trở nên giỏi hơn mỗi ngày.
+
+**Người thắng và người thua có cùng mục tiêu**: Bạn và rất nhiều người học ngoại ngữ khác đều có cùng một mục tiêu là **cải thiện khả năng ngoại ngữ của bản thân**. Nhưng tại sao lại có người học thành công và có người không?
+
+> Chúng ta thường hay thuyết phục bản thân rằng thành công lớn đòi hỏi phải có hành động lớn. Cho dù đó là giảm cân, khởi nghiệp, viết lách, giành chức vô địch hay đạt được bất kỳ mục tiêu nào khác, chúng ta tự tạo áp lực lên bản thân để thực hiện một số thay đổi chấn động mà mọi người sẽ trầm trồ.
+> 
+> Tuy nhiên, sự khác biệt thật sự không nằm ở những nỗ lực to lớn, mà nó là những nỗ lực nhỏ được nhân bội lên qua thời gian. Thành công là sản phẩm của các thói quen hằng ngày — chứ không phải sự thay đổi chỉ một lần-trong đời. Thời gian mới chính là yếu tố quyết định. 
+ 
+Bạn không cần phải chờ đợi cho đến khi mình đạt được mục tiêu nào cả. Nếu mỗi ngày bạn đều học ngoại ngữ thì bạn sẽ cứ giỏi lên và giỏi lên thôi.
+
 
 ### Hiểu về việc học ngoại ngữ và phương pháp học tập
 Mình chưa thấy ai đề cập đến vấn đề này một cách rõ ràng. Có thể mọi người đã đề cập "Cần có một lộ trình học tập rõ ràng" nhưng bản thân câu này đã rất mơ hồ rồi rốt cuộc mọi người đọc xong cũng chẳng đi được đến đâu cả.
@@ -43,12 +51,6 @@ Mọi người hay bị hiểu nhầm là cần nói nhiều hơn và viết nhi
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4Ir4206DfvQ?si=2sm6kF9xzljoJs_b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 _Nhớ bật phụ đề Tiếng Việt nha. Bạn cũng có thể xem [Video gốc của chính tác giả](https://www.youtube.com/watch?v=NiTsduRreug), chỉ có phụ đề Tiếng Anh_
-
-### Đi học giáo viên, trung tâm, khóa học
-
-Do bạn chọn, nhưng không bắt buộc. 
-
-Nhưng việc đi học cũng chỉ là một phần và bạn vẫn sẽ phải tự học để có thể giỏi hơn.
 
 
 

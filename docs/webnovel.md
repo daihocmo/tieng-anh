@@ -1,8 +1,7 @@
-# Xàm l về đọc Web Novel học Tiếng Anh
+# Web Novel
+Hay tiểu thuyết trên Web
 
-Chắc là không :smile:. Mình đã thử đọc một chút trên [RoyalRoad](https://www.royalroad.com/home) và thấy nó thực sự khá khó (Mình viết bài này vào thời điểm mình với bắt đầu tập đọc Web Novel bằng Tiếng Anh).
-
-Nhưng nếu bạn là một người thích đọc Web Novel, kể cả là thuần Tiếng Anh hoặc bản dịch từ bên Nhật sang thì ít nhiều đó cũng là dấu hiện cho thấy có thể đây sẽ là một điểm khởi đầu tốt cho một lựa chọn để cải thiện Tiếng Anh của bản thân.
+Nếu bạn là một người thích đọc Web Novel, kể cả là thuần Tiếng Anh hoặc bản dịch từ bên Nhật sang thì ít nhiều đó cũng là dấu hiện cho thấy có thể đây sẽ là một điểm khởi đầu tốt cho một lựa chọn để cải thiện Tiếng Anh của bản thân.
 
 ### Nguồn đọc? 
 

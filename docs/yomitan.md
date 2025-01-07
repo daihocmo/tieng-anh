@@ -5,9 +5,6 @@
 !!! info "Nhắc nhỏ"
 	Bài viết là bản dịch và hiệu đính lại từ bài [Yomitan Setup Tutorial](https://learnjapanese.moe/yomichan/) của TheMoeWay.
 
-
-**Cập nhật chút: Yomitan không còn được hỗ trợ. Yomitan là bản phát triển kế tiếp của Yomitan.**
-
 ### Yomitan là gì?
 Yomitan là một extension (tiện ích mở rộng) trên trình duyệt (Chrome, Chromium-based hoặc Firefox) cho phép bạn tra cứu các từ Tiếng Anh cả nghĩa lẫn cách đọc trên trang web một cách dễ dàng.
 

@@ -33,23 +33,19 @@ Họ muốn chắc mình phải biết rất rõ phần kiến thức đấy. H�
 
 Chủ nghĩa cầu toàn có thể là con dao hai lưỡi trong việc học ngôn ngữ. Tốn quá nhiều thời gian và công sức mà không đạt được nhiều kết quả, cố ghi nhớ từng chi tiết nhỏ nhất của những thứ không thực sự quan trọng trong cả quá trình học dài đấy.
 
-Học một ngôn ngữ cũng giống như leo lên một ngọn núi. Hoàn toàn có thể leo núi mà không cần bất cứ thứ gì hỗ trợ dù sẽ phải rất vất vả và cần nhiều kiên trì với nỗ lực. Học theo cách "truyền thống" chẳng khác gì làm dây thừng để leo núi dễ hơn, nhưng chỉ làm dây thừng thì vẫn chưa hoàn thành việc leo núi. Cuối cùng thì vẫn sẽ phải leo lên nó, bởi vì dù có thêm bao nhiêu dây để leo núi thì việc thực hiện vẫn sẽ tốn nhiều thời gian và công sức.
-
 ## 1.3 Quy mô của ngôn ngữ
 
-Ngôn ngữ thực sự quá rộng lớn. Có quá nhiều thứ vượt xa ranh giới trong một lớp học hoặc phương pháp dạy theo kiểu A is B hoặc A does B. Để thành thạo một ngôn ngữ ở cấp độ cao cần một lượng lớn **đọc** và **nghe** nội dung ngôn ngữ đích.
+Ngôn ngữ thực sự quá rộng lớn. Có quá nhiều thứ vượt xa ranh giới trong một lớp học. Để thành thạo một ngôn ngữ ở cấp độ cao cần một số lượng thời gian **đọc** và **nghe** nội dung ngôn ngữ đích lớn.
 
 Không dễ để hiểu tại sao họ lại dùng từ *đó* trong ngữ cảnh *này*, hoặc từ *này* thay vì từ *kia*. Điều này tạo ra một rào cản rất lớn, vì không thể chỉ học ngữ pháp và từ vựng mà có thể đạt được trình độ như người bản ngữ.
 
-Nếu không có những trải nghiệm cần thiết, việc cố gắng tự tạo câu ở ngôn ngữ mục tiêu thường khiến cho cách diễn đạt trở lên thiếu tự nhiên hoặc khó hiểu. Thêm nữa, việc không hiểu hoặc chưa hiểu rõ  cách người bản ngữ sử dụng ngôn ngữ của họ khiến việc hiểu họ trở nên khó khăn hơn rất nhiều do không quen với cách diễn đạt bên ngoài phạm vi của tài liệu học tập.
+Nếu không có những trải nghiệm cần thiết, việc cố gắng tự tạo câu ở ngôn ngữ mục tiêu thường khiến cho cách diễn đạt trở lên thiếu tự nhiên hoặc khó hiểu. Thêm nữa, việc không hiểu hoặc chưa hiểu rõ cách người bản ngữ sử dụng ngôn ngữ của họ khiến việc hiểu họ trở nên khó khăn hơn rất nhiều do không quen với cách diễn đạt bên ngoài phạm vi của tài liệu học tập.
 
 Đây là lý do tại sao trong việc học ngoại ngữ cần có **"Immersion" - đọc và nghe những gì người bản ngữ viết và nói.**
 
-Học ngôn ngữ là một quá trình ghi nhớ các thành phần trong vô thức thông qua Comprehensible Input. Điều này có nghĩa là, khi bạn hiểu điều gì đó (comprehensible) trong quá trình Immersion, bộ não của bạn sẽ vô thức lưu mẫu (pattern) đó vào để có thể sử dụng trong tương lai. Việc bạn có thể đọc hướng dẫn này một cách không hề khó khăn nhờ vào việc bạn đã có rất nhiều kinh nghiệm đọc Tiếng Anh trước đây (Bài viết gốc viết bằng Tiếng Anh) nên khi đọc hướng dẫn này, bộ não sẽ kiểu "Ê mày, có mẫu số 234 được sử dụng với mẫu số 82 và mẫu số 10 kìa".
+Học ngôn ngữ là một quá trình ghi nhớ các thành phần trong vô thức thông qua Comprehensible Input. Điều này có nghĩa là, khi bạn hiểu điều gì đó (comprehensible) trong quá trình Immersion, bộ não của bạn sẽ vô thức lưu mẫu (pattern) đó vào để có thể sử dụng trong tương lai.
 
-Và vì bạn đã có thể đọc Tiếng Anh thành thạo nên đọc được hướng dẫn này không hề khó khăn với bạn. Bạn có thể hiểu các từ trong những câu này. Bạn có thể hiểu những gì liên kết các câu lại với nhau. Bạn thậm chí có thể hiểu thêm về tông giọng và mức độ trang trọng (formal) trong bài viết này của mình. Tất cả đều nhờ bộ não của bạn lưu lại ngữ cảnh và các thông tin khác của tất cả các mẫu câu mà bạn đã gặp.
-
-Tại sao lại không nói về "biết ngữ pháp" hay "nhớ từ vựng"? Bởi đây không phải là cách xử lý ngôn ngữ tự nhiên. Một số người đọc thậm chí có thể không phải là người nói Tiếng Anh bản ngữ và có thể đã từng học ngữ pháp Tiếng Anh trước đó, nhưng tỉ lệ cao là họ không thực sự "chủ động suy nghĩ" về ngữ pháp khi tiếp xúc với Tiếng Anh hàng ngày.
+Tại sao lại không nói về "biết ngữ pháp" hay "nhớ từ vựng"? Bởi đây không phải là cách xử lý ngôn ngữ tự nhiên.
 
 ## 1.4 Chấp nhận sự mù mờ
 
@@ -68,9 +64,7 @@ Phải biết buông bỏ và bắt tay vào làm những gì chúng ta thực s
 
 Immersion là khi bạn tương tác với nội dung tự nhiên bằng ngôn ngữ mục tiêu. Điều này có nghĩa là nội dung KHÔNG hề được làm hoặc chọn lọc kỹ càng cho người học. Nội dung mà người bản ngữ của ngôn ngữ đó sẽ tiêu thụ.
 
-Nếu bạn là người học Tiếng Anh (bài viết gốc được viết bằng Tiếng Anh), việc đọc hướng dẫn này ngay bây giờ sẽ được tính là bạn đang "thực hành Immersion trong Tiếng Anh", bởi vì hướng dẫn này không hề được đơn giản hóa hay giúp cho người học Tiếng Anh. Nó được viết cho những người nói Tiếng Anh ở mức độ bản ngữ/thành thạo.
-
-Vì vậy, khi bạn nghe hoặc đọc nội dung Tiếng Anh mà người Nhật cũng thường sử dụng, bạn đang thực hành Immersion
+Nếu bạn đọc một bài báo Tiếng Anh được viết cho những người bản ngữ (The Verge, NPR, The New York Times .etc.) thì có nghĩa là bạn đang thực hành *Immersion*.
 
 Theo thuật ngữ thì được gọi là *Input*, nhưng mình thích dùng *Immersion* hơn.
 
@@ -170,7 +164,7 @@ Học ngữ pháp vừa đơn giản lại vừa phức tạp. Ban đầu sẽ k
 
 Dưới đây là một số hướng dẫn được xếp hạng dựa trên mức độ gợi ý cho tất cả những người mới bắt đầu. Không cần phải học từng hướng dẫn một, chỉ cần chọn một hướng dẫn phù hợp với bản thân.
  
-- [Hướng dẫn tự học ngữ pháp Tiếng Anh](https://daihocmo.github.io/luyen-thi-ngon-ngu/tieng-anh/)
+- [**Hướng dẫn tự học ngữ pháp Tiếng Anh**](https://daihocmo.github.io/luyen-thi-ngon-ngu/tieng-anh/)
 - [**Study English Grammar - Văn Phạm**](https://www.youtube.com/playlist?list=PLLx8_1BoESGF1wy1P8vhAjw6gdupa2TyE) - Giải thích ngữ pháp rõ ràng, không quá khó hiểu và tập trung vào ngữ pháp Tiếng Anh thay vì cấu trúc ôn thi. Nếu bạn không thích đọc thì có thể xem danh sách bài giảng này.
 
 Đây là thời điểm tốt nhất để bắt đầu Immersion khi bạn đã học được một số cấu trúc ngữ pháp mới. Xem cách áp dụng ngữ pháp đã học vào thực tế sẽ giúp hiểu rõ hơn về chúng.
@@ -181,11 +175,11 @@ Dưới đây là một số hướng dẫn được xếp hạng dựa trên m�
 
 Bây giờ bạn có thể đã nhận thấy một vấn đề ở đây. Bạn sẽ làm gì nếu không có nguồn Comprehensible Input? Là người mới bắt đầu hoàn toàn, không có nội dung nào là dễ dàng. Trên thực tế, đây là lý do tại sao mọi người thường lạc lối và bắt đầu đọc từ tài liệu này sang tài liệu khác. Mặc dù Incomprehensible Input cũng có những tác dụng nhất định và hỗ trợ cho việc học, nhưng sẽ rất khó để có thể vượt qua rào cản ban đầu ấy.
 
-Việc không hiểu được nội dung mình muốn tiêu thụ khá khó chịu, trừ khi bạn có một hướng tư duy cụ thể về nó - cảm thấy vui khi biết rằng mình đang tiến bộ dần dần kể cả khi khó có thể thấy một cách rõ rệt. Tuy nhiên, để duy trì tư duy này mọi lúc không hề dễ dàng, không nên dựa vào nó để làm động lực thúc đẩy cho sự kiên trì trong học tập - chìa khóa số một để thành thạo bất kỳ kỹ năng nào.
+Việc không hiểu được nội dung mình muốn xem/đọc khá khó chịu, trừ khi bạn có một hướng tư duy cụ thể về nó - cảm thấy vui khi biết rằng mình đang tiến bộ dần dần kể cả khi khó có thể thấy một cách rõ rệt. Tuy nhiên, để duy trì tư duy này mọi lúc không hề dễ dàng, không nên dựa vào nó để làm động lực thúc đẩy cho sự kiên trì trong học tập - chìa khóa số một để thành thạo bất kỳ kỹ năng nào.
 
 Vậy làm cách nào để không phải cảm thấy áp lực khi phải tiêu thụ các nội dung khó hiểu?
 
-Chọn những gì bạn thích. Media thực sự khá giải trí vì nhiều lý do khác nhau khác ngoài việc học ngôn ngữ. Bằng cách chọn Media có tính giải trí, thư giãn và có giá trị cao bất kể Level ngôn ngữ nào, chúng ta có thể duy trì liên kết của bản thân với ngôn ngữ và có động lực để tiếp tục thực hiện Immersion. Và dần dần, khi trải nghiệm ngôn ngữ phát triển, chúng ta sẽ thấy mình hiểu nhiều hơn và mục tiêu từng tưởng chừng như không thể đó là tìm Comprehensible Input giờ đây đã trở thành một điều hiển nhiên, với mục tiêu mới là tiếp tục tìm những nội dung khó hơn để thúc đẩy bản thân tiếp tục học. 
+Chọn những gì bạn thích. Media thực sự khá giải trí vì nhiều lý do khác nhau khác ngoài việc học ngôn ngữ. Bằng cách chọn Media có tính giải trí, thư giãn và có giá trị cao bất kể Level ngôn ngữ nào, chúng ta có thể duy trì liên kết của bản thân với ngôn ngữ và có động lực để tiếp tục thực hiện Immersion. Và dần dần, khi trải nghiệm ngôn ngữ của bạn phát triển, chúng ta sẽ thấy mình hiểu nhiều hơn và mục tiêu từng tưởng chừng như không thể đó là tìm Comprehensible Input giờ đây đã trở thành một điều hiển nhiên, với mục tiêu mới là tiếp tục tìm những nội dung khó hơn để thúc đẩy bản thân tiếp tục học. 
 
 ## 2.7 Cách Immersion
 
@@ -215,7 +209,7 @@ Nghe thụ động là khi bạn làm việc khác và nghe ở chế độ nề
 
 ### Làm thế nào để thực hành Immersion với việc đọc
 
-Ngược lại với việc nghe, đọc là một cách tiếp cận đòi hỏi "phân tích" và cần nhiều thời gian. Bạn có thể dành bao nhiêu thời gian tùy thích để đọc câu và tra cứu từ. Vòng lặp quy trình về cơ bản là **đọc → tra từ → phản ứng (reaction) → đọc thêm → tra từ → (lặp lại)**. Lúc đầu, điều này có vẻ giống như việc bạn tự đập đầu mình vào tường, nhưng đây thực sự chỉ là cách mà bạn xây dựng khả năng đọc.
+Ngược lại với việc nghe, đọc là một cách tiếp cận đòi hỏi phân tích và cần nhiều thời gian. Bạn có thể dành bao nhiêu thời gian tùy thích để đọc câu và tra cứu từ. Vòng lặp quy trình về cơ bản là **đọc → tra từ → phản ứng (reaction) → đọc thêm → tra từ → (lặp lại)**. Lúc đầu, điều này có vẻ giống như việc bạn tự đập đầu mình vào tường, nhưng đây thực sự chỉ là cách mà bạn xây dựng khả năng đọc.
 
 ### Tỷ lệ lý tưởng giữa nghe và đọc
 
@@ -247,7 +241,7 @@ Mọi người thường có quan niệm sai lầm rằng việc tập nói nhi�
 
 Nạp Input thường xuyên song song với việc output thường xuyên.
 
-Trái lại với những gì mà nhiều phương pháp học tập dựa trên Immersion nói, mình không tin rằng việc không thực hiện output của bạn cho đến khi bạn "thực sự giỏi" là một điều tốt vì những lý do như "nói sai sẽ hủy hoại Tiếng Anh của mình". Điều này khiến bạn bỏ lỡ rất nhiều cơ hội để tiếp thu những thứ sẽ sử dụng trong việc output của mình sớm hơn và khiến bạn mang trong mình chủ nghĩa hoàn hảo "độc hại", trở nên quá "bảo vệ" (protective) Tiếng Anh của mình.
+Trái lại với những gì mà nhiều phương pháp học tập dựa trên Immersion nói, mình không tin rằng việc không thực hiện output của bạn cho đến khi bạn "thực sự giỏi" là một điều tốt vì những lý do như "nói sai sẽ hủy hoại Tiếng Anh của mình". Điều này khiến bạn bỏ lỡ rất nhiều cơ hội để tiếp thu những thứ sẽ sử dụng trong việc output của mình sớm hơn và khiến bạn mang trong mình chủ nghĩa hoàn hảo "độc hại", trở nên quá bảo vệ Tiếng Anh của mình.
 
 ## 3.2 Phát âm
 

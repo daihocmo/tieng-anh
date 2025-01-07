@@ -12,26 +12,25 @@ nav:
     - 'Tham gia cộng đồng': 'join.md'
   - 'Hướng dẫn':
     - 'Tự học Tiếng Anh': 'guide.md'
-    - '30 Ngày Tiếng Anh': '30ngay.md'
     - 'Nói Tiếng Anh': 'speaking.md'
     - 'Đọc Tiếng Anh': 'reading.md'
     - 'Hướng dẫn đơn ngữ': 'monolingual.md'
-  - 'FAQ': 
-    - 'FAQ về Tiếng Anh': 'faq.md'
+  - 'Thói quen':
+    - '30 Ngày Tiếng Anh': '30ngay.md'
+  - 'FAQ': 'faq.md'
   - 'Setup':  
-    - 'Mining': 'setup.md'
+    - 'Yomitan': 'yomitan.md'  
     - 'Goldendict': 'goldendict.md'
-    - 'Yomitan': 'yomitan.md'
-  - 'Novel':
+    - 'Mining': 'setup.md'
+  - 'Nội dung Tiếng Anh':
+    - 'Nội dung': 'content.md'
     - 'Web Novel': 'webnovel.md'
-    - 'Visual Novel': 'vn.md'
-  - 'Media': 'media-tieng-anh.md' 
+    - 'LitRPG': 'lit-rpg.md'
+    - 'Visual Novel': 'vn.md' 
+    - 'Blog': 'blog.md'
   - 'Tài nguyên học':
     - 'Tài nguyên': 'resources.md'
-    - 'Đầu vào dễ hiểu': 'input.md'
-  - 'Những thứ khác':
-    - 'Về Input': 'input.md'
-    - 'Các nội dung khác': 'misc.md'
+    - 'Nội dung Tiếng Anh dễ hiểu': 'input.md'
 
 
       
@@ -55,7 +54,6 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
   logo: assets/english.svg
-  favicon: assets/favicon.png
   custom_dir: overrides
   features:
     - navigation.tabs
@@ -87,7 +85,7 @@ markdown_extensions:
       
 plugins:
   - search
-  # - open-in-new-tab
+  - open-in-new-tab
 
 extra:
   generator: false

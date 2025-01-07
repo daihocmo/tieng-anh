@@ -37,7 +37,9 @@ Những kênh này đều đã không còn hoạt động thường xuyên, ho�
 
 ## Tiêu thụ Tiếng Anh
 
-Nếu bạn muốn tìm thêm các gợi ý nội dung Tiếng Anh để tiêu thụ, nhớ ghé mục "Tổng hợp" nha.
+### Kho nội dung Tiếng Anh
+-   [English Media Recommendation](https://daihocmo.github.io/awesome-ngon-ngu/media-recs/tieng-anh/) - Tổng hợp gợi ý những nội dung tiêu thụ bằng Tiếng Anh.
+-   [Danh sách kênh Youtube Tiếng Anh đi lượm nhiều chỗ trên Reddit](https://daihocmo.github.io/awesome-ngon-ngu/ngon-ngu/tieng-anh/youtube-channel.html) - Chưa chỉnh sửa lại nhiều với phân loại theo chủ đề.
 
 ### Phim Ảnh & Chương trình truyền hình
 - [**Hướng dẫn học ngoại ngữ thông qua YouTube & Netflix**](https://docs.google.com/document/d/1YaHBu5obEmn83kh20NHkWW_eOYXc7_EAPXTJmDHy1y4/edit) - Đây là hướng dẫn cách đào câu (sentence mining) thông qua asbplayer ngay trên trình duyệt (Máy tính)
