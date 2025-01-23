@@ -20,9 +20,7 @@ Anki là một công cụ quá tốt để hỗ trợ bạn ghi nhớ những g�
 
 
 ### Về việc sử dụng từ điển
-Từ điển là một phần rất quan trọng cần có trong quá trình học ngoại ngữ (Vì bạn đang học ngoại ngữ! Mình gợi ý nên tránh sử dụng Google Dịch, trừ khi bạn THỰC SỰ không còn lựa chọn nào khác).
-
-Về từ điển, những ứng dụng ở đây đều đạt chỉ tiêu:
+Từ điển là một phần rất quan trọng cần có trong quá trình học ngoại ngữ. Về từ điển, những ứng dụng từ điển ở đây đều:
 
 1. Hỗ trợ rất nhiều từ điển cùng một lúc. Rất quan trọng vì bạn có thể sử dụng nhiều từ điển cùng một lúc. Có những từ mà từ điển này có nhưng từ điển kia không có hay định nghĩa ở một từ điển lại rõ ràng hơn một từ điển khác.
 2. Hoạt động ngoại tuyến: Bạn không cần kết nối mạng để sử dụng, và nó cũng rất gọn nữa.
@@ -33,7 +31,7 @@ Với Anh-Việt thì mình gợi ý dùng từ điển Lạc Việt. Từ đi�
 
 Bạn có thể đọc thêm bài [Dân chuyên sống bằng tiếng Anh thì dùng từ điển nào?](https://voz.vn/t/dan-chuyen-song-bang-tieng-anh-thi-dung-tu-đien-nao.661702/) trên diễn đàn Voz.
 
-### Gợi ý từ điển Tiếng Anh
+### Từ điển Tiếng Anh gợi ý
 Bạn có thể di chuyển đến trang [MarvNC/yomitan-dictionaries](https://github.com/MarvNC/yomitan-dictionaries?tab=readme-ov-file#english-english) để cài đặt từ điển cho Yomitan. Bên dưới sẽ có gợi ý từ điển nên dùng và cách cài đặt từ điển vào Yomitan.
  
 Các từ điển gợi ý:
@@ -72,12 +70,9 @@ Bạn có thể tìm trên Youtube hoặc tải phim có phụ đề.
 - [Gợi ý các kênh Youtube mà bạn có thể xem](https://daihocmo.github.io/awesome-ngon-ngu/media-recs/tieng-anh/)
 - [Một phần mềm hỗ trợ tải video Youtube về máy](https://github.com/axcore/tartube/releases/tag/v2.5.0) 
 
-### Sách
+### Sách & Podcast
 - [Tìm gợi ý sách để đọc](https://daihocmo.github.io/awesome-ngon-ngu/media-recs/tieng-anh/) - Khá nhiều sách trong số này là miễn phí do hết hạn bản quyền, bạn có thể bấm vào tên sách và tải tệp, gợi ý nên chọn tệp `.epub` và tìm một phần mềm hỗ trợ đọc `.epub` như Calibre hoặc SumatraPDF. Nếu bạn đọc sách bằng máy đọc sách Kindle thì hãy chọn `.mobi`. 
 
-### Podcast
-- [Tìm Podcast để nghe](https://daihocmo.github.io/tieng-anh/podcasts/) - Một trang tổng hợp các gợi ý Podcast nên nghe từ rất nhiều nguồn 
-
 ### Tin tức
-- [brutalist.report](https://brutalist.report/) - một trang rất hay tổng hợp tin tức từ nhiều nguồn một cách gọn gàng
+- [brutalist.report](https://brutalist.report/) - Tổng hợp tin tức từ nhiều nguồn.
 

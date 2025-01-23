@@ -12,8 +12,7 @@ Những kênh này đều đã không còn hoạt động thường xuyên, ho�
 
 ### Từ vựng
 
-- [Core1.7k](https://drive.proton.me/urls/YMRA0WG5G4#OwdCA78y6sTr) - Đây là bộ 1700 từ vựng cơ bản mà mình phát triển dựa trên [một bộ thẻ khác ở trên AnkiVN](https://ankiweb.net/shared/info/1125484373), sửa lại định dạng thẻ và tối giản hóa để giúp mọi người học từ vựng dễ dàng hơn (Hiện tại phần dịch câu trong bộ thẻ là do Google Dịch xử lý). Bộ thẻ hiện tại thì phần dịch câu sẽ được ẩn đi và bạn có thể chỉnh lại trong mẫu thẻ sau (Uncomment phần HTML của câu đi). 
-- Không tìm được bộ thẻ nào khác ưng ý cả.
+- [Core1.7k](https://drive.proton.me/urls/YMRA0WG5G4#OwdCA78y6sTr) - Đây là bộ 1700 từ vựng cơ bản mà mình phát triển dựa trên [một bộ thẻ khác ở trên AnkiVN](https://ankiweb.net/shared/info/1125484373), sửa lại định dạng thẻ và tối giản hóa để giúp mọi người học từ vựng dễ dàng hơn.
 
 ### Phát âm
 - [42 ngày phát âm](https://www.youtube.com/playlist?list=PL7YqrWXed1abz3FwdKMZEwclWMZ2cMHio) - Mỗi ngày học một âm IPA.

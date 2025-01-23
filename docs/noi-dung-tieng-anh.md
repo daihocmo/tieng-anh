@@ -80,9 +80,8 @@ Số lượng VN thuần Tiếng Anh là không nhiều, có lồng tiếng cũn
 Như đã giới thiệu, việc chơi VN (Visual Novel) gần giống như đọc một cuốn tiểu thuyết với công việc chính là click chuột để chạy text (giống như việc lật giở trang sách). Câu chuyện được kể qua góc nhìn thứ nhất của nhân vật chính (Protagonist) và thỉnh thoảng Game chuyển góc nhìn qua nhân vật khác, có thể là các heroine hay nhân vật phụ nhằm đưa ra góc nhìn khác của câu chuyện hay miêu tả suy nghĩ nội tâm.
 
 ### "Nguồn"
-    Một phần bài viết này được bê về từ [trang này](https://familyk.forumvi.net/t2-topic) cộng với chỉnh sửa lại định dạng và một số phần nội dung nhất định để phù hợp với Visual Novel Tiếng Anh. 
 
-    PS: Nếu bạn chủ bài viết có đọc được bài này và muốn mình gỡ thì gửi Email cho mình [tại đây](mailto:duykhanh471@protonmail.com) nha. 
+Một phần bài viết này được bê về từ [trang này](https://familyk.forumvi.net/t2-topic) cộng với chỉnh sửa lại định dạng và một số phần nội dung nhất định để phù hợp với Visual Novel Tiếng Anh. 
 
 ## LitRPG
 

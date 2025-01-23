@@ -1,18 +1,22 @@
 # Tổng hợp câu hỏi thường gặp
 Đống câu hỏi này mình lấy trong Discord của trang.
 
+### Mình nên học Tiếng Anh như thế nào?
+
+Thông qua số lượng lớn input, nói cách khác là Immersion. Xem hướng dẫn để tìm hiểu thêm.
+
+### Bạn có thể dạy mình Tiếng Anh được không?
+
+Một quan niệm phổ biến là cần ai đó chỉ có thể "dạy" ngôn ngữ cho bạn và trở nên tiến bộ hơn, nếu có. Học một ngôn ngữ yêu cầu sự tự học. Bạn cần phải tự học.
+
 ### Các bạn học từ như nào ý? Mình cứ bị học trước quên sau.
 
-Mình giả sử bạn chưa học Tiếng Anh đủ lâu nha, thì bạn có hai hướng (ít nhất là với mình) để từ vựng có thể được lưu vào bộ nhớ dài hạn:
+Để từ vựng có thể được lưu vào bộ nhớ dài hạn ta cần:
 
 - Ngữ cảnh (context) của câu thực sự ấn tượng và in vào đầu bạn, hoặc được lặp lại đủ nhiều lần (Xem nhiều video, đọc nhiều nghe nhiều)
 - Lặp lại ngắt quãng để lặp lại một từ đủ thường xuyên và đưa vào bộ nhớ của bạn dài hạn
 
-Thực tế nó còn nhiều yếu tố hơn để quyết định khả năng ghi nhớ từ vựng, nhưng chung quy lại là do nó không được lặp lại đủ nhiều để khiến bộ não của bạn thấy được tầm quan trọng của nó và đưa nó vào bộ nhớ dài hạn.
-
-Vậy nên ta cần một hệ thống lặp lại ngắt quãng, hay SRS, đọc bài này: https://daihocmo.github.io/ngoai-ngu/srs để tìm hiểu thêm.
-
-Bạn nên dùng một phần mềm SRS để hỗ trợ công việc ghi nhớ từ, thì gần như chắc chắn 100% mọi người sẽ chọn dùng Anki: https://daihocmo.github.io/ngoai-ngu/anki/
+Thực tế nó còn nhiều yếu tố hơn để quyết định khả năng ghi nhớ từ vựng, nhưng chung quy lại là do nó không được lặp lại đủ nhiều để khiến bộ não của bạn thấy được tầm quan trọng của nó và đưa nó vào bộ nhớ dài hạn. Vậy nên ta cần có SRS, và Anki là một phần mềm hỗ trợ SRS.
 
 ### Học từ vựng mấy bạn học ở đâu vậy ạ?
 
@@ -25,7 +29,6 @@ Khi mới bắt đầu thì bạn cảm giác bạn học lên trình rất nhan
 Lý do cho điều này? Bạn chỉ cần khoảng 3000 từ vựng để hiểu khoảng 70-80% nội dung (Tùy thuộc vào nội dung, ở đây chỉ mang tính ước lượng), 10000 từ cho 90%, 20000 từ cho 95% và 30000 từ cho 97-98% và hơn thế nữa. 
 
 **Kết luận:** Điều này hoàn toàn bình thường và điều duy nhất ta cần làm là tiếp tục Input thật nhiều (và có thể Output một chút cũng được), nghe đọc nhiều hơn và tin vào quá trình (Trust the process). 
-
 
 ### Nhưng kiểu vẫn phải nói nhiều cho quen miệng, tăng độ lưu loát cũng như nói đúng ngữ pháp, sử dụng nhiều từ vựng chứ hả bác? 
 

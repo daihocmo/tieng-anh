@@ -4,6 +4,10 @@ Viết qua về IPA.
 ### IPA là gì?
 Bảng phiên âm quốc tế, hay còn gọi là IPA (International Phonetic Alphabet), là một hệ thống ký hiệu được thiết kế để biểu diễn chính xác các âm thanh trong ngôn ngữ nói.
 
+![](img/main_guide/bang-phien-am.png)
+
+_Bảng phiên âm cho từng chữ cái trong bảng chữ cái Tiếng Anh_
+
 Không giống mặt chữ cái, bảng phiên âm là những ký tự Latin mà bạn sẽ thấy khá là lạ lẫm. Có tất cả 44 âm cơ bản. Trong từ điển (kể cả từ điển giấy lẫn online), phiên âm sẽ được đặt trong ô ngoặc bên cạnh từ vựng. Bạn dựa theo những từ này để phát âm chính xác từ đó. Bảng phiên âm tiếng Anh quốc tế IPA có 44 âm trong đó có 20 nguyên âm (vowel sounds) và 24 phụ âm (consonant sounds).
 
 ### Tại sao lại cần học IPA?
@@ -30,4 +34,4 @@ Bạn nên nghe do người bản ngữ phát âm. Đây là một số gợi ý
 - [42 Ngày Phát Âm của Dan Hauer](https://www.youtube.com/watch?v=CxtAwAfEhao)
 - [The complete guide to English Pronunciation - BBC Learning English](https://www.youtube.com/watch?v=QxQUapA-2w4)
 
-Để ghi nhớ, cá nhân mình gợi ý sử dụng Anki và bộ thẻ [English IPA pronunciation deck](https://ankiweb.net/shared/info/625480522) (Nếu bạn muốn hình ảnh cả tư thế đặt lưỡi nữa thì có thể dùng bộ [国际音标（简化版)](https://ankiweb.net/shared/info/688447492)).
+Để ghi nhớ, cá nhân mình gợi ý sử dụng Anki và bộ thẻ [English IPA pronunciation deck](https://ankiweb.net/shared/info/625480522).
