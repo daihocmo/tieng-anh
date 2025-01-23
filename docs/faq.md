@@ -1,8 +1,3 @@
----
-hide:
-    - navigation
----
-
 # Tổng hợp câu hỏi thường gặp
 Đống câu hỏi này mình lấy trong Discord của trang.
 

@@ -1,8 +1,5 @@
-## Input
-
+# Input
 Để tìm hiểu về phương pháp, bạn hãy xem video từ chính tác giả của giả thuyết này - Stephen Krashen: [Input Hypothesis](https://youtu.be/4Ir4206DfvQ). Đây là một video khác đã có phụ đề Tiếng Việt. 
-
-Nếu bạn muốn xem video khởi đầu cho giả thuyết này, [đây chính là đường dẫn](https://www.youtube.com/watch?v=NiTsduRreug) (Lưu ý: Không có phụ đề Tiếng Việt nhưng có phụ đề Tiếng Anh).
 
 ## Nghe
 Chúng ta sẽ bắt đầu nghe trước vì nó dễ hơn và bớt áp lực hơn so với đọc. Đồng thời, việc nghe nhiều sẽ giúp chúng ta bắt được cách phát âm đúng của người ta.

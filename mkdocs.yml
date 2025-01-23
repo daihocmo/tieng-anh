@@ -1,36 +1,24 @@
-site_name: Tự luyện Tiếng Anh - Khu học mở. 
+site_name: Tự luyện Tiếng Anh 
 site_description: Tự học Tiếng Anh các kiểu, chắc vậy.
 site_author: duykhanh471  
-site_url: https://daihocmo.github.io/tieng-anh/
+site_url: https://daihocmo.github.io
 repo_url: https://github.com/daihocmo/tieng-anh
-repo_name: Đóng góp và chỉnh sửa trang
+repo_name: Chỉnh sửa trang
 
 nav:
-  - 'Trang chủ': 
-    - 'Trang chủ': 'index.md'
-    - 'Trước khi bắt đầu': 'truoc-khi-bat-dau.md'
-    - 'Tham gia cộng đồng': 'join.md'
+  - 'Trang chủ': 'index.md'
   - 'Hướng dẫn':
-    - 'Tự học Tiếng Anh': 'guide.md'
-    - 'Nói Tiếng Anh': 'speaking.md'
-    - 'Đọc Tiếng Anh': 'reading.md'
+    - 'Lộ trình': 'guide.md'
+    - 'IPA': 'ipa.md'
     - 'Hướng dẫn đơn ngữ': 'monolingual.md'
-  - 'Thói quen':
-    - '30 Ngày Tiếng Anh': '30ngay.md'
-  - 'FAQ': 'faq.md'
-  - 'Setup':  
-    - 'Yomitan': 'yomitan.md'  
-    - 'Goldendict': 'goldendict.md'
-    - 'Mining': 'setup.md'
-  - 'Nội dung Tiếng Anh':
-    - 'Nội dung': 'content.md'
-    - 'Web Novel': 'webnovel.md'
-    - 'LitRPG': 'lit-rpg.md'
-    - 'Visual Novel': 'vn.md' 
-    - 'Blog': 'blog.md'
-  - 'Tài nguyên học':
-    - 'Tài nguyên': 'resources.md'
-    - 'Nội dung Tiếng Anh dễ hiểu': 'input.md'
+  - 'Thói quen': '30ngay.md'
+  - 'Câu hỏi thường gặp': 'faq.md'
+  - 'Setup': 'setup.md'
+  - 'Nội dung Tiếng Anh': 'noi-dung-tieng-anh.md'
+  - 'Tài nguyên học': 
+    - 'Tổng hợp': 'resources.md'
+    - 'Comprehensible Input': 'input.md'
+    - 'Tham gia cộng đồng học': 'join.md'
 
 
       
@@ -63,25 +51,6 @@ theme:
     - search.share
     - search.suggest
   name: material
-  
-markdown_extensions:
-  - pymdownx.emoji:
-      emoji_index: !!python/name:material.extensions.emoji.twemoji
-      emoji_generator: !!python/name:material.extensions.emoji.to_svg
-  - meta
-  - admonition
-  - attr_list
-  - pymdownx.critic
-  - pymdownx.caret
-  - pymdownx.mark
-  - pymdownx.tilde
-  - pymdownx.details
-  - pymdownx.keys
-  - pymdownx.superfences
-  - pymdownx.tabbed:
-      alternate_style: true
-  - toc:
-      permalink: true
       
 plugins:
   - search

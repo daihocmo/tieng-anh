@@ -1,9 +1,6 @@
 # Hướng dẫn học đơn ngữ
-!!! info "Nguồn"
-    Bài viết là bản dịch và hiệu đính lại từ bài [Monolingual Guide](http://learnjapanese.moe/monolingual/) của TheMoeWay.
 
-!!! info "Nhắc nhỏ"
-	Đây là hướng dẫn dành cho người học trung cấp.
+> "Nhắc nhỏ": Đây là hướng dẫn dành cho người học trung cấp.
 
 Hướng dẫn này sẽ giải thích quá trình đơn ngữ hóa và tại sao bạn nên làm vậy, các cách khác nhau để truy cập và làm quen với việc sử dụng từ điển đơn ngữ. 
 
@@ -60,7 +57,7 @@ Từ điển đơn ngữ thực sự rất tuyệt, và bạn sẽ chỉ nhận 
 
 ![Image](img/mono_guide/1.png)
 
-Yomitan là một tiện ích mở rộng trên trình duyệt cho phép bạn tra cứu các từ Tiếng Anh trên trang web bằng cách giữ ++shift++ và di chuột vào từ đó. Nó được hỗ trợ bởi mọi trình duyệt thuộc dòng Chrome hoặc Firefox. Bạn có thể xem hướng dẫn cài đặt Yomitan [ở đây](yomitan.md)
+Yomitan là một tiện ích mở rộng trên trình duyệt cho phép bạn tra cứu các từ Tiếng Anh trên trang web bằng cách giữ **Shift** và di chuột vào từ đó. Nó được hỗ trợ bởi mọi trình duyệt thuộc dòng Chrome hoặc Firefox. Bạn có thể xem hướng dẫn cài đặt Yomitan [ở đây](https://daihocmo.github.io/ngoai-ngu/yomitan/)
 
 ### Chọn và sử dụng từ điển đơn ngữ
 
@@ -76,14 +73,14 @@ Danh sách được trích dẫn trực tiếp từ Antimoon. Bạn có thể đ
 - Longman Dictionary of Contemporary English (LDOCE)
 - Oxford Advanced Learner’s Dictionary (OALD)
 
-Sau đó bạn hãy tải từ điển về và nhập bộ từ điển (ở mục [Từ điển gợi ý](#từ-điển-gợi-ý)) phù hợp nhất với bạn vào trong Yomitan.  
+Sau đó bạn hãy tải từ điển về và nhập bộ từ điển  phù hợp nhất với bạn vào trong Yomitan.  
 
 ### Tại sao cần sử dụng nhiều từ điển?
 
 Bạn cần phải có nhiều từ điển vì sẽ luôn có một số từ có trong một số từ điển này nhưng không có trong các từ điển khác. Chúng ta muốn sử dụng từ điển đơn ngữ nhiều nhất có thể ở đây. Một lý do khác là các từ điển khác nhau sẽ mô tả một từ theo một cách khác nhau và trong nhiều trường hợp, bạn có thể không hiểu định nghĩa của một từ điển nhưng lại hiểu ở một từ điển khác.
 
-!!! question “Nhưng bạn sẽ phải cuộn rất nhiều để đọc các định nghĩa tiếp theo?” 
-    Sử dụng phím tắt ++alt+down++
+### “Nhưng bạn sẽ phải cuộn rất nhiều để đọc các định nghĩa tiếp theo?” 
+Sử dụng phím tắt **Alt + Mũi tên đi xuống**
 
 ## Lựa chọn thay thế
 
@@ -104,7 +101,7 @@ Như thế đấy.
 
 ### Định dạng từ điển kỹ thuật số
 
-Bạn cũng có thể sử dụng các định dạng từ điển kĩ thuật số khác. Đọc [hướng dẫn cài đặt Goldendict](goldendict.md) để tìm hiểu thêm
+Bạn cũng có thể sử dụng các định dạng từ điển kĩ thuật số khác. Đọc [hướng dẫn cài đặt Goldendict](https://daihocmo.github.io/ngoai-ngu/goldendict/) để tìm hiểu thêm
 
 ### Điện thoại
 
@@ -164,3 +161,6 @@ Tìm thứ gì đó bạn thích. Quan trọng vẫn là đọc những gì mà 
 10. Đừng cố quá. Nếu thấy khó hiểu quá, hãy sử dụng từ điển song ngữ lại cho đến khi bạn cảm thấy tự tin trở lại.
 
 Have fun immersing!
+
+### Nguồn
+Bài viết là bản dịch và hiệu đính lại từ bài [Monolingual Guide](http://learnjapanese.moe/monolingual/) của TheMoeWay.

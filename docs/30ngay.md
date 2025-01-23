@@ -2,8 +2,7 @@
 
 ## Thông báo
 
-!!! info "Nhắc nhỏ"
-	Bài viết là bản dịch và hiệu đính lại từ bài [Routine](https://learnjapanese.moe/routine/) của TheMoeWay.
+**Nhắc nhỏ**: Bài viết là bản dịch và hiệu đính lại từ bài [Routine](https://learnjapanese.moe/routine/) của TheMoeWay.
 
 Được lấy ý tưởng từ UsagiSpoon. 
 
@@ -18,8 +17,7 @@ Bạn cần:
 
 ## Ngày 1:
 ### Giai đoạn: Ngày đầu tiên
-Điều đầu tiên bạn cần là đặt mục tiêu và định hướng rõ ràng cho mình. Bạn có thể đọc bài viết [Trước khi bắt đầu](truoc-khi-bat-dau.md) để tìm hiểu thêm
-
+Trước khi bắt đầu học, bạn hãy thử đọc bài [Trước khi bắt đầu học ngoại ngữ](https://daihocmo.github.io/ngoai-ngu/truoc-khi-bat-dau/) và [bài hướng dẫn chính](guide.md) 
 ## Ngày 2
 ### Giai đoạn: Xây dựng môi trường Tiếng Anh ngay tại nhà
 
@@ -89,20 +87,21 @@ Việc học ngữ pháp sẽ được bắt đầu từ ngày mai.
 
 Bây giờ sẽ là lúc bắt đầu học ngữ pháp.
 
-Bạn không cần phải drill, chọn các mẫu ngữ pháp nhất định hay bất cứ cái gì khác. Những thứ sẽ được học dưới đây đều cực kỳ phổ biến và sẽ được cải thiện dần thông qua quá trình học tập hàng ngày.
+Bạn không cần phải cày cuốc, chọn các mẫu ngữ pháp nhất định hay bất cứ cái gì khác. Những thứ sẽ được học dưới đây đều cực kỳ phổ biến và sẽ được cải thiện dần thông qua quá trình học tập hàng ngày.
 
 Đây là những hướng dẫn ngữ pháp mà cá nhân mình gợi ý:
 
-- [Hướng dẫn tự học ngữ pháp Tiếng Anh](https://daihocmo.github.io/luyen-thi-ngon-ngu/tieng-anh/) - Hướng dẫn do mình tự tổng hợp và soạn lại. 
-- [Ngữ pháp tiếng Anh cơ bản - Anh Ngữ ZIM](https://www.youtube.com/playlist?list=PLopA3SCkaFezPpz7xzYqUMA2s4uZAblZY) - Một danh sách phát trên Youtube về ngữ pháp Tiếng Anh cơ bản, rõ ràng, dễ hiểu và chỉ bao gồm những phần rất cơ bản.
+- [Hướng dẫn tự học ngữ pháp Tiếng Anh](https://thu-tram.github.io/toi-hoc-ngu-phap-tieng-anh/) - Hướng dẫn do mình tự tổng hợp và soạn lại. 
 - [**Study English Grammar - Văn Phạm**](https://www.youtube.com/playlist?list=PLLx8_1BoESGF1wy1P8vhAjw6gdupa2TyE) - Giải thích ngữ pháp rõ ràng, không quá khó hiểu và tập trung vào ngữ pháp Tiếng Anh thay vì cấu trúc ôn thi.
+- [Ngữ pháp tiếng Anh cơ bản - Anh Ngữ ZIM](https://www.youtube.com/playlist?list=PLopA3SCkaFezPpz7xzYqUMA2s4uZAblZY) - Một danh sách phát trên Youtube về ngữ pháp Tiếng Anh cơ bản, rõ ràng, dễ hiểu và chỉ bao gồm những phần rất cơ bản.
 
-!!! info "Cách học ngữ pháp"
-    1. Bạn hãy xem danh sách **Study English Grammar - Văn Phạm** từ video số 1 đến số 4 để hiểu về các dạng từ cơ bản trong Tiếng Anh
-    2. Chuyển qua **Ngữ pháp tiếng Anh cơ bản - Anh Ngữ ZIM** và xem tất cả các video hướng dẫn ngữ pháp của danh sách phát này.
-    3. Giờ hãy chuyển lại về danh sách phát đầu tiên là và bắt đầu xem tiếp từ video số 13, đó là [Văn Phạm 13: Cách Dùng Giới Từ IN - ON - AT](https://www.youtube.com/watch?v=2FANWksXtSU) cho đến hết danh sách phát 
+### "Cách học ngữ pháp"
 
-Nếu bạn là một người thích đọc hơn thay vì là ngồi nghe giảng thì bạn có thể: Đọc bộ 3 quyển Grammar In Use, bạn hãy ghé [Danh mục ngữ pháp của trang](resources.md/#ngữ-pháp) để đọc thêm.
+1. Bạn hãy xem danh sách **Study English Grammar - Văn Phạm** từ video số 1 đến số 4 để hiểu về các dạng từ cơ bản trong Tiếng Anh
+2. Chuyển qua **Ngữ pháp tiếng Anh cơ bản - Anh Ngữ ZIM** và xem tất cả các video hướng dẫn ngữ pháp của danh sách phát này.
+3. Giờ hãy chuyển lại về danh sách phát đầu tiên là và bắt đầu xem tiếp từ video số 13, đó là [Văn Phạm 13: Cách Dùng Giới Từ IN - ON - AT](https://www.youtube.com/watch?v=2FANWksXtSU) cho đến hết danh sách phát 
+
+Nếu bạn là một người thích đọc hơn thay vì là ngồi nghe giảng thì bạn có thể: Đọc bộ 3 quyển Grammar In Use, bạn hãy ghé [Danh mục ngữ pháp của trang](resources.md) để đọc thêm.
 
 Tất cả những gì bạn cần làm là **xem bài giảng** và **ghi chú lại**
 
@@ -112,7 +111,7 @@ Dự kiến sẽ xong toàn bộ khóa học ngữ pháp trong khoảng hơn 30 
 
 ***Ghi chú.***
 
-**Q: Nên ghi gì vào?**
+**Q: Mình nên ghi gì vào?**
 
 A: Những gì bạn thấy cần. Hãy dựa vào trực giác của bản thân và ghi lại những gì mình thấy cần. Nếu ngữ pháp nói [X] có nghĩa là [Y] thì có thể bạn sẽ muốn ghi chú lại. Ghi chú không cần quá chi tiết và chỉ đơn giản là viết cho mình đọc.
 
@@ -123,6 +122,7 @@ A: Ghi lại để có thể xem lại khi cần. (Từ khóa: khi **cần**)
 Về cơ bản, bạn đang tạo phiên bản mini từ những video bài giảng trên. Vì vậy, nếu lỡ *quên* gì, chỉ cần xem lại ghi chú.
 
 **Q: Không ghi có được không?**  
+
 A: Được. Điều này phụ thuộc vào bạn
 
 ### Giai đoạn: Vừa học xong bài ngữ pháp đầu tiên
@@ -159,12 +159,10 @@ Sau khi học xong thì cài đặt Anki.
 
 Giờ thì tải Anki. Bạn có thể tải Anki bằng cách truy cập [trang chủ để tải xuống](https://apps.ankiweb.net/) và bấm vào Download. Nó sẽ tự di chuyển xuống phần "Download". Nhấp vào tùy chọn đầu tiên. [Tải xuống bộ thẻ cần dùng tại đây](https://drive.proton.me/urls/YMRA0WG5G4#OwdCA78y6sTr) (tệp `.apkg`)
 
-!!! info "Bộ thẻ Anki sẽ không hiện phần dịch câu ví dụ"
-    Câu ví dụ được dịch bằng Google Dịch và mới được soát qua. Bạn có thể làm cho phần câu ví dụ xuất hiện trong thẻ bằng cách chỉnh HTML Template trong thẻ (Chi tiết thì bạn tự tìm nha).
-    
+
 Khi bạn mở Anki lần đầu tiên, bạn sẽ thấy cửa sổ chọn ngôn ngữ, bạn chọn ngôn ngữ nào cũng được.
 
-Trong Anki, có 3 button ở cuối cửa sổ. Chọn **Import File** để thêm bộ thẻ mình đã tải. Sau khi chọn, nó sẽ mở cửa sổ chọn tập tin. Chọn bộ thẻ mà mình đã tải. Khi nào xong thì nó hiện cái hộp toàn chữ, bấm Ok là xong
+Trong Anki, có 3 nút bấm ở cuối cửa sổ. Chọn **Import File** để thêm bộ thẻ mình đã tải. Sau khi chọn, nó sẽ mở cửa sổ chọn tập tin. Chọn bộ thẻ mà mình đã tải. Khi nào xong thì nó hiện cái hộp toàn chữ, bấm Ok là xong
 
 Số màu xanh da trời đó là số lượng thẻ mới bạn sẽ học trong một ngày. 20 thẻ mỗi ngày là mặc định và 20 thẻ có thể là quá nhiều hoặc quá ít. Bạn có thể muốn giảm số lượng thẻ nếu cảm thấy quá khó để hoàn thành 'Reviews' trong Anki.
 
@@ -326,19 +324,13 @@ Thói quen hàng ngày:
 2.  Ngữ pháp
 3.  Immersion
 
-Đây là quá trình cơ bản của phương pháp. Hãy tiếp tục làm những gì bạn đang làm.
-
-Càng nhiều thời gian = càng cải thiện.
- 
-Hãy đặt mục tiêu tăng lượng thời gian Immerse lên.
+Đây là quá trình cơ bản của phương pháp. Hãy tiếp tục làm những gì bạn đang làm. Càng dành nhiều thời gian thì sẽ càng cải thiện. Bạn có thể tiếp tục tăng lượng thời gian immerse lên.
 
 **Q: việc tra từ nhiều trong khi đọc là tốt hay xấu?**
 
-Đ: Điều này không xấu. Nhưng hãy lưu ý rằng nếu bạn tra quá nhiều từ liên tục, bạn sẽ có nguy cơ **kiệt sức** và mất hứng thú.
+Đ: Điều này không xấu. Nhưng hãy lưu ý rằng nếu bạn tra nhiều từ liên tục, bạn sẽ dễ bị **chán**.
 
-Phương pháp này phụ thuộc vào **sự kiên trì**.
-
-Để luôn kiên trì, cần đảm bảo rằng những mục tiêu được đặt ra có thể xử lý và hoàn thành được.
+Phương pháp này phụ thuộc vào **sự kiên trì**. Để luôn kiên trì, hãy chắc chắn rằng bạn có thể hoàn thành được những cột mốc được đặt ra.
 
 ## Ngày 10
 
@@ -348,7 +340,7 @@ Thói quen hàng ngày:
 2.  Ngữ pháp
 3.  Immersion
 
-Có thể bạn sẽ muốn thử [Condensed Audio](resources.md) , đây là một cách giúp phát huy tối đa hiệu quả của việc nghe thụ động.
+Có thể bạn sẽ muốn thử [Condensed Audio](resources.md), đây là một cách giúp phát huy tối đa hiệu quả của việc nghe thụ động.
 
 Nghe thụ động là khi bạn nghe Tiếng Anh trong khi đang làm việc khác.
 
@@ -386,8 +378,6 @@ Thói quen hàng ngày:
 2.  Ngữ pháp
 3.  Immersion
 
-Một ngày thực hiện Immersion ngôn ngữ nữa. Có lẽ ngày thứ 12 là ngày mình xem *Non-Non Biyori*.
-
 **Q: Có thể nghe đi nghe lại cùng một thứ không?**
 
 Đ: Hoàn toàn được. Nhưng nếu nó quá chán thì hãy chuyển sang nội dung mới.
@@ -422,7 +412,7 @@ luyện lập **nghe** và **đọc** là khi bạn **áp dụng** *kiến thứ
 
 Phương pháp **subtitle tutor** để nâng cao **khả năng hiểu** của bạn trong **quá trình nghe** bằng cách cung cấp cho bạn ngữ cảnh của những gì đang được nói thông qua phụ đề Tiếng Việt
 
-Việc **Thực hành nghe thuần (không có phụ)** là nơi bạn xây dựng mô hình về cách ngôn ngữ thực sự được nghe. Lý do chính cho điều này là để có được phát âm tốt và khả năng nghe được những từ đã biết. Nghe không rõ ràng như đọc, nó có thể rất nhanh và khó theo kịp. Bằng cách làm quen với việc nghe không phụ đề, bạn có thể rèn luyện bản thân để nghe những điều không rõ ràng này tốt hơn.
+Việc **Thực hành nghe thuần (không có phụ đề)** để giúp bạn có được phát âm tốt và khả năng nghe được những từ bạn đã học. Nghe không rõ ràng như đọc, nó có thể rất nhanh và khó theo kịp. Bằng cách làm quen với việc nghe không phụ đề, bạn có thể rèn luyện bản thân để nghe những điều không rõ ràng này tốt hơn.
 
 Khi khả năng nghe thuần (raw listening immersion) của bạn đã trở nên tốt hơn và bạn có thể hiểu được, việc nghe thuần hàng loạt (mass raw listening) là cách duy nhất để trở nên thành thạo.
 
@@ -430,30 +420,22 @@ Khi khả năng nghe thuần (raw listening immersion) của bạn đã trở n�
 
 ### Giai đoạn: thử thách 
   
-Từ hôm nay cho đến ngày 30, ta sẽ thực hiện "thử thách đọc tiểu thuyết", từ bây giờ cho đến ngày 30, hãy chọn một trong hai cuốn sau và đọc nha:  
+Từ hôm nay cho đến ngày 30, ta sẽ thực hiện "thử thách đọc". Hãy thử chọn một số cuốn có Tiếng Anh đơn giản. Hiện tại thì mình không nghĩ được quyển này khác ngoài Wonder hoặc Anne of Green Gables
 
-- [The Adventures of Tom Sawyer](https://gutenberg.org/ebooks/74) - Đọc miễn phí trên Gutenberg - Dài nên chỉ đọc đến phần bạn thích thôi.
 - [Wonder (R.J. Palacio)](https://en.wikipedia.org/wiki/Wonder_(Palacio_novel)) - Bản gốc của Điều kì diệu
+- [Anne of Green Gables](https://www.gutenberg.org/ebooks/45)
 
 Việc để hiểu hết được nội dung trong thử thách này là một chặng đường dài. Đừng quá lo lắng nếu không hiểu nhiều hoặc không hiểu gì. Sự hiểu cần nhiều thời gian Immersion và học tập hàng ngày. 
 
 **Q: Cần phải làm gì từ hôm nay cho đến ngày thứ 30?**
 
-Như mọi khi, bạn sẽ cần chạy Anki và hoàn thành các bài ngữ pháp hàng ngày.
-
-Việc Immersion sẽ trở nên... phức tạp hơn một chút.
-
-Bạn sẽ cần phải cân bằng giữa việc thực hiện thử thách trên và việc immerse như thường lệ.
-
-Dồn mọi thứ vào cùng một ngày có lẽ hơi quá khó với bạn
+Như mọi khi, bạn sẽ cần chạy Anki và hoàn thành các bài ngữ pháp hàng ngày. Việc Immersion sẽ trở nên... phức tạp hơn một chút. Bạn sẽ cần phải cân bằng giữa việc thực hiện thử thách trên và việc immerse như thường lệ. Dồn mọi thứ vào cùng một ngày có lẽ hơi quá khó với bạn
 
 **Mẹo tra từ: Trang tìm kiếm Yomitan**
 
 Bạn có thể sử dụng Yomitan để tìm kiếm từ bằng cách gõ hoặc sao chép và dán từ vào ô tìm kiếm.
 
-Bạn sẽ cần sử dụng trang tìm kiếm Yomitan để tra cứu các từ từ Trình trợ giúp đọc Yotsubato của mình.
-
-Bạn có thể truy cập trang tìm kiếm bằng cách chọn biểu tượng Yomitan trên thanh công cụ tiện ích mở rộng của trình duyệt, sau đó chọn biểu tượng kính lúp. Hoặc sử dụng tổ hợp phím tắt ++alt++++insert++
+Bạn có thể truy cập trang tìm kiếm bằng cách chọn biểu tượng Yomitan trên thanh công cụ tiện ích mở rộng của trình duyệt, sau đó chọn biểu tượng kính lúp. Hoặc sử dụng tổ hợp phím tắt Alt+Insert
 
 **Q: Tra cứu từng từ hay dùng xúc xắc để quyết định số lượng?**
 
