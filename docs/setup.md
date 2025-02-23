@@ -3,6 +3,11 @@
 ## Hướng dẫn cài đặt để chuẩn bị cho dân Immersion
 Đây là một hướng dẫn nhanh cách cài đặt một số phần mềm để hỗ trợ cho việc tiêu thụ nội dung Tiếng Anh và học từ đó.
 
+![](img/thien-nhien.webp)
+
+_cảnh đẹp, chứ cũng không liên quan đến hướng dẫn nữa, ở Việt Nam và lấy trên Pexels nhá_
+
+
 ## Anki
 Đây là một ứng dụng **cần có** - Dù mình tin là bạn có thể học mà *không sử dụng Anki* nhưng nó thực sự tốn thêm rất nhiều thời gian.
 

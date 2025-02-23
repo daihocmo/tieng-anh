@@ -1,4 +1,4 @@
-site_name: Tự luyện Tiếng Anh 
+site_name: Tiếng Anh - Khu học mở 
 site_description: Tự học Tiếng Anh các kiểu, chắc vậy.
 site_author: duykhanh471  
 site_url: https://daihocmo.github.io
@@ -11,12 +11,12 @@ nav:
     - 'Lộ trình': 'guide.md'
     - 'IPA': 'ipa.md'
     - 'Hướng dẫn đơn ngữ': 'monolingual.md'
-  - 'Thói quen': '30ngay.md'
-  - 'Câu hỏi thường gặp': 'faq.md'
-  - 'Setup': 'setup.md'
-  - 'Nội dung Tiếng Anh': 'noi-dung-tieng-anh.md'
+    - 'Thói quen': '30ngay.md'
+    - 'Câu hỏi thường gặp': 'faq.md'
+    - 'Setup': 'setup.md'
   - 'Tài nguyên học': 
     - 'Tổng hợp': 'resources.md'
+    - 'Nội dung Tiếng Anh': 'noi-dung-tieng-anh.md'
     - 'Comprehensible Input': 'input.md'
     - 'Tham gia cộng đồng học': 'join.md'
 
@@ -42,15 +42,37 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
   logo: assets/english.svg
+  favicon: assets/fav.png
+
   custom_dir: overrides
   features:
-    - navigation.tabs
+    - navigation.instant
+    - navigation.instant.progress
     - navigation.sections
-    - toc.follow
+    - navigation.expand
+    - search.suggest
     - search.highlighting
     - search.share
-    - search.suggest
   name: material
+
+markdown_extensions:
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - meta
+  - admonition
+  - attr_list
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.details
+  - pymdownx.keys
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - toc:
+      permalink: true
       
 plugins:
   - search

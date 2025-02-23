@@ -1,12 +1,18 @@
 # Hướng dẫn học đơn ngữ
 
-**"Nhắc nhỏ"**: Đây là hướng dẫn dành cho người học trung cấp.
+!!! info "Nhắc nhỏ"
+    Đây là hướng dẫn dành cho người học trung cấp.
 
 Hướng dẫn này sẽ giải thích quá trình đơn ngữ hóa và tại sao bạn nên làm vậy, các cách khác nhau để truy cập và làm quen với việc sử dụng từ điển đơn ngữ. 
 
 ### Quá trình đơn ngữ hóa là gì
 
 "Quá trình đơn ngữ hóa" là khi bạn chuyển sang làm quen với từ điển đơn ngữ, thường với trợ giúp từ điển song ngữ. Từ điển đơn ngữ là từ điển định nghĩa các từ của ngôn ngữ được định nghĩa ở chính ngôn ngữ ấy. Ví dụ: Từ điển Oxford là từ điển tiếng Anh đơn ngữ.
+
+
+![](img/mono2.webp)
+
+
 
 ### Tại sao bạn nên sử dụng từ điển đơn ngữ
 Từ điển đơn ngữ giúp tránh gây ra những "liên tưởng sai lầm" (false associations) từ Tiếng Việt sang Tiếng Anh. Nếu bạn không sử dụng từ điển đơn ngữ thì dù ngôn ngữ gốc của bạn là gì đi nữa, việc bạn mắc phải những liên tưởng sai lầm là điều khó tránh khỏi. Không có ngôn ngữ nào có thể thể hiện Tiếng Anh tốt hơn Tiếng Anh.

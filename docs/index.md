@@ -1,6 +1,8 @@
 # Hướng dẫn bắt đầu tự học Tiếng Anh
 Chào mừng đã đến với trang học Tiếng Anh này. Đây là trang sẽ hướng dẫn bạn cách tự học Tiếng Anh *chuẩn*.
 
+![](img/welcome.webp)
+
 ### Trước khi bắt đầu học
 Bạn sẽ học Tiếng Anh thông qua Comprehensible Input và Immersion. Toàn bộ các nội dung liên quan đến phương pháp và hướng dẫn học bạn có thể đọc trên trang [Tự luyện ngoại ngữ](https://daihocmo.github.io/ngoai-ngu/).
 
