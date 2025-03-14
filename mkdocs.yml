@@ -9,19 +9,18 @@ nav:
   - 'Trang chủ': 'index.md'
   - 'Hướng dẫn':
     - 'Lộ trình': 'guide.md'
+    - 'Thói quen': '30ngay.md'
     - 'IPA': 'ipa.md'
     - 'Hướng dẫn đơn ngữ': 'monolingual.md'
-    - 'Thói quen': '30ngay.md'
     - 'Câu hỏi thường gặp': 'faq.md'
-    - 'Setup': 'setup.md'
+  - 'Thiết lập':
+    - 'Chung': 'setup.md'
   - 'Tài nguyên học': 
     - 'Tổng hợp': 'resources.md'
     - 'Nội dung Tiếng Anh': 'noi-dung-tieng-anh.md'
     - 'Comprehensible Input': 'input.md'
     - 'Tham gia cộng đồng học': 'join.md'
 
-
-      
 theme:
   palette:
     # Palette toggle for light mode
