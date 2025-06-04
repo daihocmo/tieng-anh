@@ -1,7 +1,8 @@
 # Một hướng dẫn học Tiếng Anh
 
 *Nếu bạn không cần đọc phần mở đầu, hãy đến luôn phần **[Cách để học Tiếng Anh](#cach-hoc-tieng-anh)**.*
-Tiếng Anh1.1 Nhiều người học ngoại ngữ "thất bại" do đâu?
+
+## 1.1 Nhiều người học ngoại ngữ "thất bại" do đâu?
 
 Có một số lượng không nhỏ những người bắt đầu học Tiếng Anh để có thể trải nghiệm nội dung bằng Tiếng Anh hoặc để có thể nói Tiếng Anh trôi chảy và một số các mục tiêu khác. Dù vậy, không ít người sau nhiều năm học vẫn không thể đạt được mục tiêu ấy. Do việc học ngoại ngữ quá khó? Hay do chưa đủ chăm?
 
@@ -10,7 +11,8 @@ Có lẽ vấn đề không phải nằm ở những người học ấy, mà l�
 Khó có thể đạt được những mục tiêu như vậy chỉ với các phương pháp học ngoại ngữ truyền thống. Nhiều người "thất bại" vì thiếu vào một phần quan trọng, **immersion**, trong quá trình học tập. **Immersion** để chỉ việc nghe hoặc đọc nội dung của người bản ngữ dành cho người bản ngữ. 
 
 Ví dụ: Xem phim US/UK không sử dụng phụ đề là một cách ta thực hiện immersion Tiếng Anh.
-Tiếng Anh1.2 Vấn đề của phương pháp học truyền thống
+
+## 1.2 Vấn đề của phương pháp học truyền thống
 
 ![study_wakaranai_boy](img/study_wakaranai_boy.png){:  style="display: block; margin: 0 auto; max-width:40%; height:auto;" }  
 
@@ -40,7 +42,8 @@ Người mới học thường mắc một cái bẫy là cố gắng học tài
 Chủ nghĩa cầu toàn có thể là con dao hai lưỡi trong việc học ngôn ngữ. Tốn quá nhiều thời gian và công sức mà không đạt được nhiều kết quả, cố ghi nhớ từng chi tiết nhỏ nhất của những thứ không thực sự quan trọng trong cả quá trình học dài đấy.
 
 Học một ngôn ngữ giống như leo núi vậy. Bạn có thể cố gắng leo mà không dùng đến bất kỳ công cụ hỗ trợ nào – và dù sẽ rất vất vả, nếu kiên trì, bạn vẫn có thể đến đích. Việc học theo cách truyền thống giống như đang bện một sợi dây thừng để việc leo núi dễ hơn. Nhưng bạn không thể chỉ ngồi đó bện dây mãi – đến một lúc nào đó, bạn phải bắt đầu leo. Dù bạn có làm ra bao nhiêu dây đi nữa, thì việc leo núi vẫn sẽ khó khăn và tốn thời gian. Không có đường tắt – bạn phải thực sự bắt tay vào *làm*.
-Tiếng Anh1.3 Quy mô của ngôn ngữ
+
+## 1.3 Quy mô của ngôn ngữ
 
 Ngôn ngữ thực sự quá rộng lớn. Có quá nhiều thứ vượt xa ranh giới trong một lớp học hoặc phương pháp dạy theo kiểu "x có nghĩa là y" (A is B) hoặc "x thực hiện hành động y" (A does B). Để thành thạo một ngôn ngữ ở cấp độ cao cần một lượng lớn "đọc" và "nghe" nội dung ngôn ngữ đích.
 
@@ -53,7 +56,8 @@ Nếu không có những trải nghiệm cần thiết, việc cố gắng tự 
 Học ngôn ngữ là một quá trình ghi nhớ các pattern (mẫu) trong vô thức thông qua comprehensible input. Điều này có nghĩa là, khi bạn hiểu điều gì đó (comprehensible) trong quá trình immersion, bộ não của bạn sẽ vô thức lưu mẫu (pattern) đó vào trong đầu để có thể sử dụng trong tương lai. Nó sẽ kiểu như: "Ê mày, có mẫu số 234 được sử dụng với mẫu số 82 và mẫu số 10 kìa".
 
 Tại sao lại không nói về "biết ngữ pháp" hay "nhớ từ vựng"? Bởi đây không phải là cách xử lý ngôn ngữ tự nhiên. Một số người không phải là người bản ngữ Tiếng Anh và có thể là đã học ngữ pháp Tiếng Anh từ trước, nhưng họ sẽ chẳng mấy khi nghĩ về các cấu trúc ngữ pháp khi tương tác với Tiếng Anh hàng ngày.
-Tiếng Anh1.4 Chấp nhận cảm giác khó chịu và mù mờ
+
+## 1.4 Chấp nhận cảm giác khó chịu và mù mờ
 
 ![moyamoya](img/moyamoya_woman.png){:  style="display: block; margin: 0 auto; max-width:40%; height:auto;" }  
 
@@ -65,14 +69,16 @@ Ví dụ, một người học khi cố học một cấu trúc ngữ pháp nào
 <h3>↑ Đây là điều chúng ta cần tránh</h3 >  </div>
 
 Không dễ dàng gì để có thể hiểu hết quyển light novel hay một bộ anime ngay lần đầu. Cần tới lần thứ ba, thứ tư, thứ năm và thậm chí thứ sáu để có thể học được điều gì đó.
-Tiếng Anh1.5 "Immersion" là cái gì?
+
+## 1.5 "Immersion" là cái gì?
 
 Immersion là khi bạn tương tác với nội dung tự nhiên bằng ngôn ngữ mục tiêu (ở đây là Tiếng Anh). Là nội dung KHÔNG hề được làm hoặc chọn lọc kỹ càng cho người học mà được làm bởi chính người bản ngữ cho người bản ngữ.
 
 Việc đọc hướng dẫn này (hướng dẫn gốc được viết bằng Tiếng Anh) ngay bây giờ sẽ được tính là bạn đang "thực hành immersion Tiếng Anh", bởi vì hướng dẫn này không hề được đơn giản hóa hay giúp cho người học Tiếng Anh. Nó được viết cho những người nói Tiếng Anh ở mức độ bản ngữ/thành thạo. Vì vậy, khi bạn nghe hoặc đọc nội dung Tiếng Anh mà người Nhật cũng thường sử dụng, bạn đang thực hành immersion.
 
 Theo thuật ngữ thì được gọi là *input*, nhưng mình thích dùng *immersion* hơn.
-Tiếng Anh1.6 Cách tiếp cận "từ trên xuống" (top-down) trong việc học ngôn ngữ
+
+## 1.6 Cách tiếp cận "từ trên xuống" (top-down) trong việc học ngôn ngữ
 
 Việc học một ngôn ngữ yêu cầu bạn phải hài lòng với việc không hiểu tất cả mọi thứ.
 
@@ -113,7 +119,7 @@ Anki là một phần mềm flashcard được thiết kế để giúp bạn gh
 
 Khi mở Anki lần đầu tiên bạn sẽ được yêu cầu cài đặt ngôn ngữ hiển thị, hãy đặt theo mặc định (English). 
 
-Bộ thẻ dành cho người mới bắt đầu mà mình gợi ý là [Kaishi 1.5k](https://github.com/donkuri/Kaishi/releases) có thể tải xuống thông qua [đường dẫn này](https://github.com/donkuri/Kaishi/releases) (chọn tệp có đuôi `.apkg`) (Bộ thẻ đã có bản dịch Tiếng Việt: [Kaishi1.5K Tiếng Việt](https://github.com/thu-tram/kaishi-vi/releases))
+Bộ thẻ dành cho người mới bắt đầu mà mình gợi ý là [3000 từ tiếng anh](https://ankiweb.net/shared/info/989021891) có thể tải xuống thông qua [đường dẫn này](https://ankiweb.net/shared/info/989021891) (Kéo xuống là thấy nút Download).
 
 Sau khi quá trình tải xuống hoàn tất, hãy thêm bộ thẻ vào Anki bằng cách chọn "Import file" và điều hướng đến chỗ mà bạn đã tải tệp xuống (.apkg) rồi chọn "Import" ở trên cùng bên phải.
 
@@ -125,7 +131,7 @@ Thay đổi *Maximum reviews/day* từ `200` ĐẾN `9999`. Đừng lo lắng v�
 
 Đối với *New cards/day*, `20` có thể hơi quá khó với một số người. Nếu bạn cảm thấy áp lực khi học 20 từ mới mỗi ngày, hãy thử giảm con số xuống còn `10` hoặc thấp hơn.
 
-Khi bạn bắt đầu học bộ thẻ *Kaishi 1.5k*, thẻ đầu tiên là thẻ giới thiệu bộ thẻ. Bạn có thể xóa thẻ này bằng cách chọn "More" và chọn "Delete Note"
+Khi bạn bắt đầu học bộ thẻ từ vựng, thẻ đầu tiên là thẻ giới thiệu bộ thẻ. Bạn có thể xóa thẻ này bằng cách chọn "More" và chọn "Delete Note"
 
 Anki giúp bạn ghi nhớ mọi thứ bằng cách kiểm tra khả năng nhớ nội dung ở mặt sau thẻ. Kiểm tra xem liệu bạn có biết nghĩa và cách đọc từ đó hay không. Mọi thứ khác trên thẻ chỉ để hỗ trợ bạn trong quá trình học.
 
