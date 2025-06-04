@@ -6,27 +6,32 @@ repo_url: https://github.com/daihocmo/tieng-anh
 repo_name: Chỉnh sửa trang
 
 nav:
-  - 'Trang chủ': 'index.md'
+  - 'Trang chủ': 
+    - 'Trang chủ': 'index.md'
+    - 'Tham gia nhóm Discord': 'join.md'
   - 'Hướng dẫn':
-    - 'Lộ trình': 'guide.md'
-    - 'Thói quen': '30ngay.md'
-    - 'IPA': 'ipa.md'
+    - 'Hướng dẫn tự học Tiếng Anh': 'guide.md'
+    - '30 ngày Tiếng Anh': '30ngay.md'
+    - 'Nói Tiếng Anh': 'speaking.md'
+    - 'Phát âm & IPA': 'ipa.md'
+    - 'Các mẹo và chiến lược đọc Tiếng Anh': 'readingtips.md'
+    - 'Khai thác tối đa các văn bản Tiếng Anh': 'readhow.md'
     - 'Hướng dẫn đơn ngữ': 'monolingual.md'
-    - 'Câu hỏi thường gặp': 'faq.md'
-  - 'Thiết lập':
-    - 'Chung': 'setup.md'
+    - 'Câu hỏi thường gặp (FAQ)': 'faq.md'
+  - 'Setup':
+    - 'Hướng dẫn cài đặt Yomitan': 'yomitan.md'
   - 'Tài nguyên học': 
     - 'Tổng hợp': 'resources.md'
+  - 'Các bài viết khác':
     - 'Nội dung Tiếng Anh': 'noi-dung-tieng-anh.md'
     - 'Comprehensible Input': 'input.md'
-    - 'Tham gia cộng đồng học': 'join.md'
 
 theme:
   palette:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: indigo
+      primary: white
       accent: grey
       toggle:
         icon: material/brightness-7
@@ -35,13 +40,13 @@ theme:
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: indigo
+      primary: black
       accent: grey
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
-  logo: assets/english.svg
-  favicon: assets/fav.png
+  logo: assets/logo.png
+  favicon: assets/logo.png
 
   custom_dir: overrides
   features:

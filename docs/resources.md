@@ -57,7 +57,7 @@ Những kênh này đều đã không còn hoạt động thường xuyên, ho�
 - [**English Media Recommendation**](https://daihocmo.github.io/awesome-ngon-ngu/media-recs/tieng-anh/)
 
 ### Từ điển
-Mình đã tổng hợp toàn bộ hướng dẫn cho Yomitan và GoldenDict (Hai lựa chọn đã từng được giới thiệu ở đây). Bạn hãy đọc ở bài [Hướng dẫn cài đặt](setup.md) để tìm hiểu thêm về cách cài đặt, lựa chọn từ điển.
+Mình đã tổng hợp toàn bộ hướng dẫn cho Yomitan và GoldenDict (Hai lựa chọn đã từng được giới thiệu ở đây). Bạn hãy đọc ở mục [Hướng dẫn cài đặt](https://daihocmo.github.io/ngoai-ngu/yomitan/) để tìm hiểu thêm về cách cài đặt, lựa chọn từ điển.
 
 #### Trực tuyến
 

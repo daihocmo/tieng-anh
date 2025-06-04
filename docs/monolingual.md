@@ -9,9 +9,7 @@ Hướng dẫn này sẽ giải thích quá trình đơn ngữ hóa và tại sa
 
 "Quá trình đơn ngữ hóa" là khi bạn chuyển sang làm quen với từ điển đơn ngữ, thường với trợ giúp từ điển song ngữ. Từ điển đơn ngữ là từ điển định nghĩa các từ của ngôn ngữ được định nghĩa ở chính ngôn ngữ ấy. Ví dụ: Từ điển Oxford là từ điển tiếng Anh đơn ngữ.
 
-
 ![](img/mono2.webp)
-
 
 
 ### Tại sao bạn nên sử dụng từ điển đơn ngữ

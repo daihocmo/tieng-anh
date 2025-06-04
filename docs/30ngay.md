@@ -93,7 +93,6 @@ Bạn không cần phải cày cuốc, chọn các mẫu ngữ pháp nhất đ�
 
 Đây là những hướng dẫn ngữ pháp mà cá nhân mình gợi ý:
 
-- [Hướng dẫn tự học ngữ pháp Tiếng Anh](https://thu-tram.github.io/toi-hoc-ngu-phap-tieng-anh/) - Hướng dẫn do mình tự tổng hợp và soạn lại. 
 - [**Study English Grammar - Văn Phạm**](https://www.youtube.com/playlist?list=PLLx8_1BoESGF1wy1P8vhAjw6gdupa2TyE) - Giải thích ngữ pháp rõ ràng, không quá khó hiểu và tập trung vào ngữ pháp Tiếng Anh thay vì cấu trúc ôn thi.
 - [Ngữ pháp tiếng Anh cơ bản - Anh Ngữ ZIM](https://www.youtube.com/playlist?list=PLopA3SCkaFezPpz7xzYqUMA2s4uZAblZY) - Một danh sách phát trên Youtube về ngữ pháp Tiếng Anh cơ bản, rõ ràng, dễ hiểu và chỉ bao gồm những phần rất cơ bản.
 
