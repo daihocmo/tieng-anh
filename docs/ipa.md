@@ -44,7 +44,7 @@ Bạn nên nghe do người bản ngữ phát âm. Đây là một số gợi ý
 
 Sau khi làm quen với các âm riêng lẻ, bước tiếp theo là học cách chúng kết hợp thành từ.
 
-**Học phiên âm và trọng âm từ có thực sự cần thiết khi ta chỉ cần nghe?** Tương tự như IPA, việc học đọc phiên âm của từ và xác định trọng âm **không phải là con đường duy nhất**, nhưng lại **vô cùng lợi ích**.
+**Học phiên âm và trọng âm từ có thực sự cần thiết khi ta chỉ cần nghe?** Câu trả lời tương tự như IPA. Không bắt buộc.
 
 **Phiên âm từ (Phonetic Transcription):** Tiếng Anh nổi tiếng với việc "viết một đằng, đọc một nẻo". Phiên âm giúp bạn biết chính xác cách một từ được đọc, tránh những lỗi sai phổ biến do suy đoán dựa trên mặt chữ (ví dụ: "come" /kʌm/ và "home" /hoʊm/).
 
@@ -62,7 +62,7 @@ Cách hiệu quả nhất để làm điều này chính là **nghe đầu vào 
 
 Mỗi lần bạn nghe một từ đúng cách, não bạn sẽ tự xây dựng một “thư viện âm thanh” bên trong. Khi thư viện này đủ phong phú, bạn sẽ **tự phát âm đúng mà không cần phải nghĩ ngợi nhiều**. Đây chính là sức mạnh của **comprehensible input** – nghe đủ nhiều, đúng trình độ, đúng nội dung bạn thích – và khả năng phát âm sẽ đến một cách tự nhiên.
 
-## Kết Luận: Nghe nhiều hơn
+## Kết luận: Nghe nhiều hơn
 
 Bạn sẽ không có lối tắt để có thể cải thiện khả năng phát âm của mình. Nhưng bạn có thể làm nó nhanh hơn thông qua việc học cách phát âm Tiếng Anh chuẩn + nghe thật nhiều Tiếng Anh mà bạn thích.
 

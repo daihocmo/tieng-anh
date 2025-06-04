@@ -156,7 +156,7 @@ Sau khi học xong thì cài đặt Anki.
 
 Đầu tiên hãy xem video này: [https://www.youtube.com/watch?v=UDUITtA1jJI](https://www.youtube.com/watch?v=UDUITtA1jJI)  
 
-Giờ thì tải Anki. Bạn có thể tải Anki bằng cách truy cập [trang chủ để tải xuống](https://apps.ankiweb.net/) và bấm vào Download. Nó sẽ tự di chuyển xuống phần "Download". Nhấp vào tùy chọn đầu tiên. [Tải xuống bộ thẻ Core1700](https://drive.proton.me/urls/YMRA0WG5G4#OwdCA78y6sTr) (tệp `.apkg`)
+Giờ thì tải Anki. Bạn có thể tải Anki bằng cách truy cập [trang chủ để tải xuống](https://apps.ankiweb.net/) và bấm vào Download. Nó sẽ tự di chuyển xuống phần "Download". Nhấp vào tùy chọn đầu tiên. [Tải xuống bộ thẻ 3000 từ vựng](https://ankiweb.net/shared/info/989021891)
 
 Khi bạn mở Anki lần đầu tiên, bạn sẽ thấy cửa sổ chọn ngôn ngữ, bạn chọn ngôn ngữ nào cũng được.
 
@@ -164,7 +164,7 @@ Trong Anki, có 3 nút bấm ở cuối cửa sổ. Chọn **Import File** để
 
 Số màu xanh da trời đó là số lượng thẻ mới bạn sẽ học trong một ngày. 20 thẻ mỗi ngày là mặc định và 20 thẻ có thể là quá nhiều hoặc quá ít. Bạn có thể muốn giảm số lượng thẻ nếu cảm thấy quá khó để hoàn thành 'Reviews' trong Anki.
 
-Nhấp vào biểu tượng bánh răng bên cạnh bộ thẻ *Core1700*.
+Nhấp vào biểu tượng bánh răng bên cạnh bộ thẻ *3000 từ vựng*.
 
 Bấm vào *Options*.
 
@@ -463,10 +463,10 @@ Giờ đây, bạn đã có đủ nền tảng để tự mình tiếp tục h�
 
 Có một số “nhiệm vụ học Tiếng Anh” cho bạn đây. Không có giới hạn thời gian cho những nhiệm vụ này. Với một số nhiệm vụ khác có thể sẽ cần đến đến vài tháng hoặc vài năm. Tuy vậy, vẫn nên hoàn thành chúng.
 
-- Hoàn thành bộ thẻ **1700 từ vựng cơ bản** 
+- Hoàn thành bộ thẻ **3000 từ vựng** 
 - Hoàn thành hướng dẫn ngữ pháp mà bạn chọn 
 - Bắt đầu đọc những nội dung dài hơn, như sách hoặc tiểu thuyết chẳng hạn. Tham gia vào Discord để giao lưu với những người có cùng sở thích.
 - Rèn luyện khả năng nhận biết và đọc số Tiếng Anh: [Thực hành số Tiếng Anh](https://langpractice.com/english-us).
-- Tạo một bộ thẻ Anki mining và thực hành sentence mining sau khi hoàn thành bộ thẻ **1700 từ vựng cơ bản**.
+- Tạo một bộ thẻ Anki mining và thực hành sentence mining sau khi hoàn thành bộ thẻ **3000 từ vựng**.
 - Hãy thử sử dụng từ điển đơn ngữ sau khi đọc xong một quyển sách.
 - Tăng số giờ Immersion.
