@@ -12,6 +12,7 @@ Những kênh này đều đã không còn hoạt động thường xuyên, ho�
 
 ### Từ vựng
 
+- [bộ thẻ 3000 từ vựng](https://ankiweb.net/shared/info/989021891) - from voz with love
 - [Core1.7k](https://drive.proton.me/urls/YMRA0WG5G4#OwdCA78y6sTr) - Đây là bộ 1700 từ vựng cơ bản mà mình phát triển dựa trên [một bộ thẻ khác ở trên AnkiVN](https://ankiweb.net/shared/info/1125484373), sửa lại định dạng thẻ và tối giản hóa để giúp mọi người học từ vựng dễ dàng hơn.
 
 ### Phát âm

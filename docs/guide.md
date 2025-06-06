@@ -68,7 +68,7 @@ Ví dụ, một người học khi cố học một cấu trúc ngữ pháp nào
 <div style="text-align: center; font-weight:bold">
 <h3>↑ Đây là điều chúng ta cần tránh</h3 >  </div>
 
-Không dễ dàng gì để có thể hiểu hết quyển light novel hay một bộ anime ngay lần đầu. Cần tới lần thứ ba, thứ tư, thứ năm và thậm chí thứ sáu để có thể học được điều gì đó.
+Không dễ dàng gì để có thể hiểu hết quyển tiểu thuyết hay một bộ phim ngay lần đầu. Cần tới lần thứ ba, thứ tư, thứ năm và thậm chí thứ sáu để có thể học được điều gì đó.
 
 ## 1.5 "Immersion" là cái gì?
 
@@ -109,7 +109,7 @@ Bảng chữ cái Tiếng Anh (Tiếng Anh: English alphabet) hiện đại là 
 
 ## 2.2 Học từ vựng
 
-Để hiểu được Kanji và cách chúng được sử dụng cùng nhau trong từ, bạn nên học bộ thẻ từ vựng Anki dành cho người mới bắt đầu. Dưới đây là một bộ thẻ bao gồm khoảng *1500* từ, giúp bạn học những từ Tiếng Anh thông dụng nhất để khởi đầu quá trình học Tiếng Anh của mình.
+Bạn có thể học bộ thẻ từ vựng Anki dành cho người mới bắt đầu. Dưới đây là một bộ thẻ bao gồm khoảng *1500* từ, giúp bạn học những từ Tiếng Anh thông dụng nhất để khởi đầu quá trình học Tiếng Anh của mình.
 
 ### Cài đặt Anki nhanh
 
@@ -194,7 +194,7 @@ Có một số cấp độ nhất định khi nghe. Cấp độ một sẽ là n
 
 #### Nghe "chủ động" và "thụ động"
 
-Nghe chủ động là khi bạn tập trung hoàn toàn vào việc nghe của mình. Bạn đang thực hiện immersion tất cả các khía cạnh của nó như là nhìn vào màn hình và nghe anime. Đây là kiểu nghe có lợi nhất.
+Nghe chủ động là khi bạn tập trung hoàn toàn vào việc nghe của mình. Bạn đang thực hiện immersion tất cả các khía cạnh của nó như là nhìn vào màn hình chẳng hạn. Đây là kiểu nghe có lợi nhất.
 
 Nghe "thụ động" là khi bạn làm việc khác và nghe ở chế độ nền. Nếu bạn có lối sống bận rộn thì có thể tranh thủ từng khoảnh khắc để nghe. Bạn nên thực hành thực hiện immersion "thụ động" để lấp đầy những khoảng trống - những lúc mà bạn thường không học Tiếng Anh.
 
