@@ -107,6 +107,26 @@ Bảng chữ cái Tiếng Anh (Tiếng Anh: English alphabet) hiện đại là 
 
 ![](img/main_guide/alphabet.png)
 
+### Học bảng phiên âm quốc tế (IPA)
+
+Tóm tắt gọn là: Nếu bạn học Tiếng Anh, bạn nên học IPA. Gần như toàn bộ từ điển Tiếng Anh, dù là trên giấy hay trực tuyến, đều sử dụng IPA để thể hiện cách phát âm.
+
+Trước khi bạn học phát âm từ vựng, bạn cần phải học phát âm chính xác từng phần. Tất nhiên, bản thân việc "đánh vần" Tiếng Anh sẽ không rõ ràng hay nhất quán như với Tiếng Việt, nhưng ta sẽ không tự đoán cách phát âm mà sẽ sử dụng bảng phiên âm IPA.
+
+Một ví dụ đơn giản:
+
+1. through - Pronunciation: /THRUU/, IPA: /θɹu/
+2. thought - Pronunciation: /THAHT/, IPA: /θɑt/
+3. cough - Pronunciation: /KAHF/, IPA: /kɑf/
+4. though - Pronunciation: /THOHW/, IPA: /ðoʊ/
+5. bough - Pronunciation: /BOW/, IPA: /bɑʊ/ 
+6. enough - Pronunciation: /ih NUHF/; IPA: /ɪˈnʌf/
+7. hiccough - Pronunciation: /HIH kuhp/ IPA: /ˈhɪkəp/
+
+(Như bạn có thể thấy, cùng vần "ough" nhưng cách phát âm giữa các từ lại hoàn toàn khác nhau)
+
+Việc học IPA sẽ cho bạn biết cách phát âm nhất quán của từ (người bản xứ nói nhanh, nuốt âm, hay có accent vùng miền). Một khi bạn đã gắn kết mỗi ký hiệu IPA với âm thanh tương ứng, bạn sẽ tự tin phát âm đúng ngay từ lần đầu gặp từ mới, thay vì phải nghe đi nghe lại để bắt chước. Đây là một kỹ năng nền tảng sẽ giúp toàn bộ quá trình học Tiếng Anh của bạn trở nên nhanh và dễ dàng hơn.
+
 ## 2.2 Học từ vựng
 
 Bạn có thể học bộ thẻ từ vựng Anki dành cho người mới bắt đầu. Dưới đây là một bộ thẻ bao gồm khoảng *1500* từ, giúp bạn học những từ Tiếng Anh thông dụng nhất để khởi đầu quá trình học Tiếng Anh của mình.
