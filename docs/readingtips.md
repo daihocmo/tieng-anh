@@ -1,6 +1,6 @@
 # Mẹo và chiến lược đọc Tiếng Anh
 
-Có một giải pháp đơn giản giúp cải thiện khả năng Tiếng Anh: **ĐỌC**.
+Một cách đơn giản để lên trình Tiếng Anh là.. **ĐỌC**.
 
 Nhiều người học đã giỏi lên cũng nhờ việc này. **Đọc nhiều hơn** thường là lời khuyên cho những người học muốn cải thiệu kĩ năng của mình.
 
@@ -12,12 +12,12 @@ Mục tiêu của bài viết này là cung cấp các chiến lược và mẹo
 
 Điều quan trọng là bạn chỉ làm một việc duy nhất trong thời gian đó — không chuyển tab, không kiểm tra điện thoại, không bật nhạc có lời. Khi thời gian học kết thúc, bạn nghỉ đúng theo lịch đã đặt. Dù đang rất vào guồng, bạn vẫn nên dừng lại. Việc này giúp bạn tránh kiệt sức, thay vì cố học đến khi não.exe ngừng hoạt động.
 
-Một số người nghĩ rằng chỉ cần rảnh thì học, hoặc đợi có hứng rồi học, nhưng đây là công thức chắc chắn dẫn tới việc... không học. Bởi cảm hứng không phải lúc nào cũng đến, còn thời gian rảnh thì thường được dùng để làm việc khác.
+Một số người nghĩ rằng chỉ cần rảnh thì họMục tiêu của bài viết này là cung cấp các chiến lược và mẹo để giúp bạn *bắt đầu đọc*, *tiếp tục đọc*, và *đọc đúng cách*. Cùng với đó, chúng ta sẽ lần lượt tháo gỡ những hiểu lầm thường gặp khiến nhiều người bỏ cuộc giữa chừng.
+c, hoặc đợi có hứng rồi học, nhưng đây là công thức chắc chắn dẫn tới việc... không học. Bởi cảm hứng không phải lúc nào cũng đến, còn thời gian rảnh thì thường được dùng để làm việc khác.
 
 Pomodoro là cách giúp bạn chủ động dành thời gian cho việc học. Hãy bắt đầu với một phiên 15 phút hôm nay. Đừng chờ đến khi thấy đủ động lực rồi mới bắt đầu đọc. Bạn có thể sử dụng [https://studyfoc.us/](https://studyfoc.us/) trên trình duyệt cho Pomodoro + nhạc nền để đọc sách cùng lúc.
 
 ![Ảnh nền pomodoro](img/pomodoro1.png)
-
 
 ## Biến việc đọc trở thành một thói quen
 
@@ -35,7 +35,7 @@ Một người đọc Tiếng Anh mỗi ngày 10 phút trong 3 tháng sẽ giỏ
 
 Một quan niệm phổ biến trong cộng đồng học Tiếng Anh là: Học ngữ pháp phí thời gian. Luận điểm này có thể sẽ đúng, nếu như bạn học các hướng dẫn ngữ pháp Tiếng Anh do phần lớn người Việt viết. Nhưng trên thực tế, việc không *thật sự* học ngữ pháp lại khiến rất nhiều người mắc kẹt ở trình độ trung cấp mãi không tiến lên được.
 
-Học ngữ pháp giúp bạn đọc hiểu nhanh và chính xác hơn. Khi bạn nắm được cấu trúc ngữ pháp, bạn không còn phải đoán mò mối quan hệ giữa các từ trong câu. Bạn sẽ nhận ra đâu là chủ ngữ, động từ, mệnh đề phụ hay liên từ — tất cả những thứ mà nếu chỉ đọc cho quen, bạn có thể không bao giờ tự khám phá ra được đầy đủ (Bạn có thể đọc thêm bài [Khai thác tối đa các văn bản Tiếng Anh](readhow.md) để tìm hiểu thêm).
+Học ngữ pháp giúp bạn đọc hiểu nhanh và chính xác hơn. Khi bạn nắm được cấu trúc ngữ pháp, bạn không còn phải đoán mò mối quan hệ giữa các từ trong câu. Bạn sẽ nhận ra đâu là chủ ngữ, động từ, mệnh đề phụ hay liên từ — tất cả những thứ mà nếu chỉ đọc cho quen, bạn có thể không bao giờ tự khám phá ra được đầy đủ.
 
 Ngữ pháp không phải là danh sách các quy tắc như công thức toán của mấy hướng dẫn ngữ pháp ngoài chợ. Nó là cách tư duy của ngôn ngữ. Khi hiểu được nó, bạn sẽ thấy các đoạn văn Tiếng Anh trở nên rõ ràng và có trật tự hơn nhiều. Câu phức không còn là một đống chữ nối nhau, mà là những thành phần có thể phân tích, hiểu và đoán được ý.
 

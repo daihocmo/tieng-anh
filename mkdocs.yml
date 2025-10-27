@@ -1,9 +1,9 @@
-site_name: Tiếng Anh - Khu học mở 
+site_name: TheAnhWay - Khu học mở 
 site_description: Tự học Tiếng Anh các kiểu, chắc vậy.
-site_author: duykhanh471  
+site_author: khuhocmo  
 site_url: https://daihocmo.github.io
 repo_url: https://github.com/daihocmo/tieng-anh
-repo_name: Chỉnh sửa trang
+repo_name: Đóng góp & chỉnh sửa trang
 
 nav:
   - 'Trang chủ': 
@@ -14,15 +14,16 @@ nav:
     - '30 ngày Tiếng Anh': '30ngay.md'
     - 'Nói Tiếng Anh': 'speaking.md'
     - 'Các mẹo và chiến lược đọc Tiếng Anh': 'readingtips.md'
-    - 'Khai thác tối đa các văn bản Tiếng Anh': 'readhow.md'
     - 'Hướng dẫn đơn ngữ': 'monolingual.md'
     - 'Câu hỏi thường gặp (FAQ)': 'faq.md'
+  - 'Xàm xàm về':
+    - 'LitRPG': 'litrpg.md'
+    - 'Webnovel': 'webnovel.md'
+    - 'Cách để trở nên disgustingly educated': 'educated.md'
   - 'Setup':
     - 'Hướng dẫn cài đặt Yomitan': 'yomitan.md'
   - 'Tài nguyên học': 
     - 'Tổng hợp': 'resources.md'
-  - 'Các bài viết khác':
-    - 'Nội dung Tiếng Anh': 'noi-dung-tieng-anh.md'
     - 'Comprehensible Input': 'input.md'
 
 theme:
@@ -44,8 +45,8 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
-  logo: assets/logo.png
-  favicon: assets/logo.png
+  logo: assets/fav.png
+  favicon: assets/fav.png
 
   custom_dir: overrides
   features:

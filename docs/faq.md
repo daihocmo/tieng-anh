@@ -3,7 +3,7 @@
 
 ### Mình nên học Tiếng Anh như thế nào?
 
-Thông qua số lượng lớn input, nói cách khác là Immersion. Xem hướng dẫn để tìm hiểu thêm.
+Thông qua số lượng lớn input hay immersion. Xem hướng dẫn để tìm hiểu thêm.
 
 ### Bạn có thể dạy mình Tiếng Anh được không?
 
