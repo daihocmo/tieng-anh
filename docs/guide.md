@@ -4,13 +4,13 @@
 
 ## 1.1 Nhiều người học ngoại ngữ "thất bại" do đâu?
 
-Có một số lượng không nhỏ những người bắt đầu học Tiếng Anh để có thể trải nghiệm nội dung bằng Tiếng Anh hoặc để có thể nói Tiếng Anh trôi chảy và một số các mục tiêu khác. Dù vậy, không ít người sau nhiều năm học vẫn không thể đạt được mục tiêu ấy. Do việc học ngoại ngữ quá khó? Hay do chưa đủ chăm?
+Có một số lượng không nhỏ những người bắt đầu học Tiếng Anh để có thể trải nghiệm nội dung bằng Tiếng Anh hoặc để có thể nói Tiếng Anh trôi chảy. Dù vậy, không ít người sau nhiều năm học vẫn không thể đạt được mục tiêu ấy. Có phải do việc học ngoại ngữ quá khó? Hay do chưa đủ chăm?
 
 Có lẽ vấn đề không phải nằm ở những người học ấy, mà là ở phương pháp. Trong việc học ngôn ngữ, phương pháp học của bạn tạo ra sự khác biệt rất lớn trong khả năng và tốc độ tiến bộ ngoại ngữ của bạn.
 
-Khó có thể đạt được những mục tiêu như vậy chỉ với các phương pháp học ngoại ngữ truyền thống. Nhiều người "thất bại" vì thiếu vào một phần quan trọng, **immersion**, trong quá trình học tập. **Immersion** để chỉ việc nghe hoặc đọc nội dung của người bản ngữ dành cho người bản ngữ. 
+Khó có thể đạt được những mục tiêu như vậy chỉ với các phương pháp học ngoại ngữ truyền thống. Nhiều người "thất bại" vì không thực hiện immersion trong quá trình học.
 
-Ví dụ: Xem phim US/UK không sử dụng phụ đề là một cách ta thực hiện immersion Tiếng Anh.
+**Immersion** để chỉ việc nghe hoặc đọc nội dung Tiếng Anh. Kiểu như xem Harry Potter không Vietsub chẳng hạn.
 
 ## 1.2 Vấn đề của phương pháp học truyền thống
 
@@ -25,23 +25,23 @@ Học ngoại ngữ theo phương pháp "truyền thống" thì thường sẽ k
 -   Tra cứu thêm tài liệu về cấu trúc ngữ pháp và từ vựng trong sách giáo khoa hoặc xem video YouTube
 -   Thực hành hội thoại sử dụng kiến thức đã học.
 -   Tích lũy thêm nhiều cấu trúc từ vựng và ngữ pháp và lấy số lượng làm thước đo cho sự tiến bộ của bản thân
-- Và cuối cùng là đến giai đoạn cuối, chuyển đến sống hoặc đi du lịch Nhật Bản với hy vọng có cơ hội rèn luyện kỹ năng của mình.
+- Và cuối cùng là đến giai đoạn cuối, chuyển đến sống hoặc đi du lịch các nước nói Tiếng Anh với hy vọng có cơ hội rèn luyện kỹ năng của mình.
 
 Bản thân việc học như này hoàn toàn ổn, nhưng chưa đủ để giúp bạn đạt được trình độ cao. Vấn đề là những người học thuộc nhóm trên không tương tác với ngôn ngữ thực tế.
 
-Lấy bơi lội làm ví dụ: Bạn không thể chỉ mãi ở hồ dành cho trẻ con, đeo phao và hy vọng rằng mình sẽ thành thạo kỹ thuật bơi trong cái hồ đó trước khi bước sang hồ lớn. Làm vậy sẽ không bao giờ khiến bạn trở thành một người biết bơi thực thụ. Cũng giống như bạn không thể trở thành vận động viên bơi lội chỉ bằng cách học lý thuyết và luyện động tác trên cạn, mà không bao giờ nhảy xuống nước thật.
+Lấy bơi lội làm ví dụ: Bạn không thể chỉ mãi ở bể bơi dành cho trẻ con, đeo phao và hy vọng rằng mình sẽ thành thạo kỹ thuật bơi ở đó trước khi bước ra bể lớn. Làm như vậy sẽ không bao giờ khiến bạn trở thành một người biết bơi thực thụ. Cũng giống như bạn không thể trở thành vận động viên bơi lội chỉ bằng cách học lý thuyết và luyện động tác trên cạn, mà không bao giờ nhảy xuống nước thật.
 
 Một ví dụ dễ liên hệ hơn: game đối kháng. Bạn sẽ không thể chơi giỏi chỉ bằng cách luyện với máy hoặc tập trong chế độ huấn luyện cả ngày. Muốn giỏi, bạn phải bước vào trận đấu thực sự – chơi với người thật, chấp nhận rằng mình có thể thua tơi tả. Đó mới là “chơi thật”.
 
 <div style="border: 4px solid #333; padding: 10px; margin: 10px 0; border-radius: 10px; font-size: 30px; font-weight: bold; text-align: center;">
-  Điều quan trọng là: phải học cách bước tiếp
+  Điều quan trọng là: phải học cách tiếp tục, kể cả khi bạn không hiểu nhiều.
 </div>
 
-Người mới học thường mắc một cái bẫy là cố gắng học tài liệu cho đến khi hiểu hết mới thôi và không thực hiện immersion vì chưa cảm thấy thoải mái hay "sẵn sàng". Tuy nhiên, cần ngừng sử dụng tài liệu cho người mới học càng sớm càng tốt vì trên thực tế, bạn sẽ không bao giờ cảm thấy sẵn sàng nếu không bắt đầu tiếp xúc với ngôn ngữ thực tế và làm quen với nó.
+Người mới học thường mắc một cái bẫy là cố gắng học lý thuyết (kiểu như ngữ pháp hay là nhồi từ vựng) cho đến khi hiểu hết mới thôi và không immerse vì chưa cảm thấy thoải mái hay *sẵn sàng*. Tuy nhiên, cần ngừng sử dụng tài liệu cho người mới học càng sớm càng tốt vì trên thực tế, bạn sẽ không bao giờ cảm thấy sẵn sàng nếu không bắt đầu tiếp xúc với ngôn ngữ thực tế và làm quen với nó.
 
 Chủ nghĩa cầu toàn có thể là con dao hai lưỡi trong việc học ngôn ngữ. Tốn quá nhiều thời gian và công sức mà không đạt được nhiều kết quả, cố ghi nhớ từng chi tiết nhỏ nhất của những thứ không thực sự quan trọng trong cả quá trình học dài đấy.
 
-Học một ngôn ngữ giống như leo núi vậy. Bạn có thể cố gắng leo mà không dùng đến bất kỳ công cụ hỗ trợ nào – và dù sẽ rất vất vả, nếu kiên trì, bạn vẫn có thể đến đích. Việc học theo cách truyền thống giống như đang bện một sợi dây thừng để việc leo núi dễ hơn. Nhưng bạn không thể chỉ ngồi đó bện dây mãi – đến một lúc nào đó, bạn phải bắt đầu leo. Dù bạn có làm ra bao nhiêu dây đi nữa, thì việc leo núi vẫn sẽ khó khăn và tốn thời gian. Không có đường tắt – bạn phải thực sự bắt tay vào *làm*.
+Học một ngôn ngữ giống như leo núi vậy. Bạn có thể cố gắng leo mà không dùng đến bất kỳ công cụ hỗ trợ nào – và dù sẽ rất vất vả, nếu kiên trì, bạn vẫn có thể đến đích. Việc học theo cách truyền thống giống như đang chuẩn bị dây thừng để có thể leo núi dễ hơn. Nhưng bạn không thể chỉ ngồi đó chuẩn bị dây mãi – đến một lúc nào đó, bạn sẽ phải bắt đầu leo. Dù bạn có làm ra bao nhiêu dây đi nữa, thì việc leo núi vẫn sẽ khó khăn và tốn thời gian. Không có đường tắt – bạn phải thực sự bắt tay vào *thực hiện*.
 
 ## 1.3 Quy mô của ngôn ngữ
 
@@ -129,15 +129,15 @@ Việc học IPA sẽ cho bạn biết cách phát âm nhất quán của từ (
 
 ## 2.2 Học từ vựng
 
-Bạn có thể học bộ thẻ từ vựng Anki dành cho người mới bắt đầu. Dưới đây là một bộ thẻ bao gồm khoảng *1500* từ, giúp bạn học những từ Tiếng Anh thông dụng nhất để khởi đầu quá trình học Tiếng Anh của mình.
+Trong quá trình học từ vựng, mình gợi ý mọi người nên bắt đầu bằng cách học khoảng 1500 từ vựng Tiếng Anh thường dùng sử dụng phần mềm có tên là Anki.
 
-### Cài đặt Anki nhanh
+Anki là một phần mềm flashcard (thẻ ghi nhớ) được thiết kế để giúp bạn ghi nhớ lượng lớn thông tin thông qua active recall và lặp lại ngắt quãng (spaced repetition), chẳng hạn như từ vựng.
 
-Anki là một phần mềm flashcard được thiết kế để giúp bạn ghi nhớ lượng lớn thông tin, chẳng hạn như từ vựng. Bạn hãy truy cập vào [Trang tải xuống của Anki](https://apps.ankiweb.net/), và tải phiên bản Anki cho hệ thống của bạn (Windows, MacOS, Linux) và chạy tệp cài đặt.
+Anki là một ứng dụng tương đối khó sử dụng nên trước khi bắt đầu, bạn nên xem một video hướng dẫn cơ bản cách sử dụng Anki:
 
-![](img/ankidownload.png)
+[TODO: Mình sẽ để video ở đây]
 
-Khi mở Anki lần đầu tiên bạn sẽ được yêu cầu cài đặt ngôn ngữ hiển thị, hãy đặt theo mặc định (English). 
+Để tải xuống ứng dụng, bạn truy cập [Trang tải xuống của Anki](https://apps.ankiweb.net/). Ứng dụng hoàn toàn miễn phí trên máy tính (Windows, MacOS hay Linux) và Android, trên iOS thì là 30 đô =)) (Mình thấy rất đáng tiền nên mọi người có thể cân nhắc mua nhé).
 
 Bộ thẻ dành cho người mới bắt đầu mà mình gợi ý là [3000 từ tiếng anh](https://ankiweb.net/shared/info/989021891) có thể tải xuống thông qua [đường dẫn này](https://ankiweb.net/shared/info/989021891) (Kéo xuống là thấy nút Download).
 
@@ -176,7 +176,6 @@ Việc học ngữ pháp tương đối quan trọng trong việc học Tiếng 
 Dưới đây là một số hướng dẫn được xếp hạng dựa trên mức độ gợi ý cho những người mới bắt đầu. Không cần phải học từng hướng dẫn một, chỉ cần chọn một hướng dẫn mà bạn thấy phù hợp với bản thân:
 
 - [**Study English Grammar - Văn Phạm**](https://www.youtube.com/playlist?list=PLLx8_1BoESGF1wy1P8vhAjw6gdupa2TyE) - Giải thích ngữ pháp rõ ràng, không quá khó hiểu và tập trung vào ngữ pháp Tiếng Anh thay vì cấu trúc ôn thi. Nếu bạn không thích đọc thì có thể xem danh sách bài giảng này.
-- [**Hướng dẫn tự học ngữ pháp Tiếng Anh**](https://thu-tram.github.io/toi-hoc-ngu-phap-tieng-anh/) - Hướng dẫn do mình tổng hợp và viết lại.
 
 Đây là thời điểm tốt nhất để bắt đầu Immersion khi bạn đã học được một số cấu trúc ngữ pháp mới. Xem cách áp dụng ngữ pháp đã học vào thực tế sẽ giúp hiểu rõ hơn về chúng.
 
@@ -204,7 +203,7 @@ Chọn những gì bạn thích. Media thực sự khá giải trí vì nhiều 
 
 Chọn bất cứ nội dung gì bạn muốn. Nó có thể là phim, drama, tiểu thuyết, game hoặc YouTube. Nếu bạn không nghĩ được gì để xem thì bạn có thể xem [English Media Recommendation](https://daihocmo.github.io/awesome-ngon-ngu/media-recs/tieng-anh/). Chỉ cần bạn thích bất cứ thứ gì bạn chọn để immerse là được.
 
-### Cách để thực hiện Listening Immersion 
+### Cách để thực hiện Listening Immersion
 
 Chúng ta không muốn suy nghĩ quá nhiều về mọi thứ khi đang nghe. Thả mình theo dòng chảy (flow) cho đến khi bạn nghe thấy thứ mà bạn muốn tra.
 
@@ -237,7 +236,7 @@ Bạn có thể bắt đầu giảm thời lượng nghe xuống theo tỷ lệ 
  
 Đây là một cách tiếp cận rất tệ. Cần thực hiện mỗi thứ một chút.
 
-### Cách làm đúng 
+### Cách làm đúng
 
 Khi bạn vẫn đang học từ vựng cơ bản, bạn nên thử bằng xem thứ gì đó bằng Tiếng Anh mà không có phụ đề để xây dựng tinh thần immersion. Nó có thể là bất cứ điều gì bạn thích và bạn không cần phải hiểu bất cứ điều gì.
 
