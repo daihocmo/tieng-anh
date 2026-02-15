@@ -19,12 +19,11 @@ Khi bạn mới cài Yomitan lần đầu, bạn sẽ cần cài từ điển đ
 
 Những tệp này sử dụng phần mở rộng `.zip` (đuôi tệp hay file extension) và **bạn không được giải nén nó ra.**
 
-Do Yomitan vẫn chưa có quá nhiều từ điển (Yomitan hoàn toàn mã nguồn mở và cần có người dùng khác làm từ điển cho các ngôn ngữ khác nhau) nên bạn có thể tìm thử từ điển cho ngôn ngữ bạn cần trong các trang sau:
+Mình gợi ý mọi người sử dụng các từ điển sau:
 
-- Từ điển Lạc Việt
-- [Oxford Advanced Learner's Dictionary](https://github.com/MarvNC/yomichan-dictionaries/files/14957647/oald-release-yomitan.zip)
-- CambridgeYomichan
-
+- [OVDP Anh - Việt](https://yomitan-vi.github.io/tu-dien-anh-viet-yomitan/)
+- [Oxford Advanced Learner's Dictionary](https://github.com/MarvNC/yomichan-dictionaries/files/14957647/oald-release-yomitan.zip) - Bạn tải tệp này về rồi giải nén ra, sẽ có những tệp `.zip` là: `dict-oald.zip` (Từ điển đơn ngữ Tiếng Anh không có ví dụ), `dict-oald-extra.zip` (Như cái kia nhưng mà có ví dụ), `dict-oald-ipa.zip` (Từ điển IPA) và `dict-oald-freq.zip` (Từ điển đo độ phổ biến của từ). Bạn có thể chọn tải `dict-oald-ipa.zip` và `dict-oald-freq.zip`, nếu muốn chiến thử từ điển đơn ngữ (Đọc [Hướng dẫn học đơn ngữ](monolingual.md) để tìm hiểu thêm) thì chọn `dict-oald.zip`
+- Kho từ điển đơn ngữ Anh - Anh cho Yomitan: [Google Drive](https://drive.google.com/drive/folders/1APj14ap2yMv0WZvSCEGJq9jfMUpZy6Ao?usp=sharing) (*Folder with some monolingual English dictionaries maintained by Umbrella including MacMillan, New Oxford American Dictionary, Cambridge, Longman, Wordset, and a frequency list from FLT*)
 
 ### Cài đặt từ điển và sử dụng cơ bản
   

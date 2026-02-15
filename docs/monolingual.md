@@ -3,7 +3,7 @@
 !!! info "Nhắc nhỏ"
     Đây là hướng dẫn dành cho người học trung cấp.
 
-Hướng dẫn này sẽ giải thích quá trình đơn ngữ hóa và tại sao bạn nên làm vậy, các cách khác nhau để truy cập và làm quen với việc sử dụng từ điển đơn ngữ. 
+Hướng dẫn này sẽ giải thích quá trình đơn ngữ hóa và tại sao bạn nên làm vậy, các cách khác nhau để truy cập và làm quen với việc sử dụng từ điển đơn ngữ.
 
 ### Quá trình đơn ngữ hóa là gì
 
@@ -11,43 +11,50 @@ Hướng dẫn này sẽ giải thích quá trình đơn ngữ hóa và tại sa
 
 ![](img/mono2.webp)
 
-
 ### Tại sao bạn nên sử dụng từ điển đơn ngữ
-Từ điển đơn ngữ giúp tránh gây ra những "liên tưởng sai lầm" (false associations) từ Tiếng Việt sang Tiếng Anh. Nếu bạn không sử dụng từ điển đơn ngữ thì dù ngôn ngữ gốc của bạn là gì đi nữa, việc bạn mắc phải những liên tưởng sai lầm là điều khó tránh khỏi. Không có ngôn ngữ nào có thể thể hiện Tiếng Anh tốt hơn Tiếng Anh.
+
+Từ điển đơn ngữ giúp tránh tạo ra những “liên tưởng sai lầm” (false associations) khi người học suy diễn nghĩa của từ tiếng Anh thông qua một từ tiếng Việt tương đương. Nếu chỉ dựa vào từ điển song ngữ, người học rất dễ hình thành một mối liên hệ cứng nhắc giữa hai từ ở hai ngôn ngữ, trong khi trên thực tế phạm vi nghĩa và cách dùng của chúng không hoàn toàn trùng khớp. Không có ngôn ngữ nào có thể diễn đạt tiếng Anh chính xác hơn chính tiếng Anh.
 
 ### “Những liên tưởng sai lầm” nghĩa là gì?
 
-Các định nghĩa trong các từ điển đơn ngữ thường rất mơ hồ và không thể hiện đúng cảm giác về nghĩa thực sự của từ này. Đây là một ví dụ: 
+Liên tưởng sai lầm xảy ra khi người học cho rằng một từ trong tiếng Anh _tương đương hoàn toàn_ với một từ tiếng Việt chỉ vì chúng được đặt cạnh nhau trong từ điển song ngữ. Ví dụ sau đây cho thấy vấn đề này khá rõ.
 
-> miserable
+> *awkward*
 
-Chúng ta hãy thử nhìn vào định nghĩa song ngữ của từ này.
+Hãy trước tiên xem định nghĩa trong từ điển song ngữ.
 
-> khổ sở
+> lúng túng, khó xử, ngượng ngập; bất tiện
 
-(Lấy trực tiếp từ Labandict)
+Ở đây, người học rất dễ mặc định rằng _awkward_ chỉ đơn giản là “lúng túng” hoặc “khó xử”.
 
-Giờ hãy xem định nghĩa đơn ngữ của từ này.
+Bây giờ, hãy xem định nghĩa trong từ điển đơn ngữ.
 
-*Lấy từ Oxford Learner's Dictionaries*
+> _difficult or uncomfortable to deal with or understand_
+>
+> (dịch nôm na là: khó xử lý, khó giải quyết, hoặc gây cảm giác không thoải mái)
 
-> very unhappy or uncomfortable (Cực kì bất hạnh hoặc cảm thấy bực bội/khó chịu)
+Nếu chỉ dựa vào từ “lúng túng” hay “khó xử”, người học có thể không nhận ra rằng _awkward_ còn được dùng rất phổ biến để mô tả:
 
-*Và điều này trở nên kém chính xác hơn khi bạn dịch nó về Tiếng Việt.*
+- một **tình huống** khó xử (_an awkward situation_),
+- một **câu hỏi** tế nhị (_an awkward question_),
+- hoặc một **vấn đề** khó giải quyết (_an awkward problem_).
 
-Bạn có hiểu được chính xác định nghĩa của từ đó nếu chỉ thông qua từ "khổ sở" không? Không. Có lẽ là không.
+Khi dịch ngược lại sang tiếng Việt, các nghĩa này không còn phù hợp với “lúng túng” theo nghĩa thông thường nữa. Chính tại đây, liên tưởng sai lầm xuất hiện: người học tưởng rằng mình đã “hiểu” từ _awkward_, nhưng thực chất chỉ nắm được một phần rất hẹp của nghĩa.
 
-Một lý do khác khiến bạn nên sử dụng các định nghĩa đơn ngữ là vì chúng giúp bạn nghĩ bằng Tiếng Anh. Như đã nói ở phần trước, không có ngôn ngữ nào có thể mô tả Tiếng Anh tốt như chính Tiếng Anh. Định nghĩa từ điển là một cách suy nghĩ về từ. Mình chắc rằng các tác giả của những cuốn từ điển đó đã suy nghĩ kỹ về từng định nghĩa trước khi viết ra nó, vì vậy bằng cách đọc định nghĩa và ghi nhớ nó, bạn sẽ có được cảm giác gì đó *ít nhất gần* giống với những gì người bản xứ khi nghĩ về từ đó. 
+Vì vậy, từ điển đơn ngữ không chỉ cung cấp định nghĩa bằng ngôn ngữ mục tiêu (ở đây là Tiếng Anh), mà còn giúp người học tiếp cận cách người bản ngữ khái niệm hóa và sử dụng từ đó.
 
-Nếu bạn học từ bằng từ điển song ngữ Anh-Việt thì bạn sẽ mang trong mình cách suy nghĩ như Tiếng Việt về mọi thứ, và thậm chí không tới được mức mà người bản xứ có thể nghĩ về từ đó. Điều này sẽ khiến bạn không hiểu được nghĩa thực sự của từ. 
+Một lý do khác khiến bạn nên sử dụng các định nghĩa đơn ngữ là vì chúng giúp bạn nghĩ bằng Tiếng Anh. Như đã nói ở phần trước, không có ngôn ngữ nào có thể mô tả Tiếng Anh tốt như chính Tiếng Anh. Định nghĩa từ điển là một cách suy nghĩ về từ. Mình chắc rằng các tác giả của những cuốn từ điển đó đã suy nghĩ kỹ về từng định nghĩa trước khi viết ra nó, vì vậy bằng cách đọc định nghĩa và ghi nhớ nó, bạn sẽ có được cảm giác gì đó _ít nhất gần_ giống với những gì người bản xứ khi nghĩ về từ đó.
+
+Nếu bạn học từ bằng từ điển song ngữ Anh-Việt thì bạn sẽ mang trong mình cách suy nghĩ như Tiếng Việt về mọi thứ, và thậm chí không tới được mức mà người bản xứ có thể nghĩ về từ đó. Điều này sẽ khiến bạn không hiểu được nghĩa thực sự của từ.
 
 Đừng hiểu sai ý mình, bạn vẫn có thể hiểu thực sự thông qua Immersion, chỉ là nó sẽ mất nhiều thời gian hơn so với việc bạn học những từ đó thông qua chính định nghĩa bằng Tiếng Anh.
 
 Từ điển đơn ngữ thực sự rất tuyệt, và bạn sẽ chỉ nhận ra điều này khi bạn bắt đầu sử dụng chúng như một lẽ đương nhiên.
 
 ### Tại sao mọi người cảm thấy khó khăn khi bắt đầu chuyển quan đơn ngữ
--   Chưa biết "đủ nhiều" từ vựng.
--   Chưa quen với Tiếng Anh viết.
+
+- Chưa biết "đủ nhiều" từ vựng.
+- Chưa quen với Tiếng Anh viết.
 
 ## Yomitan - Một cách tốt hơn để chuyển qua đơn ngữ.
 
@@ -63,6 +70,9 @@ Mình sẽ cài đặt sử dụng Yomitan vì nó là tiện nhất để có t
 
 Hãy truy cập trang [MarvNC/yomitan-dictionaries](https://github.com/MarvNC/yomitan-dictionaries?tab=readme-ov-file#english-english) để tải từ điển đơn ngữ Tiếng Anh cho Yomitan.
 
+- [Oxford Advanced Learner's Dictionary](https://github.com/MarvNC/yomichan-dictionaries/files/14957647/oald-release-yomitan.zip) - Bạn tải tệp này về rồi giải nén ra, sẽ có những tệp `.zip` là: `dict-oald.zip` (Từ điển đơn ngữ Tiếng Anh không có ví dụ), `dict-oald-extra.zip` (Như cái kia nhưng mà có ví dụ), `dict-oald-ipa.zip` (Từ điển IPA) và `dict-oald-freq.zip` (Từ điển đo độ phổ biến của từ). Bạn có thể chọn tải `dict-oald-ipa.zip` và `dict-oald-freq.zip`, nếu muốn chiến thử từ điển đơn ngữ (Đọc [Hướng dẫn học đơn ngữ](monolingual.md) để tìm hiểu thêm) thì chọn `dict-oald.zip`
+- Kho từ điển đơn ngữ Anh - Anh cho Yomitan: [Google Drive](https://drive.google.com/drive/folders/1APj14ap2yMv0WZvSCEGJq9jfMUpZy6Ao?usp=sharing) (_Folder with some monolingual English dictionaries maintained by Umbrella including MacMillan, New Oxford American Dictionary, Cambridge, Longman, Wordset, and a frequency list from FLT_)
+
 ### Từ điển gợi ý
 
 Danh sách được trích dẫn trực tiếp từ Antimoon. Bạn có thể đọc bảng so sánh giữa các từ điển trên Antimoon thông qua bài viết [Comparative review of dictionaries for English learners](https://www.antimoon.com/how/learners-dictionaries-review.htm)
@@ -76,20 +86,22 @@ Sau đó bạn hãy tải từ điển về và import bộ từ điển đó v�
 
 ### Tại sao cần sử dụng nhiều từ điển?
 
-Bạn cần phải có nhiều từ điển vì sẽ luôn có một số từ có trong một số từ điển này nhưng không có trong các từ điển khác. Chúng ta muốn sử dụng từ điển đơn ngữ nhiều nhất có thể ở đây. 
+Bạn cần phải có nhiều từ điển vì sẽ luôn có một số từ có trong một số từ điển này nhưng không có trong các từ điển khác. Chúng ta muốn sử dụng từ điển đơn ngữ nhiều nhất có thể ở đây.
 
 Một lý do khác là các từ điển khác nhau sẽ mô tả một từ theo một cách khác nhau và trong nhiều trường hợp, bạn có thể không hiểu định nghĩa của một từ điển nhưng lại hiểu ở một từ điển khác.
 
-### “Nhưng bạn sẽ phải cuộn rất nhiều để đọc các định nghĩa tiếp theo?” 
+### “Nhưng bạn sẽ phải cuộn rất nhiều để đọc các định nghĩa tiếp theo?”
+
 Sử dụng phím tắt **Alt + Mũi tên đi xuống**
 
 ## Lựa chọn thay thế
 
-### Từ điển trực tuyến 
+### Từ điển trực tuyến
 
-Google: Tìm “[từ cần tìm] meaning” e.g. "apocalypse meaning” 
+Google: Tìm “[từ cần tìm] meaning” e.g. "apocalypse meaning”
 
-### Các lựa chọn ngoại tuyến thay thế 
+### Các lựa chọn ngoại tuyến thay thế
+
 Bạn sẽ học Tiếng Anh trong một thời gian dài nên có thể Internet của bạn sẽ mất vào thời điểm bạn đang thực hiện Immersion trong ing-lịch.
 
 ### Sử dụng Yomitan ngoại tuyến
@@ -107,12 +119,14 @@ Bạn cũng có thể sử dụng các định dạng từ điển kĩ thuật s
 ### Điện thoại
 
 #### Android
+
 - [English Dictionary - Livio](https://play.google.com/store/apps/details?id=livio.pack.lang.en_US)
-- [OALD](https://play.google.com/store/apps/details?id=com.oup.elt.oald9) (Oxford Advanced Learner's Dict)  
+- [OALD](https://play.google.com/store/apps/details?id=com.oup.elt.oald9) (Oxford Advanced Learner's Dict)
 - [Merriam Webster](https://play.google.com/store/apps/details?id=com.merriamwebster).
-- [Aard2](https://github.com/itkach/aard2-android) - Hỗ trợ import một số các định dạng từ điển như của LDOCE. Cho những người muốn mày mò một chút 
+- [Aard2](https://github.com/itkach/aard2-android) - Hỗ trợ import một số các định dạng từ điển như của LDOCE. Cho những người muốn mày mò một chút
 
 #### iOS
+
 Mình không rõ, bạn có thể tự tìm các ứng dụng như ở mục Android trên App Store xem
 
 ## Tiếp cận từ điển đơn ngữ
@@ -125,7 +139,7 @@ Nó thực sự chỉ đơn giản như vậy. Đọc nhiều hơn = đọc từ
 
 ### Bạn đã làm gì khi gặp một từ mà bạn không biết khi đọc định nghĩa?
 
-Mình đã tra từ đó bằng Yomitan. Mình đã đọc định nghĩa đơn ngữ và trong trường hợp có quá nhiều từ mình không biết trong định nghĩa, mình sẽ xem định nghĩa Tiếng Việt (như một giải pháp cuối cùng) và tiếp tục. Bạn chỉ cần tiếp tục thực hiện điều này. LẶP ĐI LẶP LẠI.  
+Mình đã tra từ đó bằng Yomitan. Mình đã đọc định nghĩa đơn ngữ và trong trường hợp có quá nhiều từ mình không biết trong định nghĩa, mình sẽ xem định nghĩa Tiếng Việt (như một giải pháp cuối cùng) và tiếp tục. Bạn chỉ cần tiếp tục thực hiện điều này. LẶP ĐI LẶP LẠI.
 
 Đọc nhiều sách hơn. Bạn sẽ cảm thấy quen với từ điển đơn ngữ nếu bạn đọc nhiều. Thật. Đọc nhiều hơn. Đọc thật nhiều. Đó là tất cả. Yomitan chỉ làm cho quá trình này trở nên dễ dàng hơn, bạn đỡ tốn công tự tìm kiếm trên mạng hay chỗ nào đấy, thay vào đó công sức của mình sẽ dành cho việc đọc. Đó là lý do tại sao bạn nên sử dụng Yomitan.
 
@@ -135,7 +149,7 @@ Mình đã tra từ đó bằng Yomitan. Mình đã đọc định nghĩa đơn 
 
 ### Nếu không thích đọc tiểu thuyết thì sao?
 
-Tìm thứ gì đó bạn thích. Quan trọng vẫn là đọc những gì mà bạn muốn đọc. 
+Tìm thứ gì đó bạn thích. Quan trọng vẫn là đọc những gì mà bạn muốn đọc.
 
 #### 10 mẹo và thủ thuật quan trọng
 
@@ -153,4 +167,5 @@ Tìm thứ gì đó bạn thích. Quan trọng vẫn là đọc những gì mà 
 Have fun immersing!
 
 ### Nguồn
+
 Bài viết là bản dịch và hiệu đính lại từ bài [Monolingual Guide](http://learnjapanese.moe/monolingual/) của TheMoeWay.

@@ -1,6 +1,6 @@
 # Một hướng dẫn học Tiếng Anh
 
-*Nếu bạn không cần đọc phần mở đầu, hãy đến luôn phần **[Cách để học Tiếng Anh](#21-cach-hoc-tieng-anh)**.*
+_Nếu bạn không cần đọc phần mở đầu, hãy đến luôn phần **[Cách để học Tiếng Anh](#21-cach-hoc-tieng-anh)**._
 
 ## 1.1 Nhiều người học ngoại ngữ "thất bại" do đâu?
 
@@ -14,17 +14,17 @@ Khó có thể đạt được những mục tiêu như vậy chỉ với các p
 
 ## 1.2 Vấn đề của phương pháp học truyền thống
 
-![study_wakaranai_boy](img/study_wakaranai_boy.png){:  style="display: block; margin: 0 auto; max-width:40%; height:auto;" }  
+![study_wakaranai_boy](img/study_wakaranai_boy.png){: style="display: block; margin: 0 auto; max-width:40%; height:auto;" }
 
 Học ngoại ngữ theo phương pháp "truyền thống" thì thường sẽ kiểu như này:
 
--   Học các câu cơ bản như câu chào hỏi, tự giới thiệu.
--   Học cấu trúc ngữ pháp và từ vựng cơ bản.
--   Nghĩ ra câu bằng cách trò chuyện với giáo viên hoặc bạn học hoặc bằng cách viết.
--   Dịch các câu ví dụ từ Tiếng Việt sang ngôn ngữ đích (TL - Target Language) và ngược lại.
--   Tra cứu thêm tài liệu về cấu trúc ngữ pháp và từ vựng trong sách giáo khoa hoặc xem video YouTube
--   Thực hành hội thoại sử dụng kiến thức đã học.
--   Tích lũy thêm nhiều cấu trúc từ vựng và ngữ pháp và lấy số lượng làm thước đo cho sự tiến bộ của bản thân
+- Học các câu cơ bản như câu chào hỏi, tự giới thiệu.
+- Học cấu trúc ngữ pháp và từ vựng cơ bản.
+- Nghĩ ra câu bằng cách trò chuyện với giáo viên hoặc bạn học hoặc bằng cách viết.
+- Dịch các câu ví dụ từ Tiếng Việt sang ngôn ngữ đích (TL - Target Language) và ngược lại.
+- Tra cứu thêm tài liệu về cấu trúc ngữ pháp và từ vựng trong sách giáo khoa hoặc xem video YouTube
+- Thực hành hội thoại sử dụng kiến thức đã học.
+- Tích lũy thêm nhiều cấu trúc từ vựng và ngữ pháp và lấy số lượng làm thước đo cho sự tiến bộ của bản thân
 - Và cuối cùng là đến giai đoạn cuối, chuyển đến sống hoặc đi du lịch các nước nói Tiếng Anh với hy vọng có cơ hội rèn luyện kỹ năng của mình.
 
 Bản thân việc học như này hoàn toàn ổn, nhưng chưa đủ để giúp bạn đạt được trình độ cao. Vấn đề là những người học thuộc nhóm trên không tương tác với ngôn ngữ thực tế.
@@ -37,17 +37,17 @@ Một ví dụ dễ liên hệ hơn: game đối kháng. Bạn sẽ không thể
   Điều quan trọng là: phải học cách tiếp tục, kể cả khi bạn không hiểu nhiều.
 </div>
 
-Người mới học thường mắc một cái bẫy là cố gắng học lý thuyết (kiểu như ngữ pháp hay là nhồi từ vựng) cho đến khi hiểu hết mới thôi và không immerse vì chưa cảm thấy thoải mái hay *sẵn sàng*. Tuy nhiên, cần ngừng sử dụng tài liệu cho người mới học càng sớm càng tốt vì trên thực tế, bạn sẽ không bao giờ cảm thấy sẵn sàng nếu không bắt đầu tiếp xúc với ngôn ngữ thực tế và làm quen với nó.
+Người mới học thường mắc một cái bẫy là cố gắng học lý thuyết (kiểu như ngữ pháp hay là nhồi từ vựng) cho đến khi hiểu hết mới thôi và không immerse vì chưa cảm thấy thoải mái hay _sẵn sàng_. Tuy nhiên, cần ngừng sử dụng tài liệu cho người mới học càng sớm càng tốt vì trên thực tế, bạn sẽ không bao giờ cảm thấy sẵn sàng nếu không bắt đầu tiếp xúc với ngôn ngữ thực tế và làm quen với nó.
 
 Chủ nghĩa cầu toàn có thể là con dao hai lưỡi trong việc học ngôn ngữ. Tốn quá nhiều thời gian và công sức mà không đạt được nhiều kết quả, cố ghi nhớ từng chi tiết nhỏ nhất của những thứ không thực sự quan trọng trong cả quá trình học dài đấy.
 
-Học một ngôn ngữ giống như leo núi vậy. Bạn có thể cố gắng leo mà không dùng đến bất kỳ công cụ hỗ trợ nào – và dù sẽ rất vất vả, nếu kiên trì, bạn vẫn có thể đến đích. Việc học theo cách truyền thống giống như đang chuẩn bị dây thừng để có thể leo núi dễ hơn. Nhưng bạn không thể chỉ ngồi đó chuẩn bị dây mãi – đến một lúc nào đó, bạn sẽ phải bắt đầu leo. Dù bạn có làm ra bao nhiêu dây đi nữa, thì việc leo núi vẫn sẽ khó khăn và tốn thời gian. Không có đường tắt – bạn phải thực sự bắt tay vào *thực hiện*.
+Học một ngôn ngữ giống như leo núi vậy. Bạn có thể cố gắng leo mà không dùng đến bất kỳ công cụ hỗ trợ nào – và dù sẽ rất vất vả, nếu kiên trì, bạn vẫn có thể đến đích. Việc học theo cách truyền thống giống như đang chuẩn bị dây thừng để có thể leo núi dễ hơn. Nhưng bạn không thể chỉ ngồi đó chuẩn bị dây mãi – đến một lúc nào đó, bạn sẽ phải bắt đầu leo. Dù bạn có làm ra bao nhiêu dây đi nữa, thì việc leo núi vẫn sẽ khó khăn và tốn thời gian. Không có đường tắt – bạn phải thực sự bắt tay vào _thực hiện_.
 
 ## 1.3 Quy mô của ngôn ngữ
 
 Ngôn ngữ thực sự quá rộng lớn. Có quá nhiều thứ vượt xa ranh giới trong một lớp học hoặc phương pháp dạy theo kiểu "x có nghĩa là y" (A is B) hoặc "x thực hiện hành động y" (A does B). Để thành thạo một ngôn ngữ ở cấp độ cao cần một lượng lớn "đọc" và "nghe" nội dung ngôn ngữ đích.
 
-Và thường thì rất khó để hiểu tại sao họ lại dùng *câu đó* trong *tình huống kia*, hay *từ này* thay vì *từ kia*. Điều đó tạo nên một rào cản lớn cho người học – bởi vì bạn không thể chỉ học mỗi ngữ pháp và từ vựng mà mong nói được như người bản xứ.
+Và thường thì rất khó để hiểu tại sao họ lại dùng _câu đó_ trong _tình huống kia_, hay _từ này_ thay vì _từ kia_. Điều đó tạo nên một rào cản lớn cho người học – bởi vì bạn không thể chỉ học mỗi ngữ pháp và từ vựng mà mong nói được như người bản xứ.
 
 Nếu không có những trải nghiệm cần thiết, việc cố gắng tự tạo câu ở ngôn ngữ mục tiêu thường khiến cho cách diễn đạt trở lên thiếu tự nhiên hoặc khó hiểu. Thêm nữa, việc không hiểu hoặc chưa hiểu rõ cách người bản ngữ sử dụng ngôn ngữ của họ khiến việc hiểu họ trở nên khó khăn hơn rất nhiều do không quen với cách diễn đạt bên ngoài phạm vi của tài liệu học tập.
 
@@ -59,7 +59,7 @@ Tại sao lại không nói về "biết ngữ pháp" hay "nhớ từ vựng"? B
 
 ## 1.4 Chấp nhận cảm giác khó chịu và mù mờ
 
-![moyamoya](img/moyamoya_woman.png){:  style="display: block; margin: 0 auto; max-width:40%; height:auto;" }  
+![moyamoya](img/moyamoya_woman.png){: style="display: block; margin: 0 auto; max-width:40%; height:auto;" }
 
 Trong việc học ngôn ngữ hay trong bất cứ lĩnh vực nào đòi hỏi kỹ năng, bạn sẽ luôn gặp khó khăn trong một thời gian dài cho đến khi bạn tiến bộ hơn. Như đã nói ở trên, nhiều người học (mình cũng đã từng như vậy) cứ cố gắng học thật tốt một thứ gì đó trước khi sử dụng chúng trong thực tế.
 
@@ -76,19 +76,19 @@ Immersion là khi bạn tương tác với nội dung tự nhiên bằng ngôn n
 
 Việc đọc hướng dẫn này (hướng dẫn gốc được viết bằng Tiếng Anh) ngay bây giờ sẽ được tính là bạn đang "thực hành immersion Tiếng Anh", bởi vì hướng dẫn này không hề được đơn giản hóa hay giúp cho người học Tiếng Anh. Nó được viết cho những người nói Tiếng Anh ở mức độ bản ngữ/thành thạo. Vì vậy, khi bạn nghe hoặc đọc nội dung Tiếng Anh mà người Nhật cũng thường sử dụng, bạn đang thực hành immersion.
 
-Theo thuật ngữ thì được gọi là *input*, nhưng mình thích dùng *immersion* hơn.
+Theo thuật ngữ thì được gọi là _input_, nhưng mình thích dùng _immersion_ hơn.
 
 ## 1.6 Cách tiếp cận "từ trên xuống" (top-down) trong việc học ngôn ngữ
 
 Việc học một ngôn ngữ yêu cầu bạn phải hài lòng với việc không hiểu tất cả mọi thứ.
 
-Điều này hoàn toàn khác so với cách học ở trường lớp, nơi chủ nghĩa hoàn hảo được tuyên dương dựa trên thành tích học và được xếp loại thông qua các tiêu chí hoặc các kỳ thi. 
+Điều này hoàn toàn khác so với cách học ở trường lớp, nơi chủ nghĩa hoàn hảo được tuyên dương dựa trên thành tích học và được xếp loại thông qua các tiêu chí hoặc các kỳ thi.
 
 Những người học ở trên dễ cảm thấy nản vì không hiểu được tất cả hoặc phần nhiều khi tương tác với ngôn ngữ thực tế, cho dù đó là một bộ phim truyền hình, hay một quyển sách hoặc thậm chí chỉ là một cuộc hội thoại bình thường với người bản ngữ. Việc tiếp tục như vậy khi bạn hiểu rất ít nghe có vẻ không hợp lí, nhưng như đã nói ở các phần trước, học một ngôn ngữ cũng giống như nhảy vào hố sâu bất tận vậy.
 
 Điều khiến việc học ngôn ngữ trở nên quá đỗi khác biệt so với các môn học ở trường là nó dựa trên việc sử dụng ngôn ngữ một cách tự nhiên và thực tế, thứ mà tài liệu học tập không thể truyền tải được. Vì vậy, cách duy nhất để làm quen với mọi thứ là chấp nhận sự mù mờ (low comprehension - độ hiểu thấp), vì càng tương tác với ngôn ngữ nhiều thì sẽ càng tiến bộ hơn.
 
-Tất nhiên, chúng ta không *chỉ* thực hiện immersion mà không làm gì khác. Cũng cần học những thứ như ngữ pháp và từ vựng. Đồng thời, sử dụng từ điển để học từ trong quá trình immersion.
+Tất nhiên, chúng ta không _chỉ_ thực hiện immersion mà không làm gì khác. Cũng cần học những thứ như ngữ pháp và từ vựng. Đồng thời, sử dụng từ điển để học từ trong quá trình immersion.
 
 ## 2.1 Cách học Tiếng Anh
 
@@ -96,36 +96,46 @@ Tất nhiên, chúng ta không *chỉ* thực hiện immersion mà không làm g
 
 Quá trình học tập mở đầu bao gồm bao gồm:
 
--   Làm quen với Tiếng Anh.
--   Học từ vựng cơ bản sử dụng *Anki*.
--   Học ngữ pháp thông qua một danh sách phát trên *YouTube*.
--   Bắt đầu immerse với comprehensible input cường độ cao. Đây là nhiệm vụ mà bạn cần dành phần lớn thời gian.
+- Làm quen với Tiếng Anh.
+- Học từ vựng cơ bản sử dụng _Anki_.
+- Học ngữ pháp thông qua một danh sách phát trên _YouTube_.
+- Bắt đầu immerse với comprehensible input cường độ cao. Đây là nhiệm vụ mà bạn cần dành phần lớn thời gian.
 
 ### Bảng chữ cái
 
-Bảng chữ cái Tiếng Anh (Tiếng Anh: English alphabet) hiện đại là một bảng chữ cái Latinh gồm 26 chữ cái. 
+Bảng chữ cái Tiếng Anh (tiếng Anh: _English alphabet_) hiện đại là một bảng chữ cái Latinh gồm 26 chữ cái.
 
 ![](img/main_guide/alphabet.png)
 
+Dù Tiếng Anh và Tiếng Việt có cùng bảng chữ cái (các chữ cái Tiếng Anh _thường_ không có dấu) nhưng cần lưu ý rằng khác với Tiếng Việt, _cách viết và cách đọc trong Tiếng Anh không trùng khớp với nhau_.
+
 ### Học bảng phiên âm quốc tế (IPA)
 
-Tóm tắt gọn là: Nếu bạn học Tiếng Anh, bạn nên học IPA. Gần như toàn bộ từ điển Tiếng Anh, dù là trên giấy hay trực tuyến, đều sử dụng IPA để thể hiện cách phát âm.
+IPA (_International Phonetic Alphabet_) là một hệ thống ký hiệu dùng để ghi lại **cách phát âm thực tế** của từ. Gần như toàn bộ từ điển Tiếng Anh, dù là trên giấy hay trực tuyến, đều sử dụng IPA để thể hiện cách một từ được phát âm.
 
-Trước khi bạn học phát âm từ vựng, bạn cần phải học phát âm chính xác từng phần. Tất nhiên, bản thân việc "đánh vần" Tiếng Anh sẽ không rõ ràng hay nhất quán như với Tiếng Việt, nhưng ta sẽ không tự đoán cách phát âm mà sẽ sử dụng bảng phiên âm IPA.
+IPA chỉ là một công cụ giúp bạn biết chính xác người bản ngữ _phát âm từ đó như thế nào_, thay vì phải tự đoán dựa trên mặt chữ. Điều này đặc biệt quan trọng trong Tiếng Anh, vì chính tả của Tiếng Anh rất thiếu nhất quán và không thể dùng để suy ra cách đọc một cách đáng tin cậy.
 
-Một ví dụ đơn giản:
+Một ví dụ điển hình là nhóm từ có cùng vần _“ough”_:
 
-1. through - Pronunciation: /THRUU/, IPA: /θɹu/
-2. thought - Pronunciation: /THAHT/, IPA: /θɑt/
-3. cough - Pronunciation: /KAHF/, IPA: /kɑf/
-4. though - Pronunciation: /THOHW/, IPA: /ðoʊ/
-5. bough - Pronunciation: /BOW/, IPA: /bɑʊ/ 
-6. enough - Pronunciation: /ih NUHF/; IPA: /ɪˈnʌf/
-7. hiccough - Pronunciation: /HIH kuhp/ IPA: /ˈhɪkəp/
+1. _through_ – IPA: /θɹu/
+2. _thought_ – IPA: /θɑt/
+3. _cough_ – IPA: /kɑf/
+4. _though_ – IPA: /ðoʊ/
+5. _bough_ – IPA: /bɑʊ/
+6. _enough_ – IPA: /ɪˈnʌf/
+7. _hiccough_ – IPA: /ˈhɪkəp/
 
-(Như bạn có thể thấy, cùng vần "ough" nhưng cách phát âm giữa các từ lại hoàn toàn khác nhau)
+Mặc dù các từ này có cách viết gần như giống nhau, cách phát âm của chúng lại hoàn toàn khác. Nếu chỉ dựa vào chữ viết, người học gần như không có cơ sở nào để đoán đúng. IPA giúp loại bỏ việc đoán mò đó thông qua việc cung cấp một cách biểu diễn phát âm **nhất quán và rõ ràng**.
 
-Việc học IPA sẽ cho bạn biết cách phát âm nhất quán của từ (người bản xứ nói nhanh, nuốt âm, hay có accent vùng miền). Một khi bạn đã gắn kết mỗi ký hiệu IPA với âm thanh tương ứng, bạn sẽ tự tin phát âm đúng ngay từ lần đầu gặp từ mới, thay vì phải nghe đi nghe lại để bắt chước. Đây là một kỹ năng nền tảng sẽ giúp toàn bộ quá trình học Tiếng Anh của bạn trở nên nhanh và dễ dàng hơn.
+Tuy nhiên, cần nhấn mạnh rằng IPA *không giúp bạn phát âm hay hơn chỉ bằng việc nhìn ký hiệu*. Phát âm tốt đến từ việc bạn *nghe đủ nhiều Tiếng Anh thực tế*, trong ngữ cảnh có thể hiểu được (_Comprehensible Input_), và tiếp xúc với ngôn ngữ đó một cách thường xuyên (_Immersion_). Đó mới chính là cách con người tiếp nhận ngôn ngữ.
+
+Vai trò đúng của IPA là hỗ trợ quá trình này. Khi bạn nghe một từ mới, IPA giúp bạn kiểm tra lại mình đã nghe đúng chưa, nhận ra những âm mình dễ bỏ sót hoặc nhầm lẫn, và tránh hình thành thói quen phát âm sai ngay từ đầu. IPA không thay thế việc nghe người bản ngữ nói, mà giúp bạn *hiểu chính xác hơn những gì bạn đang nghe*.
+
+Vì vậy, bạn không cần học thuộc toàn bộ bảng IPA trước khi bắt đầu. Tất nhiên, bạn vẫn có thể học cách phát âm IPA với điều kiện bạn đã nghe Tiếng Anh đủ lâu (Bạn tự áng chừng thôi, mình nghĩ là cứ ít nhất sau 200 giờ nghe đi).
+
+Bạn có thể học qua IPA thông qua một hướng dẫn trên mạng bất kì (của [BBC](https://www.youtube.com/watch?v=QxQUapA-2w4) hoặc của [Dan Hauer](https://www.youtube.com/playlist?list=PL7YqrWXed1abz3FwdKMZEwclWMZ2cMHio)).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QxQUapA-2w4?si=CgI_KEl8wJlD_riC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## 2.2 Học từ vựng
 
@@ -145,11 +155,11 @@ Sau khi quá trình tải xuống hoàn tất, hãy thêm bộ thẻ vào Anki b
 
 ### Hướng dẫn sử dụng Anki nhanh
 
-Trước khi bắt đầu học, bạn nên thay đổi một số cài đặt. Nhấp vào biểu tượng răng cưa bên cạnh bộ thẻ và tiếp tục *Options*.
+Trước khi bắt đầu học, bạn nên thay đổi một số cài đặt. Nhấp vào biểu tượng răng cưa bên cạnh bộ thẻ và tiếp tục _Options_.
 
-Thay đổi *Maximum reviews/day* từ `200` ĐẾN `9999`. Đừng lo lắng về con số này, số lượng Reviews (Thẻ bạn cần ôn tập trong Anki) của bạn có thể sẽ không bao giờ đạt đến mức cao như vậy, nó chỉ giúp bạn vượt qua giới hạn review hàng ngày để có trải nghiệm tối ưu.
+Thay đổi _Maximum reviews/day_ từ `200` ĐẾN `9999`. Đừng lo lắng về con số này, số lượng Reviews (Thẻ bạn cần ôn tập trong Anki) của bạn có thể sẽ không bao giờ đạt đến mức cao như vậy, nó chỉ giúp bạn vượt qua giới hạn review hàng ngày để có trải nghiệm tối ưu.
 
-Đối với *New cards/day*, `20` có thể hơi quá khó với một số người. Nếu bạn cảm thấy áp lực khi học 20 từ mới mỗi ngày, hãy thử giảm con số xuống còn `10` hoặc thấp hơn.
+Đối với _New cards/day_, `20` có thể hơi quá khó với một số người. Nếu bạn cảm thấy áp lực khi học 20 từ mới mỗi ngày, hãy thử giảm con số xuống còn `10` hoặc thấp hơn.
 
 Khi bạn bắt đầu học bộ thẻ từ vựng, thẻ đầu tiên là thẻ giới thiệu bộ thẻ. Bạn có thể xóa thẻ này bằng cách chọn "More" và chọn "Delete Note"
 
@@ -157,11 +167,11 @@ Anki giúp bạn ghi nhớ mọi thứ bằng cách kiểm tra khả năng nhớ
 
 ![](img/main_guide/front.png)
 
-Khi thấy một thẻ Anki bạn chưa học (thẻ mới), nên chọn *Show Answer* để có thể thấy những gì ở mặt sau của thẻ.
+Khi thấy một thẻ Anki bạn chưa học (thẻ mới), nên chọn _Show Answer_ để có thể thấy những gì ở mặt sau của thẻ.
 
 ![](img/main_guide/back.png)
 
-Khi đã xem xong nội dung thẻ rồi, hãy nhấn *Again* (Bằng với việc "Ôn lại"). Với những thẻ tiếp theo, hãy làm tương tự vì đây cũng là thẻ mà bạn thấy lần đầu.
+Khi đã xem xong nội dung thẻ rồi, hãy nhấn _Again_ (Bằng với việc "Ôn lại"). Với những thẻ tiếp theo, hãy làm tương tự vì đây cũng là thẻ mà bạn thấy lần đầu.
 
 Lần tiếp theo bạn nhìn thấy thẻ đó là khi kiểm tra lại nội dung mặt sau của thẻ. Hãy cố gắng hết sức để nhớ lại nghĩa và cách đọc ở mặt sau thẻ và tự chấm điểm!
 
@@ -176,6 +186,7 @@ Việc học ngữ pháp tương đối quan trọng trong việc học Tiếng 
 Dưới đây là một số hướng dẫn được xếp hạng dựa trên mức độ gợi ý cho những người mới bắt đầu. Không cần phải học từng hướng dẫn một, chỉ cần chọn một hướng dẫn mà bạn thấy phù hợp với bản thân:
 
 - [**Study English Grammar - Văn Phạm**](https://www.youtube.com/playlist?list=PLLx8_1BoESGF1wy1P8vhAjw6gdupa2TyE) - Giải thích ngữ pháp rõ ràng, không quá khó hiểu và tập trung vào ngữ pháp Tiếng Anh thay vì cấu trúc ôn thi. Nếu bạn không thích đọc thì có thể xem danh sách bài giảng này.
+- [*ngày qua* - một hướng dẫn ngữ pháp tiếng anh rất chi là cơ bản](https://duyk471.github.io/ngayqua/)
 
 Đây là thời điểm tốt nhất để bắt đầu Immersion khi bạn đã học được một số cấu trúc ngữ pháp mới. Xem cách áp dụng ngữ pháp đã học vào thực tế sẽ giúp hiểu rõ hơn về chúng.
 
@@ -189,13 +200,13 @@ Việc không hiểu được nội dung mình muốn tiêu thụ khá khó ch�
 
 Vậy làm cách nào để không phải cảm thấy áp lực khi phải tiêu thụ các nội dung khó hiểu?
 
-Chọn những gì bạn thích. Media thực sự khá giải trí vì nhiều lý do khác nhau khác ngoài việc học ngôn ngữ. Bằng cách chọn Media có tính giải trí, thư giãn và có giá trị cao bất kể cấp độ ngôn ngữ nào, chúng ta có thể duy trì liên kết của bản thân với ngôn ngữ và có động lực để tiếp tục immerse. Dần dần, khi trải nghiệm ngôn ngữ phát triển, chúng ta sẽ thấy mình hiểu nhiều hơn và mục tiêu từng tưởng chừng như không thể đó là tìm comprehensible input giờ đây đã trở thành một điều hiển nhiên, với mục tiêu mới là tiếp tục tìm những nội dung khó hơn để thúc đẩy bản thân tiếp tục học. 
+Chọn những gì bạn thích. Media thực sự khá giải trí vì nhiều lý do khác nhau khác ngoài việc học ngôn ngữ. Bằng cách chọn Media có tính giải trí, thư giãn và có giá trị cao bất kể cấp độ ngôn ngữ nào, chúng ta có thể duy trì liên kết của bản thân với ngôn ngữ và có động lực để tiếp tục immerse. Dần dần, khi trải nghiệm ngôn ngữ phát triển, chúng ta sẽ thấy mình hiểu nhiều hơn và mục tiêu từng tưởng chừng như không thể đó là tìm comprehensible input giờ đây đã trở thành một điều hiển nhiên, với mục tiêu mới là tiếp tục tìm những nội dung khó hơn để thúc đẩy bản thân tiếp tục học.
 
 ## 2.5 Cách immerse
 
 ### Đọc & Từ điển
 
-Để giúp cho việc đọc Tiếng Anh trở lên dễ dàng hơn thì có thể Yomitan trên trình duyệt. Đọc [hướng dẫn tải xuống](yomitan.md) 
+Để giúp cho việc đọc Tiếng Anh trở lên dễ dàng hơn thì có thể Yomitan trên trình duyệt. Đọc [hướng dẫn tải xuống](yomitan.md)
 
 Để tra cứu từng từ riêng lẻ, bạn có thể sử dụng [Cambridge Dictionary Anh - Việt](https://dictionary.cambridge.org/vi/dictionary/english-vietnamese/), ứng dụng cho điện thoại thì có [Từ điển Anh Việt ProDict](https://play.google.com/store/apps/details?id=com.dict.user.prodict) cho Android và [Từ điển Anh Việt ProDict](https://apps.apple.com/vn/app/t%E1%BB%AB-%C4%91i%E1%BB%83n-anh-vi%E1%BB%87t-prodict/id961635636?l=vi) cho iOS.
 
@@ -233,7 +244,7 @@ Bạn có thể bắt đầu giảm thời lượng nghe xuống theo tỷ lệ 
 
 !!! failure "Cách học sai"
     Học Tiếng Anh cơ bản, sau đó học TẤT CẢ 1500 từ trong bộ thẻ từ vựng, sau đó học TẤT CẢ ngữ pháp trước khi bạn thử immerse lần đầu tiên..
- 
+
 Đây là một cách tiếp cận rất tệ. Cần thực hiện mỗi thứ một chút.
 
 ### Cách làm đúng
@@ -258,17 +269,18 @@ Trái lại với những gì mà nhiều phương pháp học tập dựa trên
 Nghe nhiều hơn để có một phát âm tự nhiên và giống người nói Tiếng Anh bản ngữ nhất. Những người học muốn tiến xa hơn có thể thử học IPA, lý tưởng nhất là càng sớm càng tốt.
 
 ## 3.3 Các cột mốc
+
 Đang nghĩ....
 
 ## Kết thúc hướng dẫn: giai đoạn sau và hơn thế nữa
 
 Quá trình học Tiếng Anh chỉ đơn giản là thực hiện Immersion thật nhiều và học từ vựng với ngữ pháp. Bạn thực sự có thể thông thạo Tiếng Anh bằng phương pháp này.
 
-Bạn cũng sẽ bắt đầu tự làm thẻ từ vựng của mình từ những từ mình tiếp xúc trong quá trình học Tiếng Anh, được gọi là *mining*. Bạn có thể đọc [Hướng dẫn mining của donkuri](https://donkuri.github.io/learn-japanese/mining/). Mining về cơ bản sẽ trở thành phần trọng tâm của *việc học* Tiếng Anh.
+Bạn cũng sẽ bắt đầu tự làm thẻ từ vựng của mình từ những từ mình tiếp xúc trong quá trình học Tiếng Anh, được gọi là _mining_. Bạn có thể đọc [Hướng dẫn mining của donkuri](https://donkuri.github.io/learn-japanese/mining/). Mining về cơ bản sẽ trở thành phần trọng tâm của _việc học_ Tiếng Anh.
 
 Cảm ơn bạn rất nhiều vì đã dành thời gian đọc hướng dẫn này. Nếu bạn có bất kỳ câu hỏi nào, bạn có thể hỏi trên kênh Discord của chúng mình.
 
-[Tham gia cộng đồng học trên Discord](join.md) 
+[Tham gia cộng đồng học trên Discord](join.md)
 
 ### Nguồn bài viết
 
