@@ -149,7 +149,7 @@ Anki là một ứng dụng tương đối khó sử dụng nên trước khi b�
 
 Để tải xuống ứng dụng, bạn truy cập [Trang tải xuống của Anki](https://apps.ankiweb.net/). Ứng dụng hoàn toàn miễn phí trên máy tính (Windows, MacOS hay Linux) và Android, trên iOS thì là 30 đô =)) (Mình thấy rất đáng tiền nên mọi người có thể cân nhắc mua nhé).
 
-Bộ thẻ dành cho người mới bắt đầu mà mình gợi ý là [3000 từ tiếng anh](https://ankiweb.net/shared/info/989021891) có thể tải xuống thông qua [đường dẫn này](https://ankiweb.net/shared/info/989021891) (Kéo xuống là thấy nút Download).
+Bộ thẻ dành cho người mới bắt đầu mà mình gợi ý là [Tulen1.5k - Từ vựng Tiếng Anh cơ bản](https://ankiweb.net/shared/info/695612109) có thể tải xuống thông qua [đường dẫn này](https://ankiweb.net/shared/info/695612109) (Kéo xuống là thấy nút Download).
 
 Sau khi quá trình tải xuống hoàn tất, hãy thêm bộ thẻ vào Anki bằng cách chọn "Import file" và điều hướng đến chỗ mà bạn đã tải tệp xuống (.apkg) rồi chọn "Import" ở trên cùng bên phải.
 

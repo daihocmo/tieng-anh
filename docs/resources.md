@@ -14,8 +14,9 @@ Những kênh này đều đã không còn hoạt động thường xuyên, ho�
 
 ### Từ vựng
 
+- [Tulen1.5k - Từ vựng Tiếng Anh cơ bản](https://ankiweb.net/shared/info/695612109) - Bộ thẻ Tiếng Anh cơ bản bao gồm 1500 từ vựng dành cho người hoàn toàn mới học.
 - [Bộ thẻ 3000 từ vựng](https://ankiweb.net/shared/info/989021891) - from voz with love
-- [Core1.7k](https://drive.proton.me/urls/YMRA0WG5G4#OwdCA78y6sTr) - Đây là bộ 1700 từ vựng cơ bản mà mình phát triển dựa trên [một bộ thẻ khác ở trên AnkiVN](https://ankiweb.net/shared/info/1125484373), sửa lại định dạng thẻ và tối giản hóa để giúp mọi người học từ vựng dễ dàng hơn. LƯU Ý: Không dành cho người mới học Tiếng Anh hay mất gốc hoàn toàn.
+- [Core1.7k](https://drive.proton.me/urls/YMRA0WG5G4#OwdCA78y6sTr) - Đây là bộ 1700 từ vựng cơ bản mà mình phát triển dựa trên [một bộ thẻ khác ở trên AnkiVN](https://ankiweb.net/shared/info/1125484373), sửa lại định dạng thẻ và tối giản hóa để giúp mọi người học từ vựng dễ dàng hơn.
 
 ### Phát âm
 
@@ -26,12 +27,11 @@ Những kênh này đều đã không còn hoạt động thường xuyên, ho�
 
 ### Ngữ pháp
 
-- Grammar In Use:
-  - [English Grammar In Use](https://archive.org/details/english-grammar-in-use-5th-edition-by-raymond-murphy)
-  - [Advanced Grammar In Use](https://archive.org/details/3AdvancedGrammarInUse3rdEdition)
-- [Tổng hợp ghi chú ngữ pháp Tiếng Anh](https://thu-tram.github.io/npta/) - Cho những người muốn học nhanh.
 - [**Study English Grammar - Văn Phạm**](https://www.youtube.com/playlist?list=PLLx8_1BoESGF1wy1P8vhAjw6gdupa2TyE) - Giải thích ngữ pháp rõ ràng, không quá khó hiểu và tập trung vào ngữ pháp Tiếng Anh thay vì cấu trúc ôn thi.
 - [*ngày qua* - một hướng dẫn ngữ pháp tiếng anh rất chi là cơ bản](https://duyk471.github.io/ngayqua/)
+- Grammar In Use:
+    - [English Grammar In Use](https://archive.org/details/english-grammar-in-use-5th-edition-by-raymond-murphy)
+    - [Advanced Grammar In Use](https://archive.org/details/3AdvancedGrammarInUse3rdEdition)
 - [Ngữ pháp tiếng Anh cơ bản - Anh Ngữ ZIM](https://www.youtube.com/playlist?list=PLopA3SCkaFezPpz7xzYqUMA2s4uZAblZY) - Một danh sách phát trên Youtube về ngữ pháp Tiếng Anh cơ bản, rõ ràng, dễ hiểu và chỉ bao gồm những phần rất cơ bản.
 - [English Grammar - Canguro English](https://www.youtube.com/playlist?list=PLmIoa_Hs27lP6z-VMyQFm79Tj5_N_FIyL) - Ngữ pháp Tiếng Anh bằng Tiếng Anh
 - [EnglishClub - Grammar](https://www.englishclub.com/grammar/index.htm): Học Tiếng Anh bằng Tiếng Anh, không chỉ ngữ pháp mà còn có nhiều thứ khác. Cá nhân mình thấy có một số hướng dẫn đọc hơi khó hiểu, các bác nếu thấy không hiểu thì đừng ngại tra lại bằng Tiếng Anh trước (Vì có một số phần kiến thức hơi khác so với bên hướng dẫn Tiếng Anh bằng Tiếng Việt) rồi tra bằng Tiếng Việt.
