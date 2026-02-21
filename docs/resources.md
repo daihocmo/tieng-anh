@@ -59,6 +59,39 @@ Những kênh này đều đã không còn hoạt động thường xuyên, ho�
 - [PodcastRepublic](https://www.podcastrepublic.net/) - Tìm mọi Podcast!
 - [PodcastIndex](https://podcastindex.org/) - Nghe mọi Podcast hoàn toàn miễn phí, không quảng cáo.
 
+### Các trang web linh tinh để lướt khi chán
+
+Đôi lúc mình chẳng nghĩ được mình muốn immerse nội dung gì thì sẽ vào ngẫu nhiên một trong những trang sau để immerse Tiếng Anh cũng như mining.
+
+- [Wikipedia](https://en.wikipedia.org/) - random article feature for endless browsing)
+- [Fandom.com](https://www.fandom.com/) - topic-specific wikis: games, movies, TV, anime, pop culture
+- [TV Tropes](https://tvtropes.org/) - tropes in media, stories, endless rabbit holes
+- [Know Your Meme](https://knowyourmeme.com/) - internet memes, viral phenomena, culture
+- [Uncyclopedia](https://en.uncyclopedia.co/) - humorous parody encyclopedia
+- [Wikivoyage](https://en.wikivoyage.org/wiki/Main_Page) - travel guides, places, experiences
+- [Urban Dictionary](https://www.urbandictionary.com/) - Từ điển này lạ lắm.
+- [The Brutalist Report](https://brutalist.report/) - Tin tức hàng ngày tổng hợp từ nhiều nguồn.
+- [Archive of Our Own](https://archiveofourown.org/) - Một trang lưu trữ mở các fanfiction, fanworks và đủ các thứ.
+
+### Subreddits
+
+Tóm tắt cho bạn nào chưa biết thì Reddit là một nền tảng diễn đàn và mạng xã hội, về cơ bản nó sẽ bao gồm nhiều "diễn đàn" (hay còn gọi là subreddit) về gần như bất kì chủ đề gì, ví dụ `r/cooking` (Một diễn đàn về nấu ăn trên Reddit), `r/drawing` (Một diễn đàn về vẽ trên Reddit) và tương tự.
+
+- [r/longform](https://www.reddit.com/r/longform) — Longform journalism & narrative pieces
+- [r/Longreads](https://www.reddit.com/r/Longreads) — Longform articles & texts
+- [r/DepthHub](https://www.reddit.com/r/DepthHub) — In-depth discussions & quality links
+- [r/TrueReddit](https://www.reddit.com/r/TrueReddit) — Insightful, non-clickbait content
+- [r/psychology](https://www.reddit.com/r/psychology) — Psychology news & discussions
+- [r/LifeProTips](https://www.reddit.com/r/LifeProTips) — Practical life advice
+- [r/FoodForThought](https://www.reddit.com/r/FoodForThought) — Thought-provoking essays & articles
+- [r/IWantToLearn](https://www.reddit.com/r/IWantToLearn) — Detailed skill/learning explanations
+- [r/AskHistorians](https://www.reddit.com/r/AskHistorians) — In-depth historical answers
+- [r/askscience](https://www.reddit.com/r/askscience) — Science questions with expert replies
+- [r/changemyview](https://www.reddit.com/r/changemyview) — Thoughtful debates & arguments
+- [r/philosophy](https://www.reddit.com/r/philosophy) — Philosophical discussions
+- [r/literature](https://www.reddit.com/r/literature) — Deep book/literary analysis
+- [r/TrueAskReddit](https://www.reddit.com/r/TrueAskReddit) — Serious, high-quality questions
+
 ### Từ điển
 
 Mình đã tổng hợp toàn bộ hướng dẫn cho Yomitan và GoldenDict (Hai lựa chọn đã từng được giới thiệu ở đây). Bạn hãy đọc ở mục [Hướng dẫn cài đặt](https://daihocmo.github.io/ngoai-ngu/yomitan/) để tìm hiểu thêm về cách cài đặt, lựa chọn từ điển.

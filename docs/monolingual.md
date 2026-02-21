@@ -60,7 +60,7 @@ Từ điển đơn ngữ thực sự rất tuyệt, và bạn sẽ chỉ nhận 
 
 **Bạn nên thực hiện chuyển qua đơn ngữ với Yomitan.**
 
-![Image](img/mono_guide/1.png)
+![](img/mono_guide/1.png)
 
 Yomitan là một tiện ích mở rộng trên trình duyệt cho phép bạn tra từ trên trang web bằng cách giữ **Shift** và di chuột vào từ đó. Nó được hỗ trợ bởi mọi trình duyệt thuộc dòng Chrome hoặc Firefox. Bạn có thể đọc [hướng dẫn cài đặt Yomitan](https://daihocmo.github.io/ngoai-ngu/yomitan/)
 
@@ -151,7 +151,7 @@ Mình đã tra từ đó bằng Yomitan. Mình đã đọc định nghĩa đơn 
 
 Tìm thứ gì đó bạn thích. Quan trọng vẫn là đọc những gì mà bạn muốn đọc.
 
-#### 10 mẹo và thủ thuật quan trọng
+### 10 mẹo và thủ thuật quan trọng
 
 1. Đọc ít nhất 1 cuốn sách/tiểu thuyết trước khi chuyển qua đơn ngữ.
 2. Hãy thử xem thứ tự sắp xếp từ điển nào là tốt nhất với bạn.
@@ -164,8 +164,54 @@ Tìm thứ gì đó bạn thích. Quan trọng vẫn là đọc những gì mà 
 9. Bỏ qua việc tra cứu những danh từ cụ thể như động vật trong từ điển đơn ngữ, thay vào đó hãy sử dụng Google Hình ảnh.
 10. Đừng cố quá. Nếu thấy định nghĩa đơn ngữ quá khó hiểu, hãy quay lại sử dụng từ điển song ngữ.
 
-Have fun immersing!
+## *Đặc biệt*: Cách để làm thẻ từ vựng đơn ngữ trên Anki và cách ôn tập
+
+(TODO: Sẽ sửa lại sau, nói chung mới viết qua ý tưởng)
+
+### Nguyên tắc cơ bản khi ôn tập thẻ đơn ngữ
+
+Bạn không cần phải nhớ chính xác từng chữ trong định nghĩa từ điển cũng như diễn đạt lại y hệt trong từ điển mà bạn cần nhận ra được cái **ý nghĩa cốt lõi (core meaning)** (nếu là từ có nhiều nghĩa thì chọn nghĩa phù hợp với câu ví dụ trong thẻ) cũng như biết dùng từ đó trong ngữ cảnh thực tế. Nếu bạn trả lời đúng *ý* nhưng khác câu chữ thì vẫn **HOÀN TOÀN CHẤP NHẬN ĐƯỢC**.
+
+### Tiêu chí bấm Good/Again
+
+Để có thể dễ giúp bạn hình dung thì mình xin phép lấy một ví dụ thẻ đơn ngữ
+
+Mặt trước (Bao gồm từ vựng và câu ví dụ):
+
+> flagship
+>
+> One of Nintendo's flagship characters, he is characterized as a youthful yet exceptionally capable and intrepid swordsman.
+
+![](img/mono_guide/vd1.png)
+
+Mặt sau (Bao gồm phần nội dung ở mặt trước cùng nghĩa của từ vựng và Audio từ):
+
+> the most important product, service, building, etc. that an organization owns or produces
+
+![](img/mono_guide/vd2.png)
+
+Chọn **GOOD** nếu bạn làm được ÍT NHẤT 2/3 điều sau:
+
+1. **Nói được nghĩa chính bằng tiếng Anh hoặc Việt**, không cần phải toàn bộ phần nghĩa được ghi trong thẻ. Ví dụ với *flagship* thì có thể trả lời kiểu như “Sản phẩm quan trọng nhất, đại diện cho một công ty” hoặc “The main or most important product of a company”.
+2. **Hiểu được câu ví dụ luôn**. Khi đọc câu Nintendo, bạn biết ngay là “flagship characters” = nhân vật tiêu biểu nhất, mang tính biểu tượng
+3. **Có thể nghĩ ra một số ví dụ trong ngữ cảnh khác**, dù rất đơn giản như: flagship smartphone hoặc flagship store.
+
+Chọn **AGAIN** nếu rơi vào một trong các trường hợp sau:
+
+1. Nghĩa bạn nói *quá chung hoặc lệch trọng tâm* kiểu như: “quan trọng” (thiếu: đại diện / tiêu biểu) hoặc “nổi tiếng” (sai sắc thái)
+2. Bạn chỉ nhớ lại nghĩa khi đã nhìn mặt sau của thẻ.
+3. Bạn nhớ nghĩa của từ vựng nhưng *không liên kết được với câu ví dụ*: đọc câu ví dụ (về Nitendo ở trên) mà vẫn thấy mơ hồ “flagship” trong câu ví dụ đó nói về cái gì.
+
+### Tại sao mình lại gợi ý dùng thẻ có câu ví dụ
+
+Vì đơn giản là trong các trường thực tế (đời thực), bạn sẽ hiếm khi bắt gặp từ vựng đứng đơn lẻ mà gần như sẽ luôn có ngữ cảnh (câu, đoạn, tình huống).
+
+Câu quan trọng mà bạn cần tự hỏi (active recall) là: “Mình có hiểu được từ này khi nó xuất hiện trong ngữ cảnh thật không?”. Vì vậy, việc không nhớ lại được nghĩa khi chỉ nhìn từ nhưng khi nhìn vào câu ví dụ (context) thì bạn nhớ ra nghĩa đúng của từ đó ngay lập tức. Đây là nhớ phụ thuộc ngữ cảnh (context-dependent recall), và nó hoàn toàn ổn nhé. 
+
+Nếu bạn vẫn chưa hiểu đoạn trên, mình xin phép lấy một hình ảnh khác để giúp bạn liên tưởng dễ hơn. Mình có một người anh đi rất thạo đường trong nội thành Hà Nội, nhưng mỗi lần nhờ anh chỉ đường đi chỗ nào là ảnh bảo là không chỉ được, nhưng chỉ cần đi ra đường là ổng biết mình cần đi những đường nào để đến được chỗ cần tới. Mình tin là việc học từ vựng cũng vậy, chỉ cần bạn hiểu được nghĩa của từ trong câu (ngữ cảnh) là được.
+
+Một điều quan trọng nữa cần nói là, Anki chỉ đề ôn tập và immersion mới là chính.
 
 ### Nguồn
 
-Bài viết là bản dịch và hiệu đính lại từ bài [Monolingual Guide](http://learnjapanese.moe/monolingual/) của TheMoeWay.
+Bài viết là bản dịch và hiệu đính lại từ bài [Monolingual Guide](http://learnjapanese.moe/monolingual/) của TheMoeWay. Mình đã sửa lại cũng như thêm các phần nội dung khác để phù hợp với Tiếng Anh hơn.

@@ -33,7 +33,7 @@ Một người đọc Tiếng Anh mỗi ngày 10 phút trong 3 tháng sẽ giỏ
 
 ## Tính hữu ích của việc học ngữ pháp
 
-Một quan niệm phổ biến trong cộng đồng học Tiếng Anh là: Học ngữ pháp phí thời gian. Luận điểm này có thể sẽ đúng, nếu như bạn học các hướng dẫn ngữ pháp Tiếng Anh do phần lớn người Việt viết. Nhưng trên thực tế, việc không *thật sự* học ngữ pháp lại khiến rất nhiều người mắc kẹt ở trình độ trung cấp mãi không tiến lên được.
+Một quan niệm phổ biến trong cộng đồng học Tiếng Anh là: Học ngữ pháp phí thời gian. Nhưng trên thực tế, việc không *thật sự* học ngữ pháp lại khiến rất nhiều người mắc kẹt ở trình độ trung cấp mãi không tiến lên được.
 
 Học ngữ pháp giúp bạn đọc hiểu nhanh và chính xác hơn. Khi bạn nắm được cấu trúc ngữ pháp, bạn không còn phải đoán mò mối quan hệ giữa các từ trong câu. Bạn sẽ nhận ra đâu là chủ ngữ, động từ, mệnh đề phụ hay liên từ — tất cả những thứ mà nếu chỉ đọc cho quen, bạn có thể không bao giờ tự khám phá ra được đầy đủ.
 
@@ -84,6 +84,32 @@ Hãy thử chuyển sang từ điển đơn ngữ – tức là từ điển Anh
 Ban đầu, việc đọc định nghĩa Tiếng Anh có thể hơi chậm, nhưng hãy kiên nhẫn. Chỉ sau vài tuần, bạn sẽ thấy tốc độ và sự nhạy bén với Tiếng Anh tăng lên – và bạn không còn phải phụ thuộc quá nhiều vào Tiếng Việt để hiểu Tiếng Anh nữa (Mới dùng từ điển đơn ngữ thì mình vẫn gợi ý dùng từ điển song ngữ để kiểm tra xem cách hiểu của mình có đúng không trước nha). 
 
 Việc đọc định nghĩa trong từ điển đơn ngữ về cơ bản cũng là một phần trong quá trình luyện đọc Tiếng Anh, mà như bạn đã biết thì càng đọc càng giỏi.
+
+## Vừa nghe sách nói vừa đọc cuốn sách đó
+
+(Phần này do mình viết chứ không nằm trong bài viết gốc của TheMoeWay)
+
+Mẹo này ăn cắp từ [LPT: If you have a hard time focusing when reading a book or listening to an audiobook, try reading the book and listening to the audiobook at the same time. I went from reading 5 books in a year to 5 books in the last 2 months](https://www.reddit.com/r/LifeProTips/comments/ldeeyz/lpt_if_you_have_a_hard_time_focusing_when_reading/)
+
+Cái này được gọi là "immersion reading"
+
+> Immersion reading is the practice of reading a book while simultaneously listening to its audiobook version. This method enhances focus and comprehension by engaging both visual and auditory senses, making it easier to process and retain information. paytonhayes.com Book Riot
+
+Đại khái là: Bạn sẽ vừa đọc cuốn sách vừa nghe sách nói của cuốn đó. Cá nhân mình khá thích mẹo này mấy lúc bị mất tập trung đọc cũng như muốn tránh việc bị phát âm sai một từ khi đọc (Vì khi đọc thì mình có thói quen đoán cách đọc của những từ mình không biết).
+
+Mẹo này không chỉ giới hạn trong việc đọc sách mà bạn có thể áp dụng để đọc trên trình duyệt (Ví dụ như trên [Wikipedia](https://en.wikipedia.org/) hay là [Fandom](https://www.fandom.com/) chẳng hạn). Mình gợi ý sử dụng một tiện ích trình duyệt (extension) hỗ trợ TTS (Text To Speech hay "Từ văn bản thành giọng nói"). Hiện tại trên Firefox thì mình đang dùng [Read Aloud: A Text to Speech Voice Reader](https://addons.mozilla.org/en-US/firefox/addon/read-aloud).
+
+Preview:
+
+![](img/read-aloud-1.png)
+
+(Cách dùng thì khá đơn giản nên bạn từ mò nha vì mình cũng không biết hướng dẫn sao)
+
+Mình gợi ý việc đọc trên trình duyệt như này vì một lý do nữa: [Yomitan](yomitan.md)
+
+Ví dụ:
+
+![](img/read-aloud-2.png)
 
 ## Đối mặt với những nỗi lo thường gặp
 
