@@ -96,6 +96,10 @@ Tóm tắt cho bạn nào chưa biết thì Reddit là một nền tảng diễn
 
 Mình đã tổng hợp toàn bộ hướng dẫn cho Yomitan và GoldenDict (Hai lựa chọn đã từng được giới thiệu ở đây). Bạn hãy đọc ở mục [Hướng dẫn cài đặt](https://daihocmo.github.io/ngoai-ngu/yomitan/) để tìm hiểu thêm về cách cài đặt, lựa chọn từ điển.
 
+#### Yomitan
+
+- [Kho từ điển Anh - Việt cho Yomitan](https://yomitan-vi.github.io/tu-dien-anh-viet-yomitan/)
+
 #### Trực tuyến
 
 Các từ điển đơn ngữ (Anh - Anh) sẽ được để đầu tiên và mình thực sự gợi ý dùng từ điển đơn ngữ.
@@ -106,10 +110,30 @@ Các từ điển đơn ngữ (Anh - Anh) sẽ được để đầu tiên và m
 
 Phia trên là các từ điển đơn ngữ, tức Anh - Anh, nếu bạn muốn thử từ điển song ngữ thì bạn có thể thử [LabanDict](https://dict.laban.vn/) hay [VDict](https://vdict.com/)
 
-#### Từ điển trên điện thoại
+#### GoldenDict
+
+Nếu bạn sử dụng KOReader thì cũng có thể tìm các từ điển định dạng StarDict và sử dụng (Trong kho này thường sẽ có, nhưng mà nếu không thì bạn có thể sử dụng [pyglossary](https://github.com/ilius/pyglossary) để tự chuyển đổi).
+
+- [SHAREDICTS](https://onedrive.live.com/?authkey=%21AIWJ6XswS%5F1l348&id=C198D829F58B89BB%21550320&cid=C198D829F58B89BB) - Bao gồm OXFORD ADVANCED LEARNER
+và LẠC VIỆT
+- [GuruDiciStardict dictionaries shared by "dangquybk"](https://www.mediafire.com/?wkai7p5hs9e2m=) - Dữ liệu được tổng hợp bởi **dangquybk** và bao gồm rất nhiều từ điển cho các ngôn ngữ. Bạn có thể đọc thêm bài [GuruDic + dữ liệu stardict phong phú](https://tinhte.vn/thread/gurudic-du-lieu-stardict-phong-phu-tu-dien-da-ngon-ngu-tot-nhat-tren-ios.338525/) trên **Tinh tế** để tải cả dữ liệu từ điển và âm thanh nha.
+- [Goldendict và các bộ Đại từ điển Eng-Eng full audio, picture](https://voz.vn/t/reup-goldendict-va-cac-bo-%C4%90ai-tu-%C4%91ien-eng-eng-full-audio-picture.710141/) - Một kho tổng hợp rất nhiều từ điển Tiếng Anh trên Voz Forum.
+- [Kho từ điển chuyên ngành Anh - Anh - Đường dẫn Google Drive](https://drive.google.com/drive/folders/0BzrQwK2v03aKWjlsQ3NsaWJKalU?resourcekey=0-DtgqOJiVFSDI231ugoQgiQ)
+
+#### Kindle
+
+- [redphx/tudien](https://github.com/redphx/tudien/releases/tag/v20250829) - Chọn tệp có đuôi `.mobi`.
+- [Danh sách từ điển cho máy đọc sách Kindle](https://archive.org/details/DictionaryForKindle/) - Kho lưu trữ từ điển trên Archive.org, bạn bấm vào chữ `MOBI` để tải nhé.
+- [Các Từ Điển Cho Máy Đọc Sách Và App - Catus Felis](https://catusf.github.io/posts/C%C3%A1c-t%E1%BB%AB-%C4%91i%E1%BB%83n-cho-m%C3%A1y-%C4%91%E1%BB%8Dc-s%C3%A1ch-v%C3%A0-app/) - Một kho từ điển đồ sộ và hỗ trợ nhiều ngôn ngữ, nhưng cá nhân mình chỉ gợi ý sử dụng từ điển Tiếng Anh thôi, còn các từ điển khác (có lẽ) đều được chuyển đổi bằng pyglossary hoặc các phần mềm tương tự nên không có khả năng xử lý inflection (Với các ngôn ngữ Châu Âu hay Tiếng Nhật) cũng như các từ điển Tiếng Trung không đi kèm với Pinyin của từ vựng.
+
+#### Android
 
 - [Prodict](https://play.google.com/store/apps/details?id=com.dict.user.prodict) - Từ điển Anh - Việt hoặc Anh - Anh khá tốt, cá nhân mình khuyến khích dùng ứng dụng này hơn TFlat. Sẽ tốt hơn nữa nếu chọn một từ điển thuần Anh - Anh.
 - [TFlat](https://play.google.com/store/apps/details?id=com.vn.dic.e.v.ui) - Về cơ bản ai dùng từ điển trên điện thoại cũng dùng từ điển này.
+
+#### iOS
+
+Nhờ mọi người gợi ý vì mình không dùng iPhone.
 
 ### Công cụ
 
