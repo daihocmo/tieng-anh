@@ -20,7 +20,7 @@ Thực tế nó còn nhiều yếu tố hơn để quyết định khả năng g
 
 ### Học từ vựng mấy bạn học ở đâu vậy ạ?
 
-Khi bạn đọc (báo, sách, bài đọc linh tinh .v.v.), nghe (Podcast, Audiobook), xem (Phim, Youtube, v.v.) mà bạn thấy từ gì bạn không biết thì đấy là từ bạn cần học. Nếu bạn mới bắt đầu mà thấy hơi ngợp thì học khoảng 1500 -> 3000 từ cơ bản trước. Bạn có thể sử dụng bộ thẻ Core1.7K của mình trong [Lộ trình 30 ngày](30ngay.md).
+Khi bạn đọc (báo, sách, bài đọc linh tinh .v.v.), nghe (Podcast, Audiobook), xem (Phim, Youtube, v.v.) mà bạn thấy từ gì bạn không biết thì đấy là từ bạn cần học. Nếu bạn mới bắt đầu mà thấy hơi ngợp thì học khoảng 1500 -> 3000 từ cơ bản trước. Bạn có thể sử dụng bộ thẻ Core1.5K của mình trong [Lộ trình 30 ngày](30ngay.md).
 
 ### Tốc độ tiến bộ bị chậm lại?
 

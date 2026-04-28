@@ -2,6 +2,10 @@
 
 _Nếu bạn không cần đọc phần mở đầu, hãy đến luôn phần **[Cách để học Tiếng Anh](#21-cach-hoc-tieng-anh)**._
 
+Hoặc xem video (*bằng Tiếng Anh*) này cũng được (Hướng dẫn học Tiếng Nhật nhưng phương pháp học thì áp dụng được với việc học Tiếng Anh):
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7fvCb5_Nzq4?si=jmMUwd-HlSjdSxKh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## 1.1 Nhiều người học ngoại ngữ "thất bại" do đâu?
 
 Có một số lượng không nhỏ những người bắt đầu học Tiếng Anh để có thể trải nghiệm nội dung bằng Tiếng Anh hoặc để có thể nói Tiếng Anh trôi chảy. Dù vậy, không ít người sau nhiều năm học vẫn không thể đạt được mục tiêu ấy. Có phải do việc học ngoại ngữ quá khó? Hay do chưa đủ chăm?
@@ -103,11 +107,9 @@ Quá trình học tập mở đầu bao gồm bao gồm:
 
 ### Bảng chữ cái
 
-Bảng chữ cái Tiếng Anh (tiếng Anh: _English alphabet_) hiện đại là một bảng chữ cái Latinh gồm 26 chữ cái.
+Bảng chữ cái Tiếng Anh (hay _English alphabet_) hiện đại là một bảng chữ cái Latinh gồm 26 chữ cái.
 
 ![](img/main_guide/alphabet.png)
-
-Dù Tiếng Anh và Tiếng Việt có cùng bảng chữ cái (các chữ cái Tiếng Anh _thường_ không có dấu) nhưng cần lưu ý rằng khác với Tiếng Việt, _cách viết và cách đọc trong Tiếng Anh không trùng khớp với nhau_.
 
 ### Học bảng phiên âm quốc tế (IPA)
 
@@ -145,7 +147,7 @@ Anki là một phần mềm flashcard (thẻ ghi nhớ) được thiết kế đ
 
 Anki là một ứng dụng tương đối khó sử dụng nên trước khi bắt đầu, bạn nên xem một video hướng dẫn cơ bản cách sử dụng Anki:
 
-[TODO: Mình sẽ để video ở đây]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SBu0BwjGuQ4?si=hYiWfhaCx87UyrTg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Để tải xuống ứng dụng, bạn truy cập [Trang tải xuống của Anki](https://apps.ankiweb.net/). Ứng dụng hoàn toàn miễn phí trên máy tính (Windows, MacOS hay Linux) và Android, trên iOS thì là 30 đô =)) (Mình thấy rất đáng tiền nên mọi người có thể cân nhắc mua nhé).
 
@@ -155,13 +157,17 @@ Sau khi quá trình tải xuống hoàn tất, hãy thêm bộ thẻ vào Anki b
 
 ### Hướng dẫn sử dụng Anki nhanh
 
+*Một số thiết lập để giúp quá trình học được tối ưu.*
+
 Trước khi bắt đầu học, bạn nên thay đổi một số cài đặt. Nhấp vào biểu tượng răng cưa bên cạnh bộ thẻ và tiếp tục _Options_.
 
 Thay đổi _Maximum reviews/day_ từ `200` ĐẾN `9999`. Đừng lo lắng về con số này, số lượng Reviews (Thẻ bạn cần ôn tập trong Anki) của bạn có thể sẽ không bao giờ đạt đến mức cao như vậy, nó chỉ giúp bạn vượt qua giới hạn review hàng ngày để có trải nghiệm tối ưu.
 
 Đối với _New cards/day_, `20` có thể hơi quá khó với một số người. Nếu bạn cảm thấy áp lực khi học 20 từ mới mỗi ngày, hãy thử giảm con số xuống còn `10` hoặc thấp hơn.
 
-Khi bạn bắt đầu học bộ thẻ từ vựng, thẻ đầu tiên là thẻ giới thiệu bộ thẻ. Bạn có thể xóa thẻ này bằng cách chọn "More" và chọn "Delete Note"
+---
+
+*Quá trình học*
 
 Anki giúp bạn ghi nhớ mọi thứ bằng cách kiểm tra khả năng nhớ nội dung ở mặt sau thẻ. Kiểm tra xem liệu bạn có biết nghĩa và cách đọc từ đó hay không. Mọi thứ khác trên thẻ chỉ để hỗ trợ bạn trong quá trình học.
 
@@ -186,7 +192,7 @@ Việc học ngữ pháp tương đối quan trọng trong việc học Tiếng 
 Dưới đây là một số hướng dẫn được xếp hạng dựa trên mức độ gợi ý cho những người mới bắt đầu. Không cần phải học từng hướng dẫn một, chỉ cần chọn một hướng dẫn mà bạn thấy phù hợp với bản thân:
 
 - [**Study English Grammar - Văn Phạm**](https://www.youtube.com/playlist?list=PLLx8_1BoESGF1wy1P8vhAjw6gdupa2TyE) - Giải thích ngữ pháp rõ ràng, không quá khó hiểu và tập trung vào ngữ pháp Tiếng Anh thay vì cấu trúc ôn thi. Nếu bạn không thích đọc thì có thể xem danh sách bài giảng này.
-- [*ngày qua* - một hướng dẫn ngữ pháp tiếng anh rất chi là cơ bản](https://duyk471.github.io/ngayqua/)
+- [Ngữ pháp tiếng Anh cơ bản - Anh Ngữ ZIM](https://www.youtube.com/playlist?list=PLopA3SCkaFezPpz7xzYqUMA2s4uZAblZY) - Một danh sách phát trên Youtube về ngữ pháp Tiếng Anh cơ bản, rõ ràng, dễ hiểu và chỉ bao gồm những phần rất cơ bản (Siêu ngắn luôn nên là *dành cho người lười*).
 
 Đây là thời điểm tốt nhất để bắt đầu Immersion khi bạn đã học được một số cấu trúc ngữ pháp mới. Xem cách áp dụng ngữ pháp đã học vào thực tế sẽ giúp hiểu rõ hơn về chúng.
 
@@ -212,7 +218,7 @@ Chọn những gì bạn thích. Media thực sự khá giải trí vì nhiều 
 
 ### Lựa chọn nội dung Immersion
 
-Chọn bất cứ nội dung gì bạn muốn. Nó có thể là phim, drama, tiểu thuyết, game hoặc YouTube. Nếu bạn không nghĩ được gì để xem thì bạn có thể xem [English Media Recommendation](https://daihocmo.github.io/awesome-ngon-ngu/media-recs/tieng-anh/). Chỉ cần bạn thích bất cứ thứ gì bạn chọn để immerse là được.
+Chọn bất cứ nội dung gì bạn muốn. Nó có thể là phim, drama, tiểu thuyết, game hoặc YouTube. Nếu bạn không nghĩ được gì để xem thì bạn có thể xem [English Media Recommendation](https://daihocmo.github.io/kho-media/tieng-anh/). Chỉ cần bạn thích bất cứ thứ gì bạn chọn để immerse là được.
 
 ### Cách để thực hiện Listening Immersion
 
