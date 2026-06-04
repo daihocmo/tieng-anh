@@ -1,12 +1,11 @@
-# Input
-Để tìm hiểu về phương pháp, bạn hãy xem video từ chính tác giả của giả thuyết này - Stephen Krashen: [Input Hypothesis](https://youtu.be/4Ir4206DfvQ). Đây là một video khác đã có phụ đề Tiếng Việt. 
+# Kho Comprehensib Input
+
+Bạn đọc thêm ở [Hướng dẫn tự học Tiếng Anh](guide.md) để hiểu thêm về Comprehensible Input. Ở đây sẽ chỉ liệt kê tài nguyên thôi.
 
 ## Nghe
+
 Chúng ta sẽ bắt đầu nghe trước vì nó dễ hơn và bớt áp lực hơn so với đọc. Đồng thời, việc nghe nhiều sẽ giúp chúng ta bắt được cách phát âm đúng của người ta.
 
-- [Absolute Beginner](https://youtube.com/playlist?list=PL5bLw9Uguvv11fx6bS68yK5OeXAqLU3mW): Đây là danh sách phát của EnglishClass101 cho Absolute Beginner (Người hoàn toàn mới). Bạn không cần lo lắng nếu chưa hiểu gì cả và có thể bật phụ đề lên nếu cần. Tuy nhiên nó vẫn chưa thực sự dành cho người mới nên có thể bạn phải cần ở mức A2 để có thể nghe được
-- [Beginner - EnglishClass101](https://youtube.com/playlist?list=PL5bLw9Uguvv3Mjnzd0YGmu-lGRWRWv-cU): Sau khi bạn xong Playlist ở trên, yêu cầu hiểu khoảng trên 80% thì bạn có thể cân nhắc lên danh sách phát này. Các danh sách phát này đều không dài, rất dễ thở khi nghe và có thể nghe lại nếu không rõ hoặc chưa hiểu hết nữa!
-- [Intermediate Listening](https://www.youtube.com/playlist?list=PL5bLw9Uguvv1VRVl3gHBt-FcM__k3UY9L): Lại thêm một danh sách phát ngắn nữa của EnglishClass101, một bài khởi động trước khi bước vào giai đoạn học tiếp theo.
 - [EasyEnglish](https://www.youtube.com/channel/UCTRHegh7UqWuKRymXoqzbzA): "Tiếng Anh dễ" nhưng không dễ, vì tốc độ hội thoại và nói trong đây không quá chậm cũng không quá nhanh. Nội dung đa dạng với không khó tiếp thu. Làm video dưới dạng hội thoại và hoạt hình.
 - [Culips Podcast](http://esl.culips.com/) - Luyện nghe các cuộc hội thoại Tiếng Anh hàng ngày - ESL.
 - [Luke’s English Podcast](http://teacherluke.co.uk/) - Làm Podcast về Tiếng Anh.

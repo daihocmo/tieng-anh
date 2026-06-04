@@ -68,7 +68,7 @@ Nội dung của trang này sẽ được chia ra làm hai phần: "Học Tiến
 
 Đôi lúc mình chẳng nghĩ được mình muốn immerse nội dung gì thì sẽ vào ngẫu nhiên một trong những trang sau để immerse Tiếng Anh cũng như mining.
 
-- [Wikipedia](https://en.wikipedia.org/) - random article feature for endless browsing)
+- [Wikipedia](https://en.wikipedia.org/) - random article feature for endless browsing.
 - [Fandom.com](https://www.fandom.com/) - topic-specific wikis: games, movies, TV, anime, pop culture
 - [TV Tropes](https://tvtropes.org/) - tropes in media, stories, endless rabbit holes
 - [Know Your Meme](https://knowyourmeme.com/) - internet memes, viral phenomena, culture
