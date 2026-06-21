@@ -24,7 +24,7 @@ nav:
     - 'Hướng dẫn cài đặt Yomitan': 'yomitan.md'
   - 'Tài nguyên học': 
     - 'Tổng hợp': 'resources.md'
-    - 'Comprehensible Input': 'input.md'
+    - 'Nội dung dễ hiểu': 'input.md'
 
 theme:
   palette:
